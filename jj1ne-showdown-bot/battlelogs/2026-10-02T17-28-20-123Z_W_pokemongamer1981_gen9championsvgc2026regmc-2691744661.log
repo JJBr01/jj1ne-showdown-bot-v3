@@ -1,0 +1,166 @@
+|init|battle
+|title|JJ1NE vs. pokemongamer1981
+|j|☆JJ1NE
+
+|j|☆pokemongamer1981
+|t:|1790961973
+|gametype|doubles
+|player|p1|JJ1NE|102|1119
+|player|p2|pokemongamer1981|1|1082
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Alakazam, L50, M|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Absol, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|poke|p2|Ditto, L50|
+|poke|p2|Palafin, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5164|claude
+|
+|t:|1790962002
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Absol|Absol, L50, M|100/100
+|switch|p2b: Whimsicott|Whimsicott, L50, M|100/100
+|turn|1
+|choice|move 3 2, move 1 mega|claude|Heat Wave KOs Absol and breaks Whimsicott's Sash; Iron Head finishes Whimsicott, denying Tailwind/Encore before it ever moves twice.
+|
+|t:|1790962020
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2a: Absol|Substitute|p2a: Absol
+|-start|p2a: Absol|Substitute
+|-damage|p2a: Absol|75/100
+|move|p1b: Drogon|Heat Wave|p2b: Whimsicott|[spread] p2b
+|-miss|p1b: Drogon|p2a: Absol
+|-supereffective|p2b: Whimsicott|1
+|-enditem|p2b: Whimsicott|Focus Sash
+|-damage|p2b: Whimsicott|1/100
+|move|p2b: Whimsicott|Beat Up|p2a: Absol
+|-resisted|p2a: Absol|1
+|-activate|p2a: Absol|move: Substitute|[damage]
+|-resisted|p2a: Absol|1
+|-activate|p2a: Absol|move: Substitute|[damage]
+|-resisted|p2a: Absol|1
+|-activate|p2a: Absol|move: Substitute|[damage]
+|-resisted|p2a: Absol|1
+|-activate|p2a: Absol|move: Substitute|[damage]
+|-hitcount|p2a: Absol|4
+|move|p1a: Kingambit|Iron Head|p2b: Whimsicott
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|-damage|p1a: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆pokemongamer1981|oh shit forgot to put infilitrator on it
+|c|☆pokemongamer1981|fuck sake
+|
+|t:|1790962043
+|switch|p2b: Indeedee|Indeedee-F, L50, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|-enditem|p2b: Indeedee|Psychic Seed
+|-boost|p2b: Indeedee|spd|1|[from] item: Psychic Seed
+|turn|2
+|choice|move 1 2, move 1|claude|Absol has a Substitute; Heat Wave breaks it and chips Indeedee, while Kowtow Cleave OHKOs Indeedee, removing Psychic Terrain and Trick Room threat.
+|
+|t:|1790962055
+|detailschange|p2a: Absol|Absol-Mega-Z, L50, M
+|-mega|p2a: Absol|Absol|Absolite Z
+|move|p2a: Absol|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit|2
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Absol|def|1
+|-unboost|p2a: Absol|spd|1
+|faint|p1a: Kingambit
+|move|p2b: Indeedee|Mystical Fire|p1b: Drogon
+|-resisted|p1b: Drogon|1
+|-damage|p1b: Drogon|131/153
+|-unboost|p1b: Drogon|spa|1
+|move|p1b: Drogon|Heat Wave|p2b: Indeedee|[spread] p2a
+|-miss|p1b: Drogon|p2b: Indeedee
+|-end|p2a: Absol|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790962055
+|switch|p1a: Garchomp|Garchomp, L50, F|185/185
+|turn|3
+|choice|move 1, move 1|claude|Double spread: Absol at 75% dies to either, Indeedee takes ~65% combined, matching the winning expert line.
+|
+|t:|1790962084
+|move|p2b: Indeedee|Helping Hand|p2a: Absol
+|-singleturn|p2a: Absol|Helping Hand|[of] p2b: Indeedee
+|move|p2a: Absol|Night Slash|p1a: Garchomp
+|-damage|p1a: Garchomp|16/185
+|-damage|p2a: Absol|63/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Sitrus Berry|[eat]
+|-heal|p1a: Garchomp|62/185|[from] item: Sitrus Berry
+|move|p1a: Garchomp|Earthquake|p2b: Indeedee|[spread] p2a,p2b
+|-immune|p1b: Drogon
+|-damage|p2a: Absol|0 fnt
+|-damage|p2b: Indeedee|40/100
+|faint|p2a: Absol
+|move|p1b: Drogon|Heat Wave|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790962091
+|switch|p2b: Alakazam|Alakazam, L50, M|100/100
+|turn|4
+|choice|move 2 2, move 1|claude|Alakazam is only foe left; Dragon Claw likely KOs, Heat Wave guarantees it. Garchomp at 34% dies to Expanding Force anyway — focus fire now.
+|
+|t:|1790962095
+|move|p2b: Alakazam|Expanding Force|p1a: Garchomp|[spread] p1a,p1b
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p1b: Drogon|25/153
+|faint|p1a: Garchomp
+|move|p1b: Drogon|Heat Wave|p2b: Alakazam
+|-damage|p2b: Alakazam|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790962095
+|switch|p1a: Whimsicott|Whimsicott, L50, M|137/137
+|turn|5
+|choice|move 2 2, move 4|claude|Whimsicott outspeeds and Moonblast KOs Alakazam at 13%; Drogon Protects from Expanding Force in case it survives.
+|
+|t:|1790962100
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2b: Alakazam|Expanding Force|p1b: Drogon|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/137
+|move|p1a: Whimsicott|Moonblast|p2b: Alakazam
+|-damage|p2b: Alakazam|0 fnt
+|faint|p2b: Alakazam
+|
+|win|JJ1NE

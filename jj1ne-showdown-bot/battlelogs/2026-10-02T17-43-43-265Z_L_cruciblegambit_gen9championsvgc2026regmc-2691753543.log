@@ -1,0 +1,198 @@
+|init|battle
+|title|JJ1NE vs. Crucible&Gambit
+|j|☆JJ1NE
+
+|j|☆Crucible&Gambit
+|t:|1790962917
+|gametype|doubles
+|player|p1|JJ1NE|102|1107
+|player|p2|Crucible&Gambit|concordia|1162
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Baxcalibur, L50, M|
+|poke|p2|Slowking-Galar, L50, F|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Mawile, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Crucible&Gambit)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6213|claude
+|
+|t:|1790962929
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Incineroar|Incineroar, L50, M|100/100
+|switch|p2b: Slowking|Slowking-Galar, L50, F|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Whimsicott|atk|1
+|-fail|p1b: Dragonite|unboost|atk|[from] ability: Inner Focus|[of] p1b: Dragonite
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 1 2 mega|claude|Whimsicott outspeeds everything; Tailwind now while Mega Dragonite blasts Slowking. Fake Out can only flinch Whimsicott after Tailwind is up anyway—speed control is priority.
+|
+|t:|1790962936
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2a: Incineroar|Fake Out|p1b: Dragonite
+|-damage|p1b: Dragonite|160/168
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|cant|p1b: Dragonite|flinch
+|move|p2b: Slowking|Sludge Bomb|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|2
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/137
+|
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|switch 4, move 1 2|claude|Whimsicott at 1% is dead to anything; Tailwind is already set, so pivot to Milotic and Draco Meteor the Slowking, their biggest threat.
+|
+|t:|1790962950
+|switch|p1a: Milotic|Milotic, L50, M|202/202
+|move|p1b: Dragonite|Draco Meteor|p2b: Slowking
+|-damage|p2b: Slowking|34/100
+|-unboost|p1b: Dragonite|spa|2
+|move|p2a: Incineroar|Parting Shot|p1b: Dragonite
+|-unboost|p1b: Dragonite|atk|1
+|-unboost|p1b: Dragonite|spa|1
+|
+|t:|1790962961
+|switch|p2a: Mawile|Mawile, L50, F|100/100|[from] Parting Shot
+|-ability|p2a: Mawile|Intimidate|boost
+|-unboost|p1a: Milotic|atk|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|-unboost|p1b: Dragonite|atk|1
+|move|p2b: Slowking|Trick Room|p2b: Slowking
+|-fieldstart|move: Trick Room|[of] p2b: Slowking
+|
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 4|claude|Scald guarantees KO on Slowking (TR setter) while Dragonite Protects from Mega Mawile's Play Rough; Dragonite at -3 SpA is useless attacking.
+|
+|t:|1790962970
+|detailschange|p2a: Mawile|Mawile-Mega, L50, F
+|-mega|p2a: Mawile|Mawile|Mawilite
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2b: Slowking|Sludge Bomb|p1a: Milotic
+|-damage|p1a: Milotic|157/202
+|move|p2a: Mawile|Play Rough|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790962970
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 2|claude|Double Heat Wave: guaranteed KOs Mawile (103-124%) and very likely KOs 34% Slowking too, removing both threats this turn.
+|
+|t:|1790962986
+|-prepare|p2b: Slowking|Chilly Reception|[premajor]
+|move|p2b: Slowking|Chilly Reception|p2b: Slowking
+|-weather|Snowscape
+|
+|t:|1790962990
+|-heal|p2b: Slowking|67/100|[from] ability: Regenerator|[silent]
+|switch|p2b: Baxcalibur|Baxcalibur, L50, M|100/100|[from] Chilly Reception
+|move|p2a: Mawile|Play Rough|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|move|p1a: Drogon|Heat Wave|p2a: Mawile|[spread] p2a,p2b
+|-supereffective|p2a: Mawile|1
+|-damage|p2a: Mawile|19/100
+|-damage|p2b: Baxcalibur|67/100
+|-ability|p2b: Baxcalibur|Thermal Exchange|boost
+|-boost|p2b: Baxcalibur|atk|1
+|
+|-weather|Snowscape|[upkeep]
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|choice|pass, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790962990
+|switch|p1b: Whimsicott|Whimsicott, L50, F|1/137
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 2 2|claude|Heat Wave KOs Mawile (78-93% vs 19%) while Whimsicott's Moonblast likely KOs Baxcalibur — best double-KO chance before we're swept.
+|
+|t:|1790963006
+|move|p2a: Mawile|Sucker Punch|p1a: Drogon
+|-damage|p1a: Drogon|66/153
+|move|p2b: Baxcalibur|Icicle Crash|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Drogon|Heat Wave|p2b: Baxcalibur|[spread] p2a,p2b
+|-supereffective|p2a: Mawile|1
+|-crit|p2a: Mawile
+|-damage|p2a: Mawile|0 fnt
+|-damage|p2b: Baxcalibur|36/100
+|-ability|p2b: Baxcalibur|Thermal Exchange|boost
+|-boost|p2b: Baxcalibur|atk|1
+|-enditem|p2b: Baxcalibur|Sitrus Berry|[eat]
+|-heal|p2b: Baxcalibur|61/100|[from] item: Sitrus Berry
+|faint|p2a: Mawile
+|
+|-weather|Snowscape|[upkeep]
+|upkeep
+|
+|t:|1790963014
+|switch|p2a: Incineroar|Incineroar, L50, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Drogon|atk|1
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, pass|claude|Only Drogon left; Baxcalibur outspeeds in Trick Room and OHKOs. Protect burns the last Trick Room turn so we move first next turn.
+|
+|t:|1790963018
+|move|p1a: Drogon|Protect|p1a: Drogon
+|-singleturn|p1a: Drogon|Protect
+|move|p2a: Incineroar|Fake Out|p1a: Drogon
+|-activate|p1a: Drogon|move: Protect
+|move|p2b: Baxcalibur|Breaking Swipe|p1a: Drogon
+|-activate|p1a: Drogon|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 2, pass|claude|Only Drogon left; Ancient Power best odds to KO Baxcalibur at 61% and possibly boost speed/attack before it kills us.
+|
+|t:|1790963023
+|move|p1a: Drogon|Ancient Power|p2b: Baxcalibur
+|-supereffective|p2b: Baxcalibur|1
+|-damage|p2b: Baxcalibur|25/100
+|move|p2b: Baxcalibur|Breaking Swipe|p1a: Drogon
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|
+|win|Crucible&Gambit

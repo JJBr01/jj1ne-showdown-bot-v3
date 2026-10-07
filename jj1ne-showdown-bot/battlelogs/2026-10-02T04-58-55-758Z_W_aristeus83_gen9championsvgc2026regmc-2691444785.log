@@ -1,0 +1,117 @@
+|init|battle
+|title|JJ1NE vs. Aristeus83
+|j|☆JJ1NE
+
+|j|☆Aristeus83
+|t:|1790917044
+|gametype|doubles
+|player|p1|JJ1NE|102|1109
+|player|p2|Aristeus83|266|1032
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Indeedee, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|poke|p2|Cinderace, L50, M|
+|poke|p2|Raichu, L50, M, shiny|
+|poke|p2|Blastoise, L50, M|
+|poke|p2|Corviknight, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5412|claude
+|
+|t:|1790917074
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Garchomp|Garchomp, L50, M|185/185
+|switch|p2a: Whimsicott|Whimsicott, L50, M|100/100
+|switch|p2b: Pinky|Cinderace, L50, M|100/100
+|turn|1
+|choice|move 4, move 1|claude|Earthquake OHKOs Cinderace (HJK would KO Kingambit); Protect shields Kingambit from Pyro Ball/HJK and from our own spread damage.
+|
+|t:|1790917093
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: Aristeus83|move: Tailwind
+|move|p2b: Pinky|Pyro Ball|p1a: Kingambit
+|-activate|p1a: Kingambit|move: Protect
+|move|p1b: Garchomp|Earthquake|p2a: Whimsicott|[spread] p2a,p2b
+|-activate|p1a: Kingambit|move: Protect
+|-resisted|p2a: Whimsicott|1
+|-supereffective|p2b: Pinky|1
+|-damage|p2a: Whimsicott|75/100
+|-damage|p2b: Pinky|0 fnt
+|faint|p2b: Pinky
+|
+|upkeep
+|
+|t:|1790917102
+|switch|p2b: Raichu|Raichu, L50, M, shiny|100/100
+|turn|2
+|choice|move 3 1, move 1|claude|Iron Head OHKOs Whimsicott (kills Tailwind/Encore support); Earthquake OHKOs Raichu. Earthquake hits Kingambit but it survives easily — double KO likely.
+|
+|t:|1790917125
+|detailschange|p2b: Raichu|Raichu-Mega-Y, L50, M, shiny
+|-mega|p2b: Raichu|Raichu|Raichunite Y
+|move|p2a: Whimsicott|Moonblast|p1b: Garchomp
+|-supereffective|p1b: Garchomp|1
+|-damage|p1b: Garchomp|71/185
+|-enditem|p1b: Garchomp|Sitrus Berry|[eat]
+|-heal|p1b: Garchomp|117/185|[from] item: Sitrus Berry
+|move|p2b: Raichu|Focus Blast|p1a: Kingambit
+|-supereffective|p1a: Kingambit|2
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|move|p1b: Garchomp|Earthquake|p2b: Raichu|[spread] p2a,p2b
+|-resisted|p2a: Whimsicott|1
+|-supereffective|p2b: Raichu|1
+|-damage|p2a: Whimsicott|49/100
+|-damage|p2b: Raichu|0 fnt
+|faint|p2b: Raichu
+|
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790917130
+|switch|p2b: The brain|Indeedee, L50, M|100/100
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: The brain
+|turn|3
+|choice|move 1 mega, move 2 2|claude|Heat Wave KOs Whimsicott and Dragon Claw finishes Indeedee; Garchomp dies to Expanding Force anyway, so maximize KOs now.
+|
+|t:|1790917135
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|move|p2a: Whimsicott|Light Screen|p2a: Whimsicott
+|-sidestart|p2: Aristeus83|move: Light Screen
+|move|p2b: The brain|Expanding Force|p1b: Garchomp|[spread] p1a,p1b
+|-damage|p1a: Drogon|32/153
+|-damage|p1b: Garchomp|0 fnt
+|faint|p1b: Garchomp
+|-damage|p2b: The brain|90/100|[from] item: Life Orb
+|move|p1a: Drogon|Heat Wave|p2a: Whimsicott|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-crit|p2a: Whimsicott
+|-crit|p2b: The brain
+|-damage|p2a: Whimsicott|0 fnt
+|-damage|p2b: The brain|0 fnt
+|faint|p2a: Whimsicott
+|faint|p2b: The brain
+|
+|win|JJ1NE

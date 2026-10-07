@@ -1,0 +1,205 @@
+|init|battle
+|title|JJ1NE vs. maplestreetcafe
+|j|☆JJ1NE
+
+|j|☆maplestreetcafe
+|t:|1790999400
+|gametype|doubles
+|player|p1|JJ1NE|102|1214
+|player|p2|maplestreetcafe|2|1317
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Froslass, L50, F|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Basculegion, L50, M|
+|poke|p2|Glimmora, L50, M|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Volcarona, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6243|claude|Milotic gets Competitive +2 from Incineroar Intimidate; Dragonite Mega sheltered-ish with Tailwind. Whimsicott speed control, Scarf Garchomp revenge-kills Volcarona/Froslass late.
+|
+|t:|1790999431
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Froslass|Froslass, L50, F|100/100
+|switch|p2b: Basculegion|Basculegion, L50, M|100/100
+|turn|1
+|choice|move 1 1, move 3 mega|wolfe-fallback
+|
+|t:|1790999442
+|switch|p2b: Rillaboom|Rillaboom, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2b: Rillaboom
+|detailschange|p2a: Froslass|Froslass-Mega, L50, F
+|-mega|p2a: Froslass|Froslass|Froslassite
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Froslass
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2a: Froslass|Aurora Veil|p2a: Froslass
+|-sidestart|p2: maplestreetcafe|move: Aurora Veil
+|move|p1b: Dragonite|Tailwind|p1b: Dragonite
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Milotic|Scald|p2a: Froslass
+|-damage|p2a: Froslass|78/100
+|-status|p2a: Froslass|brn
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|84/100 brn|[from] Grassy Terrain
+|-damage|p2a: Froslass|78/100 brn|[from] brn
+|upkeep
+|turn|2
+|choice|move 4, move 2|claude|Wood Hammer/Grassy Glide OHKO-range Milotic, so Protect it; Heat Wave chips both foes behind veil while Dragonite outspeeds under Tailwind.
+|calc|Action: Milotic: Protect | Dragonite: Heat Wave (spread) -> Froslass-Mega (29-48%), Rillaboom (31-37%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO); Dragonite threatened by Froslass-Mega Blizzard (45-76%)
+|
+|t:|1790999465
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p1b: Dragonite|Heat Wave|p2b: Rillaboom|[spread] p2a
+|-miss|p1b: Dragonite|p2b: Rillaboom
+|-supereffective|p2a: Froslass|1
+|-damage|p2a: Froslass|31/100 brn
+|move|p2a: Froslass|Blizzard|p1a: Milotic|[spread] p1b
+|-activate|p1a: Milotic|move: Protect
+|-supereffective|p1b: Dragonite|2
+|-damage|p1b: Dragonite|30/168
+|move|p2b: Rillaboom|Wood Hammer|p1a: Milotic
+|-activate|p1a: Milotic|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|38/100 brn|[from] Grassy Terrain
+|-damage|p2a: Froslass|31/100 brn|[from] brn
+|upkeep
+|turn|3
+|choice|move 1 1, move 2|claude|Dragonite at 18% dies to Blizzard; Heat Wave likely KOs burned Froslass before it moves, Scald adds damage to guarantee removal.
+|calc|Action: Milotic: Scald -> Froslass-Mega (13-23%) | Dragonite: Heat Wave (spread) -> Froslass-Mega (29-48% (KO 90%)), Rillaboom (31-37%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO); Dragonite threatened by Froslass-Mega Blizzard (90-152% KO)
+|
+|t:|1790999498
+|move|p2a: Froslass|Protect|p2a: Froslass
+|-singleturn|p2a: Froslass|Protect
+|move|p1b: Dragonite|Heat Wave|p2a: Froslass|[spread] p2b
+|-activate|p2a: Froslass|move: Protect
+|-supereffective|p2b: Rillaboom|1
+|-damage|p2b: Rillaboom|46/100
+|move|p1a: Milotic|Scald|p2a: Froslass
+|-activate|p2a: Froslass|move: Protect
+|move|p2b: Rillaboom|Wood Hammer|p1b: Dragonite
+|-resisted|p1b: Dragonite|2
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|-damage|p2b: Rillaboom|40/100|[from] Recoil
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2a: Froslass|38/100 brn|[from] Grassy Terrain
+|-heal|p2b: Rillaboom|46/100|[from] Grassy Terrain
+|-damage|p2a: Froslass|31/100 brn|[from] brn
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790999498
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|choice|move 4, move 2 1|claude|Froslass at 31% burned: Moonblast 18-29% plus burn likely finishes it; Milotic Protects to dodge Wood Hammer KO. Removes Blizzard threat on Whimsicott.
+|calc|Action: Milotic: Protect | Whimsicott: Moonblast -> Froslass-Mega (18-29%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO); Whimsicott threatened by Froslass-Mega Blizzard (73-145% (OHKO 63%))
+|
+|t:|1790999532
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p1b: Whimsicott|Moonblast|p2a: Froslass
+|-crit|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|move|p2b: Rillaboom|Wood Hammer|p1a: Milotic
+|-activate|p1a: Milotic|move: Protect
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p2b: Rillaboom|53/100|[from] Grassy Terrain
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790999544
+|switch|p2a: Basculegion|Basculegion, L50, M|100/100
+|turn|5
+|choice|move 2 2, move 1|claude|Tailwind flips speed so Milotic outruns both; Ice Beam chips Rillaboom toward Moonblast KO range next turn. Wood Hammer recoil helps too.
+|calc|Action: Milotic: Ice Beam -> Rillaboom (22-27%) | Whimsicott: Tailwind
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO); Whimsicott threatened by Basculegion Wave Crash (46-88%)
+|
+|t:|1790999549
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Milotic|Ice Beam|p2b: Rillaboom
+|-supereffective|p2b: Rillaboom|1
+|-damage|p2b: Rillaboom|15/100
+|move|p2b: Rillaboom|Wood Hammer|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|-damage|p2b: Rillaboom|0 fnt|[from] Recoil
+|faint|p2b: Rillaboom
+|move|p2a: Basculegion|Last Respects|p1b: Whimsicott
+|-enditem|p1b: Whimsicott|Focus Sash
+|-damage|p1b: Whimsicott|1/137
+|
+|-weather|none
+|-heal|p1b: Whimsicott|9/137|[from] Grassy Terrain
+|-sideend|p2: maplestreetcafe|move: Aurora Veil
+|-fieldend|move: Grassy Terrain
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790999565
+|switch|p2b: Incineroar|Incineroar, L50, M|100/100
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|-unboost|p1b: Whimsicott|atk|1
+|turn|6
+|choice|move 4 2, move 2 1|claude|Whimsicott at 1 HP dies to anything; Protect only delays. Use its action now — Moonblast chip on Basculegion while Garchomp hits Incineroar.
+|calc|Action: Garchomp: Stomping Tantrum -> Incineroar (37-50%) | Whimsicott: Moonblast -> Basculegion (24-44%)
+|calc|Threats: Garchomp threatened by Basculegion Wave Crash (68-118% (OHKO 36%)); Whimsicott threatened by Incineroar Flare Blitz (90-166% KO)
+|
+|t:|1790999579
+|move|p2b: Incineroar|Fake Out|p1b: Whimsicott
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Garchomp|Stomping Tantrum|p2b: Incineroar
+|-supereffective|p2b: Incineroar|1
+|-damage|p2b: Incineroar|43/100
+|-enditem|p2b: Incineroar|Sitrus Berry|[eat]
+|-heal|p2b: Incineroar|68/100|[from] item: Sitrus Berry
+|move|p2a: Basculegion|Last Respects|p1a: Garchomp
+|-damage|p1a: Garchomp|3/185
+|
+|upkeep
+|turn|7
+|choice|move 4 2, pass|claude|Last Pokemon, choice-locked, dying anyway; Stomping Tantrum into Incineroar at 43% has best chance to KO something.
+|calc|Action: Garchomp: Stomping Tantrum -> Incineroar (37-50%)
+|calc|Threats: Garchomp threatened by Basculegion Wave Crash (68-118% KO)
+|
+|t:|1790999592
+|move|p1a: Garchomp|Stomping Tantrum|p2b: Incineroar
+|-supereffective|p2b: Incineroar|1
+|-damage|p2b: Incineroar|19/100
+|move|p2a: Basculegion|Last Respects|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|win|maplestreetcafe

@@ -1,0 +1,128 @@
+|init|battle
+|title|heroofbacum vs. JJ1NE
+|j|☆heroofbacum
+|j|☆JJ1NE
+
+|t:|1790956592
+|gametype|doubles
+|player|p1|heroofbacum|2|1145
+|player|p2|JJ1NE|102|1202
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gholdengo, L50|
+|poke|p1|Gengar, L50, F|
+|poke|p1|Basculegion, L50, M|
+|poke|p1|Skeledirge, L50, F|
+|poke|p1|Annihilape, L50, F|
+|poke|p1|Sinistcha, L50|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 1653|claude
+|
+|t:|1790956657
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Basculegion|Basculegion, L50, M|100/100
+|switch|p1b: Gengar|Gengar, L50, F|100/100
+|switch|p2a: Drogon|Charizard, L50, M|153/153
+|switch|p2b: Whimsicott|Whimsicott, L50, M|137/137
+|turn|1
+|choice|move 2 1 mega, move 1|claude|Solar Beam OHKOs Basculegion (their fastest threat); Whimsicott sets Tailwind before Gengar moves, matching expert line.
+|
+|t:|1790956676
+|detailschange|p1b: Gengar|Gengar-Mega, L50, F
+|-mega|p1b: Gengar|Gengar|Gengarite
+|detailschange|p2a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Drogon
+|move|p2b: Whimsicott|Tailwind|p2b: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p1a: Basculegion|Aqua Jet|p2a: Drogon
+|-supereffective|p2a: Drogon|1
+|-damage|p2a: Drogon|105/153
+|move|p2a: Drogon|Solar Beam||[still]
+|-prepare|p2a: Drogon|Solar Beam
+|-anim|p2a: Drogon|Solar Beam|p1a: Basculegion
+|-supereffective|p1a: Basculegion|1
+|-enditem|p1a: Basculegion|Focus Sash
+|-damage|p1a: Basculegion|1/100
+|move|p1b: Gengar|Shadow Ball|p2b: Whimsicott
+|-damage|p2b: Whimsicott|29/137
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 1, move 4|claude|Heat Wave KOs 1% Basculegion and chips Mega Gengar 68-81%; Whimsicott Protects since any Gengar hit KOs it at 21%.
+|
+|t:|1790956690
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p1a: Basculegion|Protect|p1a: Basculegion
+|-singleturn|p1a: Basculegion|Protect
+|move|p2a: Drogon|Heat Wave|p1a: Basculegion|[spread] p1b
+|-activate|p1a: Basculegion|move: Protect
+|-damage|p1b: Gengar|8/100
+|move|p1b: Gengar|Sludge Wave|p2b: Whimsicott|[spread] p2a
+|-activate|p1a: Basculegion|move: Protect
+|-activate|p2b: Whimsicott|move: Protect
+|-damage|p2a: Drogon|39/153
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|choice|move 1, move 2 2|claude|Whimsicott moves first: Moonblast KOs Gengar at 8%, removing Shadow Tag; Heat Wave then KOs 1% Basculegion. Double KO this turn.
+|
+|t:|1790956705
+|move|p1b: Gengar|Protect|p1b: Gengar
+|-singleturn|p1b: Gengar|Protect
+|move|p1a: Basculegion|Aqua Jet|p2b: Whimsicott
+|-resisted|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|17/137
+|move|p2b: Whimsicott|Moonblast|p1b: Gengar
+|-activate|p1b: Gengar|move: Protect
+|move|p2a: Drogon|Heat Wave|p1b: Gengar|[spread] p1a
+|-activate|p1b: Gengar|move: Protect
+|-resisted|p1a: Basculegion|1
+|-damage|p1a: Basculegion|0 fnt
+|faint|p1a: Basculegion
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790956713
+|switch|p1a: Annihilape|Annihilape, L50, F|100/100
+|turn|4
+|choice|move 1, move 2 1|claude|Whimsicott moves first; Moonblast nearly KOs Annihilape, Heat Wave KOs Gengar (trapper) and finishes Annihilape. Both foes likely die.
+|
+|t:|1790956724
+|move|p1b: Gengar|Protect||[still]
+|-fail|p1b: Gengar
+|move|p2b: Whimsicott|Moonblast|p1a: Annihilape
+|-supereffective|p1a: Annihilape|1
+|-damage|p1a: Annihilape|25/100
+|move|p2a: Drogon|Heat Wave|p1b: Gengar|[spread] p1a,p1b
+|-damage|p1a: Annihilape|0 fnt
+|-damage|p1b: Gengar|0 fnt
+|faint|p1a: Annihilape
+|faint|p1b: Gengar
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|-message|heroofbacum forfeited.
+|
+|win|JJ1NE

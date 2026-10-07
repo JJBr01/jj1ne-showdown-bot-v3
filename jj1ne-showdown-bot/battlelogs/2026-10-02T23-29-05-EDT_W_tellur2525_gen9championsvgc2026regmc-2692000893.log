@@ -1,0 +1,116 @@
+|init|battle
+|title|tellur2525 vs. JJ1NE
+|j|☆tellur2525
+|j|☆JJ1NE
+
+|t:|1790998028
+|gametype|doubles
+|player|p1|tellur2525|170|1056
+|player|p2|JJ1NE|102|1138
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Indeedee-F, L50, F, shiny|
+|poke|p1|Sinistcha, L50|
+|poke|p1|Volcarona, L50, M, shiny|
+|poke|p1|Lucario, L50, M, shiny|
+|poke|p1|Gardevoir, L50, M, shiny|
+|poke|p1|Garchomp, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5143|claude|Kingambit leads vs Psychic Terrain: immune to Expanding Force/Psychic, KOs Indeedee and Gardevoir. Garchomp Scarf pressures Volcarona/Lucario; Charizard Mega sheltered in back.
+|
+|t:|1790998085
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Volcarona|Volcarona, L50, M, shiny|100/100
+|switch|p1b: Sinistcha|Sinistcha, L50|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|choice|move 1 2, move 2 mega|claude|Heat Wave KOs Sinistcha (Trick Room setter) through Rage Powder/Protect-less turns and chips Volcarona; Kowtow Cleave ignores Protect, guaranteeing the TR setter dies.
+|calc|Action: Kingambit: Kowtow Cleave -> Sinistcha (92-122% (OHKO 75%)) | Drogon: Heat Wave [Mega] (spread) -> Volcarona (24-35%), Sinistcha (61-79%)
+|calc|Threats: Kingambit threatened by Sinistcha Matcha Gotcha (12-18%); Drogon threatened by Sinistcha Matcha Gotcha (6-12%)
+|
+|t:|1790998101
+|switch|p1b: Garchomp|Garchomp, L50, F|100/100
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p2b: Drogon|Heat Wave|p1a: Volcarona|[spread] p1a,p1b
+|-resisted|p1b: Garchomp|1
+|-damage|p1a: Volcarona|28/100
+|-damage|p1b: Garchomp|59/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Kingambit|Kowtow Cleave|p1b: Garchomp
+|-damage|p1b: Garchomp|0 fnt
+|-damage|p2a: Kingambit|182/207|[from] ability: Rough Skin|[of] p1b: Garchomp
+|faint|p1b: Garchomp
+|-damage|p2a: Kingambit|162/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Volcarona|34/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790998114
+|switch|p1b: Sinistcha|Sinistcha, L50|100/100
+|-heal|p1a: Volcarona|59/100|[from] ability: Hospitality|[of] p1b: Sinistcha
+|turn|2
+|choice|move 1 2, move 2|claude|Heat Wave KOs Sinistcha and chips boosted Volcarona; Kowtow Cleave into Sinistcha ignores Rage Powder/Protect, guaranteeing removal of the Trick Room setter.
+|calc|Action: Kingambit: Kowtow Cleave -> Sinistcha (92-122% (OHKO 75%)) | Drogon: Heat Wave (spread) -> Volcarona (31-47%), Sinistcha (119-153% OHKO)
+|calc|Threats: Kingambit threatened by Volcarona Struggle Bug (17-27%); Drogon threatened by Sinistcha Matcha Gotcha (5-9%)
+|
+|t:|1790998123
+|move|p1a: Volcarona|Fiery Dance|p2a: Kingambit
+|-supereffective|p2a: Kingambit|1
+|-damage|p2a: Kingambit|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Kingambit
+|move|p2b: Drogon|Heat Wave|p1a: Volcarona|[spread] p1a,p1b
+|-supereffective|p1b: Sinistcha|1
+|-damage|p1a: Volcarona|14/100
+|-damage|p1b: Sinistcha|0 fnt
+|faint|p1b: Sinistcha
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Volcarona|21/100|[from] item: Leftovers
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790998127
+|switch|p1b: Lucario|Lucario, L50, M, shiny|100/100
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|turn|3
+|choice|move 1, move 2|claude|Garchomp moves first: Earthquake KOs Volcarona (21%) and badly damages Lucario; Heat Wave then KOs Lucario. Double KO wins.
+|calc|Action: Garchomp: Earthquake (spread) -> Volcarona (31-38% KO), Lucario (71-136% (OHKO 56%)) | Drogon: Heat Wave (spread) -> Volcarona (31-47% KO), Lucario (130-250% OHKO)
+|calc|Threats: Garchomp threatened by Volcarona Fiery Dance (35-63%); Drogon threatened by Volcarona Fiery Dance (34-60%)
+|
+|t:|1790998145
+|detailschange|p1b: Lucario|Lucario-Mega-Z, L50, M, shiny
+|-mega|p1b: Lucario|Lucario|Lucarionite Z
+|move|p2a: Garchomp|Earthquake|p1a: Volcarona|[spread] p1a,p1b
+|-immune|p2b: Drogon
+|-supereffective|p1b: Lucario|1
+|-crit|p1b: Lucario
+|-damage|p1a: Volcarona|0 fnt
+|-damage|p1b: Lucario|0 fnt
+|faint|p1a: Volcarona
+|faint|p1b: Lucario
+|
+|win|JJ1NE

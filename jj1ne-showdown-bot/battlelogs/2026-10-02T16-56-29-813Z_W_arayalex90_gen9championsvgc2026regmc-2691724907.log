@@ -1,0 +1,211 @@
+|init|battle
+|title|JJ1NE vs. arayalex90
+|j|☆JJ1NE
+
+|j|☆arayalex90
+|t:|1790959834
+|gametype|doubles
+|player|p1|JJ1NE|102|1086
+|player|p2|arayalex90|101|1018
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Polteageist, L50|
+|poke|p2|Rotom-Wash, L50|
+|poke|p2|Indeedee-F, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6512|claude
+|
+|t:|1790959890
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Kingambit|Kingambit, L50, M|207/207
+|switch|p2a: Rotom|Rotom-Wash, L50|100/100
+|switch|p2b: Rillaboom|Rillaboom, L50, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2b: Rillaboom
+|turn|1
+|choice|move 2 1, move 1 1|claude|Focus Rotom-Wash: Moonblast plus Kowtow Cleave guarantees the KO, removing their fastest attacker before Indeedee's Trick Room arrives.
+|
+|t:|1790959934
+|move|p2b: Rillaboom|Fake Out|p1b: Kingambit
+|-resisted|p1b: Kingambit|1
+|-damage|p1b: Kingambit|194/207
+|-damage|p2b: Rillaboom|90/100|[from] item: Life Orb
+|move|p2a: Rotom|Trick|p1a: Whimsicott
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Whimsicott
+|-item|p1a: Whimsicott|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Focus Sash|[from] move: Trick
+|move|p1a: Whimsicott|Moonblast|p2a: Rotom
+|-damage|p2a: Rotom|59/100
+|cant|p1b: Kingambit|flinch
+|
+|-heal|p2b: Rillaboom|96/100|[from] Grassy Terrain
+|-heal|p1b: Kingambit|206/207|[from] Grassy Terrain
+|upkeep
+|turn|2
+|choice|move 2 1, move 1 1|claude|Whimsicott Moonblast finishes Rotom (43-52% vs 59% HP... needs Kingambit too); focus Rotom: Moonblast then Kowtow Cleave guarantees KO, removing Trick/Hydro Pump.
+|
+|t:|1790959962
+|move|p1a: Whimsicott|Moonblast|p2a: Rotom
+|-damage|p2a: Rotom|22/100
+|move|p2a: Rotom|Will-O-Wisp|p1b: Kingambit
+|-status|p1b: Kingambit|brn
+|move|p2b: Rillaboom|U-turn|p1a: Whimsicott
+|-damage|p1a: Whimsicott|68/137
+|-damage|p2b: Rillaboom|87/100|[from] item: Life Orb
+|
+|t:|1790959979
+|switch|p2b: Garchomp|Garchomp, L50, F|100/100|[from] U-turn
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-damage|p1b: Kingambit|186/207 brn|[from] item: Life Orb
+|
+|-heal|p1a: Whimsicott|76/137|[from] Grassy Terrain
+|-heal|p1b: Kingambit|198/207 brn|[from] Grassy Terrain
+|-damage|p1b: Kingambit|186/207 brn|[from] brn
+|upkeep
+|
+|t:|1790959997
+|switch|p2a: Rillaboom|Rillaboom, L50, M|87/100
+|turn|3
+|choice|move 2 2, move 1 2|claude|Focus Garchomp: Moonblast 72-85% plus Kowtow Cleave likely KOs before it Megas and threatens Rock Slide.
+|
+|t:|1790960016
+|detailschange|p2b: Garchomp|Garchomp-Mega-Z, L50, F
+|-mega|p2b: Garchomp|Garchomp|Garchompite Z
+|move|p2a: Rillaboom|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|38/137
+|-damage|p2a: Rillaboom|77/100|[from] item: Life Orb
+|cant|p1a: Whimsicott|flinch
+|move|p2b: Garchomp|Power Gem|p1b: Kingambit
+|-resisted|p1b: Kingambit|1
+|-damage|p1b: Kingambit|157/207 brn
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Garchomp
+|-damage|p2b: Garchomp|62/100
+|-damage|p1b: Kingambit|137/207 brn|[from] item: Life Orb
+|
+|-heal|p1a: Whimsicott|46/137|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|83/100|[from] Grassy Terrain
+|-heal|p1b: Kingambit|149/207 brn|[from] Grassy Terrain
+|-damage|p1b: Kingambit|137/207 brn|[from] brn
+|upkeep
+|turn|4
+|choice|move 2 2, move 1 1|claude|Whimsicott moves first: Moonblast KOs Mega Garchomp, removing their Power Gem threat to Drogon; Kingambit chips Rillaboom.
+|
+|t:|1790960044
+|move|p2b: Garchomp|Protect|p2b: Garchomp
+|-singleturn|p2b: Garchomp|Protect
+|move|p1a: Whimsicott|Moonblast|p2b: Garchomp
+|-activate|p2b: Garchomp|move: Protect
+|move|p2a: Rillaboom|U-turn|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|-damage|p2a: Rillaboom|74/100|[from] item: Life Orb
+|
+|t:|1790960055
+|switch|p2a: Gholdengo|Gholdengo, L50|100/100|[from] U-turn
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo|1
+|-damage|p2a: Gholdengo|41/100
+|-damage|p1b: Kingambit|117/207 brn|[from] item: Life Orb
+|
+|-heal|p2a: Gholdengo|47/100|[from] Grassy Terrain
+|-heal|p2a: Gholdengo|54/100|[from] item: Leftovers
+|-heal|p1b: Kingambit|129/207 brn|[from] Grassy Terrain
+|-damage|p1b: Kingambit|117/207 brn|[from] brn
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790960055
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|turn|5
+|choice|move 1 2 mega, move 1 1|claude|Draco Meteor OHKOs Mega Garchomp (their fastest threat), Kowtow Cleave KOs weakened Gholdengo — likely double KO this turn.
+|
+|t:|1790960094
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Garchomp|Protect|p2b: Garchomp
+|-singleturn|p2b: Garchomp|Protect
+|move|p1a: Dragonite|Draco Meteor|p2b: Garchomp
+|-activate|p2b: Garchomp|move: Protect
+|move|p2a: Gholdengo|Nasty Plot|p2a: Gholdengo
+|-boost|p2a: Gholdengo|spa|2
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo|1
+|-crit|p2a: Gholdengo
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1b: Kingambit|97/207 brn|[from] item: Life Orb
+|
+|-heal|p1b: Kingambit|109/207 brn|[from] Grassy Terrain
+|-damage|p1b: Kingambit|97/207 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1790960114
+|switch|p2a: Rillaboom|Rillaboom, L50, M|74/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|choice|move 1 1, move 1 2|claude|Dragonite is at -2 only if Draco hit; it Protected, so SpA is -2 already... still Draco KOs Rillaboom; Kingambit chips Garchomp.
+|
+|t:|1790960123
+|move|p2a: Rillaboom|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|152/168
+|-damage|p2a: Rillaboom|64/100|[from] item: Life Orb
+|move|p2b: Garchomp|Earth Power|p1b: Kingambit
+|-supereffective|p1b: Kingambit|1
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|cant|p1a: Dragonite|flinch
+|
+|-heal|p2a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790960123
+|switch|p1b: Drogon|Charizard, L50, F|153/153
+|turn|7
+|choice|move 1 2, move 4|claude|Garchomp-Z Power Gem OHKOs Drogon and it's faster; Draco Meteor KOs it outright while Drogon Protects safely.
+|
+|t:|1790960173
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2b: Garchomp|Power Gem|p1b: Drogon
+|-activate|p1b: Drogon|move: Protect
+|move|p1a: Dragonite|Draco Meteor|p2b: Garchomp
+|-supereffective|p2b: Garchomp|1
+|-damage|p2b: Garchomp|0 fnt
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2b: Garchomp
+|move|p2a: Rillaboom|Wood Hammer|p1a: Dragonite
+|-resisted|p1a: Dragonite|2
+|-damage|p1a: Dragonite|108/168
+|-damage|p2a: Rillaboom|62/100|[from] Recoil
+|-damage|p2a: Rillaboom|52/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|58/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|choice|move 3, move 1|claude|Drogon's Heat Wave likely KOs Rillaboom; Dragonite at -2 SpA sets Tailwind for the Indeedee/Polteageist endgame instead of weak attacks.
+|-message|arayalex90 forfeited.
+|
+|win|JJ1NE

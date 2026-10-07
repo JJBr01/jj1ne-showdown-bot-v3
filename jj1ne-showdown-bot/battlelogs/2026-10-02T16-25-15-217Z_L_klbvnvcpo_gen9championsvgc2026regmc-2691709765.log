@@ -1,0 +1,191 @@
+|init|battle
+|title|JJ1NE vs. klbvnvcpo
+|j|☆JJ1NE
+
+|j|☆klbvnvcpo
+|t:|1790958207
+|gametype|doubles
+|player|p1|JJ1NE|102|1135
+|player|p2|klbvnvcpo|1|1130
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Farigiraf, L50, M, shiny|
+|poke|p2|Kangaskhan, L50, F, shiny|
+|poke|p2|Mawile, L50, M, shiny|
+|poke|p2|Pelipper, L50, F, shiny|
+|poke|p2|Aegislash, L50, M, shiny|
+|poke|p2|Rillaboom, L50, M, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2635|claude
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by klbvnvcpo)
+|uhtmlchange|otsrequest|
+klbvnvcpo rejected open team sheets.
+|
+|t:|1790958224
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2a: Farigiraf|Farigiraf, L50, M, shiny|100/100
+|switch|p2b: Kangaskhan|Kangaskhan, L50, F, shiny|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2 mega, move 2 2|claude|Moonblast first softens Kangaskhan so Draco Meteor guarantees the KO, removing the fast attacker before Farigiraf's Trick Room matters.
+|
+|t:|1790958235
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Kangaskhan|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|150/168
+|move|p1b: Whimsicott|Moonblast|p2b: Kangaskhan
+|-damage|p2b: Kangaskhan|63/100
+|cant|p1a: Dragonite|flinch
+|move|p2a: Farigiraf|Psychic|p1b: Whimsicott
+|-damage|p1b: Whimsicott|47/137
+|
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, switch 4|claude|Draco likely KOs Kangaskhan; Whimsicott at 34% dies to Psychic/Hyper Voice, so pivot to Kingambit, immune to Psychic and threatening Farigiraf.
+|
+|t:|1790958247
+|switch|p1b: Kingambit|Kingambit, L50, F|207/207
+|switch|p2b: Mawile|Mawile, L50, M, shiny|100/100
+|-ability|p2b: Mawile|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|-unboost|p1b: Kingambit|atk|1
+|-ability|p1b: Kingambit|Defiant|boost
+|-boost|p1b: Kingambit|atk|2
+|move|p1a: Dragonite|Draco Meteor|p2b: Mawile
+|-immune|p2b: Mawile
+|move|p2a: Farigiraf|Trick Room|p2a: Farigiraf
+|-fieldstart|move: Trick Room|[of] p2a: Farigiraf
+|
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1 1|claude|Kingambit KOs Trick Room setter Farigiraf; Dragonite Protects from Mega Mawile Play Rough which would OHKO it.
+|
+|t:|1790958255
+|detailschange|p2b: Mawile|Mawile-Mega, L50, M, shiny
+|-mega|p2b: Mawile|Mawile|Mawilite
+|move|p2a: Farigiraf|Helping Hand|p2b: Mawile
+|-singleturn|p2b: Mawile|Helping Hand|[of] p2a: Farigiraf
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2b: Mawile|Play Rough|p1b: Kingambit
+|-damage|p1b: Kingambit|14/207
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Farigiraf
+|-supereffective|p2a: Farigiraf|1
+|-enditem|p2a: Farigiraf|Colbur Berry|[eat]
+|-enditem|p2a: Farigiraf|Colbur Berry|[weaken]
+|-damage|p2a: Farigiraf|1/100
+|-damage|p1b: Kingambit|0 fnt|[from] item: Life Orb
+|faint|p1b: Kingambit
+|
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790958255
+|switch|p1b: Milotic|Milotic, L50, F|202/202
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2, move 1 1|claude|Heat Wave KOs Farigiraf (1%) and hits Mawile 64-75%; Scald finishes insurance. Mawile Play Rough OHKOs Dragonite, so maximize damage now.
+|
+|t:|1790958275
+|move|p2b: Mawile|Play Rough|p1b: Milotic
+|-damage|p1b: Milotic|28/202
+|move|p2a: Farigiraf|Thunderbolt|p1b: Milotic
+|-supereffective|p1b: Milotic|1
+|-damage|p1b: Milotic|0 fnt
+|faint|p1b: Milotic
+|move|p1a: Dragonite|Heat Wave|p2b: Mawile|[spread] p2a,p2b
+|-supereffective|p2b: Mawile|1
+|-damage|p2a: Farigiraf|0 fnt
+|-damage|p2b: Mawile|32/100
+|faint|p2a: Farigiraf
+|
+|upkeep
+|choice|pass, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790958283
+|switch|p2a: Kangaskhan|Kangaskhan, L50, F, shiny|63/100
+|switch|p1b: Whimsicott|Whimsicott, L50, F|47/137
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2, move 4|claude|Heat Wave likely KOs Mawile (64-75% vs 32%) and chips Kangaskhan; Whimsicott Protects from the lethal Mawile/Fake Out hits.
+|
+|t:|1790958288
+|move|p1b: Whimsicott|Protect|p1b: Whimsicott
+|-singleturn|p1b: Whimsicott|Protect
+|move|p2a: Kangaskhan|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|110/168
+|move|p2b: Mawile|Iron Head|p1b: Whimsicott
+|-activate|p1b: Whimsicott|move: Protect
+|cant|p1a: Dragonite|flinch
+|
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2, move 2 1|claude|Heat Wave likely KOs Mawile (32%, needs 32+) and chips Kangaskhan; Moonblast adds damage. Removing Mawile stops the OHKO threat.
+|
+|t:|1790958296
+|switch|p2a: Pelipper|Pelipper, L50, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p2b: Mawile|Iron Head|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Dragonite|Heat Wave|p2b: Mawile|[spread] p2a,p2b
+|-resisted|p2a: Pelipper|1
+|-supereffective|p2b: Mawile|1
+|-damage|p2a: Pelipper|86/100
+|-damage|p2b: Mawile|0 fnt
+|faint|p2b: Mawile
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1790958303
+|switch|p2b: Kangaskhan|Kangaskhan, L50, F, shiny|63/100
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, pass|claude|Kangaskhan's Outrage is the only thing that KOs us; Draco Meteor likely OHKOs it, leaving only weak Pelipper.
+|
+|t:|1790958309
+|move|p2b: Kangaskhan|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|71/168
+|cant|p1a: Dragonite|flinch
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: klbvnvcpo|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, pass|claude|Last Pokemon; Kangaskhan Outrage KOs us next turn. Draco likely KOs it now, leaving slower Pelipper we can trade with.
+|
+|t:|1790958315
+|move|p2a: Pelipper|Hurricane|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|klbvnvcpo

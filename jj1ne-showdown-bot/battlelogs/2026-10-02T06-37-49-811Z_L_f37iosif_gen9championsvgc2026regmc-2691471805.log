@@ -1,0 +1,154 @@
+|init|battle
+|title|JJ1NE vs. F37 Iosif
+|j|☆JJ1NE
+
+|j|☆F37 Iosif
+|t:|1790922954
+|gametype|doubles
+|player|p1|JJ1NE|102|1150
+|player|p2|F37 Iosif|worker|1084
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Meowstic-F, L50, F|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Indeedee, L50, M|
+|poke|p2|Kommo-o, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by F37 Iosif)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5162|claude
+|uhtmlchange|otsrequest|
+F37 Iosif rejected open team sheets.
+|
+|t:|1790922977
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Sneasler|Sneasler, L50, F|100/100
+|switch|p2b: Meowstic|Meowstic-F, L50, F|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 1 mega|claude|Kingambit's Kowtow OHKOs Meowstic (Psychic immune, Dark beats Prankster/Fake Out); Heat Wave likely finishes Sneasler. Kingambit dies to Close Combat anyway, so trade value.
+|
+|t:|1790922989
+|detailschange|p2b: Meowstic|Meowstic-F-Mega, L50, F
+|-mega|p2b: Meowstic|Meowstic|Meowsticite
+|-ability|p2b: Meowstic|Defiant|Trace|[from] ability: Trace|[of] p1a: Kingambit
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2b: Meowstic|Fake Out|p1a: Kingambit
+|-resisted|p1a: Kingambit|1
+|-damage|p1a: Kingambit|204/207
+|move|p2a: Sneasler|Rock Slide|p1b: Drogon|[spread] p1a,p1b
+|-resisted|p1a: Kingambit|1
+|-supereffective|p1b: Drogon|2
+|-damage|p1a: Kingambit|188/207
+|-damage|p1b: Drogon|5/153
+|cant|p1b: Drogon|flinch
+|cant|p1a: Kingambit|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 4|claude|Drogon at 3% dies to anything; Protect it this turn while Kowtow Cleave guarantees KO on Mega Meowstic, removing Psychic Terrain/Expanding Force threat.
+|
+|t:|1790923009
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2b: Meowstic|Thunderbolt|p1b: Drogon
+|-activate|p1b: Drogon|move: Protect
+|move|p2a: Sneasler|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit|2
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790923009
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 1|claude|Drogon at 3% dies anyway; both attacks now. Draco KOs Sneasler, Heat Wave also hits Meowstic 70-82% before Drogon falls.
+|
+|t:|1790923030
+|switch|p2a: Indeedee|Indeedee, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p2b: Meowstic|Expanding Force|p1a: Dragonite|[spread] p1a,p1b
+|-damage|p1a: Dragonite|47/168
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p1a: Dragonite|Draco Meteor|p2a: Indeedee
+|-damage|p2a: Indeedee|12/100
+|-unboost|p1a: Dragonite|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790923030
+|switch|p1b: Whimsicott|Whimsicott, L50, M|137/137
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Whimsicott Moonblast KOs Indeedee, removing Psychic Terrain and a threat; Dragonite Protects to survive Expanding Force at 28%.
+|
+|t:|1790923049
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2b: Meowstic|Expanding Force|p1a: Dragonite|[spread] p1b
+|-activate|p1a: Dragonite|move: Protect
+|-damage|p1b: Whimsicott|7/137
+|move|p1b: Whimsicott|Moonblast|p2a: Indeedee
+|-damage|p2a: Indeedee|0 fnt
+|faint|p2a: Indeedee
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790923063
+|switch|p2a: Sneasler|Sneasler, L50, F|100/100
+|-enditem|p2a: Sneasler|Psychic Seed
+|-boost|p2a: Sneasler|spd|1|[from] item: Psychic Seed
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 1|claude|Both near death, two mons vs two; Tailwind from Whimsicott first gives Dragonite speed next turn — only line with any win equity.
+|
+|t:|1790923069
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Sneasler|Dire Claw|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|2
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Dragonite|Tailwind||[still]
+|-fail|p1a: Dragonite
+|move|p2b: Meowstic|Expanding Force|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|F37 Iosif

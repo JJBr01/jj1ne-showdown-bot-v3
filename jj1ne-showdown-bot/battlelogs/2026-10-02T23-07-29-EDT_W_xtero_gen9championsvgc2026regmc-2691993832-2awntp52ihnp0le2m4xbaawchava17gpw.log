@@ -1,0 +1,121 @@
+|init|battle
+|title|xtero vs. JJ1NE
+|j|☆xtero
+|j|☆JJ1NE
+
+|t:|1790996734
+|gametype|doubles
+|player|p1|xtero|grimsley|1188
+|player|p2|JJ1NE|102|1114
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Salamence, L50, M|
+|poke|p1|Maushold, L50|
+|poke|p1|Annihilape, L50, F|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Toxapex, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4165|claude|Whimsicott Tailwind + Charizard sun: Heat Wave threatens Volcarona, Rillaboom, Maushold. Milotic walls Annihilape/Rillaboom; Kingambit punishes Intimidate and Rage Powder.
+|
+|t:|1790996782
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p1b: Toxapex|Toxapex, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|choice|move 1, move 2 mega|claude|Mega Zard outspeeds Rillaboom; Heat Wave OHKOs it while chipping Toxapex, and Tailwind sets our speed control turn 1.
+|calc|Action: Whimsicott: Tailwind | Drogon: Heat Wave [Mega] (spread) -> Rillaboom (56-68%), Toxapex (11-15%)
+|calc|Threats: Whimsicott threatened by Rillaboom Wood Hammer (39-74%); Drogon threatened by Rillaboom Wood Hammer (18-31%)
+|
+|t:|1790996798
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1a: Rillaboom|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|119/153
+|-damage|p1a: Rillaboom|90/100|[from] item: Life Orb
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|cant|p2b: Drogon|flinch
+|move|p1b: Toxapex|Infestation|p2b: Drogon
+|-resisted|p2b: Drogon|2
+|-damage|p2b: Drogon|118/153
+|-activate|p2b: Drogon|move: Infestation|[of] p1b: Toxapex
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Rillaboom|95/100|[from] Grassy Terrain
+|-damage|p2b: Drogon|99/153|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|2
+|choice|move 2 1, move 2|claude|Heat Wave OHKOs Rillaboom through Grassy Terrain and chips Toxapex; Moonblast adds damage in case of Protect/Sash. Tailwind means we move first.
+|calc|Action: Whimsicott: Moonblast -> Rillaboom (28-33%) | Drogon: Heat Wave (spread) -> Rillaboom (111-131% KO), Toxapex (23-30%)
+|calc|Threats: Whimsicott threatened by Rillaboom Wood Hammer (39-74%); Drogon threatened by Rillaboom Wood Hammer (18-31%)
+|
+|t:|1790996816
+|move|p1b: Toxapex|Wide Guard|p1b: Toxapex
+|-singleturn|p1b: Toxapex|Wide Guard
+|move|p2a: Whimsicott|Moonblast|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|41/100
+|-unboost|p1a: Rillaboom|spa|1
+|move|p2b: Drogon|Heat Wave|p1b: Toxapex|[spread] 
+|-activate|p1a: Rillaboom|move: Wide Guard
+|-activate|p1b: Toxapex|move: Wide Guard
+|move|p1a: Rillaboom|U-turn|p2a: Whimsicott
+|-damage|p2a: Whimsicott|67/137
+|-damage|p1a: Rillaboom|31/100|[from] item: Life Orb
+|
+|t:|1790996828
+|switch|p1a: Salamence|Salamence, L50, M|100/100|[from] U-turn
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Whimsicott|atk|1
+|-unboost|p2b: Drogon|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Whimsicott|75/137|[from] Grassy Terrain
+|-damage|p2b: Drogon|80/153|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|3
+|choice|move 2 1, move 3 1|claude|Salamence will Mega and Hyper Voice KOs Whimsicott; focus-fire it now with Tailwind speed — Moonblast + Ancient Power likely KO before it acts.
+|calc|Action: Whimsicott: Moonblast -> Salamence (51-95%) | Drogon: Ancient Power -> Salamence (40-73%)
+|calc|Threats: Whimsicott threatened by Salamence Hyper Voice (20-38%); Drogon threatened by Salamence Draco Meteor (39-69% (KO 55%))
+|
+|t:|1790996839
+|detailschange|p1a: Salamence|Salamence-Mega, L50, M
+|-mega|p1a: Salamence|Salamence|Salamencite
+|move|p1b: Toxapex|Wide Guard|p1b: Toxapex
+|-singleturn|p1b: Toxapex|Wide Guard
+|move|p2a: Whimsicott|Moonblast|p1a: Salamence
+|-supereffective|p1a: Salamence|1
+|-damage|p1a: Salamence|19/100
+|move|p2b: Drogon|Ancient Power|p1a: Salamence
+|-supereffective|p1a: Salamence|1
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Whimsicott|83/137|[from] Grassy Terrain
+|-damage|p2b: Drogon|61/153|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|-message|xtero forfeited.
+|
+|win|JJ1NE

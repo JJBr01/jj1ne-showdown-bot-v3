@@ -1,0 +1,194 @@
+|init|battle
+|title|MegaScraftyAura vs. JJ1NE
+|j|☆MegaScraftyAura
+|j|☆JJ1NE
+
+|t:|1790910578
+|gametype|doubles
+|player|p1|MegaScraftyAura|lucas|1173
+|player|p2|JJ1NE|102|1136
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Floette-Eternal, L50, F|
+|poke|p1|Sneasler, L50, F, shiny|
+|poke|p1|Pelipper, L50, M, shiny|
+|poke|p1|Basculegion, L50, M, shiny|
+|poke|p1|Archaludon, L50, F, shiny|
+|poke|p1|Incineroar, L50, F, shiny|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2356|claude
+|
+|t:|1790910625
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Basculegion|Basculegion, L50, M, shiny|100/100
+|switch|p1b: Archaludon|Archaludon, L50, F, shiny|100/100
+|switch|p2a: Dragonite|Dragonite, L50, F|168/168
+|switch|p2b: Milotic|Milotic, L50, M|202/202
+|turn|1
+|choice|move 1 1 mega, move 1 1|claude|Draco Meteor plus Scald removes Basculegion now; Milotic's chip guarantees the KO before Archaludon can set up Electro Shot.
+|
+|t:|1790910638
+|switch|p1a: Pelipper|Pelipper, L50, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|detailschange|p2a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p2a: Dragonite|Dragonite|Dragoninite
+|move|p2a: Dragonite|Draco Meteor|p1a: Pelipper
+|-enditem|p1a: Pelipper|Focus Sash
+|-damage|p1a: Pelipper|1/100
+|-unboost|p2a: Dragonite|spa|2
+|move|p1b: Archaludon|Electro Shot||[still]
+|-prepare|p1b: Archaludon|Electro Shot
+|-boost|p1b: Archaludon|spa|1
+|-anim|p1b: Archaludon|Electro Shot|p2b: Milotic
+|-supereffective|p2b: Milotic|1
+|-damage|p2b: Milotic|52/202
+|move|p2b: Milotic|Scald|p1a: Pelipper
+|-resisted|p1a: Pelipper|1
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|64/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790910661
+|switch|p1a: Floette|Floette-Eternal, L50, F|100/100
+|turn|2
+|choice|move 3, move 4|claude|Milotic dies to anything; Protect it while Dragonite sets Tailwind for Kingambit/Garchomp to answer Archaludon next turn.
+|
+|t:|1790910674
+|detailschange|p1a: Floette|Floette-Mega, L50, F
+|-mega|p1a: Floette|Floette|Floettite
+|-ability|p1a: Floette|Fairy Aura
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1a: Floette|Calm Mind|p1a: Floette
+|-boost|p1a: Floette|spa|1
+|-boost|p1a: Floette|spd|1
+|move|p2a: Dragonite|Tailwind|p2a: Dragonite
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p1b: Archaludon|Electro Shot||[still]
+|-prepare|p1b: Archaludon|Electro Shot
+|-boost|p1b: Archaludon|spa|1
+|-anim|p1b: Archaludon|Electro Shot|p2b: Milotic
+|-activate|p2b: Milotic|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|76/202|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|move 1 2, move 3|claude|Archaludon at +2 is the win condition; Draco Meteor chips it while Milotic Recovers out of Electro Shot KO range under Tailwind.
+|
+|t:|1790910704
+|move|p2a: Dragonite|Draco Meteor|p1b: Archaludon
+|-damage|p1b: Archaludon|43/100
+|-unboost|p2a: Dragonite|spa|2
+|-ability|p1b: Archaludon|Stamina|boost
+|-boost|p1b: Archaludon|def|1
+|move|p2b: Milotic|Recover|p2b: Milotic
+|-heal|p2b: Milotic|177/202
+|move|p1a: Floette|Dazzling Gleam|p2b: Milotic|[spread] p2a,p2b
+|-supereffective|p2a: Dragonite|1
+|-damage|p2a: Dragonite|62/168
+|-damage|p2b: Milotic|87/202
+|move|p1b: Archaludon|Electro Shot||[still]
+|-prepare|p1b: Archaludon|Electro Shot
+|-boost|p1b: Archaludon|spa|1
+|-anim|p1b: Archaludon|Electro Shot|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|99/202|[from] item: Leftovers
+|-heal|p1b: Archaludon|49/100|[from] item: Leftovers
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790910704
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|turn|4
+|choice|move 3 1, move 4|claude|Iron Head OHKOs the +1 Floette before it moves; Milotic Protects to dodge Electro Shot. Removes their setup sweeper immediately.
+|
+|t:|1790910736
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1a: Floette|Moonblast|p2b: Milotic
+|-activate|p2b: Milotic|move: Protect
+|move|p1b: Archaludon|Electro Shot||[still]
+|-prepare|p1b: Archaludon|Electro Shot
+|-boost|p1b: Archaludon|spa|1
+|-anim|p1b: Archaludon|Electro Shot|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|111/202|[from] item: Leftovers
+|-heal|p1b: Archaludon|55/100|[from] item: Leftovers
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790910736
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|turn|5
+|choice|move 2 2, move 1 2|claude|Only 2 Pokémon left; must break Archaludon now. Moonblast+Scald does 49-59% to 55% Archaludon — close to KO, removing the +4 sweeper.
+|
+|t:|1790910758
+|move|p2a: Whimsicott|Moonblast|p1b: Archaludon
+|-damage|p1b: Archaludon|0 fnt
+|faint|p1b: Archaludon
+|move|p2b: Milotic|Scald|p1a: Floette
+|-damage|p1a: Floette|75/100
+|move|p1a: Floette|Moonblast|p2b: Milotic
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|
+|-weather|none
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790910768
+|switch|p1b: Basculegion|Basculegion, L50, M, shiny|100/100
+|turn|6
+|choice|move 4, pass|claude|Last mon, no bench; Whimsicott dies to anything. Protect buys a turn and may dodge; Encore/attacks can't stop both foes.
+|
+|t:|1790910778
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1b: Basculegion|Last Respects|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|move|p1a: Floette|Moonblast|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|
+|upkeep
+|turn|7
+|choice|move 2 1, pass|claude|Only Whimsicott left; Floette is the Calm Mind win condition. Chip it and hope for the Sash-free miracle.
+|
+|t:|1790910783
+|move|p1b: Basculegion|Last Respects|p2a: Whimsicott
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|move|p2a: Whimsicott|Moonblast|p1a: Floette
+|-damage|p1a: Floette|49/100
+|-unboost|p1a: Floette|spa|1
+|move|p1a: Floette|Moonblast|p2a: Whimsicott
+|-crit|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|win|MegaScraftyAura

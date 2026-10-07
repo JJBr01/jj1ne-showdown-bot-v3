@@ -1,0 +1,160 @@
+|init|battle
+|title|SunnySleepy vs. JJ1NE
+|j|☆SunnySleepy
+|j|☆JJ1NE
+
+|t:|1790983598
+|gametype|doubles
+|player|p1|SunnySleepy|101|1260
+|player|p2|JJ1NE|102|1223
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Torkoal, L50, F|
+|poke|p1|Vileplume, L50, M|
+|poke|p1|Raichu, L50, F|
+|poke|p1|Ditto, L50|
+|poke|p1|Baxcalibur, L50, F|
+|poke|p1|Rillaboom, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4136|claude|Whimsicott Tailwind + Scarf Garchomp pressures Torkoal/Raichu; Drogon in back resets sun, Milotic walls Fire. Charizard Mega, our best sun plan (83%).
+|
+|t:|1790983626
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Raichu|Raichu, L50, F|100/100
+|switch|p1b: Vileplume|Vileplume, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|choice|move 1, move 1 1 mega|claude|Raichu-Mega Zap Cannon KOs Drogon 66%; Weather Ball KOs Raichu first (sun-boosted, 80% KO). Whimsicott Sash survives, sets Tailwind.
+|calc|Action: Whimsicott: Tailwind | Drogon: Weather Ball [Mega] -> Raichu (16-24%)
+|calc|Threats: Whimsicott threatened by Vileplume Sludge Wave (136-263% OHKO); Drogon threatened by Raichu Zap Cannon (59-111% (OHKO 22%))
+|
+|t:|1790983642
+|detailschange|p1a: Raichu|Raichu-Mega-Y, L50, F
+|-mega|p1a: Raichu|Raichu|Raichunite Y
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1a: Raichu|Fake Out|p2a: Whimsicott
+|-damage|p2a: Whimsicott|120/137
+|cant|p2a: Whimsicott|flinch
+|move|p1b: Vileplume|Acid Spray|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|2
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|move|p2b: Drogon|Weather Ball|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790983657
+|switch|p1a: Ditto|Ditto, L50|100/100
+|switch|p2a: Milotic|Milotic, L50, F|202/202
+|-transform|p1a: Ditto|p2b: Drogon|[from] ability: Imposter
+|turn|2
+|choice|move 2 2, move 2|claude|Heat Wave likely KOs both; Ice Beam into Vileplume secures the faster Chlorophyll threat if Heat Wave rolls low or misses.
+|calc|Action: Milotic: Ice Beam -> Vileplume (32-59%) | Drogon: Heat Wave (spread) -> Ditto (89-194% (OHKO 89%)), Vileplume (109-197% OHKO)
+|calc|Threats: Milotic threatened by Vileplume Sludge Wave (18-24%); Drogon threatened by Vileplume Sludge Wave (22-42%)
+|
+|t:|1790983667
+|move|p1b: Vileplume|Giga Drain|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|112/202
+|move|p1a: Ditto|Ancient Power|p2b: Drogon
+|-supereffective|p2b: Drogon|2
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|move|p2a: Milotic|Ice Beam|p1b: Vileplume
+|-supereffective|p1b: Vileplume|1
+|-damage|p1b: Vileplume|48/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Milotic|124/202|[from] item: Leftovers
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790983667
+|switch|p2b: Garchomp|Garchomp, L50, M|185/185
+|turn|3
+|choice|move 2 2, move 2 2|claude|Vileplume is the real threat (Giga Drain/Moonblast, Chlorophyll-fast); double-target it for a near-guaranteed KO. Ditto's Ancient Power is harmless now.
+|calc|Action: Milotic: Ice Beam -> Vileplume (32-59% (KO 42%)) | Garchomp: Dragon Claw -> Vileplume (33-62% (KO 49%))
+|calc|Threats: Milotic threatened by Vileplume Giga Drain (40-51%); Garchomp threatened by Vileplume Moonblast (43-78%)
+|
+|t:|1790983687
+|move|p2b: Garchomp|Dragon Claw|p1b: Vileplume
+|-damage|p1b: Vileplume|0 fnt
+|faint|p1b: Vileplume
+|move|p1a: Ditto|Ancient Power|p2a: Milotic
+|-damage|p2a: Milotic|93/202
+|move|p2a: Milotic|Ice Beam|p1a: Ditto
+|-damage|p1a: Ditto|79/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Milotic|105/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790983695
+|switch|p1b: Torkoal|Torkoal, L50, F|100/100
+|turn|4
+|choice|move 2 1, move 2 1|claude|Garchomp Dragon Claw likely KOs Ditto at 79%; Ice Beam backup secures it. Removing the Scarf Ditto leaves slow Torkoal we outspeed easily.
+|calc|Action: Milotic: Ice Beam -> Ditto (26-57%) | Garchomp: Dragon Claw -> Ditto (54-115% (KO 59%))
+|calc|Threats: Milotic threatened by Torkoal Eruption (22-29%); Garchomp threatened by Torkoal Eruption (29-52%)
+|
+|t:|1790983703
+|move|p2b: Garchomp|Dragon Claw|p1a: Ditto
+|-damage|p1a: Ditto|32/100
+|move|p1a: Ditto|Ancient Power|p2a: Milotic
+|-damage|p2a: Milotic|71/202
+|move|p2a: Milotic|Ice Beam|p1a: Ditto
+|-damage|p1a: Ditto|9/100
+|move|p1b: Torkoal|Earth Power|p2a: Milotic
+|-damage|p2a: Milotic|41/202
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Milotic|53/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|move 3, move 2 1|claude|Garchomp outspeeds and KOs Ditto 9%; Milotic Recovers back to safety since only Torkoal's weak hits remain.
+|calc|Action: Milotic: Recover | Garchomp: Dragon Claw -> Ditto (54-63% KO)
+|calc|Threats: Milotic threatened by Torkoal Weather Ball (19-25%); Garchomp threatened by Torkoal Weather Ball (25-46%)
+|
+|t:|1790983720
+|move|p2b: Garchomp|Dragon Claw|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|154/202
+|move|p1b: Torkoal|Heat Wave|p2b: Garchomp|[spread] p2a
+|-miss|p1b: Torkoal|p2b: Garchomp
+|-resisted|p2a: Milotic|1
+|-damage|p2a: Milotic|122/202
+|
+|-weather|none
+|-heal|p2a: Milotic|134/202|[from] item: Leftovers
+|upkeep
+|turn|6
+|choice|move 1 2, move 2 2|claude|Scald + Dragon Claw likely KOs Torkoal outright (75-115%); no sun now so Scald is full power. Close it out.
+|calc|Action: Milotic: Scald -> Torkoal (51-81%) | Garchomp: Dragon Claw -> Torkoal (24-34%)
+|calc|Threats: Milotic threatened by Torkoal Earth Power (13-17%); Garchomp threatened by Torkoal Earth Power (17-31%)
+|-message|SunnySleepy forfeited.
+|
+|win|JJ1NE

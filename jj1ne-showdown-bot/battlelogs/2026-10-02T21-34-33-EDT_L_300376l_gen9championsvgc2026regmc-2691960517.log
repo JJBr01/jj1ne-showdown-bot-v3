@@ -1,0 +1,173 @@
+|init|battle
+|title|300376L vs. JJ1NE
+|j|☆300376L
+|j|☆JJ1NE
+
+|t:|1790991125
+|gametype|doubles
+|player|p1|300376L|102|1088
+|player|p2|JJ1NE|102|1032
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Pinsir, L50, M|
+|poke|p1|Sneasler, L50, F|
+|poke|p1|Maushold-Four, L50|
+|poke|p1|Ninetales-Alola, L50, M|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Volcarona, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 300376L)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|team 1463|claude|Mega Charizard melts Ninetales snow, Volcarona and Rillaboom. Whimsicott Tailwind + Encore leads vs Fake Out; Kingambit and Milotic cover Sneasler chip and Blizzard.
+|
+|t:|1790991152
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Volcarona|Volcarona, L50, M|100/100
+|switch|p1b: Maushold|Maushold-Four, L50|100/100
+|switch|p2a: Drogon|Charizard, L50, M|153/153
+|switch|p2b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2 mega, move 2 2|claude|Maushold's Population Bomb OHKOs anything; Whimsicott outspeeds it. Moonblast chip + Weather Ball near-guarantees the KO, removing their biggest threat turn 1.
+|calc|Action: Drogon: Weather Ball [Mega] -> Maushold-Four (15-28%) | Whimsicott: Moonblast -> Maushold-Four (30-57%)
+|calc|Threats: Drogon threatened by Maushold-Four Population Bomb (159-222% OHKO); Whimsicott threatened by Maushold-Four Population Bomb (177-264% OHKO)
+|
+|t:|1790991167
+|detailschange|p2a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Drogon
+|move|p2b: Whimsicott|Moonblast|p1b: Maushold
+|-damage|p1b: Maushold|44/100
+|-unboost|p1b: Maushold|spa|1
+|move|p1b: Maushold|Population Bomb|p2a: Drogon
+|-damage|p2a: Drogon|134/153
+|-damage|p2a: Drogon|113/153
+|-crit|p2a: Drogon
+|-damage|p2a: Drogon|80/153
+|-damage|p2a: Drogon|61/153
+|-damage|p2a: Drogon|39/153
+|-damage|p2a: Drogon|17/153
+|-damage|p2a: Drogon|0 fnt
+|faint|p2a: Drogon
+|-hitcount|p2: Drogon|7
+|move|p1a: Volcarona|Tailwind|p1a: Volcarona
+|-sidestart|p1: 300376L|move: Tailwind
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790991167
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 2, move 2 2|claude|Maushold OHKOs anything; both actions kill it now. Stomping Tantrum + Moonblast guarantee the KO without hitting Whimsicott like EQ would.
+|calc|Action: Garchomp: Stomping Tantrum -> Maushold-Four (35-68% (KO 73%)) | Whimsicott: Moonblast -> Maushold-Four (30-57% (KO 49%))
+|calc|Threats: Garchomp threatened by Maushold-Four Population Bomb (126-183% OHKO); Whimsicott threatened by Maushold-Four Population Bomb (177-264% OHKO)
+|inactive|300376L has 30 seconds left.
+|
+|t:|1790991196
+|move|p1b: Maushold|Population Bomb|p2b: Whimsicott
+|-damage|p2b: Whimsicott|116/137
+|-crit|p2b: Whimsicott
+|-damage|p2b: Whimsicott|80/137
+|-damage|p2b: Whimsicott|58/137
+|-damage|p2b: Whimsicott|36/137
+|-damage|p2b: Whimsicott|14/137
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|-hitcount|p2: Whimsicott|6
+|move|p2a: Garchomp|Stomping Tantrum|p1b: Maushold
+|-damage|p1b: Maushold|0 fnt
+|faint|p1b: Maushold
+|move|p1a: Volcarona|Fiery Dance|p2a: Garchomp
+|-resisted|p2a: Garchomp|1
+|-damage|p2a: Garchomp|134/185
+|-boost|p1a: Volcarona|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790991216
+|switch|p2b: Milotic|Milotic, L50, F|202/202
+|switch|p1b: Pinsir|Pinsir, L50, M|100/100
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 1 1|claude|Volcarona at +1 SpA in sun is their win condition; focus fire it. Scald's burn chance also helps vs Pinsir later.
+|calc|Action: Garchomp: Stomping Tantrum -> Volcarona (31-38%) | Milotic: Scald -> Volcarona (17-26%)
+|calc|Threats: Garchomp threatened by Pinsir Close Combat (28-49%); Milotic threatened by Pinsir Lunge (33-45%)
+|
+|t:|1790991236
+|detailschange|p1b: Pinsir|Pinsir-Mega, L50, M
+|-mega|p1b: Pinsir|Pinsir|Pinsirite
+|move|p1b: Pinsir|Body Slam|p2a: Garchomp
+|-damage|p2a: Garchomp|1/185
+|-damage|p1b: Pinsir|87/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Volcarona
+|-damage|p1a: Volcarona|67/100
+|-damage|p2a: Garchomp|0 fnt|[from] item: Rocky Helmet|[of] p1a: Volcarona
+|faint|p2a: Garchomp
+|move|p1a: Volcarona|Fiery Dance|p2b: Milotic
+|-resisted|p2b: Milotic|1
+|-damage|p2b: Milotic|154/202
+|move|p2b: Milotic|Scald|p1a: Volcarona
+|-supereffective|p1a: Volcarona|1
+|-damage|p1a: Volcarona|43/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|166/202|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 4|claude|Last Pokemon; Protect stalls Tailwind's final turn and blocks Pinsir Thrash, keeping Milotic healthy for the hopeless 1v2.
+|calc|Action: Milotic: Protect
+|calc|Threats: Milotic threatened by Pinsir-Mega Thrash (70-92% (KO 46%))
+|
+|t:|1790991258
+|switch|p1a: Rillaboom|Rillaboom, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1b: Pinsir|Body Slam|p2b: Milotic
+|-activate|p2b: Milotic|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|178/202|[from] Grassy Terrain
+|-heal|p2b: Milotic|190/202|[from] item: Leftovers
+|-sideend|p1: 300376L|move: Tailwind
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Last mon; Pinsir is the real threat — Ice Beam can KO it from 87% on a high roll and ends its sweep.
+|calc|Action: Milotic: Ice Beam -> Pinsir-Mega (33-63%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% KO)
+|
+|t:|1790991273
+|move|p1b: Pinsir|Feint|p2b: Milotic
+|-damage|p2b: Milotic|150/202
+|move|p1a: Rillaboom|Grassy Glide|p2b: Milotic
+|-supereffective|p2b: Milotic|1
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|-damage|p1a: Rillaboom|90/100|[from] item: Life Orb
+|
+|win|300376L

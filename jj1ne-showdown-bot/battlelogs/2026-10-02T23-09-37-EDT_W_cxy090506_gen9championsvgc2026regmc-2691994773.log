@@ -1,0 +1,140 @@
+|init|battle
+|title|JJ1NE vs. cxy090506
+|j|☆JJ1NE
+
+|j|☆cxy090506
+|t:|1790996911
+|gametype|doubles
+|player|p1|JJ1NE|102|1144
+|player|p2|cxy090506|266|1225
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Salamence, L50, M|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Sylveon, L50, F|
+|poke|p2|Rillaboom, L50, F, shiny|
+|poke|p2|Torkoal, L50, F, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5146|claude|Kingambit leads: immune to Psychic/Expanding Force, Defiant punishes Incineroar/Salamence Intimidate, KOs Indeedee. Whimsicott Encore/Tailwind. Charizard Mega sheltered in back; Milotic absorbs Fire/Fairy.
+|
+|t:|1790996925
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Salamence|Salamence, L50, M|100/100
+|switch|p2b: Indeedee|Indeedee-F, L50, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|-unboost|p1b: Drogon|atk|1
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|-enditem|p2b: Indeedee|Psychic Seed
+|-boost|p2b: Indeedee|spd|1|[from] item: Psychic Seed
+|turn|1
+|choice|move 1 2, move 3 1 mega|claude|Kowtow KOs Trick Room setter Indeedee; Ancient Power into Salamence before it Megas, avoiding Wide Guard-less spread chip and threatening the 4x-relevant Flying Mega.
+|calc|Action: Kingambit: Kowtow Cleave -> Indeedee-F (169-200% OHKO) | Drogon: Ancient Power [Mega] -> Salamence (30-56%)
+|calc|Threats: Kingambit threatened by Salamence Draco Meteor (21-32%); Drogon threatened by Salamence Draco Meteor (46-88%)
+|
+|t:|1790996931
+|detailschange|p2a: Salamence|Salamence-Mega, L50, M
+|-mega|p2a: Salamence|Salamence|Salamencite
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2a: Salamence|Hyper Voice|p1a: Kingambit|[spread] p1a,p1b
+|-resisted|p1a: Kingambit|1
+|-damage|p1a: Kingambit|166/207
+|-damage|p1b: Drogon|87/153
+|move|p1b: Drogon|Ancient Power|p2a: Salamence
+|-supereffective|p2a: Salamence|1
+|-crit|p2a: Salamence
+|-damage|p2a: Salamence|7/100
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Indeedee
+|-supereffective|p2b: Indeedee|1
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|-damage|p1a: Kingambit|146/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790996947
+|switch|p2b: Sylveon|Sylveon, L50, F|100/100
+|turn|2
+|choice|move 3 2, move 1 1|claude|Iron Head OHKOs Sylveon; Drogon's Weather Ball kills Salamence at 7% — double KO wins the turn outright.
+|calc|Action: Kingambit: Iron Head -> Sylveon (152-222% OHKO) | Drogon: Weather Ball -> Salamence-Mega (34-61% KO)
+|calc|Threats: Kingambit threatened by Sylveon Hyper Voice (32-48%); Drogon threatened by Salamence-Mega Draco Meteor (41-73% (KO 50%))
+|
+|t:|1790996957
+|move|p2a: Salamence|Flamethrower|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|move|p1b: Drogon|Weather Ball|p2a: Salamence
+|-resisted|p2a: Salamence|1
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|move|p2b: Sylveon|Giga Impact|p1b: Drogon|[miss]
+|-miss|p2b: Sylveon|p1b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790996961
+|switch|p2a: Torkoal|Torkoal, L50, F, shiny|100/100
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|turn|3
+|choice|move 1 1, move 2|wolfe-fallback
+|
+|t:|1790996969
+|move|p1b: Drogon|Heat Wave|p2b: Sylveon|[spread] p2a,p2b
+|-resisted|p2a: Torkoal|1
+|-damage|p2a: Torkoal|55/100
+|-damage|p2b: Sylveon|41/100
+|move|p1a: Milotic|Scald|p2a: Torkoal
+|-supereffective|p2a: Torkoal|1
+|-damage|p2a: Torkoal|18/100
+|move|p2b: Sylveon|Hyper Voice|p1a: Milotic|[spread] p1a,p1b
+|-resisted|p1b: Drogon|1
+|-damage|p1a: Milotic|147/202
+|-damage|p1b: Drogon|46/153
+|move|p2a: Torkoal|Weather Ball|p1a: Milotic
+|-resisted|p1a: Milotic|1
+|-damage|p1a: Milotic|101/202
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Milotic|113/202|[from] item: Leftovers
+|upkeep
+|turn|4
+|choice|move 1 1, move 2|claude|Heat Wave KOs Torkoal (18%) and likely KOs Sylveon (41%); Scald guarantees Torkoal dies even if Heat Wave misses, clearing the board.
+|calc|Action: Milotic: Scald -> Torkoal (25-41% KO) | Drogon: Heat Wave (spread) -> Torkoal (32-51% KO), Sylveon (37-61% (KO 86%))
+|calc|Threats: Milotic threatened by Sylveon Giga Impact (36-47%); Drogon threatened by Torkoal Weather Ball (25-44% (KO 73%))
+|
+|t:|1790996977
+|move|p1b: Drogon|Heat Wave|p2b: Sylveon|[spread] p2a,p2b
+|-resisted|p2a: Torkoal|1
+|-damage|p2a: Torkoal|0 fnt
+|-damage|p2b: Sylveon|0 fnt
+|faint|p2a: Torkoal
+|faint|p2b: Sylveon
+|
+|win|JJ1NE

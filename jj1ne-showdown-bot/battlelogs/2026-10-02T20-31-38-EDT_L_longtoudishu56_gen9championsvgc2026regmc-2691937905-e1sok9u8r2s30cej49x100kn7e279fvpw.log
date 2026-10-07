@@ -1,0 +1,129 @@
+|init|battle
+|title|JJ1NE vs. Longtoudishu56
+|j|☆JJ1NE
+
+|j|☆Longtoudishu56
+|t:|1790987412
+|gametype|doubles
+|player|p1|JJ1NE|102|1192
+|player|p2|Longtoudishu56|hilda-wonderlauncher|1242
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Salamence, L50, M|
+|poke|p2|Floette-Eternal, L50, F|
+|poke|p2|Indeedee, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Basculegion, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5264|claude|Milotic+Kingambit leads: Competitive/Defiant punish Salamence Intimidate; Kingambit immune to Expanding Force and Psychic Terrain priority. Dragonite Mega sheltered in back with Tailwind.
+|
+|t:|1790987466
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Salamence|Salamence, L50, M|100/100
+|switch|p2b: Indeedee|Indeedee, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|-fail|p1b: Dragonite|unboost|atk|[from] ability: Inner Focus|[of] p1b: Dragonite
+|turn|1
+|choice|move 1 2, move 1 1 mega|claude|Kowtow Cleave breaks Indeedee's Sash (Dark hits Psychic hard, terrain blocks priority not Kowtow); Dragon Pulse threatens Salamence KO before it megas.
+|calc|Action: Kingambit: Kowtow Cleave -> Indeedee (215-440% OHKO) | Dragonite: Dragon Pulse [Mega] -> Salamence (60-112% (OHKO 23%))
+|calc|Threats: Kingambit threatened by Salamence Draco Meteor (21-32%); Dragonite threatened by Salamence Draco Meteor (79-140% (OHKO 66%))
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Longtoudishu56)
+|
+|t:|1790987474
+|detailschange|p2a: Salamence|Salamence-Mega, L50, M
+|-mega|p2a: Salamence|Salamence|Salamencite
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Indeedee|Expanding Force|p1a: Kingambit|[spread] p1b
+|-immune|p1a: Kingambit
+|-damage|p1b: Dragonite|126/168
+|move|p2a: Salamence|Tailwind|p2a: Salamence
+|-sidestart|p2: Longtoudishu56|move: Tailwind
+|move|p1b: Dragonite|Dragon Pulse|p2a: Salamence
+|-supereffective|p2a: Salamence|1
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Indeedee
+|-supereffective|p2b: Indeedee|1
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|-damage|p1a: Kingambit|187/207|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1790987481
+|switch|p2a: Sneasler|Sneasler, L50, F|100/100
+|switch|p2b: Basculegion|Basculegion, L50, M|100/100
+|-enditem|p2a: Sneasler|Psychic Seed
+|-boost|p2a: Sneasler|spd|1|[from] item: Psychic Seed
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, move 1 1|claude|Sneasler Close Combat OHKOs Kingambit; Iron Head (83% KO) plus Dragon Pulse guarantees removing it. Kingambit slower anyway; Tailwind can't save it.
+|calc|Action: Kingambit: Iron Head -> Sneasler (86-169% (OHKO 83%)) | Dragonite: Dragon Pulse -> Sneasler (27-52%)
+|calc|Threats: Kingambit threatened by Sneasler Close Combat (153-222% KO); Dragonite threatened by Basculegion Wave Crash (32-56%)
+|
+|t:|1790987488
+|move|p2a: Sneasler|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit|2
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Kingambit
+|move|p2b: Basculegion|Last Respects|p1b: Dragonite
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|-damage|p2b: Basculegion|90/100|[from] item: Life Orb
+|
+|upkeep
+|choice|switch 3, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790987488
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 1|claude|2v2 down; need Tailwind now to outspeed after theirs ends, and Scald chips Sneasler with burn chance. Whimsicott likely dies but Tailwind is essential.
+|calc|Action: Milotic: Scald -> Sneasler (22-42%) | Whimsicott: Tailwind
+|calc|Threats: Milotic threatened by Sneasler Close Combat (51-68%); Whimsicott threatened by Sneasler Dire Claw (160-301% OHKO)
+|
+|t:|1790987498
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Sneasler|Dire Claw|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|2
+|-enditem|p1b: Whimsicott|Focus Sash
+|-damage|p1b: Whimsicott|1/137
+|-status|p1b: Whimsicott|psn
+|move|p2b: Basculegion|Last Respects|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|-damage|p2b: Basculegion|80/100|[from] item: Life Orb
+|
+|-damage|p1b: Whimsicott|0 fnt|[from] psn
+|faint|p1b: Whimsicott
+|
+|win|Longtoudishu56

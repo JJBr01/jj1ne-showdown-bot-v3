@@ -1,0 +1,136 @@
+|init|battle
+|title|Roft04 vs. JJ1NE
+|j|☆Roft04
+|j|☆JJ1NE
+
+|t:|1791141946
+|gametype|doubles
+|player|p1|Roft04|volkner|1137
+|player|p2|JJ1NE|1|1173
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gardevoir, L50, F|
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Torkoal, L50, M|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Rotom-Wash, L50|
+|poke|p1|Lucario, L50, M, shiny|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Kingambit, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Roft04)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+Roft04 rejected open team sheets.
+|choice|team 6135|claude|Psyterrain confirmed: Kingambit (Expanding Force immune) + Charizard-Y leads (61% winrate); Garchomp + Rillaboom back vs Torkoal/Kingambit.
+|inactive|Roft04 has 60 seconds left.
+|inactive|Roft04 has 30 seconds left.
+|inactive|Roft04 has 20 seconds left.
+|inactive|Roft04 has 15 seconds left.
+|inactive|Roft04 has 10 seconds left.
+|inactive|Roft04 has 5 seconds left.
+|
+|t:|1791142034
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Indeedee|Indeedee-F, L50, F|100/100
+|switch|p1b: Torkoal|Torkoal, L50, M|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Torkoal
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 1 1 mega|wolfe-fallback
+|inactive|Roft04 has 30 seconds left.
+|inactive|Roft04 has 20 seconds left.
+|
+|t:|1791142070
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|move|p2b: Drogon|Weather Ball|p1a: Indeedee
+|-damage|p1a: Indeedee|33/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Indeedee
+|-supereffective|p1a: Indeedee|1
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|move|p1b: Torkoal|Weather Ball|p2a: Kingambit
+|-supereffective|p2a: Kingambit|1
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1791142084
+|switch|p1a: Gardevoir|Gardevoir, L50, F|100/100
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 1 1|claude|Earthquake chips both foes while Weather Ball plus Earthquake likely KOs Gardevoir before it Megas and fires Hyper Voice or Expanding Force.
+|calc|Action: Garchomp: Earthquake (spread) -> Gardevoir (49-68%), Torkoal (59-84%) | Drogon: Weather Ball -> Gardevoir (67-101% (OHKO 3%))
+|calc|Threats: Garchomp threatened by Gardevoir Expanding Force (38-69%); Drogon threatened by Gardevoir Expanding Force (36-65%)
+|inactive|Roft04 has 30 seconds left.
+|inactive|Roft04 has 20 seconds left.
+|inactive|Roft04 has 15 seconds left.
+|inactive|Roft04 has 10 seconds left.
+|inactive|Roft04 has 5 seconds left.
+|
+|t:|1791142135
+|detailschange|p1a: Gardevoir|Gardevoir-Mega, L50, F
+|-mega|p1a: Gardevoir|Gardevoir|Gardevoirite
+|move|p1a: Gardevoir|Protect|p1a: Gardevoir
+|-singleturn|p1a: Gardevoir|Protect
+|move|p2a: Garchomp|Earthquake|p1a: Gardevoir|[spread] p1b
+|-activate|p1a: Gardevoir|move: Protect
+|-immune|p2b: Drogon
+|-supereffective|p1b: Torkoal|1
+|-damage|p1b: Torkoal|16/100
+|-damage|p2a: Garchomp|167/185|[from] item: Life Orb
+|move|p2b: Drogon|Weather Ball|p1a: Gardevoir
+|-activate|p1a: Gardevoir|move: Protect
+|move|p1b: Torkoal|Eruption|p2a: Garchomp|[spread] p2a,p2b
+|-resisted|p2a: Garchomp|1
+|-resisted|p2b: Drogon|1
+|-damage|p2a: Garchomp|153/185
+|-damage|p2b: Drogon|140/153
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 2|wolfe-fallback
+|inactive|Roft04 has 30 seconds left.
+|
+|t:|1791142168
+|move|p2a: Garchomp|Earthquake|p1b: Torkoal|[spread] p1a,p1b
+|-immune|p2b: Drogon
+|-supereffective|p1b: Torkoal|1
+|-damage|p1a: Gardevoir|28/100
+|-damage|p1b: Torkoal|0 fnt
+|faint|p1b: Torkoal
+|-damage|p2a: Garchomp|135/185|[from] item: Life Orb
+|move|p2b: Drogon|Heat Wave|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Roft04 forfeited.
+|
+|win|JJ1NE

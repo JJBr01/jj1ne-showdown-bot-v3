@@ -1,0 +1,132 @@
+|init|battle
+|title|JJ1NE vs. OrionStarDev
+|j|☆JJ1NE
+
+|j|☆OrionStarDev
+|t:|1790903100
+|gametype|doubles
+|player|p1|JJ1NE|102|1228
+|player|p2|OrionStarDev|101|1200
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Raichu, L50, M|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Arcanine-Hisui, L50, F|
+|poke|p2|Sylveon, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6143|claude
+|
+|t:|1790903120
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Raichu|Raichu, L50, M|100/100
+|switch|p2b: Sylveon|Sylveon, L50, F|100/100
+|turn|1
+|choice|move 1, move 1 mega|claude|Tailwind plus Mega Heat Wave pressures both; Raichu likely KO'd or crippled, Sylveon halved. No big threat to Drogon here.
+|
+|t:|1790903141
+|switch|p2b: Arcanine|Arcanine-Hisui, L50, F|100/100
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2a: Raichu|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|121/137
+|cant|p1a: Whimsicott|flinch
+|move|p1b: Drogon|Heat Wave|p2b: Arcanine|[spread] p2a,p2b
+|-resisted|p2b: Arcanine|2
+|-damage|p2a: Raichu|7/100
+|-damage|p2b: Arcanine|79/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 2 1, move 1|claude|Moonblast KOs weakened Raichu (Lightning Rod gone), Heat Wave chips Arcanine; Tailwind later. Keeps pressure instead of double-Protect.
+|
+|t:|1790903170
+|detailschange|p2a: Raichu|Raichu-Mega-Y, L50, M
+|-mega|p2a: Raichu|Raichu|Raichunite Y
+|move|p2a: Raichu|Zap Cannon|p1b: Drogon
+|-supereffective|p1b: Drogon|1
+|-crit|p1b: Drogon
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p1a: Whimsicott|Moonblast|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|move|p2b: Arcanine|Flare Blitz|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, switch 4|engine
+|
+|t:|1790903187
+|switch|p2a: Sylveon|Sylveon, L50, F|100/100
+|switch|p1a: Garchomp|Garchomp, L50, F|185/185
+|switch|p1b: Milotic|Milotic, L50, M|202/202
+|turn|3
+|choice|move 1, move 1 2|claude|Earthquake KOs Arcanine (sash likely already gone? still big) and chips Sylveon; Scald finishes Arcanine if sash survives.
+|
+|t:|1790903198
+|switch|p2b: Rillaboom|Rillaboom, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2b: Rillaboom
+|move|p1a: Garchomp|Earthquake|p2b: Rillaboom|[spread] p1b,p2a,p2b
+|-resisted|p2b: Rillaboom|1
+|-damage|p1b: Milotic|163/202
+|-damage|p2a: Sylveon|78/100
+|-damage|p2b: Rillaboom|88/100
+|move|p1b: Milotic|Scald|p2b: Rillaboom
+|-resisted|p2b: Rillaboom|1
+|-damage|p2b: Rillaboom|81/100
+|move|p2a: Sylveon|Hyper Voice|p1a: Garchomp|[spread] p1a,p1b
+|-supereffective|p1a: Garchomp|1
+|-crit|p1b: Milotic
+|-damage|p1a: Garchomp|5/185
+|-damage|p1b: Milotic|87/202
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Garchomp|16/185|[from] Grassy Terrain
+|-heal|p2b: Rillaboom|87/100|[from] Grassy Terrain
+|-heal|p1b: Milotic|99/202|[from] Grassy Terrain
+|-heal|p1b: Milotic|111/202|[from] item: Leftovers
+|-heal|p2a: Sylveon|84/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|choice|move 1, move 2 2|claude|Garchomp is choice-locked into EQ and nearly dead; Milotic must chip Rillaboom with Ice Beam since Protect wastes our only remaining damage turn.
+|
+|t:|1790903218
+|move|p2b: Rillaboom|Grassy Glide|p1b: Milotic
+|-supereffective|p1b: Milotic|1
+|-damage|p1b: Milotic|0 fnt
+|faint|p1b: Milotic
+|move|p1a: Garchomp|Earthquake|p2a: Sylveon|[spread] p2a,p2b
+|-resisted|p2b: Rillaboom|1
+|-damage|p2a: Sylveon|64/100
+|-damage|p2b: Rillaboom|76/100
+|move|p2a: Sylveon|Hyper Voice|p1a: Garchomp
+|-supereffective|p1a: Garchomp|1
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|win|OrionStarDev

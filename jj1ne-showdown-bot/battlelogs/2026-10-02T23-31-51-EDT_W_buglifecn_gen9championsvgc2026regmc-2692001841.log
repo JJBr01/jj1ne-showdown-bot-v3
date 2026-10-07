@@ -1,0 +1,274 @@
+|init|battle
+|title|JJ1NE vs. Buglife-cn
+|j|☆JJ1NE
+
+|j|☆Buglife-cn
+|t:|1790998204
+|gametype|doubles
+|player|p1|JJ1NE|102|1157
+|player|p2|Buglife-cn|170|1133
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Hippowdon, L50, F|
+|poke|p2|Glimmora, L50, M|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Tyrantrum, L50, M|
+|poke|p2|Farigiraf, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Buglife-cn)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|team 4136|claude|Sand + Rock (Glimmora Power Gem, Tyrantrum Head Smash) bans Drogon. Whimsicott Tailwind + Garchomp lead pressure Glimmora/Hippowdon; Kingambit and Milotic in back.
+|
+|t:|1790998215
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Tyrantrum|Tyrantrum, L50, M|100/100
+|switch|p2b: Glimmora|Glimmora, L50, M|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|switch 4, move 4 mega|claude|Glimmora Power Gem OHKOs Drogon; Tyrantrum Head Smash OHKOs Whimsicott. Protect Drogon, pivot Milotic in safely to absorb Rock/Poison.
+|calc|Action: Whimsicott switches to Milotic | Drogon: Protect [Mega]
+|calc|Threats: Whimsicott threatened by Glimmora Sludge Bomb (174-336% OHKO); Drogon threatened by Tyrantrum Head Smash (268-439% OHKO)
+|
+|t:|1790998225
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2a: Tyrantrum|Rock Slide|p1a: Milotic|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-damage|p1a: Milotic|153/202
+|move|p2b: Glimmora|Mortal Spin|p1a: Milotic|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-damage|p1a: Milotic|144/202
+|-status|p1a: Milotic|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Milotic|156/202 psn|[from] item: Leftovers
+|-damage|p1a: Milotic|131/202 psn|[from] psn
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 2|wolfe-fallback
+|
+|t:|1790998236
+|switch|p2b: Hippowdon|Hippowdon, L50, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2b: Hippowdon
+|move|p2a: Tyrantrum|Rock Slide|p1b: Drogon|[spread] p1b
+|-miss|p2a: Tyrantrum|p1a: Milotic
+|-supereffective|p1b: Drogon|2
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p1a: Milotic|Ice Beam|p2a: Tyrantrum
+|-supereffective|p2a: Tyrantrum|1
+|-damage|p2a: Tyrantrum|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|119/202 psn|[from] Sandstorm
+|-heal|p1a: Milotic|131/202 psn|[from] item: Leftovers
+|-damage|p1a: Milotic|106/202 psn|[from] psn
+|upkeep
+|choice|pass, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790998236
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 2 1|claude|Tyrantrum at 57% is their main threat; Moonblast alone KOs 70%, Ice Beam first guarantees removal before Outrage pressures Milotic.
+|calc|Action: Milotic: Ice Beam -> Tyrantrum (26-53%) | Whimsicott: Moonblast -> Tyrantrum (44-88% (KO 70%))
+|calc|Threats: Milotic threatened by Tyrantrum Outrage (49-64% (KO 78%)); Whimsicott threatened by Hippowdon Ice Fang (33-63%)
+|
+|t:|1790998251
+|switch|p2a: Staraptor|Staraptor, L50, F|100/100
+|-ability|p2a: Staraptor|Intimidate|boost
+|-unboost|p1a: Milotic|atk|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|-unboost|p1b: Whimsicott|atk|1
+|move|p2b: Hippowdon|Protect|p2b: Hippowdon
+|-singleturn|p2b: Hippowdon|Protect
+|move|p1b: Whimsicott|Moonblast|p2a: Staraptor
+|-damage|p2a: Staraptor|50/100g
+|move|p1a: Milotic|Ice Beam|p2a: Staraptor
+|-supereffective|p2a: Staraptor|1
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Whimsicott|129/137|[from] Sandstorm
+|-damage|p1a: Milotic|94/202 psn|[from] Sandstorm
+|-heal|p1a: Milotic|106/202 psn|[from] item: Leftovers
+|-damage|p1a: Milotic|81/202 psn|[from] psn
+|upkeep
+|
+|t:|1790998255
+|switch|p2a: Glimmora|Glimmora, L50, M|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 2 2|claude|Hippowdon won't Protect twice; Scald+Moonblast guarantees the KO, removing sand and the Glimmora partner's pressure. Milotic at 40% poisoned needs tempo, not stalling.
+|calc|Action: Milotic: Scald -> Hippowdon (82-101% (OHKO 7%)) | Whimsicott: Moonblast -> Hippowdon (26-32%)
+|calc|Threats: Milotic threatened by Hippowdon High Horsepower (32-42% (KO 23%)); Whimsicott threatened by Glimmora Sludge Bomb (174-336% KO)
+|
+|t:|1790998261
+|move|p1b: Whimsicott|Moonblast|p2b: Hippowdon
+|-damage|p2b: Hippowdon|70/100
+|move|p2a: Glimmora|Mortal Spin|p1b: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1b: Whimsicott|2
+|-damage|p1a: Milotic|72/202 psn
+|-damage|p1b: Whimsicott|93/137
+|-status|p1b: Whimsicott|psn
+|move|p1a: Milotic|Scald|p2b: Hippowdon
+|-supereffective|p2b: Hippowdon|1
+|-crit|p2b: Hippowdon
+|-damage|p2b: Hippowdon|0 fnt
+|faint|p2b: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Whimsicott|85/137 psn|[from] Sandstorm
+|-damage|p1a: Milotic|60/202 psn|[from] Sandstorm
+|-heal|p1a: Milotic|72/202 psn|[from] item: Leftovers
+|-damage|p1b: Whimsicott|68/137 psn|[from] psn
+|-damage|p1a: Milotic|47/202 psn|[from] psn
+|upkeep
+|
+|t:|1790998264
+|switch|p2b: Tyrantrum|Tyrantrum, L50, M|57/100
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 2|wolfe-fallback
+|
+|t:|1790998275
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p2b: Tyrantrum|Rock Slide|p1a: Milotic|[spread] 
+|-activate|p1a: Milotic|move: Protect
+|-miss|p2b: Tyrantrum|p1b: Whimsicott
+|move|p1b: Whimsicott|Moonblast|p2b: Tyrantrum
+|-supereffective|p2b: Tyrantrum|1
+|-damage|p2b: Tyrantrum|0 fnt
+|faint|p2b: Tyrantrum
+|move|p2a: Glimmora|Earth Power|p1a: Milotic
+|-activate|p1a: Milotic|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Whimsicott|60/137 psn|[from] Sandstorm
+|-damage|p1a: Milotic|35/202 psn|[from] Sandstorm
+|-heal|p1a: Milotic|47/202 psn|[from] item: Leftovers
+|-damage|p1b: Whimsicott|43/137 psn|[from] psn
+|-damage|p1a: Milotic|22/202 psn|[from] psn
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|switch 3, move 4|claude|Milotic at 11% dies to anything; pivot to Garchomp who resists Rock and threatens Glimmora with Earthquake, Whimsicott Protects from Sludge Bomb.
+|calc|Action: Milotic switches to Garchomp | Whimsicott: Protect
+|calc|Threats: Milotic threatened by Glimmora Sludge Bomb (24-31% KO); Whimsicott threatened by Glimmora Sludge Bomb (174-336% KO)
+|
+|t:|1790998282
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|move|p1b: Whimsicott|Protect|p1b: Whimsicott
+|-singleturn|p1b: Whimsicott|Protect
+|move|p2a: Glimmora|Earth Power|p1a: Garchomp
+|-damage|p1a: Garchomp|121/185
+|
+|-weather|none
+|-damage|p1b: Whimsicott|26/137 psn|[from] psn
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 1|claude|Stomping Tantrum guarantees KO on Glimmora, ignores Spiky Shield concerns less but spares Whimsicott from Earthquake chip; Tailwind sets speed for endgame.
+|calc|Action: Garchomp: Stomping Tantrum -> Glimmora (116-210% OHKO) | Whimsicott: Tailwind
+|calc|Threats: Garchomp threatened by Glimmora Earth Power (21-38%); Whimsicott threatened by Glimmora Sludge Bomb (174-336% KO)
+|
+|t:|1790998287
+|move|p2a: Glimmora|Spiky Shield|p2a: Glimmora
+|-singleturn|p2a: Glimmora|move: Protect
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Protect
+|-damage|p1a: Garchomp|98/185|[from] Spiky Shield|[of] p2a: Glimmora
+|
+|-damage|p1b: Whimsicott|9/137 psn|[from] psn
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 4|claude|Stomping Tantrum guaranteed KOs Glimmora (and doubles power if it Spiky Shields); Whimsicott at 9% Protects to survive poison turn.
+|calc|Action: Garchomp: Stomping Tantrum -> Glimmora (116-210% OHKO) | Whimsicott: Protect
+|calc|Threats: Garchomp threatened by Glimmora Earth Power (21-38%); Whimsicott threatened by Glimmora Sludge Bomb (174-336% KO)
+|
+|t:|1790998292
+|move|p1b: Whimsicott|Protect|p1b: Whimsicott
+|-singleturn|p1b: Whimsicott|Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Glimmora
+|-supereffective|p2a: Glimmora|2
+|-enditem|p2a: Glimmora|Focus Sash
+|-damage|p2a: Glimmora|1/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: JJ1NE|move: Toxic Spikes
+|move|p2a: Glimmora|Earth Power|p1a: Garchomp
+|-damage|p1a: Garchomp|37/185
+|
+|-damage|p1b: Whimsicott|0 fnt|[from] psn
+|faint|p1b: Whimsicott
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790998292
+|switch|p1b: Milotic|Milotic, L50, F|22/202 psn
+|turn|9
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 3|claude|Garchomp's Stomping Tantrum KOs Glimmora at 1%; Milotic recovers from 11% instead of overkilling the same target.
+|calc|Action: Garchomp: Stomping Tantrum -> Glimmora (116-210% KO) | Milotic: Recover
+|calc|Threats: Garchomp threatened by Glimmora Earth Power (21-38% KO); Milotic threatened by Glimmora Sludge Bomb (24-31% KO)
+|
+|t:|1790998299
+|move|p2a: Glimmora|Spiky Shield|p2a: Glimmora
+|-singleturn|p2a: Glimmora|move: Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Glimmora
+|-activate|p2a: Glimmora|move: Protect
+|-damage|p1a: Garchomp|14/185|[from] Spiky Shield|[of] p2a: Glimmora
+|move|p1b: Milotic|Recover|p1b: Milotic
+|-heal|p1b: Milotic|123/202 psn
+|
+|-heal|p1b: Milotic|135/202 psn|[from] item: Leftovers
+|-damage|p1b: Milotic|110/202 psn|[from] psn
+|upkeep
+|turn|10
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 4|claude|Garchomp OHKOs Glimmora at 1%; overkill block sends Milotic to Protect, safe from Sludge Bomb if Spiky Shield repeats.
+|calc|Action: Garchomp: Stomping Tantrum -> Glimmora (116-210% KO) | Milotic: Protect
+|calc|Threats: Garchomp threatened by Glimmora Earth Power (21-38% KO); Milotic threatened by Glimmora Sludge Bomb (24-31%)
+|
+|t:|1790998311
+|move|p1b: Milotic|Protect|p1b: Milotic
+|-singleturn|p1b: Milotic|Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Glimmora
+|-supereffective|p2a: Glimmora|2
+|-damage|p2a: Glimmora|0 fnt
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: JJ1NE|move: Toxic Spikes
+|faint|p2a: Glimmora
+|
+|win|JJ1NE

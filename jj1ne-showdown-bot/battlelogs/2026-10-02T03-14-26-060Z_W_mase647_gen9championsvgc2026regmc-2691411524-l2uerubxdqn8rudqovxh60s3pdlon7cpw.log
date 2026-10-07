@@ -1,0 +1,116 @@
+|init|battle
+|title|mase647 vs. JJ1NE
+|j|☆mase647
+|j|☆JJ1NE
+
+|t:|1790910800
+|gametype|doubles
+|player|p1|mase647|2|1062
+|player|p2|JJ1NE|102|1114
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Azumarill, L50, F|
+|poke|p1|Serperior, L50, M|
+|poke|p1|Grapploct, L50, F|
+|poke|p1|Raichu, L50, M|
+|poke|p1|Espeon, L50, M|
+|poke|p1|Araquanid, L50, M|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4521|claude
+|
+|t:|1790910816
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Araquanid|Araquanid, L50, M|100/100
+|switch|p1b: Serperior|Serperior, L50, M|100/100
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|switch|p2b: Kingambit|Kingambit, L50, F|207/207
+|turn|1
+|choice|move 2 1, move 1 1|claude|Focus fire Araquanid: Dragon Claw plus Kowtow Cleave guarantees the KO, removing Water Bubble Liquidation before it OHKOs Garchomp.
+|
+|t:|1790910828
+|move|p1a: Araquanid|Wide Guard|p1a: Araquanid
+|-singleturn|p1a: Araquanid|Wide Guard
+|move|p2a: Garchomp|Dragon Claw|p1a: Araquanid
+|-damage|p1a: Araquanid|53/100
+|move|p1b: Serperior|Leaf Storm|p2b: Kingambit
+|-resisted|p2b: Kingambit|1
+|-damage|p2b: Kingambit|159/207
+|-boost|p1b: Serperior|spa|2
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|-damage|p2b: Kingambit|139/207|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1790910839
+|switch|p1a: Grapploct|Grapploct, L50, F|100/100
+|turn|2
+|choice|move 2 2, move 1 2|claude|Serperior at +2 is the win condition; Dragon Claw (52-62%) + Kowtow Cleave (72-88%) guarantees the KO before it snowballs further.
+|
+|t:|1790910843
+|move|p2a: Garchomp|Dragon Claw|p1b: Serperior
+|-damage|p1b: Serperior|44/100
+|move|p1b: Serperior|Leaf Storm|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-boost|p1b: Serperior|spa|2
+|faint|p2a: Garchomp
+|move|p2b: Kingambit|Kowtow Cleave|p1b: Serperior
+|-crit|p1b: Serperior
+|-damage|p1b: Serperior|0 fnt
+|faint|p1b: Serperior
+|-damage|p2b: Kingambit|119/207|[from] item: Life Orb
+|move|p1a: Grapploct|Storm Throw|p2b: Kingambit
+|-supereffective|p2b: Kingambit|2
+|-crit|p2b: Kingambit
+|-damage|p2b: Kingambit|0 fnt
+|faint|p2b: Kingambit
+|
+|upkeep
+|choice|switch 3, switch 4|engine
+|
+|t:|1790910852
+|switch|p1b: Raichu|Raichu, L50, M|100/100
+|switch|p2a: Dragonite|Dragonite, L50, F|168/168
+|switch|p2b: Drogon|Charizard, L50, F|153/153
+|turn|3
+|choice|move 1 2 mega, move 4|claude|Raichu Zap Cannon OHKOs Drogon; Draco Meteor likely KOs Raichu while Drogon Protects, leaving only slow Grapploct.
+|
+|t:|1790910860
+|detailschange|p1b: Raichu|Raichu-Mega-Y, L50, M
+|-mega|p1b: Raichu|Raichu|Raichunite Y
+|detailschange|p2a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p2a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Drogon|Protect|p2b: Drogon
+|-singleturn|p2b: Drogon|Protect
+|move|p1a: Grapploct|Protect|p1a: Grapploct
+|-singleturn|p1a: Grapploct|Protect
+|move|p1b: Raichu|Zap Cannon|p2b: Drogon
+|-activate|p2b: Drogon|move: Protect
+|move|p2a: Dragonite|Draco Meteor|p1b: Raichu
+|-damage|p1b: Raichu|0 fnt
+|-unboost|p2a: Dragonite|spa|2
+|faint|p1b: Raichu
+|
+|upkeep
+|turn|4
+|choice|move 1 1, move 1|claude|Dragonite at -2 SpA still adds enough; Draco plus Heat Wave likely KOs Grapploct through its Protect-less turn. Focus fire now.
+|-message|mase647 forfeited.
+|
+|win|JJ1NE

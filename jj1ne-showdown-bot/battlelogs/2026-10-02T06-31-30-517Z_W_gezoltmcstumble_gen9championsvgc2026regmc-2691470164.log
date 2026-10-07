@@ -1,0 +1,110 @@
+|init|battle
+|title|GEZolt Mcstumble vs. JJ1NE
+|j|☆GEZolt Mcstumble
+|j|☆JJ1NE
+
+|t:|1790922602
+|gametype|doubles
+|player|p1|GEZolt Mcstumble|hilbert|1187
+|player|p2|JJ1NE|102|1130
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Milotic, L50, M|
+|poke|p1|Pelipper, L50, M|
+|poke|p1|Sneasler, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Golisopod, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2536|claude
+|
+|t:|1790922627
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Garchomp|Garchomp, L50, F|100/100
+|switch|p1b: Sneasler|Sneasler, L50, M|100/100
+|switch|p2a: Dragonite|Dragonite, L50, F|168/168
+|switch|p2b: Kingambit|Kingambit, L50, M|207/207
+|turn|1
+|choice|move 1 2 mega, move 4|claude|Sneasler OHKOs Kingambit with Close Combat; Draco Meteor kills Sneasler first, Kingambit Protects to dodge Garchomp and Fake Out.
+|
+|t:|1790922641
+|detailschange|p1a: Garchomp|Garchomp-Mega-Z, L50, F
+|-mega|p1a: Garchomp|Garchomp|Garchompite Z
+|detailschange|p2a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p2a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Kingambit|Protect|p2b: Kingambit
+|-singleturn|p2b: Kingambit|Protect
+|move|p1b: Sneasler|Fake Out|p2b: Kingambit
+|-activate|p2b: Kingambit|move: Protect
+|move|p1a: Garchomp|Power Gem|p2a: Dragonite
+|-supereffective|p2a: Dragonite|1
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|104/168
+|move|p2a: Dragonite|Draco Meteor|p1b: Sneasler
+|-damage|p1b: Sneasler|0 fnt
+|-unboost|p2a: Dragonite|spa|2
+|faint|p1b: Sneasler
+|
+|upkeep
+|
+|t:|1790922658
+|switch|p1b: Milotic|Milotic, L50, M|100/100
+|turn|2
+|choice|move 4, move 1 1|claude|Dragonite is -2 SpA and dies to Dragon Claw; Protect it while Kingambit chunks Garchomp 66-79%, setting up a Sucker Punch KO next turn.
+|
+|t:|1790922665
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Dragonite|Protect|p2a: Dragonite
+|-singleturn|p2a: Dragonite|Protect
+|move|p1b: Milotic|Scald|p2b: Kingambit
+|-damage|p2b: Kingambit|147/207
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|upkeep
+|turn|3
+|choice|move 1 1, move 1 1|claude|Garchomp-Mega-Z is their win condition and OHKOs nothing through double focus; Draco Meteor + Kowtow Cleave guarantees the KO even at -2.
+|
+|t:|1790922679
+|move|p1a: Garchomp|Power Gem|p2a: Dragonite
+|-supereffective|p2a: Dragonite|1
+|-damage|p2a: Dragonite|24/168
+|move|p2a: Dragonite|Draco Meteor|p1a: Garchomp
+|-supereffective|p1a: Garchomp|1
+|-damage|p1a: Garchomp|30/100
+|-unboost|p2a: Dragonite|spa|2
+|move|p1b: Milotic|Scald|p2b: Kingambit
+|-damage|p2b: Kingambit|90/207
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2b: Kingambit|70/207|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1790922682
+|switch|p1a: Pelipper|Pelipper, L50, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|4
+|choice|switch 3, move 1 1|claude|Dragonite at 14% with -4 SpA is dead weight; pivot to Milotic while Kingambit heavily chips Pelipper, the rain setter.
+|-message|GEZolt Mcstumble forfeited.
+|
+|win|JJ1NE

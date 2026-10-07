@@ -1,0 +1,201 @@
+|init|battle
+|title|JJ1NE vs. Rethromono
+|j|☆JJ1NE
+
+|j|☆Rethromono
+|t:|1790910416
+|gametype|doubles
+|player|p1|JJ1NE|102|1162
+|player|p2|Rethromono|170|1149
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Serperior, L50, F, shiny|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Kingambit, L50, F, shiny|
+|poke|p2|Milotic, L50, F, shiny|
+|poke|p2|Indeedee, L50, M, shiny|
+|poke|p2|Charizard, L50, F, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rethromono)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6154|claude
+|inactive|Rethromono has 60 seconds left.
+|inactive|Rethromono has 30 seconds left.
+|
+|t:|1790910477
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Drogon|Charizard, L50, F|153/153
+|switch|p2a: Indeedee|Indeedee, L50, M, shiny|100/100
+|switch|p2b: Charizard|Charizard, L50, F, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 3 2 mega|claude|Ancient Power likely OHKOs their Charizard (their sun/power threat); Tailwind gives speed control since Psychic Terrain doesn't block it.
+|
+|t:|1790910487
+|detailschange|p2b: Charizard|Charizard-Mega-X, L50, F, shiny
+|-mega|p2b: Charizard|Charizard|Charizardite X
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1b: Drogon|Ancient Power|p2b: Charizard
+|-supereffective|p2b: Charizard|1
+|-damage|p2b: Charizard|38/100
+|move|p2a: Indeedee|Expanding Force|p1a: Whimsicott|[spread] p1a,p1b
+|-damage|p1a: Whimsicott|8/137
+|-damage|p1b: Drogon|63/153
+|move|p2b: Charizard|Dragon Dance|p2b: Charizard
+|-boost|p2b: Charizard|atk|1
+|-boost|p2b: Charizard|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 1|claude|Whimsicott Moonblast KOs +1 Charizard-X (the win condition) before it moves; Heat Wave likely KOs Indeedee too.
+|
+|t:|1790910501
+|move|p2b: Charizard|Protect|p2b: Charizard
+|-singleturn|p2b: Charizard|Protect
+|move|p1a: Whimsicott|Moonblast|p2b: Charizard
+|-activate|p2b: Charizard|move: Protect
+|move|p1b: Drogon|Heat Wave|p2b: Charizard|[spread] p2a
+|-activate|p2b: Charizard|move: Protect
+|-damage|p2a: Indeedee|3/100
+|move|p2a: Indeedee|Expanding Force|p1a: Whimsicott|[spread] p1a,p1b
+|-damage|p1a: Whimsicott|0 fnt
+|-damage|p1b: Drogon|0 fnt
+|faint|p1a: Whimsicott
+|faint|p1b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790910501
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|switch|p1b: Kingambit|Kingambit, L50, M|207/207
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 1 2|claude|Rock Slide KOs 3% Indeedee and chips Zard; Kowtow Cleave finishes +1 Charizard-X at 38% — both foes likely dead this turn.
+|
+|t:|1790910522
+|switch|p2b: Milotic|Milotic, L50, F, shiny|100/100
+|move|p1a: Garchomp|Rock Slide|p2a: Indeedee|[spread] p2a,p2b
+|-damage|p2a: Indeedee|0 fnt
+|-damage|p2b: Milotic|79/100
+|faint|p2a: Indeedee
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Milotic
+|-damage|p2b: Milotic|15/100
+|-enditem|p2b: Milotic|Sitrus Berry|[eat]
+|-heal|p2b: Milotic|40/100|[from] item: Sitrus Berry
+|-damage|p1b: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790910527
+|switch|p2a: Kingambit|Kingambit, L50, F, shiny|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 1 2|claude|Rock Slide chips both and may flinch; Kowtow Cleave KOs Milotic before it can Ice Beam Garchomp, removing their Ice coverage.
+|
+|t:|1790910530
+|move|p2a: Kingambit|Protect|p2a: Kingambit
+|-singleturn|p2a: Kingambit|Protect
+|move|p1a: Garchomp|Rock Slide|p2b: Milotic|[spread] p2b
+|-activate|p2a: Kingambit|move: Protect
+|-damage|p2b: Milotic|18/100
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Milotic
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|-damage|p1b: Kingambit|167/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790910537
+|switch|p2b: Charizard|Charizard-Mega-X, L50, F, shiny|38/100
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 4|claude|Rock Slide has 62% KO on Charizard; Kingambit Protects, since foe Zard's Weather Ball OHKOs it and Low Kick also OHKOs.
+|
+|t:|1790910543
+|move|p1b: Kingambit|Protect|p1b: Kingambit
+|-singleturn|p1b: Kingambit|Protect
+|move|p1a: Garchomp|Rock Slide|p2b: Charizard|[spread] p2a,p2b
+|-resisted|p2a: Kingambit|1
+|-supereffective|p2b: Charizard|1
+|-damage|p2a: Kingambit|91/100
+|-damage|p2b: Charizard|0 fnt
+|faint|p2b: Charizard
+|move|p2a: Kingambit|Low Kick|p1b: Kingambit
+|-activate|p1b: Kingambit|move: Protect
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 1 1|claude|Garchomp locked into Rock Slide; Kowtow Cleave hits hardest and ignores Protect-less bulk. Our Kingambit dies to Low Kick either way, so maximize damage.
+|
+|t:|1790910550
+|move|p1a: Garchomp|Rock Slide|p2a: Kingambit
+|-resisted|p2a: Kingambit|1
+|-damage|p2a: Kingambit|81/100
+|move|p2a: Kingambit|Low Kick|p1b: Kingambit
+|-supereffective|p1b: Kingambit|2
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, pass|claude|Garchomp is our last Pokemon; Rock Slide is the only legal move. Chip Kingambit and hope to outlast with speed.
+|
+|t:|1790910557
+|move|p1a: Garchomp|Rock Slide|p2a: Kingambit
+|-resisted|p2a: Kingambit|1
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|63/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-damage|p1a: Garchomp|62/185
+|-damage|p2a: Kingambit|51/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, pass|claude|Only Garchomp left with just Rock Slide usable; chip Kingambit and hope for flinch/rolls.
+|
+|t:|1790910563
+|move|p1a: Garchomp|Rock Slide|p2a: Kingambit
+|-resisted|p2a: Kingambit|1
+|-damage|p2a: Kingambit|40/100
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Kingambit|27/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|win|Rethromono

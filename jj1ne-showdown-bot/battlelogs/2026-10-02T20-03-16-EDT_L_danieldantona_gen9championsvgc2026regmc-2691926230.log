@@ -1,0 +1,157 @@
+|init|battle
+|title|JJ1NE vs. Danieldantona
+|j|☆JJ1NE
+
+|j|☆Danieldantona
+|t:|1790985553
+|gametype|doubles
+|player|p1|JJ1NE|102|1224
+|player|p2|Danieldantona|barry|1289
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Absol, L50, M|
+|poke|p2|Lucario, L50, F|
+|poke|p2|Basculegion, L50, M|
+|poke|p2|Sylveon, L50, F|
+|poke|p2|Aerodactyl, L50, F|
+|poke|p2|Tsareena, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|choice|team 5143|wolfe-fallback
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790985581
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Aerodactyl|Aerodactyl, L50, F|100/100
+|switch|p2b: Sylveon|Sylveon, L50, F|100/100
+|-ability|p2a: Aerodactyl|Unnerve
+|turn|1
+|choice|move 3 2, move 4 mega|claude|Aerodactyl Rock Slide likely OHKOs Drogon, so Protect it while Kingambit Iron Head guarantees the KO on Sylveon; Aerodactyl's Sash blanks our damage anyway.
+|calc|Action: Kingambit: Iron Head -> Sylveon (101-150% OHKO) | Drogon: Protect [Mega]
+|calc|Threats: Kingambit threatened by Aerodactyl Dual Wingbeat (91-107% (OHKO 47%)); Drogon threatened by Aerodactyl Dual Wingbeat (268-367% OHKO)
+|
+|t:|1790985630
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2a: Aerodactyl|Rock Slide|p1b: Drogon|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-resisted|p1a: Kingambit|1
+|-damage|p1a: Kingambit|186/207
+|move|p2b: Sylveon|Hyper Voice|p1b: Drogon|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-damage|p1a: Kingambit|95/207
+|move|p1a: Kingambit|Iron Head|p2b: Sylveon
+|-supereffective|p2b: Sylveon|1
+|-damage|p2b: Sylveon|0 fnt
+|faint|p2b: Sylveon
+|-damage|p1a: Kingambit|75/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790985654
+|switch|p2b: Lucario|Lucario, L50, F|100/100
+|turn|2
+|choice|move 4, move 2|claude|Heat Wave KOs Lucario before it Megas and chips Aerodactyl; Kingambit Protects the Dual Wingbeat/Aura Sphere OHKO at 36%.
+|calc|Action: Kingambit: Protect | Drogon: Heat Wave (spread) -> Aerodactyl (29-55%), Lucario (130-250% OHKO)
+|calc|Threats: Kingambit threatened by Lucario Aura Sphere (118-180% KO); Drogon threatened by Aerodactyl Dual Wingbeat (268-367% OHKO)
+|
+|t:|1790985665
+|detailschange|p2b: Lucario|Lucario-Mega-Z, L50, F
+|-mega|p2b: Lucario|Lucario|Lucarionite Z
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Aerodactyl|Rock Slide|p1a: Kingambit|[spread] p1b
+|-activate|p1a: Kingambit|move: Protect
+|-supereffective|p1b: Drogon|2
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p2b: Lucario|Aura Sphere|p1a: Kingambit
+|-activate|p1a: Kingambit|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790985665
+|switch|p1b: Garchomp|Garchomp, L50, M|185/185
+|turn|3
+|choice|move 3 1, move 1|claude|Garchomp (Scarf, fastest) Earthquakes: 56% KO on Lucario; Kingambit Iron Head breaks Aerodactyl Sash. EQ chip on Kingambit acceptable — removing Lucario is the win condition.
+|calc|Action: Kingambit: Iron Head -> Aerodactyl (110-213% OHKO) | Garchomp: Earthquake (spread) -> Aerodactyl (0-0%), Lucario-Mega-Z (71-136% (OHKO 56%))
+|calc|Threats: Kingambit threatened by Lucario-Mega-Z Aura Sphere (151-228% KO); Garchomp threatened by Aerodactyl Dual Wingbeat (200-304% OHKO)
+|
+|t:|1790985707
+|move|p2b: Lucario|Detect|p2b: Lucario
+|-singleturn|p2b: Lucario|Protect
+|move|p1b: Garchomp|Earthquake|p2b: Lucario|[spread] p1a
+|-activate|p2b: Lucario|move: Protect
+|-immune|p2a: Aerodactyl
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|move|p2a: Aerodactyl|Tailwind|p2a: Aerodactyl
+|-sidestart|p2: Danieldantona|move: Tailwind
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790985707
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|choice|move 1, move 1|claude|Only 2 left vs 2; Tailwind at full HP flips speed, EQ threatens 56% KO on Lucario. Whimsicott survives Rock Slide/Flash Cannon chip.
+|calc|Action: Whimsicott: Tailwind | Garchomp: Earthquake (spread) -> Aerodactyl (0-0%), Lucario-Mega-Z (71-136% (OHKO 56%))
+|calc|Threats: Whimsicott threatened by Aerodactyl Dual Wingbeat (566-886% OHKO); Garchomp threatened by Aerodactyl Dual Wingbeat (200-304% OHKO)
+|
+|t:|1790985773
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1b: Garchomp|Earthquake|p2b: Lucario|[spread] p1a,p2b
+|-immune|p2a: Aerodactyl
+|-resisted|p1a: Whimsicott|1
+|-supereffective|p2b: Lucario|1
+|-damage|p1a: Whimsicott|96/137
+|-damage|p2b: Lucario|5/100
+|move|p2a: Aerodactyl|Dual Wingbeat|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|24/137
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|-hitcount|p1: Whimsicott|2
+|move|p2b: Lucario|Flash Cannon|p1b: Garchomp
+|-damage|p1b: Garchomp|68/185
+|-unboost|p1b: Garchomp|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|choice|pass, move 1|claude|Only Garchomp alive and Choice-locked; Earthquake KOs Lucario at 5% and Aerodactyl is immune anyway.
+|calc|Action: Garchomp: Earthquake (spread) -> Aerodactyl (0-0%), Lucario-Mega-Z (71-136% KO)
+|calc|Threats: Garchomp threatened by Aerodactyl Dual Wingbeat (200-304% KO)
+|
+|t:|1790985796
+|move|p2b: Lucario|Vacuum Wave|p1b: Garchomp
+|-damage|p1b: Garchomp|0 fnt
+|faint|p1b: Garchomp
+|
+|win|Danieldantona

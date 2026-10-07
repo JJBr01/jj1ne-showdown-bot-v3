@@ -1,0 +1,141 @@
+|init|battle
+|title|Inner won vs. JJ1NE
+|j|☆Inner won
+|j|☆JJ1NE
+
+|t:|1790905322
+|gametype|doubles
+|player|p1|Inner won|cyrus|1171
+|player|p2|JJ1NE|102|1175
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Mawile, L50, M|
+|poke|p1|Gardevoir, L50, F|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Torkoal, L50, F|
+|poke|p1|Oranguru, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6152|claude
+|
+|t:|1790905361
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Mawile|Mawile, L50, M|100/100
+|switch|p1b: Farigiraf|Farigiraf, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-ability|p1a: Mawile|Intimidate|boost
+|-unboost|p2a: Whimsicott|atk|1
+|-unboost|p2b: Drogon|atk|1
+|turn|1
+|choice|move 2 2, move 1 mega|claude|Trick Room team: Heat Wave KOs Mawile (their TR abuser) and Moonblast plus Heat Wave likely KOs Farigiraf, the TR setter, before it moves.
+|
+|t:|1790905380
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1a: Mawile|Protect|p1a: Mawile
+|-singleturn|p1a: Mawile|Protect
+|move|p2a: Whimsicott|Moonblast|p1b: Farigiraf
+|-crit|p1b: Farigiraf
+|-damage|p1b: Farigiraf|64/100
+|move|p2b: Drogon|Heat Wave|p1b: Farigiraf|[spread] p1b
+|-activate|p1a: Mawile|move: Protect
+|-crit|p1b: Farigiraf
+|-damage|p1b: Farigiraf|0 fnt
+|faint|p1b: Farigiraf
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790905396
+|switch|p1b: Oranguru|Oranguru, L50, F|100/100
+|turn|2
+|choice|move 3 1, move 1|claude|Heat Wave KOs Mawile if it doesn't Protect; Encore locks Mawile into Protect, denying Mega and Sucker Punch while we clean Oranguru.
+|
+|t:|1790905404
+|switch|p1a: Torkoal|Torkoal, L50, F|100/100
+|move|p2a: Whimsicott|Encore||[still]
+|-fail|p2a: Whimsicott
+|move|p2b: Drogon|Heat Wave|p1b: Oranguru|[spread] p1a,p1b
+|-resisted|p1a: Torkoal|1
+|-damage|p1a: Torkoal|54/100
+|-damage|p1b: Oranguru|53/100
+|move|p1b: Oranguru|Trick Room|p1b: Oranguru
+|-fieldstart|move: Trick Room|[of] p1b: Oranguru
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|choice|move 3 2, move 1|claude|Heat Wave likely KOs Oranguru (65-76% on 53%) and heavily chips Torkoal; Encore locks Oranguru into Trick Room, ending it if it survives.
+|
+|t:|1790905430
+|switch|p1b: Mawile|Mawile, L50, M|100/100
+|-ability|p1b: Mawile|Intimidate|boost
+|-unboost|p2a: Whimsicott|atk|1
+|-unboost|p2b: Drogon|atk|1
+|move|p2a: Whimsicott|Encore||[still]
+|-fail|p2a: Whimsicott
+|move|p1a: Torkoal|Eruption|p2b: Drogon|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-resisted|p2b: Drogon|1
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|-damage|p2b: Drogon|117/153
+|move|p2b: Drogon|Heat Wave|p1a: Torkoal|[spread] p1a,p1b
+|-resisted|p1a: Torkoal|1
+|-supereffective|p1b: Mawile|1
+|-damage|p1a: Torkoal|4/100
+|-damage|p1b: Mawile|0 fnt
+|faint|p1b: Mawile
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790905441
+|switch|p1b: Oranguru|Oranguru, L50, F|53/100
+|turn|4
+|choice|move 2 1, move 1|claude|Heat Wave KOs Torkoal and nearly Oranguru; Moonblast secures Torkoal kill if Heat Wave misses, Whimsicott dies anyway to Eruption.
+|
+|t:|1790905450
+|move|p1a: Torkoal|Eruption|p2b: Drogon|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-resisted|p2b: Drogon|1
+|-damage|p2a: Whimsicott|0 fnt
+|-damage|p2b: Drogon|114/153
+|faint|p2a: Whimsicott
+|move|p1b: Oranguru|Yawn|p2b: Drogon
+|-start|p2b: Drogon|move: Yawn|[of] p1b: Oranguru
+|move|p2b: Drogon|Heat Wave|p1b: Oranguru|[spread] p1a,p1b
+|-resisted|p1a: Torkoal|1
+|-damage|p1a: Torkoal|0 fnt
+|-damage|p1b: Oranguru|13/100
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790905450
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|turn|5
+|choice|move 1 2, switch 4|claude|Kingambit moves first under TR and KOs Oranguru; Drogon swaps to Dragonite to shed the Yawn sleep.
+|-message|Inner won forfeited.
+|
+|win|JJ1NE

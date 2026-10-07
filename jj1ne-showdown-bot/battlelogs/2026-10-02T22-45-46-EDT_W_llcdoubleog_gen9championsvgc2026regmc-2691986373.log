@@ -1,0 +1,162 @@
+|init|battle
+|title|LLCDoubleOG vs. JJ1NE
+|j|☆LLCDoubleOG
+|j|☆JJ1NE
+
+|t:|1790995433
+|gametype|doubles
+|player|p1|LLCDoubleOG|266|1133
+|player|p2|JJ1NE|102|1126
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Scrafty, L50, F|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Gholdengo, L50|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Sneasler, L50, F|
+|poke|p1|Volcarona, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4152|claude|Whimsicott Encore/Tailwind vs Farigiraf TR; Charizard-Y burns Rillaboom/Volcarona/Sneasler. Kingambit back (Rillaboom High Horsepower), Dragonite unneeded; Milotic bulky backup.
+|
+|t:|1790995469
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Sneasler|Sneasler, L50, F|100/100
+|switch|p1b: Gholdengo|Gholdengo, L50|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LLCDoubleOG)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|move 4, move 2 mega|claude|Heat Wave KOs Gholdengo and likely leaves Sneasler near dead; Whimsicott Protects Fake Out/Make It Rain which would OHKO it.
+|calc|Action: Whimsicott: Protect | Drogon: Heat Wave [Mega] (spread) -> Sneasler (29-54%), Gholdengo (53-85%)
+|calc|Threats: Whimsicott threatened by Sneasler Dire Claw (160-301% OHKO); Drogon threatened by Sneasler Rock Slide (71-115% (OHKO 35%))
+|
+|t:|1790995476
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Sneasler|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|124/153
+|-status|p2b: Drogon|psn|[from] ability: Poison Touch|[of] p1a: Sneasler
+|cant|p2b: Drogon|flinch
+|move|p1b: Gholdengo|Shadow Ball|p2b: Drogon
+|-damage|p2b: Drogon|49/153 psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2b: Drogon|30/153 psn|[from] psn
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 2|claude|Drogon at 20% poisoned dies soon regardless; Heat Wave KOs Gholdengo and likely cripples Sneasler while Whimsicott sets Tailwind for Kingambit/Dragonite.
+|calc|Action: Whimsicott: Tailwind | Drogon: Heat Wave (spread) -> Sneasler (56-104% (OHKO 9%)), Gholdengo (102-168% OHKO)
+|calc|Threats: Whimsicott threatened by Gholdengo Make It Rain (116-224% OHKO); Drogon threatened by Sneasler Rock Slide (71-115% KO)
+|
+|t:|1790995490
+|move|p1b: Gholdengo|Protect|p1b: Gholdengo
+|-singleturn|p1b: Gholdengo|Protect
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p2b: Drogon|Heat Wave|p1a: Sneasler|[spread] p1a
+|-activate|p1b: Gholdengo|move: Protect
+|-damage|p1a: Sneasler|2/100
+|move|p1a: Sneasler|Dire Claw|p2b: Drogon
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 415 sec total
+|
+|t:|1790995490
+|switch|p2b: Kingambit|Kingambit, L50, M|207/207
+|turn|3
+|inactive|Time left: 55 sec this turn | 415 sec total
+|choice|move 2 1, move 1 2|claude|Moonblast KOs Sneasler at 2%, Kowtow Cleave likely KOs Gholdengo; removes both threats this turn rather than Protect-stalling.
+|calc|Action: Whimsicott: Moonblast -> Sneasler (27-52% KO) | Kingambit: Kowtow Cleave -> Gholdengo (89-148% (OHKO 82%))
+|calc|Threats: Whimsicott threatened by Sneasler Dire Claw (160-301% OHKO); Kingambit threatened by Gholdengo Make It Rain (21-33%)
+|
+|t:|1790995511
+|switch|p1a: Volcarona|Volcarona, L50, M|100/100
+|move|p2a: Whimsicott|Moonblast|p1a: Volcarona
+|-resisted|p1a: Volcarona|1
+|-damage|p1a: Volcarona|85/100
+|move|p2b: Kingambit|Kowtow Cleave|p1b: Gholdengo
+|-supereffective|p1b: Gholdengo|1
+|-damage|p1b: Gholdengo|0 fnt
+|faint|p1b: Gholdengo
+|-damage|p2b: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790995513
+|switch|p1b: Sneasler|Sneasler, L50, F|2/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 415 sec total
+|choice|move 2 2, move 1 1|claude|Whimsicott outspeeds in Tailwind: Moonblast KOs 2% Sneasler before Dire Claw; Kingambit hits Volcarona into KO range.
+|calc|Action: Whimsicott: Moonblast -> Sneasler (27-52% KO) | Kingambit: Kowtow Cleave -> Volcarona (52-61%)
+|calc|Threats: Whimsicott threatened by Sneasler Dire Claw (160-301% OHKO); Kingambit threatened by Volcarona Struggle Bug (12-18%)
+|
+|t:|1790995527
+|move|p1b: Sneasler|Fake Out|p2a: Whimsicott
+|-damage|p2a: Whimsicott|106/137
+|cant|p2a: Whimsicott|flinch
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Volcarona
+|-damage|p1a: Volcarona|8/100
+|-damage|p2b: Kingambit|167/207|[from] item: Life Orb
+|move|p1a: Volcarona|Heat Wave|p2a: Whimsicott|[spread] p2a
+|-miss|p1a: Volcarona|p2b: Kingambit
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 415 sec total
+|
+|t:|1790995527
+|switch|p2a: Dragonite|Dragonite, L50, M|168/168
+|turn|5
+|inactive|Time left: 55 sec this turn | 415 sec total
+|choice|move 2, move 4|claude|Heat Wave (sun-boosted) KOs both 8% Volcarona and 2% Sneasler; Kingambit Protects to dodge Heat Wave/Dire Claw entirely.
+|calc|Action: Dragonite: Heat Wave (spread) -> Volcarona (22-33% KO), Sneasler (27-50% KO) | Kingambit: Protect
+|calc|Threats: Dragonite threatened by Sneasler Dire Claw (30-56%); Kingambit threatened by Volcarona Heat Wave (67-100% (KO 58%))
+|
+|t:|1790995537
+|move|p2b: Kingambit|Protect|p2b: Kingambit
+|-singleturn|p2b: Kingambit|Protect
+|move|p1a: Volcarona|Rage Powder|p1a: Volcarona
+|-singleturn|p1a: Volcarona|move: Rage Powder
+|move|p2a: Dragonite|Heat Wave|p1b: Sneasler|[spread] p1a,p1b
+|-damage|p1a: Volcarona|0 fnt
+|-damage|p1b: Sneasler|0 fnt
+|faint|p1a: Volcarona
+|faint|p1b: Sneasler
+|
+|-weather|none
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|c|☆LLCDoubleOG|Pure luck
+|-message|LLCDoubleOG forfeited.
+|
+|win|JJ1NE

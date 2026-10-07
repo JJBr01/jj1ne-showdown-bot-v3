@@ -1,0 +1,83 @@
+|init|battle
+|title|eririkunsama vs. JJ1NE
+|j|☆eririkunsama
+|j|☆JJ1NE
+
+|t:|1790903017
+|gametype|doubles
+|player|p1|eririkunsama|170|1195
+|player|p2|JJ1NE|102|1204
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Indeedee-F, L50, F, shiny|
+|poke|p1|Torkoal, L50, F, shiny|
+|poke|p1|Hatterene, L50, F|
+|poke|p1|Armarouge, L50, F|
+|poke|p1|Gallade, L50, M|
+|poke|p1|Crabominable, L50, M, shiny|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6152|claude
+|
+|t:|1790903048
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Indeedee|Indeedee-F, L50, F, shiny|100/100
+|switch|p1b: Hatterene|Hatterene, L50, F|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, F|153/153
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|-enditem|p1a: Indeedee|Psychic Seed
+|-boost|p1a: Indeedee|spd|1|[from] item: Psychic Seed
+|turn|1
+|choice|move 1, move 1 mega|claude|Trick Room is coming; but Hatterene is slowest and Tailwind now outspeeds Indeedee. Heat Wave chunks both; Mega sun boosts future Heat Waves.
+|
+|t:|1790903065
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1b: Hatterene|Protect|p1b: Hatterene
+|-singleturn|p1b: Hatterene|Protect
+|move|p1a: Indeedee|Follow Me|p1a: Indeedee
+|-singleturn|p1a: Indeedee|move: Follow Me
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p2b: Drogon|Heat Wave|p1b: Hatterene|[spread] p1a
+|-activate|p1b: Hatterene|move: Protect
+|-damage|p1a: Indeedee|57/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 3 2, move 1|claude|Heat Wave likely KOs Indeedee (57%) and chips Hatterene; Encore locks Hatterene into Protect, denying Trick Room next turn.
+|
+|t:|1790903072
+|move|p1b: Hatterene|Protect|p1b: Hatterene
+|-singleturn|p1b: Hatterene|Protect
+|move|p2a: Whimsicott|Encore|p1b: Hatterene
+|-activate|p1b: Hatterene|move: Psychic Terrain
+|move|p2b: Drogon|Heat Wave|p1a: Indeedee|[spread] p1a
+|-activate|p1b: Hatterene|move: Protect
+|-crit|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|eririkunsama forfeited.
+|
+|win|JJ1NE

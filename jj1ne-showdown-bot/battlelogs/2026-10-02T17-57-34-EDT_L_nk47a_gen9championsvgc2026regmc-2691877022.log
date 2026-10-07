@@ -1,0 +1,295 @@
+|init|battle
+|title|NK47A vs. JJ1NE
+|j|☆NK47A
+|j|☆JJ1NE
+
+|t:|1790978046
+|gametype|doubles
+|player|p1|NK47A|102|1081
+|player|p2|JJ1NE|102|1035
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Sneasler, L50, M|
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Pincurchin, L50, F|
+|poke|p1|Raichu, L50, F|
+|poke|p1|Garchomp, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6234|claude|Milotic+Garchomp lead: Competitive +2 off Incineroar Intimidate, Scarf EQ hits Pincurchin/Raichu/Incineroar. Mega Dragonite back as cleaner, Whimsicott Tailwind backup.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NK47A)
+|
+|t:|1790978066
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Raichu|Raichu, L50, F|100/100
+|switch|p1b: Pincurchin|Pincurchin, L50, F|100/100
+|switch|p2a: Milotic|Milotic, L50, F|202/202
+|switch|p2b: Dragonite|Dragonite, L50, M|168/168
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1b: Pincurchin
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|default|wolfe-fallback
+|
+|t:|1790978076
+|move|p1a: Raichu|Fake Out|p2a: Milotic
+|-damage|p2a: Milotic|187/202
+|move|p2b: Dragonite|Dragon Pulse|p1b: Pincurchin
+|-damage|p1b: Pincurchin|47/100
+|cant|p2a: Milotic|flinch
+|move|p1b: Pincurchin|Discharge|p2a: Milotic|[spread] p2a,p2b
+|-ability|p1a: Raichu|Lightning Rod|boost
+|-boost|p1a: Raichu|spa|1
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|78/202
+|-damage|p2b: Dragonite|78/168
+|-status|p2b: Dragonite|par
+|-damage|p1b: Pincurchin|38/100|[from] item: Life Orb
+|
+|-heal|p2a: Milotic|90/202|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|switch 3, move 1 2 mega|claude|Milotic dies to Zap Cannon/Rising Voltage; Garchomp is Electric-immune. Mega Dragon Pulse KOs Pincurchin, removing terrain and Discharge.
+|calc|Action: Milotic switches to Garchomp | Dragonite: Dragon Pulse [Mega] -> Pincurchin (37-59% (KO 97%))
+|calc|Threats: Milotic threatened by Raichu Zap Cannon (75-96% KO); Dragonite threatened by Raichu Zap Cannon (48-86% KO)
+|inactive|NK47A has 30 seconds left.
+|
+|t:|1790978104
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|detailschange|p2b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p2b: Dragonite|Dragonite|Dragoninite
+|move|p1a: Raichu|Protect|p1a: Raichu
+|-singleturn|p1a: Raichu|Protect
+|move|p2b: Dragonite|Dragon Pulse|p1b: Pincurchin
+|-damage|p1b: Pincurchin|0 fnt
+|faint|p1b: Pincurchin
+|
+|upkeep
+|
+|t:|1790978109
+|switch|p1b: Incineroar|Incineroar, L50, F|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2b: Dragonite|atk|1
+|turn|3
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 1, move 1 1|claude|Earthquake can't hit Flying Dragonite; focus Raichu — EQ 57-84% plus Dragon Pulse 47-74% likely KOs the Mega-threat before it Zap Cannons.
+|calc|Action: Garchomp: Earthquake (spread) -> Raichu (57-84%), Incineroar (36-49%) | Dragonite: Dragon Pulse -> Raichu (47-74%)
+|calc|Threats: Garchomp threatened by Raichu Focus Blast (25-45%); Dragonite threatened by Raichu Zap Cannon (41-71% (KO 83%))
+|
+|t:|1790978119
+|detailschange|p1a: Raichu|Raichu-Mega-Y, L50, F
+|-mega|p1a: Raichu|Raichu|Raichunite Y
+|move|p1b: Incineroar|Fake Out|p2a: Garchomp
+|-damage|p2a: Garchomp|164/185
+|-damage|p1b: Incineroar|87/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|cant|p2a: Garchomp|flinch
+|move|p1a: Raichu|Zap Cannon|p2b: Dragonite
+|-crit|p2b: Dragonite
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2b: Dragonite
+|
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 405 sec total
+|
+|t:|1790978119
+|switch|p2b: Milotic|Milotic, L50, F|90/202
+|turn|4
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, move 4|claude|Stomping Tantrum hits Raichu hardest without chipping Milotic; Milotic Protects the guaranteed Zap Cannon OHKO. Must remove Raichu.
+|calc|Action: Garchomp: Stomping Tantrum -> Raichu-Mega-Y (59-86%) | Milotic: Protect
+|calc|Threats: Garchomp threatened by Raichu-Mega-Y Focus Blast (49-87%); Milotic threatened by Raichu-Mega-Y Zap Cannon (143-185% KO)
+|
+|t:|1790978134
+|move|p1a: Raichu|Protect|p1a: Raichu
+|-singleturn|p1a: Raichu|Protect
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Raichu
+|-activate|p1a: Raichu|move: Protect
+|move|p1b: Incineroar|Parting Shot|p2a: Garchomp
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2a: Garchomp|spa|1
+|
+|t:|1790978146
+|switch|p1b: Garchomp|Garchomp, L50, M|100/100|[from] Parting Shot
+|
+|-heal|p2b: Milotic|102/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, move 2 2|claude|Raichu Zap Cannon OHKOs Milotic; pressure it with Stomping Tantrum while Ice Beam threatens a KO on their Garchomp. Raichu Protected last turn, unlikely twice.
+|calc|Action: Garchomp: Stomping Tantrum -> Raichu-Mega-Y (44-65%) | Milotic: Ice Beam -> Garchomp (56-102% (OHKO 5%))
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% (KO 44%)); Milotic threatened by Raichu-Mega-Y Zap Cannon (143-185% KO)
+|
+|t:|1790978158
+|switch|p1b: Incineroar|Incineroar, L50, F|87/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2b: Milotic|atk|1
+|-ability|p2b: Milotic|Competitive|boost
+|-boost|p2b: Milotic|spa|2
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Raichu
+|-supereffective|p1a: Raichu|1
+|-damage|p1a: Raichu|64/100
+|move|p1a: Raichu|Zap Cannon|p2b: Milotic
+|-supereffective|p2b: Milotic|1
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|choice|pass, switch 4|engine
+|inactive|Time left: 55 sec this turn | 405 sec total
+|
+|t:|1790978158
+|switch|p2b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|6
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, move 2 1|claude|We are 2v2 down to last mons; focus fire Raichu. Stomping Tantrum + Moonblast likely KOs the 64% Mega Raichu, removing their Zap Cannon win condition.
+|calc|Action: Garchomp: Stomping Tantrum -> Raichu-Mega-Y (36-43%) | Whimsicott: Moonblast -> Raichu-Mega-Y (31-49%)
+|calc|Threats: Garchomp threatened by Raichu-Mega-Y Focus Blast (42-74%); Whimsicott threatened by Incineroar Flare Blitz (90-166% (OHKO 87%))
+|
+|t:|1790978178
+|move|p1b: Incineroar|Fake Out|p2a: Garchomp
+|-damage|p2a: Garchomp|142/185
+|-damage|p1b: Incineroar|75/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|cant|p2a: Garchomp|flinch
+|move|p2b: Whimsicott|Moonblast|p1a: Raichu
+|-damage|p1a: Raichu|22/100
+|move|p1a: Raichu|Zap Cannon|p2b: Whimsicott
+|-resisted|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|16/137
+|-status|p2b: Whimsicott|par
+|
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, move 2 1|claude|Raichu at 22%: Stomping Tantrum KOs it outright, Whimsicott's Moonblast also KOs; focus fire removes their faster sweeper before it acts.
+|calc|Action: Garchomp: Stomping Tantrum -> Raichu-Mega-Y (36-43% KO) | Whimsicott: Moonblast -> Raichu-Mega-Y (31-49% KO)
+|calc|Threats: Garchomp threatened by Raichu-Mega-Y Focus Blast (42-74%); Whimsicott threatened by Incineroar Flare Blitz (90-166% KO)
+|
+|t:|1790978195
+|move|p1a: Raichu|Protect|p1a: Raichu
+|-singleturn|p1a: Raichu|Protect
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Raichu
+|-activate|p1a: Raichu|move: Protect
+|move|p2b: Whimsicott|Moonblast|p1a: Raichu
+|-activate|p1a: Raichu|move: Protect
+|move|p1b: Incineroar|Parting Shot|p2a: Garchomp
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2a: Garchomp|spa|1
+|
+|t:|1790978206
+|switch|p1b: Garchomp|Garchomp, L50, M|100/100|[from] Parting Shot
+|
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, move 2 1|claude|Raichu at 22%: Stomping Tantrum (30-36%) KOs it, Moonblast also KOs — but Garchomp fires first; Whimsicott Moonblast backs it up in case of Protect.
+|calc|Action: Garchomp: Stomping Tantrum -> Raichu-Mega-Y (30-36% KO) | Whimsicott: Moonblast -> Raichu-Mega-Y (31-49% KO)
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% (KO 69%)); Whimsicott threatened by Raichu-Mega-Y Zap Cannon (43-83% KO)
+|
+|t:|1790978212
+|switch|p1b: Incineroar|Incineroar, L50, F|75/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2b: Whimsicott|atk|1
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Raichu
+|-supereffective|p1a: Raichu|1
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|move|p2b: Whimsicott|Moonblast|p1b: Incineroar
+|-damage|p1b: Incineroar|50/100y
+|-enditem|p1b: Incineroar|Sitrus Berry|[eat]
+|-heal|p1b: Incineroar|74/100|[from] item: Sitrus Berry
+|
+|upkeep
+|
+|t:|1790978220
+|switch|p1a: Garchomp|Garchomp, L50, M|100/100
+|turn|9
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 2, move 2 1|claude|Candidates are stale (Raichu fainted, Milotic fainted). Moonblast foe Garchomp 47-85% is our only real damage; Stomping Tantrum chips it too.
+|calc|Action: Garchomp: Stomping Tantrum -> Incineroar (16-22%) | Whimsicott: Moonblast -> Garchomp (47-85%)
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% (KO 69%)); Whimsicott threatened by Incineroar Flare Blitz (90-166% KO)
+|
+|t:|1790978224
+|move|p1b: Incineroar|Fake Out|p2a: Garchomp
+|-damage|p2a: Garchomp|123/185
+|-damage|p1b: Incineroar|62/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|cant|p2a: Garchomp|flinch
+|move|p1a: Garchomp|Rock Slide|p2a: Garchomp|[spread] p2a,p2b
+|-resisted|p2a: Garchomp|1
+|-damage|p2a: Garchomp|103/185
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|
+|upkeep
+|turn|10
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 2, pass|claude|Last mon, Choice-locked; Stomping Tantrum into Incineroar deals real damage since foe Garchomp resists Ground.
+|calc|Action: Garchomp: Stomping Tantrum -> Incineroar (16-22%)
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% KO)
+|
+|t:|1790978236
+|move|p2a: Garchomp|Stomping Tantrum|p1b: Incineroar
+|-supereffective|p1b: Incineroar|1
+|-damage|p1b: Incineroar|23/100
+|move|p1a: Garchomp|Rock Slide|p2a: Garchomp
+|-resisted|p2a: Garchomp|1
+|-damage|p2a: Garchomp|75/185
+|move|p1b: Incineroar|Snarl|p2a: Garchomp|[miss]
+|-miss|p1b: Incineroar|p2a: Garchomp
+|
+|upkeep
+|turn|11
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 2, pass|claude|Last mon, Choice-locked; Stomping Tantrum into 23% Incineroar is our only KO chance before Garchomp finishes us.
+|calc|Action: Garchomp: Stomping Tantrum -> Incineroar (16-22%)
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% KO)
+|
+|t:|1790978251
+|move|p2a: Garchomp|Stomping Tantrum|p1b: Incineroar
+|-supereffective|p1b: Incineroar|1
+|-damage|p1b: Incineroar|2/100
+|move|p1a: Garchomp|Rock Slide|p2a: Garchomp
+|-resisted|p2a: Garchomp|1
+|-damage|p2a: Garchomp|50/185
+|move|p1b: Incineroar|Flare Blitz|p2a: Garchomp
+|-resisted|p2a: Garchomp|1
+|-damage|p2a: Garchomp|5/185
+|-damage|p1b: Incineroar|0 fnt|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p1b: Incineroar
+|
+|upkeep
+|turn|12
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4 1, pass|claude|Only legal action; Garchomp is Choice-locked at 3% and must attack — chip Garchomp before it KOs us.
+|calc|Action: Garchomp: Stomping Tantrum -> Garchomp (7-13%)
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (62-110% KO)
+|
+|t:|1790978254
+|move|p2a: Garchomp|Stomping Tantrum|p1a: Garchomp
+|-damage|p1a: Garchomp|88/100
+|-damage|p2a: Garchomp|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p2a: Garchomp
+|
+|win|NK47A

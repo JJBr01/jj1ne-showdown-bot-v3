@@ -1,0 +1,207 @@
+|init|battle
+|title|Smizzo vs. JJ1NE
+|j|☆Smizzo
+|j|☆JJ1NE
+
+|t:|1790959344
+|gametype|doubles
+|player|p1|Smizzo|266|1148
+|player|p2|JJ1NE|102|1068
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Farigiraf, L50, F|
+|poke|p1|Tsareena, L50, F|
+|poke|p1|Glimmora, L50, M|
+|poke|p1|Volcarona, L50, F|
+|poke|p1|Pawmot, L50, M|
+|poke|p1|Pelipper, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, F|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2613|claude
+|
+|t:|1790959381
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Glimmora|Glimmora, L50, M|100/100
+|switch|p1b: Pawmot|Pawmot, L50, M|100/100
+|switch|p2a: Dragonite|Dragonite, L50, F|168/168
+|switch|p2b: Whimsicott|Whimsicott, L50, M|137/137
+|turn|1
+|choice|move 1 1 mega, move 2 2|claude|Glimmora Mega Power Gem threatens everything; Draco Meteor likely KOs it before it Megas. Moonblast breaks Pawmot's Sash.
+|
+|t:|1790959398
+|detailschange|p2a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p2a: Dragonite|Dragonite|Dragoninite
+|move|p1b: Pawmot|Fake Out|p2b: Whimsicott
+|-damage|p2b: Whimsicott|109/137
+|cant|p2b: Whimsicott|flinch
+|move|p2a: Dragonite|Draco Meteor|p1a: Glimmora|[miss]
+|-miss|p2a: Dragonite|p1a: Glimmora
+|move|p1a: Glimmora|Power Gem|p2a: Dragonite
+|-supereffective|p2a: Dragonite|1
+|-damage|p2a: Dragonite|98/168
+|
+|upkeep
+|turn|2
+|choice|move 4, move 2 2|claude|Glimmora Mega Power Gem OHKOs Dragonite at 58%; Protect it while Whimsicott breaks Pawmot's Sash with Moonblast.
+|
+|t:|1790959422
+|detailschange|p1a: Glimmora|Glimmora-Mega, L50, M
+|-mega|p1a: Glimmora|Glimmora|Glimmoranite
+|move|p2a: Dragonite|Protect|p2a: Dragonite
+|-singleturn|p2a: Dragonite|Protect
+|move|p2b: Whimsicott|Moonblast|p1b: Pawmot
+|-supereffective|p1b: Pawmot|1
+|-damage|p1b: Pawmot|0 fnt
+|faint|p1b: Pawmot
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Dragonite|[spread] p2b
+|-activate|p2a: Dragonite|move: Protect
+|-damage|p2b: Whimsicott|47/137
+|
+|upkeep
+|
+|t:|1790959432
+|switch|p1b: Volcarona|Volcarona, L50, F|100/100
+|turn|3
+|choice|move 1 1, move 4|claude|Glimmora-Mega OHKOs everything; Draco Meteor likely kills it. Whimsicott Protects to survive Dazzling Gleam and keep Tailwind/Encore available.
+|
+|t:|1790959437
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p1b: Volcarona|Rage Powder|p1b: Volcarona
+|-singleturn|p1b: Volcarona|move: Rage Powder
+|move|p1a: Glimmora|Dazzling Gleam|p2b: Whimsicott|[spread] p2a
+|-activate|p2b: Whimsicott|move: Protect
+|-supereffective|p2a: Dragonite|1
+|-damage|p2a: Dragonite|16/168
+|move|p2a: Dragonite|Draco Meteor|p1b: Volcarona
+|-damage|p1b: Volcarona|36/100
+|-unboost|p2a: Dragonite|spa|2
+|
+|upkeep
+|turn|4
+|choice|move 4, switch 4|claude|Dragonite at 10% survives only behind Protect; Whimsicott pivots to healthy Milotic, who tanks Dazzling Gleam and answers Glimmora.
+|
+|t:|1790959455
+|switch|p2b: Milotic|Milotic, L50, F|202/202
+|move|p2a: Dragonite|Protect|p2a: Dragonite
+|-singleturn|p2a: Dragonite|Protect
+|move|p1a: Glimmora|Dazzling Gleam|p2b: Milotic|[spread] p2b
+|-activate|p2a: Dragonite|move: Protect
+|-damage|p2b: Milotic|172/202
+|move|p1b: Volcarona|Fiery Dance|p2b: Milotic
+|-resisted|p2b: Milotic|1
+|-damage|p2b: Milotic|151/202
+|-boost|p1b: Volcarona|spa|1
+|
+|-heal|p2b: Milotic|163/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|switch 3, move 1 2|claude|Dragonite at 10% dies to anything; pivot to healthy Drogon while Milotic Scald KOs Volcarona through Rage Powder redirect.
+|
+|t:|1790959486
+|switch|p2a: Drogon|Charizard, L50, M|153/153
+|move|p1a: Glimmora|Dazzling Gleam|p2a: Drogon|[spread] p2a,p2b
+|-resisted|p2a: Drogon|1
+|-damage|p2a: Drogon|129/153
+|-damage|p2b: Milotic|134/202
+|move|p1b: Volcarona|Bug Buzz|p2b: Milotic
+|-damage|p2b: Milotic|58/202
+|move|p2b: Milotic|Scald|p1b: Volcarona
+|-supereffective|p1b: Volcarona|1
+|-damage|p1b: Volcarona|0 fnt
+|faint|p1b: Volcarona
+|
+|-heal|p2b: Milotic|70/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790959498
+|switch|p1b: Tsareena|Tsareena, L50, F|100/100
+|turn|6
+|choice|move 1, move 4|claude|Heat Wave nearly KOs Tsareena (the Milotic-killer) while Milotic Protects behind Sludge Bomb/Power Whip range.
+|
+|t:|1790959504
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1a: Glimmora|Power Gem|p2a: Drogon
+|-supereffective|p2a: Drogon|2
+|-damage|p2a: Drogon|0 fnt
+|faint|p2a: Drogon
+|move|p1b: Tsareena|Petal Blizzard|p2b: Milotic|[spread] p1a
+|-activate|p2b: Milotic|move: Protect
+|-crit|p1a: Glimmora
+|-damage|p1a: Glimmora|44/100
+|
+|-heal|p2b: Milotic|82/202|[from] item: Leftovers
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790959504
+|switch|p2a: Dragonite|Dragonite-Mega, L50, F|16/168
+|turn|7
+|choice|move 4, move 1 1|claude|Protect saves 10% Dragonite from Power Gem; Scald likely KOs Glimmora, removing their faster Rock threat.
+|
+|t:|1790959513
+|move|p2a: Dragonite|Protect|p2a: Dragonite
+|-singleturn|p2a: Dragonite|Protect
+|move|p1a: Glimmora|Power Gem|p2a: Dragonite
+|-activate|p2a: Dragonite|move: Protect
+|move|p1b: Tsareena|Petal Blizzard|p2a: Dragonite|[spread] p1a,p2b
+|-activate|p2a: Dragonite|move: Protect
+|-supereffective|p2b: Milotic|1
+|-damage|p1a: Glimmora|6/100
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790959514
+|switch|p2b: Whimsicott|Whimsicott, L50, M|47/137
+|turn|8
+|choice|move 2, move 2 1|claude|Whimsicott moves first: Moonblast KOs 6% Glimmora, removing Power Gem. Heat Wave then chunks Tsareena 62-74% without stat drops.
+|
+|t:|1790959523
+|move|p2b: Whimsicott|Moonblast|p1a: Glimmora
+|-resisted|p1a: Glimmora|1
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|move|p2a: Dragonite|Heat Wave|p1b: Tsareena|[miss]
+|-miss|p2a: Dragonite|p1b: Tsareena
+|move|p1b: Tsareena|Triple Axel|p2b: Whimsicott
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|17/137
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|-hitcount|p2: Whimsicott|2
+|
+|upkeep
+|turn|9
+|choice|move 1 2, pass|claude|Dragonite dies to anything; Draco Meteor is our only shot at KOing Tsareena outright, 12% KO chance beats stalling.
+|
+|t:|1790959529
+|move|p2a: Dragonite|Draco Meteor|p1b: Tsareena
+|-damage|p1b: Tsareena|8/100
+|-unboost|p2a: Dragonite|spa|2
+|move|p1b: Tsareena|Triple Axel|p2a: Dragonite
+|-supereffective|p2a: Dragonite|2
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|1
+|
+|win|Smizzo

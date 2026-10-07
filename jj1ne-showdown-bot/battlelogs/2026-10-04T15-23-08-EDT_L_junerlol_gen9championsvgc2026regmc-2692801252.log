@@ -1,0 +1,195 @@
+|init|battle
+|title|JJ1NE vs. junerlol
+|j|☆JJ1NE
+
+|j|☆junerlol
+|t:|1791141643
+|gametype|doubles
+|player|p1|JJ1NE|1|1179
+|player|p2|junerlol|swimmerf|1170
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Incineroar, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Kingambit, L50, M|
+|poke|p2|Floette-Eternal, L50, F|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Dragonite, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|j| JJBro1
+|choice|team 4165|claude|3 Fake Out users hard-ban Mega Dragonite. Incineroar trades Fake Outs, Charizard Megas. Kingambit answers Floette (Iron Head) and gains Defiant vs Intimidate. Rillaboom back for Grassy Terrain.
+|
+|t:|1791141670
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Incineroar|Incineroar, L50, M|202/202
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Dragonite|Dragonite, L50, M|100/100
+|switch|p2b: Incineroar|Incineroar, L50, F|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Incineroar|atk|1
+|-unboost|p1b: Drogon|atk|1
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2b: Incineroar|atk|1
+|turn|1
+|choice|move 2 2, move 3 2 mega|wolfe-fallback
+|
+|t:|1791141682
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|detailschange|p2a: Dragonite|Dragonite-Mega, L50, M
+|-mega|p2a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Incineroar|Fake Out|p1b: Drogon
+|-damage|p1b: Drogon|141/153
+|move|p2a: Dragonite|Tailwind|p2a: Dragonite
+|-sidestart|p2: junerlol|move: Tailwind
+|cant|p1b: Drogon|flinch
+|move|p1a: Incineroar|Parting Shot|p2b: Incineroar
+|-unboost|p2b: Incineroar|atk|1
+|-unboost|p2b: Incineroar|spa|1
+|choice|switch 3, pass|engine
+|
+|t:|1791141682
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207|[from] Parting Shot
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 4, move 3 2|wolfe-fallback
+|
+|t:|1791141707
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Dragonite|Heat Wave|p1b: Drogon|[spread] p1b
+|-activate|p1a: Kingambit|move: Protect
+|-resisted|p1b: Drogon|1
+|-damage|p1b: Drogon|107/153
+|move|p2b: Incineroar|Parting Shot|p1b: Drogon
+|-unboost|p1b: Drogon|atk|1
+|-unboost|p1b: Drogon|spa|1
+|
+|t:|1791141715
+|switch|p2b: Sneasler|Sneasler, L50, F|100/100|[from] Parting Shot
+|move|p1b: Drogon|Ancient Power|p2b: Sneasler
+|-resisted|p2b: Sneasler|1
+|-damage|p2b: Sneasler|87/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|choice|move 3 2, move 1 2|wolfe-fallback
+|
+|t:|1791141726
+|move|p2b: Sneasler|Rock Slide|p1b: Drogon|[spread] p1a,p1b
+|-resisted|p1a: Kingambit|1
+|-supereffective|p1b: Drogon|2
+|-damage|p1a: Kingambit|189/207
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p2a: Dragonite|Heat Wave|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, switch 4|engine
+|
+|t:|1791141726
+|switch|p1b: Rillaboom|Rillaboom, L50, M|199/199
+|switch|p1a: Incineroar|Incineroar, L50, M|202/202
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1b: Rillaboom
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2b: Sneasler|atk|1
+|-enditem|p2b: Sneasler|White Herb
+|-clearnegativeboost|p2b: Sneasler|[silent]
+|turn|4
+|choice|move 3 2, move 3 2|wolfe-fallback
+|
+|t:|1791141746
+|move|p2b: Sneasler|Rock Slide|p1b: Rillaboom|[spread] p1b
+|-miss|p2b: Sneasler|p1a: Incineroar
+|-damage|p1b: Rillaboom|155/199
+|move|p2a: Dragonite|Heat Wave|p1b: Rillaboom|[spread] p1b
+|-miss|p2a: Dragonite|p1a: Incineroar
+|-supereffective|p1b: Rillaboom|1
+|-damage|p1b: Rillaboom|0 fnt
+|faint|p1b: Rillaboom
+|move|p1a: Incineroar|Flare Blitz|p2b: Sneasler
+|-damage|p2b: Sneasler|0 fnt
+|faint|p2b: Sneasler
+|-damage|p1a: Incineroar|157/202|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Incineroar|169/202|[from] Grassy Terrain
+|-sideend|p2: junerlol|move: Tailwind
+|upkeep
+|
+|t:|1791141756
+|switch|p2b: Incineroar|Incineroar, L50, F|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Incineroar|atk|1
+|turn|5
+|choice|move 3 2, pass|wolfe-fallback
+|
+|t:|1791141763
+|move|p2b: Incineroar|Fake Out|p1a: Incineroar
+|-damage|p1a: Incineroar|149/202
+|move|p2a: Dragonite|Dragon Pulse|p1a: Incineroar
+|-damage|p1a: Incineroar|70/202
+|-enditem|p1a: Incineroar|Sitrus Berry|[eat]
+|-heal|p1a: Incineroar|120/202|[from] item: Sitrus Berry
+|cant|p1a: Incineroar|flinch
+|
+|-weather|none
+|-heal|p1a: Incineroar|132/202|[from] Grassy Terrain
+|upkeep
+|turn|6
+|choice|move 2 1, pass|claude|Parting Shot on Mega Dragonite cuts its SpA, reducing Dragon Pulse damage; our damage is negligible, so mitigation prolongs the game best.
+|calc|Action: Incineroar: Parting Shot
+|calc|Threats: Incineroar threatened by Dragonite-Mega Dragon Pulse (33-42%)
+|
+|t:|1791141775
+|move|p2a: Dragonite|Dragon Pulse|p1a: Incineroar
+|-damage|p1a: Incineroar|57/202
+|move|p1a: Incineroar|Parting Shot|p2a: Dragonite
+|-unboost|p2a: Dragonite|atk|1
+|-unboost|p2a: Dragonite|spa|1
+|move|p2b: Incineroar|Parting Shot|p1a: Incineroar
+|-unboost|p1a: Incineroar|atk|1
+|-unboost|p1a: Incineroar|spa|1
+|
+|t:|1791141782
+|switch|p2b: Rillaboom|Rillaboom, L50, F|100/100|[from] Parting Shot
+|
+|-heal|p1a: Incineroar|69/202|[from] Grassy Terrain
+|upkeep
+|turn|7
+|choice|move 2 1, pass|wolfe-fallback
+|
+|t:|1791141787
+|move|p2b: Rillaboom|Fake Out|p1a: Incineroar
+|-damage|p1a: Incineroar|46/202
+|move|p2a: Dragonite|Dragon Pulse|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|win|junerlol

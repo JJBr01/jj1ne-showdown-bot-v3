@@ -1,0 +1,149 @@
+|init|battle
+|title|Alexisalexis vs. JJ1NE
+|j|☆Alexisalexis
+|j|☆JJ1NE
+
+|t:|1790977669
+|gametype|doubles
+|player|p1|Alexisalexis|102|1060
+|player|p2|JJ1NE|102|1074
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gardevoir, L50, F|
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Sneasler, L50, M|
+|poke|p1|Ceruledge, L50, F|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Lopunny, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5413|claude|Psyterrain: Kingambit immune to Expanding Force, resists Psychic/Ghost, blocks priority setters. Whimsicott Tailwind/Encore. Drogon sheltered back; Garchomp Scarf revenge-kills Gardevoir/Sneasler.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alexisalexis)
+|
+|t:|1790977686
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Gardevoir|Gardevoir, L50, F|100/100
+|switch|p1b: Indeedee|Indeedee-F, L50, F|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Whimsicott|Whimsicott, L50, F|137/137
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 1|claude|Kowtow Cleave OHKOs Indeedee, removing Trick Room/Follow Me and Psychic Terrain source; Whimsicott Tailwind gives speed before Mega Gardevoir.
+|calc|Action: Kingambit: Kowtow Cleave -> Indeedee-F (112-134% OHKO) | Whimsicott: Tailwind
+|calc|Threats: Kingambit threatened by Gardevoir Hyper Voice (8-12%); Whimsicott threatened by Gardevoir Expanding Force (53-101% (OHKO 4%))
+|
+|t:|1790977698
+|detailschange|p1a: Gardevoir|Gardevoir-Mega, L50, F
+|-mega|p1a: Gardevoir|Gardevoir|Gardevoirite
+|move|p1b: Indeedee|Follow Me|p1b: Indeedee
+|-singleturn|p1b: Indeedee|move: Follow Me
+|move|p2b: Whimsicott|Tailwind|p2b: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p2a: Kingambit|Kowtow Cleave|p1b: Indeedee
+|-supereffective|p1b: Indeedee|1
+|-enditem|p1b: Indeedee|Colbur Berry|[eat]
+|-enditem|p1b: Indeedee|Colbur Berry|[weaken]
+|-damage|p1b: Indeedee|35/100
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|move|p1a: Gardevoir|Hyper Voice|p2b: Whimsicott|[spread] p2a,p2b
+|-damage|p2a: Kingambit|73/207
+|-damage|p2b: Whimsicott|19/137
+|
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, move 4|claude|Iron Head OHKOs Mega Gardevoir, their win condition; Whimsicott at 14% Protects behind Follow Me risk. Removes Hyper Voice/Expanding Force immediately.
+|calc|Action: Kingambit: Iron Head -> Gardevoir-Mega (117-164% OHKO) | Whimsicott: Protect
+|calc|Threats: Kingambit threatened by Gardevoir-Mega Hyper Voice (35-53% (KO 97%)); Whimsicott threatened by Gardevoir-Mega Expanding Force (66-128% KO)
+|
+|t:|1790977712
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p1b: Indeedee|Follow Me|p1b: Indeedee
+|-singleturn|p1b: Indeedee|move: Follow Me
+|move|p2a: Kingambit|Iron Head|p1b: Indeedee
+|-damage|p1b: Indeedee|0 fnt
+|faint|p1b: Indeedee
+|-damage|p2a: Kingambit|53/207|[from] item: Life Orb
+|move|p1a: Gardevoir|Hyper Voice|p2b: Whimsicott|[spread] p2a
+|-activate|p2b: Whimsicott|move: Protect
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|inactive|Alexisalexis has 30 seconds left.
+|
+|t:|1790977746
+|switch|p1b: Sneasler|Sneasler, L50, M|100/100
+|switch|p2a: Drogon|Charizard, L50, M|153/153
+|-enditem|p1b: Sneasler|Psychic Seed
+|-boost|p1b: Sneasler|spd|1|[from] item: Psychic Seed
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2 mega, move 2 2|claude|Sneasler with Unburden+Psychic Seed is the sweeper; Whimsicott Moonblast plus sun Weather Ball very likely KOs it before it ever moves under Tailwind.
+|calc|Action: Drogon: Weather Ball [Mega] -> Sneasler (9-17%) | Whimsicott: Moonblast -> Sneasler (19-35%)
+|calc|Threats: Drogon threatened by Gardevoir-Mega Expanding Force (56-104% (OHKO 9%)); Whimsicott threatened by Sneasler Dire Claw (160-301% KO)
+|j| JJBro1
+|inactive|Alexisalexis has 30 seconds left.
+|
+|t:|1790977780
+|detailschange|p2a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Drogon
+|move|p2b: Whimsicott|Moonblast|p1b: Sneasler
+|-damage|p1b: Sneasler|69/100
+|-unboost|p1b: Sneasler|spa|1
+|move|p1b: Sneasler|Dire Claw|p2a: Drogon
+|-damage|p2a: Drogon|74/153
+|-status|p2a: Drogon|slp
+|cant|p2a: Drogon|slp
+|move|p1a: Gardevoir|Expanding Force|p2b: Whimsicott|[spread] p2a,p2b
+|-damage|p2a: Drogon|0 fnt
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2a: Drogon
+|faint|p2b: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790977780
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, pass|claude|Only Garchomp left; Earthquake guarantees KO on Sneasler (69%) and chips Gardevoir ~45%, best chance to trade two hits.
+|calc|Action: Garchomp: Earthquake (spread) -> Gardevoir-Mega (37-53%), Sneasler (73-145% KO)
+|calc|Threats: Garchomp threatened by Gardevoir-Mega Hyper Voice (89-159% (OHKO 85%))
+|inactive|Alexisalexis has 30 seconds left.
+|
+|t:|1790977806
+|move|p2a: Garchomp|Earthquake|p1a: Gardevoir|[spread] p1a,p1b
+|-supereffective|p1b: Sneasler|1
+|-damage|p1a: Gardevoir|43/100
+|-damage|p1b: Sneasler|0 fnt
+|faint|p1b: Sneasler
+|move|p1a: Gardevoir|Hyper Voice|p2a: Garchomp
+|-supereffective|p2a: Garchomp|1
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|win|Alexisalexis

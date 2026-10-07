@@ -1,0 +1,198 @@
+|init|battle
+|title|JJ1NE vs. mrporksin
+|j|☆JJ1NE
+
+|j|☆mrporksin
+|t:|1790993863
+|gametype|doubles
+|player|p1|JJ1NE|102|1018
+|player|p2|mrporksin|2|1076
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Lucario, L50, F|
+|poke|p2|Absol, L50, F|
+|poke|p2|Aerodactyl, L50, F|
+|poke|p2|Excadrill, L50, F|
+|poke|p2|Volcarona, L50, M|
+|poke|p2|Hatterene, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5214|claude|Kingambit leads: immune to Expanding Force, KOs Hatterene/Absol. Dragonite Mega in back as win-con; Whimsicott Encore/Tailwind. Milotic/Garchomp home vs Fighting/Ground pressure.
+|
+|t:|1790993877
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Aerodactyl|Aerodactyl, L50, F|100/100
+|switch|p2b: Excadrill|Excadrill, L50, F|100/100
+|-ability|p2a: Aerodactyl|Unnerve
+|-ability|p2b: Excadrill|Mold Breaker
+|turn|1
+|choice|move 3 1, move 4 mega|claude|Iron Head breaks Aerodactyl's sash and likely KOs; Dragonite Megas and Protects through Dual Wingbeat, which threatens 95%+ OHKO.
+|calc|Action: Kingambit: Iron Head -> Aerodactyl (110-213% OHKO) | Dragonite: Protect [Mega]
+|calc|Threats: Kingambit threatened by Aerodactyl Dual Wingbeat (91-107% (OHKO 47%)); Dragonite threatened by Aerodactyl Dual Wingbeat (217-335% OHKO)
+|
+|t:|1790993888
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2b: Excadrill|High Horsepower|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|25/207
+|move|p2a: Aerodactyl|Rock Slide|p1b: Dragonite|[spread] p1a
+|-activate|p1b: Dragonite|move: Protect
+|-resisted|p1a: Kingambit|1
+|-damage|p1a: Kingambit|4/207
+|cant|p1a: Kingambit|flinch
+|
+|upkeep
+|turn|2
+|choice|move 4, move 3|wolfe-fallback
+|
+|t:|1790993902
+|switch|p2b: Absol|Absol, L50, F|100/100
+|-ability|p2b: Absol|Pressure
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Aerodactyl|Rock Slide|p1a: Kingambit|[spread] p1b
+|-activate|p1a: Kingambit|move: Protect
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|123/168
+|move|p1b: Dragonite|Tailwind|p1b: Dragonite
+|-sidestart|p1: JJ1NE|move: Tailwind
+|
+|upkeep
+|turn|3
+|choice|move 3 1, move 1 2|claude|Kingambit (2% HP, dies to anything) spends its last action breaking Aerodactyl's sash with Iron Head; Dragonite chips Absol before it Megas.
+|calc|Action: Kingambit: Iron Head -> Aerodactyl (110-213% OHKO) | Dragonite: Dragon Pulse -> Absol (54-101% (OHKO 4%))
+|calc|Threats: Kingambit threatened by Absol Close Combat (87-126% KO); Dragonite threatened by Aerodactyl Dual Wingbeat (193-282% KO)
+|
+|t:|1790993923
+|move|p1b: Dragonite|Dragon Pulse|p2b: Absol
+|-damage|p2b: Absol|15/100
+|move|p2a: Aerodactyl|Rock Slide|p1a: Kingambit|[spread] p1a,p1b
+|-resisted|p1a: Kingambit|1
+|-supereffective|p1b: Dragonite|1
+|-damage|p1a: Kingambit|0 fnt
+|-damage|p1b: Dragonite|39/168
+|faint|p1a: Kingambit
+|move|p2b: Absol|Will-O-Wisp|p1b: Dragonite
+|-status|p1b: Dragonite|brn
+|
+|-damage|p1b: Dragonite|29/168 brn|[from] brn
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790993923
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|choice|move 2 2, move 4|claude|Whimsicott outspeeds and Moonblast KOs Absol; burned Dragonite at 17% Protects from Rock Slide chip and survives to threaten later.
+|calc|Action: Whimsicott: Moonblast -> Absol (73-136% KO) | Dragonite: Protect
+|calc|Threats: Whimsicott threatened by Aerodactyl Dual Wingbeat (566-886% OHKO); Dragonite threatened by Aerodactyl Dual Wingbeat (193-282% KO)
+|
+|t:|1790993937
+|switch|p2b: Excadrill|Excadrill, L50, F|100/100
+|-ability|p2b: Excadrill|Mold Breaker
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p1a: Whimsicott|Moonblast|p2b: Excadrill
+|-resisted|p2b: Excadrill|1
+|-damage|p2b: Excadrill|76/100
+|move|p2a: Aerodactyl|Taunt|p1a: Whimsicott
+|-start|p1a: Whimsicott|move: Taunt
+|
+|-damage|p1b: Dragonite|19/168 brn|[from] brn
+|upkeep
+|turn|5
+|choice|move 2 1, move 1 1|wolfe-fallback
+|
+|t:|1790993950
+|move|p1a: Whimsicott|Moonblast|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|49/100
+|move|p1b: Dragonite|Dragon Pulse|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|move|p2b: Excadrill|Iron Head|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/137
+|
+|-damage|p1b: Dragonite|9/168 brn|[from] brn
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790993953
+|switch|p2a: Absol|Absol, L50, F|15/100
+|-ability|p2a: Absol|Pressure
+|turn|6
+|choice|move 2 1, move 4|claude|Whimsicott outspeeds and Moonblast KOs Absol; Dragonite at 9% burned must Protect to survive Excadrill and save Drogon's entry.
+|calc|Action: Whimsicott: Moonblast -> Absol (73-136% KO) | Dragonite: Protect
+|calc|Threats: Whimsicott threatened by Excadrill Iron Head (80-153% KO); Dragonite threatened by Excadrill Iron Head (29-49% KO)
+|
+|t:|1790993967
+|detailschange|p2a: Absol|Absol-Mega-Z, L50, F
+|-mega|p2a: Absol|Absol|Absolite Z
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2b: Excadrill|Iron Head|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|move|p2a: Absol|Shadow Claw|p1b: Dragonite
+|-activate|p1b: Dragonite|move: Protect
+|
+|-damage|p1b: Dragonite|0 fnt|[from] brn
+|faint|p1b: Dragonite
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790993967
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|turn|7
+|choice|move 2, pass|claude|Last Pokemon; Protect only delays. Heat Wave KOs Absol at 15% and likely KOs Excadrill — only line that can win.
+|calc|Action: Drogon: Heat Wave (spread) -> Absol-Mega-Z (37-70% KO), Excadrill (56-107% (KO 61%))
+|calc|Threats: Drogon threatened by Excadrill Rock Slide (97-159% (OHKO 95%))
+|
+|t:|1790993976
+|switch|p2b: Volcarona|Volcarona, L50, M|100/100
+|move|p2a: Absol|Shadow Claw|p1a: Drogon
+|-damage|p1a: Drogon|23/153
+|move|p1a: Drogon|Heat Wave|p2b: Volcarona|[spread] p2a,p2b
+|-damage|p2a: Absol|0 fnt
+|-damage|p2b: Volcarona|63/100
+|faint|p2a: Absol
+|
+|-heal|p2b: Volcarona|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790993978
+|switch|p2a: Excadrill|Excadrill, L50, F|76/100
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|8
+|choice|move 2, pass|claude|Last Pokémon at 15%; Excadrill Rock Slide KOs through nothing — Protect only delays one turn. Heat Wave likely KOs Excadrill and chips Volcarona.
+|calc|Action: Drogon: Heat Wave (spread) -> Excadrill (83-158% KO), Volcarona (35-52%)
+|calc|Threats: Drogon threatened by Excadrill Rock Slide (97-159% KO)
+|
+|t:|1790993984
+|move|p2a: Excadrill|Rock Slide|p1a: Drogon
+|-supereffective|p1a: Drogon|2
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|
+|win|mrporksin

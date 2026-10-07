@@ -1,0 +1,134 @@
+|init|battle
+|title|Lawliet0 vs. JJ1NE
+|j|☆Lawliet0
+|j|☆JJ1NE
+
+|t:|1790998981
+|gametype|doubles
+|player|p1|Lawliet0|102|1156
+|player|p2|JJ1NE|102|1220
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Salamence, L50, F, shiny|
+|poke|p1|Dragapult, L50, F|
+|poke|p1|Farigiraf, L50, F|
+|poke|p1|Volcarona, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Sylveon, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5163|claude|Kingambit leads: immune to Farigiraf Psychic, Kowtow ignores Protect, Defiant punishes Salamence Intimidate. Charizard Mega in back torches Volcarona/Farigiraf; Rillaboom Fake Out, Milotic bulk.
+|
+|t:|1790999035
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p1b: Volcarona|Volcarona, L50, M|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|choice|move 1 2, move 2 mega|claude|Heat Wave KOs Rillaboom through Rage Powder (spread ignores redirection) and chips Volcarona; Kowtow Cleave ignores Protect and nearly KOs the Volcarona win condition.
+|calc|Action: Kingambit: Kowtow Cleave -> Volcarona (52-61%) | Drogon: Heat Wave [Mega] (spread) -> Rillaboom (56-68%), Volcarona (24-35%)
+|calc|Threats: Kingambit threatened by Rillaboom Wood Hammer (26-37%); Drogon threatened by Rillaboom Wood Hammer (18-31%)
+|
+|t:|1790999060
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1a: Rillaboom|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|126/153
+|move|p1b: Volcarona|Overheat|p2a: Kingambit
+|-supereffective|p2a: Kingambit|1
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1b: Volcarona|spa|2
+|faint|p2a: Kingambit
+|cant|p2b: Drogon|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790999060
+|switch|p2a: Rillaboom|Rillaboom, L50, M|207/207
+|turn|2
+|choice|move 2 2, move 2|claude|Heat Wave KOs Rillaboom and chips Volcarona; Wood Hammer adds damage so Volcarona likely falls, denying Tailwind/Quiver sweep.
+|calc|Action: Rillaboom: Wood Hammer -> Volcarona (21-24%) | Drogon: Heat Wave (spread) -> Rillaboom (111-131% OHKO), Volcarona (46-68%)
+|calc|Threats: Rillaboom threatened by Volcarona Overheat (81-131% (OHKO 63%)); Drogon threatened by Rillaboom Wood Hammer (18-31%)
+|
+|t:|1790999096
+|switch|p1a: Dragapult|Dragapult, L50, F|100/100
+|move|p1b: Volcarona|Overheat|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom|1
+|-damage|p2a: Rillaboom|0 fnt
+|-unboost|p1b: Volcarona|spa|2
+|faint|p2a: Rillaboom
+|move|p2b: Drogon|Heat Wave|p1b: Volcarona|[spread] p1a,p1b
+|-resisted|p1a: Dragapult|1
+|-damage|p1a: Dragapult|49/100
+|-damage|p1b: Volcarona|19/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Volcarona|25/100|[from] Grassy Terrain
+|-heal|p1a: Dragapult|55/100|[from] Grassy Terrain
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790999096
+|switch|p2a: Milotic|Milotic, L50, F|202/202
+|turn|3
+|choice|move 2 1, move 2|claude|Heat Wave KOs Volcarona (25% vs 46-68%) while chipping Dragapult; Ice Beam can finish Dragapult at 55%. Spread handles both threats.
+|calc|Action: Milotic: Ice Beam -> Dragapult (33-63% (KO 28%)) | Drogon: Heat Wave (spread) -> Dragapult (27-53%), Volcarona (46-68% KO)
+|calc|Threats: Milotic threatened by Dragapult Draco Meteor (41-53%); Drogon threatened by Dragapult Draco Meteor (52-92% (KO 25%))
+|
+|t:|1790999121
+|move|p1b: Volcarona|Overheat|p2b: Drogon
+|-resisted|p2b: Drogon|1
+|-damage|p2b: Drogon|96/153
+|-unboost|p1b: Volcarona|spa|2
+|move|p1a: Dragapult|Draco Meteor|p2b: Drogon
+|-damage|p2b: Drogon|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2b: Drogon
+|-damage|p1a: Dragapult|45/100|[from] item: Life Orb
+|move|p2a: Milotic|Ice Beam|p1a: Dragapult
+|-supereffective|p1a: Dragapult|1
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Volcarona|31/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790999136
+|switch|p1a: Rillaboom|Rillaboom, L50, M|100/100
+|turn|4
+|choice|move 1 2, pass|claude|Milotic alone vs 2; Volcarona at 31% is the only killable foe — Scald can KO it and burn chance; Protect only delays Wood Hammer.
+|calc|Action: Milotic: Scald -> Volcarona (17-26%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO)
+|
+|t:|1790999148
+|move|p1b: Volcarona|Overheat|p2a: Milotic
+|-resisted|p2a: Milotic|1
+|-damage|p2a: Milotic|186/202
+|move|p1a: Rillaboom|Wood Hammer|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|-damage|p1a: Rillaboom|68/100|[from] Recoil
+|
+|win|Lawliet0

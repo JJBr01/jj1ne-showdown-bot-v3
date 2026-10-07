@@ -1,0 +1,71 @@
+|init|battle
+|title|JJ1NE vs. Tridecagram
+|j|☆JJ1NE
+
+|j|☆Tridecagram
+|t:|1790987558
+|gametype|doubles
+|player|p1|JJ1NE|102|1171
+|player|p2|Tridecagram|wallace|1128
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Ninetales-Alola, L50, M, shiny|
+|poke|p2|Volcarona, L50, M, shiny|
+|poke|p2|Indeedee, L50, M, shiny|
+|poke|p2|Altaria, L50, M, shiny|
+|poke|p2|Annihilape, L50, M, shiny|
+|poke|p2|Milotic, L50, M, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|choice|team 5143|wolfe-fallback
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790987605
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Altaria|Altaria, L50, M, shiny|100/100
+|switch|p2b: Annihilape|Annihilape, L50, M, shiny|100/100
+|turn|1
+|choice|move 1 2, move 1 2 mega|claude|Annihilape OHKOs Kingambit with Close Combat; focus-firing it with Kowtow + sun Weather Ball is a guaranteed KO before it acts matters less than removing it now.
+|calc|Action: Kingambit: Kowtow Cleave -> Annihilape (45-80%) | Drogon: Weather Ball [Mega] -> Annihilape (0-0%)
+|calc|Threats: Kingambit threatened by Annihilape Close Combat (141-205% OHKO); Drogon threatened by Annihilape Close Combat (25-42%)
+|
+|t:|1790987631
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1b: Drogon|Weather Ball|p2b: Annihilape
+|-damage|p2b: Annihilape|41/100
+|move|p2b: Annihilape|Bulk Up|p2b: Annihilape
+|-boost|p2b: Annihilape|atk|1
+|-boost|p2b: Annihilape|def|1
+|move|p2a: Altaria|Earthquake|p1a: Kingambit|[spread] p2b,p1a
+|-immune|p1b: Drogon
+|-supereffective|p1a: Kingambit|1
+|-damage|p2b: Annihilape|29/100
+|-damage|p1a: Kingambit|151/207
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Annihilape
+|-damage|p2b: Annihilape|0 fnt
+|faint|p2b: Annihilape
+|-damage|p1a: Kingambit|131/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Tridecagram forfeited.
+|
+|win|JJ1NE

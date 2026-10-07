@@ -1,0 +1,162 @@
+|init|battle
+|title|TommyR32 vs. JJ1NE
+|j|☆TommyR32
+|j|☆JJ1NE
+
+|t:|1790991711
+|gametype|doubles
+|player|p1|TommyR32|fisherman-gen4|1000
+|player|p2|JJ1NE|102|1051
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Ninetales-Alola, L50, F, shiny|
+|poke|p1|Baxcalibur, L50, F|
+|poke|p1|Salamence, L50, M|
+|poke|p1|Pelipper, L50, M|
+|poke|p1|Samurott-Hisui, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4136|claude|Whimsicott Tailwind + Charizard Sun denies rain/snow; Garchomp Scarf revenges Pelipper-less threats; Milotic back. Zard sheltered as mid-game weather reset.
+|
+|t:|1790991731
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Ninetales|Ninetales-Alola, L50, F, shiny|100/100
+|switch|p1b: Baxcalibur|Baxcalibur, L50, F|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-item|p1a: Ninetales|Air Balloon
+|turn|1
+|choice|move 2 2, move 1 1 mega|claude|Mega Zard sets sun, removing snow; Weather Ball guarantees KO on Aurora Veil setter Ninetales while Moonblast chips Baxcalibur before it Megas.
+|calc|Action: Whimsicott: Moonblast -> Baxcalibur (45-74%) | Drogon: Weather Ball [Mega] -> Ninetales-Alola (12-22%)
+|calc|Threats: Whimsicott threatened by Baxcalibur Icicle Crash (83-158% (OHKO 78%)); Drogon threatened by Baxcalibur Glaive Rush (56-92%)
+|
+|t:|1790991753
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1b: Baxcalibur|Ice Shard|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|29/137
+|move|p2a: Whimsicott|Moonblast|p1b: Baxcalibur
+|-supereffective|p1b: Baxcalibur|1
+|-damage|p1b: Baxcalibur|29/100
+|move|p2b: Drogon|Weather Ball|p1a: Ninetales
+|-supereffective|p1a: Ninetales|1
+|-damage|p1a: Ninetales|0 fnt
+|-enditem|p1a: Ninetales|Air Balloon
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790991768
+|switch|p1a: Pelipper|Pelipper, L50, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|2
+|choice|move 2 2, move 3 1|claude|Whimsicott outspeeds and KOs Baxcalibur with Moonblast before Ice Shard; Drogon's Ancient Power heavily damages Pelipper, possibly KOing the rain setter.
+|calc|Action: Whimsicott: Moonblast -> Baxcalibur (45-74% KO) | Drogon: Ancient Power -> Pelipper (53-102% (OHKO 6%))
+|calc|Threats: Whimsicott threatened by Pelipper Hurricane (94-184% KO); Drogon threatened by Pelipper Weather Ball (90-158% (OHKO 86%))
+|
+|t:|1790991779
+|move|p1b: Baxcalibur|Ice Shard|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|move|p2b: Drogon|Ancient Power|p1a: Pelipper
+|-supereffective|p1a: Pelipper|1
+|-damage|p1a: Pelipper|20/100r
+|move|p1a: Pelipper|Weather Ball|p2b: Drogon
+|-supereffective|p2b: Drogon|1
+|-crit|p2b: Drogon
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|-damage|p1a: Pelipper|10/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|switch 3, switch 4|engine
+|
+|t:|1790991779
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|switch|p2b: Milotic|Milotic, L50, F|202/202
+|turn|3
+|choice|move 2 2, move 1 1|claude|Garchomp outspeeds: Dragon Claw guarantees KO on Baxcalibur, removing the Ice Shard/Glaive Rush threat; Milotic's Scald then KOs 10% Pelipper.
+|calc|Action: Garchomp: Dragon Claw -> Baxcalibur (52-81% KO) | Milotic: Scald -> Pelipper (20-39% KO)
+|calc|Threats: Garchomp threatened by Baxcalibur Icicle Crash (123-214% OHKO); Milotic threatened by Baxcalibur Glaive Rush (51-67%)
+|
+|t:|1790991810
+|move|p2a: Garchomp|Dragon Claw|p1b: Baxcalibur
+|-supereffective|p1b: Baxcalibur|1
+|-damage|p1b: Baxcalibur|0 fnt
+|faint|p1b: Baxcalibur
+|move|p1a: Pelipper|Hurricane|p2b: Milotic
+|-damage|p2b: Milotic|142/202
+|-damage|p1a: Pelipper|0 fnt|[from] item: Life Orb
+|faint|p1a: Pelipper
+|move|p2b: Milotic|Scald|p1: Pelipper|[notarget]
+|-fail|p2b: Milotic
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|154/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790991822
+|switch|p1a: Salamence|Salamence, L50, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2b: Milotic|atk|1
+|-ability|p2b: Milotic|Competitive|boost
+|-boost|p2b: Milotic|spa|2
+|turn|4
+|choice|move 2 1, move 2 1|claude|Ice Beam OHKOs Salamence even after Draco; Garchomp's Dragon Claw first may finish it or soften, guaranteeing removal of their last threat.
+|calc|Action: Garchomp: Dragon Claw -> Salamence (41-77%) | Milotic: Ice Beam -> Salamence (123-226% OHKO)
+|calc|Threats: Garchomp threatened by Salamence Draco Meteor (81-146% (OHKO 70%)); Milotic threatened by Salamence Draco Meteor (30-40%)
+|
+|t:|1790991831
+|move|p1a: Salamence|Protect|p1a: Salamence
+|-singleturn|p1a: Salamence|Protect
+|move|p2a: Garchomp|Dragon Claw|p1a: Salamence
+|-activate|p1a: Salamence|move: Protect
+|move|p2b: Milotic|Ice Beam|p1a: Salamence
+|-activate|p1a: Salamence|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Milotic|166/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|move 2 1, move 2 1|claude|Ice Beam OHKOs Salamence even through Mega; Dragon Claw chips in case it Protects again. 2v1 lead, no prediction needed.
+|calc|Action: Garchomp: Dragon Claw -> Salamence (41-77%) | Milotic: Ice Beam -> Salamence (123-226% OHKO)
+|calc|Threats: Garchomp threatened by Salamence Draco Meteor (81-146% (OHKO 70%)); Milotic threatened by Salamence Draco Meteor (30-40%)
+|
+|t:|1790991843
+|move|p2a: Garchomp|Dragon Claw|p1a: Salamence
+|-supereffective|p1a: Salamence|1
+|-damage|p1a: Salamence|37/100
+|move|p1a: Salamence|Draco Meteor|p2a: Garchomp
+|-supereffective|p2a: Garchomp|1
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Salamence|spa|2
+|faint|p2a: Garchomp
+|move|p2b: Milotic|Ice Beam|p1a: Salamence
+|-supereffective|p1a: Salamence|2
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|win|JJ1NE

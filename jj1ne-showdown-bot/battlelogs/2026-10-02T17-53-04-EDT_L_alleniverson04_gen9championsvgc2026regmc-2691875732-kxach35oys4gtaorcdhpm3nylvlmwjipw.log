@@ -1,0 +1,162 @@
+|init|battle
+|title|JJ1NE vs. alleniverson04
+|j|☆JJ1NE
+
+|j|☆alleniverson04
+|t:|1790977865
+|gametype|doubles
+|player|p1|JJ1NE|102|1052
+|player|p2|alleniverson04|266|1060
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Salamence, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Arcanine-Hisui, L50, F|
+|poke|p2|Sneasler, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6234|claude|Milotic+Dragonite leads per tournament blueprint: Competitive punishes Salamence Intimidate; Garchomp Rock Slide/EQ answers Arcanine-H and Sneasler; Whimsicott Tailwind backup. Mega Dragonite sheltered.
+|
+|t:|1790977888
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p2b: Arcanine|Arcanine-Hisui, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|choice|move 1 2, move 1 2 mega|claude|Milotic Scald + Mega Dragon Pulse focus-fire Arcanine-H; Scald alone nearly KOs through Sash, Dragon Pulse finishes the faster Head Smash threat.
+|calc|Action: Milotic: Scald -> Arcanine-Hisui (83-153% (OHKO 76%)) | Dragonite: Dragon Pulse [Mega] -> Arcanine-Hisui (30-56%)
+|calc|Threats: Milotic threatened by Rillaboom Wood Hammer (139-183% OHKO); Dragonite threatened by Arcanine-Hisui Head Smash (96-173% (OHKO 95%))
+|
+|t:|1790977896
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Arcanine|Head Smash|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|60/168
+|move|p1b: Dragonite|Dragon Pulse|p2b: Arcanine
+|-damage|p2b: Arcanine|31/100
+|move|p2a: Rillaboom|Wood Hammer|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|-damage|p2a: Rillaboom|67/100|[from] Recoil
+|
+|-heal|p2b: Arcanine|37/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|73/100|[from] Grassy Terrain
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790977896
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|turn|2
+|choice|move 1, move 4|claude|Garchomp Earthquake likely KOs Arcanine (59-107%, sash may hold) without hitting Flying Dragonite; Dragonite Protects from Head Smash/Grassy Glide.
+|calc|Action: Garchomp: Earthquake (spread) -> Rillaboom (6-10%), Arcanine-Hisui (59-107% KO) | Dragonite: Protect
+|calc|Threats: Garchomp threatened by Rillaboom Wood Hammer (58-101% (OHKO 4%)); Dragonite threatened by Arcanine-Hisui Head Smash (86-148% KO)
+|
+|t:|1790977935
+|move|p2b: Arcanine|Protect|p2b: Arcanine
+|-singleturn|p2b: Arcanine|Protect
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2a: Rillaboom|Grassy Glide|p1a: Garchomp
+|-damage|p1a: Garchomp|103/185
+|-damage|p2a: Rillaboom|61/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|move|p1a: Garchomp|Earthquake|p2b: Arcanine|[spread] p2a
+|-activate|p1b: Dragonite|move: Protect
+|-activate|p2b: Arcanine|move: Protect
+|-resisted|p2a: Rillaboom|1
+|-damage|p2a: Rillaboom|52/100
+|
+|-heal|p1a: Garchomp|114/185|[from] Grassy Terrain
+|-heal|p2b: Arcanine|43/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|57/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|choice|move 1, move 1 2|claude|Earthquake likely KOs Arcanine (59-107%, sash already gone); Dragon Pulse finishes it otherwise. Removes Head Smash threat on 36% Dragonite.
+|calc|Action: Garchomp: Earthquake (spread) -> Rillaboom (6-10%), Arcanine-Hisui (59-107% KO) | Dragonite: Dragon Pulse -> Arcanine-Hisui (39-72% (KO 88%))
+|calc|Threats: Garchomp threatened by Rillaboom Wood Hammer (44-78% (KO 49%)); Dragonite threatened by Arcanine-Hisui Head Smash (86-148% KO)
+|
+|t:|1790977954
+|switch|p2b: Sneasler|Sneasler, L50, M|100/100
+|-enditem|p2b: Sneasler|Grassy Seed
+|-boost|p2b: Sneasler|def|1|[from] item: Grassy Seed
+|move|p1a: Garchomp|Earthquake|p2b: Sneasler|[spread] p2a,p2b
+|-immune|p1b: Dragonite
+|-resisted|p2a: Rillaboom|1
+|-supereffective|p2b: Sneasler|1
+|-damage|p2a: Rillaboom|49/100
+|-damage|p2b: Sneasler|56/100
+|move|p1b: Dragonite|Dragon Pulse|p2b: Sneasler
+|-damage|p2b: Sneasler|0 fnt
+|faint|p2b: Sneasler
+|move|p2a: Rillaboom|Wood Hammer|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Rillaboom|37/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|-damage|p2a: Rillaboom|18/100|[from] Recoil
+|
+|-heal|p2a: Rillaboom|24/100|[from] Grassy Terrain
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790977965
+|switch|p2b: Salamence|Salamence, L50, M|100/100
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|choice|move 2 1, move 1 2|claude|Moonblast KOs Rillaboom 24%; Dragon Pulse threatens Salamence KO before it Megas and fires Hyper Voice/Draco.
+|calc|Action: Whimsicott: Moonblast -> Rillaboom (28-33% KO) | Dragonite: Dragon Pulse -> Salamence (78-143% (OHKO 66%))
+|calc|Threats: Whimsicott threatened by Rillaboom Wood Hammer (30-57%); Dragonite threatened by Salamence Draco Meteor (67-115% KO)
+|
+|t:|1790977978
+|detailschange|p2b: Salamence|Salamence-Mega, L50, M
+|-mega|p2b: Salamence|Salamence|Salamencite
+|move|p2a: Rillaboom|Grassy Glide|p1a: Whimsicott
+|-resisted|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|95/137
+|move|p2b: Salamence|Draco Meteor|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|0 fnt
+|-unboost|p2b: Salamence|spa|2
+|faint|p1b: Dragonite
+|move|p1a: Whimsicott|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Whimsicott|103/137|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790977981
+|switch|p2a: Arcanine|Arcanine-Hisui, L50, F|43/100
+|turn|5
+|choice|default|wolfe-fallback
+|
+|t:|1790977984
+|move|p2b: Salamence|Protect|p2b: Salamence
+|-singleturn|p2b: Salamence|Protect
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Arcanine|Flare Blitz|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|win|alleniverson04

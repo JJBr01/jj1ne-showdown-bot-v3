@@ -1,0 +1,156 @@
+|init|battle
+|title|JJ1NE vs. IM ON CRACKROCKS
+|j|☆JJ1NE
+
+|j|☆IM ON CRACKROCKS
+|t:|1790981149
+|gametype|doubles
+|player|p1|JJ1NE|102|1108
+|player|p2|IM ON CRACKROCKS|zinnia|1060
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Pidgeot, L50, M|
+|poke|p2|Excadrill, L50, F|
+|poke|p2|Tyranitar, L50, F|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Kommo-o, L50, F|
+|poke|p2|Gholdengo, L50|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5436|claude|Sand + Psychic Terrain: Charizard is 4x Rock weak, leave it home. Kingambit immune to Psychic, punishes Indeedee; Whimsicott Encore/Tailwind; Garchomp EQ; Milotic walls Tyranitar.
+|
+|t:|1790981182
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2a: Pidgeot|Pidgeot, L50, M|100/100
+|switch|p2b: Kommo-o|Kommo-o, L50, F|100/100
+|turn|1
+|choice|move 4, move 2 2|claude|Kommo-o Aura Sphere OHKOs Kingambit; Protect it while Whimsicott's Moonblast 98% KOs Kommo-o, removing the Clangorous Soul sweeper threat.
+|calc|Action: Kingambit: Protect | Whimsicott: Moonblast -> Kommo-o (99-165% (OHKO 98%))
+|calc|Threats: Kingambit threatened by Kommo-o Aura Sphere (100-153% OHKO); Whimsicott threatened by Pidgeot Brave Bird (86-162% (OHKO 82%))
+|
+|t:|1790981201
+|detailschange|p2a: Pidgeot|Pidgeot-Mega, L50, M
+|-mega|p2a: Pidgeot|Pidgeot|Pidgeotite
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Pidgeot|Heat Wave|p1b: Whimsicott|[spread] p1b
+|-activate|p1a: Kingambit|move: Protect
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|31/137
+|move|p1b: Whimsicott|Moonblast|p2b: Kommo-o
+|-supereffective|p2b: Kommo-o|2
+|-damage|p2b: Kommo-o|0 fnt
+|faint|p2b: Kommo-o
+|
+|upkeep
+|
+|t:|1790981210
+|switch|p2b: Excadrill|Excadrill, L50, F|100/100
+|turn|2
+|choice|move 1 2, move 1|claude|Whimsicott is Tailwind — it dies to anything anyway, so get the speed control up before it faints; Kowtow pressures Sash Excadrill.
+|calc|Action: Kingambit: Kowtow Cleave -> Excadrill (52-101% (OHKO 2%)) | Whimsicott: Tailwind
+|calc|Threats: Kingambit threatened by Excadrill High Horsepower (62-91%); Whimsicott threatened by Excadrill Iron Head (80-153% KO)
+|
+|t:|1790981214
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Pidgeot|Heat Wave|p1b: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1a: Kingambit|1
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1a: Kingambit|109/207
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Excadrill
+|-damage|p2b: Excadrill|11/100
+|-damage|p1a: Kingambit|89/207|[from] item: Life Orb
+|move|p2b: Excadrill|High Horsepower|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|upkeep
+|choice|switch 3, switch 4|engine
+|
+|t:|1790981214
+|switch|p1b: Milotic|Milotic, L50, F|202/202
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|turn|3
+|choice|move 4 2, move 2 1|claude|Stomping Tantrum guarantees KO on Excadrill (11% HP, Sash already broken) while Milotic's Ice Beam chips Pidgeot hard; Earthquake avoided to spare Milotic.
+|calc|Action: Garchomp: Stomping Tantrum -> Excadrill (63-123% KO) | Milotic: Ice Beam -> Pidgeot-Mega (33-61%)
+|calc|Threats: Garchomp threatened by Excadrill High Horsepower (35-62%); Milotic threatened by Excadrill High Horsepower (42-55%)
+|
+|t:|1790981253
+|switch|p2b: Tyranitar|Tyranitar, L50, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2b: Tyranitar
+|move|p2a: Pidgeot|Protect|p2a: Pidgeot
+|-singleturn|p2a: Pidgeot|Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2b: Tyranitar
+|-supereffective|p2b: Tyranitar|1
+|-damage|p2b: Tyranitar|41/100
+|move|p1b: Milotic|Ice Beam|p2a: Pidgeot
+|-activate|p2a: Pidgeot|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Milotic|190/202|[from] Sandstorm
+|-damage|p2a: Pidgeot|94/100|[from] Sandstorm
+|-heal|p1b: Milotic|202/202|[from] item: Leftovers
+|upkeep
+|turn|4
+|choice|move 4 2, move 2 1|claude|Stomping Tantrum likely KOs Tyranitar at 41%; Ice Beam chips Pidgeot hardest since overkill on Tyranitar is wasteful.
+|calc|Action: Garchomp: Stomping Tantrum -> Tyranitar (47-75% KO) | Milotic: Ice Beam -> Pidgeot-Mega (33-61%)
+|calc|Threats: Garchomp threatened by Tyranitar Knock Off (32-57%); Milotic threatened by Tyranitar Knock Off (39-52%)
+|
+|t:|1790981264
+|move|p1a: Garchomp|Stomping Tantrum|p2b: Tyranitar
+|-supereffective|p2b: Tyranitar|1
+|-damage|p2b: Tyranitar|0 fnt
+|faint|p2b: Tyranitar
+|move|p1b: Milotic|Ice Beam|p2a: Pidgeot
+|-supereffective|p2a: Pidgeot|1
+|-damage|p2a: Pidgeot|42/100
+|move|p2a: Pidgeot|Hurricane|p1b: Milotic
+|-damage|p1b: Milotic|132/202
+|-start|p1b: Milotic|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Milotic|120/202|[from] Sandstorm
+|-damage|p2a: Pidgeot|36/100|[from] Sandstorm
+|-heal|p1b: Milotic|132/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790981267
+|switch|p2b: Excadrill|Excadrill, L50, F|11/100
+|turn|5
+|choice|move 4 2, move 2 1|claude|Garchomp KOs Excadrill at 11%; Milotic Ice Beam has 89% chance to KO Pidgeot at 36%. Both foes likely removed this turn.
+|calc|Action: Garchomp: Stomping Tantrum -> Excadrill (63-123% KO) | Milotic: Ice Beam -> Pidgeot-Mega (33-61% (KO 89%))
+|calc|Threats: Garchomp threatened by Excadrill High Horsepower (35-62%); Milotic threatened by Excadrill High Horsepower (42-55%)
+|
+|t:|1790981282
+|move|p1a: Garchomp|Stomping Tantrum|p2b: Excadrill
+|-supereffective|p2b: Excadrill|1
+|-damage|p2b: Excadrill|0 fnt
+|faint|p2b: Excadrill
+|-activate|p1b: Milotic|confusion
+|move|p1b: Milotic|Ice Beam|p2a: Pidgeot
+|-supereffective|p2a: Pidgeot|1
+|-damage|p2a: Pidgeot|0 fnt
+|faint|p2a: Pidgeot
+|
+|win|JJ1NE

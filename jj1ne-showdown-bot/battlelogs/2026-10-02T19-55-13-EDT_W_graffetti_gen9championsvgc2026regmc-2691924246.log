@@ -1,0 +1,70 @@
+|init|battle
+|title|JJ1NE vs. graffetti
+|j|☆JJ1NE
+
+|j|☆graffetti
+|t:|1790985242
+|gametype|doubles
+|player|p1|JJ1NE|102|1180
+|player|p2|graffetti|janitor|1148
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Runerigus, L50, F|
+|poke|p2|Clawitzer, L50, F|
+|poke|p2|Lucario, L50, M|
+|poke|p2|Arboliva, L50, F|
+|poke|p2|Farigiraf, L50, M|
+|poke|p2|Ditto, L50|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|choice|team 5243|wolfe-fallback
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790985266
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Runerigus|Runerigus, L50, F|100/100
+|switch|p2b: Clawitzer|Clawitzer, L50, F|100/100
+|turn|1
+|choice|move 1 1, move 1 1 mega|claude|Runerigus threatens Kingambit with Body Press; focus-fire it now with Kowtow Cleave + Dragon Pulse for a near-guaranteed KO before it acts.
+|calc|Action: Kingambit: Kowtow Cleave -> Runerigus (80-139% (OHKO 66%)) | Dragonite: Dragon Pulse [Mega] -> Runerigus (30-56%)
+|calc|Threats: Kingambit threatened by Runerigus Body Press (56-83%); Dragonite threatened by Clawitzer Ice Beam (86-152% (OHKO 79%))
+|
+|t:|1790985300
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Clawitzer|Flip Turn|p2a: Runerigus
+|-supereffective|p2a: Runerigus|1
+|-damage|p2a: Runerigus|81/100
+|-activate|p2b: Clawitzer|Skill Swap|||[of] p2a: Runerigus
+|-hint|Skill Swap does not announce the abilities of the Pokémon when used between allies.
+|
+|t:|1790985305
+|switch|p2b: Lucario|Lucario, L50, M|100/100|[from] Flip Turn
+|move|p1b: Dragonite|Dragon Pulse|p2a: Runerigus
+|-damage|p2a: Runerigus|27/100
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Runerigus
+|-supereffective|p2a: Runerigus|1
+|-damage|p2a: Runerigus|0 fnt
+|faint|p2a: Runerigus
+|-damage|p1a: Kingambit|187/207|[from] item: Life Orb
+|
+|upkeep
+|-message|graffetti forfeited.
+|
+|win|JJ1NE

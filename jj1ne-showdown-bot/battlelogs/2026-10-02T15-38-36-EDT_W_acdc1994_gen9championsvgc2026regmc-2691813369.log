@@ -1,0 +1,103 @@
+|init|battle
+|title|JJ1NE vs. AC/DC1994
+|j|☆JJ1NE
+
+|j|☆AC/DC1994
+|t:|1790969797
+|gametype|doubles
+|player|p1|JJ1NE|102|1067
+|player|p2|AC/DC1994|benga|1040
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Pidgeot, L50, M, shiny|
+|poke|p2|Aggron, L50, F|
+|poke|p2|Indeedee, L50, M|
+|poke|p2|Delphox, L50, F|
+|poke|p2|Skeledirge, L50, F|
+|poke|p2|Kleavor, L50, F, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5164|claude
+|
+|t:|1790969844
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Gunner|Aggron, L50, F|100/100
+|switch|p2b: Kleavor|Kleavor, L50, F, shiny|100/100
+|turn|1
+|choice|switch 4, move 4 mega|claude|Aggron Head Smash OHKOs Drogon and Kleavor Close Combat OHKOs Kingambit; Protect Drogon, pivot Kingambit to Garchomp which threatens both Rock foes.
+|
+|t:|1790969859
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2b: Kleavor|Stone Axe|p1a: Garchomp
+|-resisted|p1a: Garchomp|1
+|-damage|p1a: Garchomp|137/185
+|-damage|p2b: Kleavor|87/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-sidestart|p1: JJ1NE|move: Stealth Rock
+|move|p2a: Gunner|Head Smash|p1b: Drogon
+|-activate|p1b: Drogon|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 1, move 1|claude|Earthquake + Heat Wave: Kleavor likely KO'd by combined chip, Aggron heavily damaged; Drogon dies to any Rock move otherwise, so maximize removal now.
+|
+|t:|1790969878
+|move|p1a: Garchomp|Earthquake|p2b: Kleavor|[spread] p2a,p2b
+|-immune|p1b: Drogon
+|-supereffective|p2a: Gunner|2
+|-damage|p2a: Gunner|0 fnt
+|-damage|p2b: Kleavor|46/100
+|faint|p2a: Gunner
+|move|p1b: Drogon|Heat Wave|p2b: Kleavor|[miss]
+|-miss|p1b: Drogon|p2b: Kleavor
+|move|p2b: Kleavor|Swords Dance|p2b: Kleavor
+|-boost|p2b: Kleavor|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790969890
+|switch|p2a: Delphox|Delphox, L50, F|100/100
+|turn|3
+|choice|move 3, move 1|claude|Kleavor at +2 with Stone Axe OHKOs Drogon; Rock Slide + Heat Wave both hit it, Garchomp moves first and Rock Slide alone can KO.
+|
+|t:|1790969904
+|move|p1a: Garchomp|Rock Slide|p2a: Delphox|[spread] p2a,p2b
+|-supereffective|p2a: Delphox|1
+|-supereffective|p2b: Kleavor|1
+|-damage|p2a: Delphox|53/100
+|-damage|p2b: Kleavor|3/100
+|cant|p2a: Delphox|flinch
+|move|p1b: Drogon|Heat Wave|p2b: Kleavor|[spread] p2a,p2b
+|-resisted|p2a: Delphox|1
+|-damage|p2a: Delphox|19/100
+|-damage|p2b: Kleavor|0 fnt
+|faint|p2b: Kleavor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|AC/DC1994 forfeited.
+|
+|win|JJ1NE

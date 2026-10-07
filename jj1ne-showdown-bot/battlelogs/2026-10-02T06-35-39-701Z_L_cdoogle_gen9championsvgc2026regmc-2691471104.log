@@ -1,0 +1,183 @@
+|init|battle
+|title|JJ1NE vs. cDoogle
+|j|☆JJ1NE
+
+|j|☆cDoogle
+|t:|1790922802
+|gametype|doubles
+|player|p1|JJ1NE|102|1177
+|player|p2|cDoogle|psychic-gen4|1144
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Talonflame, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Hydreigon, L50, M|
+|poke|p2|Rotom-Wash, L50|
+|poke|p2|Sneasler, L50, F|
+|poke|p2|Indeedee, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5126|claude
+|
+|t:|1790922827
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Sneasler|Sneasler, L50, F|100/100
+|switch|p2b: Indeedee|Indeedee, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|-enditem|p2a: Sneasler|Psychic Seed
+|-boost|p2a: Sneasler|spd|1|[from] item: Psychic Seed
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cDoogle)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|move 4, move 1 mega|claude|Kingambit dies to Sneasler Close Combat; Protect it while Mega Drogon Heat Wave likely KOs Indeedee and heavily chips Sneasler, removing Psychic Terrain.
+|
+|t:|1790922845
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2a: Sneasler|Close Combat|p1a: Kingambit
+|-activate|p1a: Kingambit|move: Protect
+|move|p2b: Indeedee|Psyshock|p1b: Drogon
+|-damage|p1b: Drogon|62/153
+|move|p1b: Drogon|Heat Wave|p2b: Indeedee|[spread] p2a,p2b
+|-damage|p2a: Sneasler|36/100
+|-damage|p2b: Indeedee|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, move 1|claude|Heat Wave KOs Indeedee and nearly finishes Sneasler; Iron Head cleans it up. Protecting Drogon wastes the double KO chance.
+|
+|t:|1790922860
+|move|p2a: Sneasler|Close Combat|p1a: Kingambit
+|-supereffective|p1a: Kingambit|2
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2a: Sneasler|def|1
+|-unboost|p2a: Sneasler|spd|1
+|faint|p1a: Kingambit
+|move|p2b: Indeedee|Psyshock|p1b: Drogon
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790922860
+|switch|p1b: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p1a: Dragonite|Dragonite, L50, F|168/168
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2, move 2 1|claude|Whimsicott Moonblast likely KOs Sneasler before it moves; Heat Wave finishes Indeedee at 1% and backs up the Sneasler KO.
+|inactive|cDoogle has 30 seconds left.
+|
+|t:|1790922892
+|move|p2a: Sneasler|Dire Claw|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|2
+|-enditem|p1b: Whimsicott|Focus Sash
+|-damage|p1b: Whimsicott|1/137
+|move|p2b: Indeedee|Psyshock|p1a: Dragonite
+|-damage|p1a: Dragonite|68/168
+|move|p1b: Whimsicott|Moonblast|p2a: Sneasler
+|-damage|p2a: Sneasler|0 fnt
+|faint|p2a: Sneasler
+|move|p1a: Dragonite|Heat Wave|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790922904
+|switch|p2a: Rotom|Rotom-Wash, L50|100/100
+|switch|p2b: Hydreigon|Hydreigon, L50, M|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 2|claude|Whimsicott outspeeds Rotom and OHKOs Hydreigon with Moonblast; Dragonite Protects the likely Draco Meteor/Thunderbolt, leaving 2v1.
+|
+|t:|1790922911
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2b: Hydreigon|Protect|p2b: Hydreigon
+|-singleturn|p2b: Hydreigon|Protect
+|move|p1b: Whimsicott|Moonblast|p2b: Hydreigon
+|-activate|p2b: Hydreigon|move: Protect
+|move|p2a: Rotom|Hydro Pump|p1b: Whimsicott
+|-resisted|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, pass|claude|Dragonite is our last mon; Draco Meteor guarantees KO on Hydreigon, removing the faster Dark Pulse threat and leaving a 1v1 with Rotom.
+|
+|t:|1790922923
+|move|p1a: Dragonite|Draco Meteor|p2b: Hydreigon
+|-supereffective|p2b: Hydreigon|1
+|-damage|p2b: Hydreigon|0 fnt
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2b: Hydreigon
+|move|p2a: Rotom|Thunder|p1a: Dragonite|[miss]
+|-miss|p2a: Rotom|p1a: Dragonite
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, pass|claude|Rotom outspeeds and Thunder KOs us; Protect dodges this turn, Thunder is 70% accurate anyway and we have no other Pokemon left.
+|
+|t:|1790922930
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2a: Rotom|Thunder|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Protect
+|
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, pass|claude|Last Pokemon, must damage Rotom; Draco Meteor at -2 still hits hardest, hoping Thunder misses again.
+|
+|t:|1790922933
+|move|p1a: Dragonite|Draco Meteor|p2a: Rotom
+|-damage|p2a: Rotom|65/100
+|-unboost|p1a: Dragonite|spa|2
+|move|p2a: Rotom|Thunder|p1a: Dragonite|[miss]
+|-miss|p2a: Rotom|p1a: Dragonite
+|
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, pass|claude|Last Pokemon, Thunder KOs us; only winning line is Draco Meteor twice hoping for misses. Protect only delays.
+|
+|t:|1790922939
+|move|p1a: Dragonite|Draco Meteor|p2a: Rotom|[miss]
+|-miss|p1a: Dragonite|p2a: Rotom
+|move|p2a: Rotom|Thunder|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|cDoogle

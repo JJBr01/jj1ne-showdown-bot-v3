@@ -1,0 +1,94 @@
+|init|battle
+|title|JJ1NE vs. Altabes
+|j|☆JJ1NE
+
+|j|☆Altabes
+|t:|1790983268
+|gametype|doubles
+|player|p1|JJ1NE|102|1174
+|player|p2|Altabes|2|1149
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Greninja, L50, M|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Venusaur, L50, M|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|choice|team 4163|wolfe-fallback
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790983284
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Charizard|Charizard, L50, F|100/100
+|switch|p2b: Venusaur|Venusaur, L50, M|100/100
+|turn|1
+|choice|move 1, move 2 mega|claude|Whimsicott has Focus Sash and survives anything; Tailwind is nearly free. Heat Wave KOs Venusaur through Sash chip and chips their Charizard.
+|calc|Action: Whimsicott: Tailwind | Drogon: Heat Wave [Mega] (spread) -> Charizard (14-24%), Venusaur (49-89%)
+|calc|Threats: Whimsicott threatened by Venusaur Sludge Bomb (160-309% OHKO); Drogon threatened by Venusaur Sludge Bomb (34-63%)
+|
+|t:|1790983312
+|switch|p2b: Garchomp|Garchomp, L50, F|100/100
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|detailschange|p2a: Charizard|Charizard-Mega-Y, L50, F
+|-mega|p2a: Charizard|Charizard|Charizardite Y
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1b: Drogon|Heat Wave|p2b: Garchomp|[spread] p2a,p2b
+|-resisted|p2a: Charizard|1
+|-resisted|p2b: Garchomp|1
+|-damage|p2a: Charizard|69/100
+|-damage|p2b: Garchomp|57/100
+|move|p2a: Charizard|Heat Wave|p1a: Whimsicott|[spread] p1a
+|-miss|p2a: Charizard|p1b: Drogon
+|-supereffective|p1a: Whimsicott|1
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/137
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 2 2, move 3 1|claude|Whimsicott at 1% dies to anything; use it now. Moonblast likely KOs Garchomp (75%), Ancient Power likely KOs their Charizard — double KO attempt.
+|calc|Action: Whimsicott: Moonblast -> Garchomp (47-85% (KO 75%)) | Drogon: Ancient Power -> Charizard-Mega-Y (69-114% KO)
+|calc|Threats: Whimsicott threatened by Charizard-Mega-Y Weather Ball (150-289% KO); Drogon threatened by Garchomp Rock Slide (75-125% (OHKO 51%))
+|
+|t:|1790983343
+|move|p1a: Whimsicott|Moonblast|p2b: Garchomp
+|-supereffective|p2b: Garchomp|1
+|-damage|p2b: Garchomp|0 fnt
+|faint|p2b: Garchomp
+|move|p1b: Drogon|Ancient Power|p2a: Charizard
+|-supereffective|p2a: Charizard|2
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790983354
+|switch|p2b: Venusaur|Venusaur, L50, M|100/100
+|switch|p2a: Greninja|Greninja, L50, M|100/100
+|turn|3
+|-message|Altabes forfeited.
+|
+|win|JJ1NE

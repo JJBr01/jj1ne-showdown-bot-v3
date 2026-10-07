@@ -1,0 +1,212 @@
+|init|battle
+|title|JJ1NE vs. TurnToAsh
+|j|☆JJ1NE
+
+|j|☆TurnToAsh
+|t:|1790979426
+|gametype|doubles
+|player|p1|JJ1NE|102|1000
+|player|p2|TurnToAsh|ash|1073
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Raichu, L50, F, shiny|
+|poke|p2|Meganium, L50, F|
+|poke|p2|Farigiraf, L50, M|
+|poke|p2|Pelipper, L50, F|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 3415|claude|Garchomp outspeeds Raichu-Y and KOs it; Whimsicott Tailwind/Encore vs Farigiraf TR; Dragonite Mega in back; Kingambit immune to Psychic, beats Farigiraf.
+TurnToAsh has agreed to open team sheets.
+|showteam|p1|Charizard||CharizarditeY|Blaze|WeatherBall,HeatWave,AncientPower,Protect|Modest||M|||50|]Dragonite||Dragoninite|InnerFocus|DragonPulse,HeatWave,Tailwind,Protect|Modest||M|||50|]Garchomp||ChoiceScarf|RoughSkin|Earthquake,DragonClaw,RockSlide,StompingTantrum|Jolly||M|||50|]Whimsicott||FocusSash|Prankster|Tailwind,Moonblast,Encore,Protect|Timid||F|||50|]Kingambit||LifeOrb|Defiant|KowtowCleave,SuckerPunch,IronHead,Protect|Adamant||M|||50|]Milotic||Leftovers|Competitive|Scald,IceBeam,Recover,Protect|Calm||F|||50|
+|showteam|p2|Raichu||RaichuniteY|LightningRod|ZapCannon,FocusBlast,FakeOut,Protect|Modest||F|||50|]Meganium||Meganiumite|LeafGuard|SolarBeam,DazzlingGleam,WeatherBall,Protect|Modest||F|||50|]Farigiraf||SitrusBerry|ArmorTail|Imprison,TrickRoom,HelpingHand,HyperVoice|Calm||M|||50|]Pelipper||DampRock|Drizzle|Tailwind,Hurricane,WideGuard,WeatherBall|Modest||F|||50|]Rillaboom||GrassySeed|GrassySurge|GrassyGlide,WoodHammer,HighHorsepower,Protect|Adamant||F|||50|]Milotic||Leftovers|Competitive|Protect,Haze,Scald,IcyWind|Bold||F|||50|
+|
+|t:|1790979461
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2a: Yoru|Pelipper, L50, F|100/100
+|switch|p2b: Gorgeous|Milotic, L50, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Yoru
+|turn|1
+|choice|move 3, move 1|claude|Whimsicott's first action is Tailwind (coach rule); Rock Slide chips Pelipper, the rain+Tailwind setter and key win condition.
+|calc|Action: Garchomp: Rock Slide (spread) -> Pelipper (31-57%), Milotic (13-18%) | Whimsicott: Tailwind
+|calc|Threats: Garchomp threatened by Pelipper Weather Ball (46-83%); Whimsicott threatened by Pelipper Hurricane (94-184% (OHKO 94%))
+|
+|t:|1790979486
+|move|p2a: Yoru|Wide Guard|p2a: Yoru
+|-singleturn|p2a: Yoru|Wide Guard
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Garchomp|Rock Slide|p2b: Gorgeous|[spread] 
+|-activate|p2a: Yoru|move: Wide Guard
+|-activate|p2b: Gorgeous|move: Wide Guard
+|move|p2b: Gorgeous|Icy Wind|p1a: Garchomp|[spread] p1a,p1b
+|-supereffective|p1a: Garchomp|2
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1a: Garchomp|97/185
+|-damage|p1b: Whimsicott|93/137
+|-unboost|p1a: Garchomp|spe|1
+|-unboost|p1b: Whimsicott|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|choice|move 3, move 2 1|claude|Pelipper is the rain/Tailwind/Wide Guard win condition; Rock Slide + Moonblast can KO it this turn before it sets their Tailwind.
+|calc|Action: Garchomp: Rock Slide (spread) -> Pelipper (31-57%), Milotic (13-18%) | Whimsicott: Moonblast -> Pelipper (34-66%)
+|calc|Threats: Garchomp threatened by Pelipper Weather Ball (46-83% (KO 84%)); Whimsicott threatened by Pelipper Hurricane (94-184% KO)
+|
+|t:|1790979504
+|move|p2a: Yoru|Wide Guard|p2a: Yoru
+|-singleturn|p2a: Yoru|Wide Guard
+|move|p1a: Garchomp|Rock Slide|p2a: Yoru|[spread] 
+|-activate|p2a: Yoru|move: Wide Guard
+|-activate|p2b: Gorgeous|move: Wide Guard
+|move|p1b: Whimsicott|Moonblast|p2a: Yoru
+|-damage|p2a: Yoru|61/100
+|move|p2b: Gorgeous|Icy Wind|p1a: Garchomp|[spread] p1a,p1b
+|-supereffective|p1a: Garchomp|2
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1a: Garchomp|17/185
+|-damage|p1b: Whimsicott|45/137
+|-unboost|p1a: Garchomp|spe|1
+|-unboost|p1b: Whimsicott|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|choice|switch 3, move 2 1|claude|Garchomp at 9% dies to anything and Wide Guard blocks Rock Slide; bring Drogon in under Tailwind while Whimsicott chips Pelipper.
+|calc|Action: Garchomp switches to Drogon | Whimsicott: Moonblast -> Pelipper (34-66% (KO 18%))
+|calc|Threats: Garchomp threatened by Pelipper Weather Ball (46-83% KO); Whimsicott threatened by Pelipper Hurricane (94-184% KO)
+|
+|t:|1790979536
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|move|p1b: Whimsicott|Moonblast|p2a: Yoru
+|-damage|p2a: Yoru|21/100
+|move|p2b: Gorgeous|Icy Wind|p1a: Drogon|[spread] p1a,p1b
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1a: Drogon|134/153
+|-damage|p1b: Whimsicott|0 fnt
+|-unboost|p1a: Drogon|spe|1
+|faint|p1b: Whimsicott
+|move|p2a: Yoru|Tailwind|p2a: Yoru
+|-sidestart|p2: TurnToAsh|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790979536
+|switch|p1b: Kingambit|Kingambit, L50, M|207/207
+|turn|4
+|choice|move 2 mega, move 1 1|claude|Pelipper at 21% dies to anything; Kowtow Cleave kills it outright, Heat Wave chips Milotic. Wide Guard risk exists but Kowtow is single-target and guarantees the KO.
+|calc|Action: Drogon: Heat Wave [Mega] (spread) -> Pelipper (8-17%), Milotic (4-7%) | Kingambit: Kowtow Cleave -> Pelipper (51-92% KO)
+|calc|Threats: Drogon threatened by Pelipper Weather Ball (108-201% KO); Kingambit threatened by Pelipper Weather Ball (48-74%)
+|
+|t:|1790979567
+|switch|p2a: Cannonbolt|Raichu, L50, F, shiny|100/100
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|move|p2b: Gorgeous|Scald|p1a: Drogon
+|-supereffective|p1a: Drogon|1
+|-damage|p1a: Drogon|84/153
+|move|p1a: Drogon|Heat Wave|p2a: Cannonbolt|[spread] p2a,p2b
+|-resisted|p2b: Gorgeous|1
+|-damage|p2a: Cannonbolt|8/100
+|-damage|p2b: Gorgeous|73/100
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Cannonbolt
+|-damage|p2a: Cannonbolt|0 fnt
+|faint|p2a: Cannonbolt
+|-damage|p1b: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Gorgeous|79/100|[from] item: Leftovers
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790979585
+|switch|p2a: Yoru|Pelipper, L50, F|21/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Yoru
+|turn|5
+|choice|move 4, move 1 1|claude|Drogon Protects the OHKO threats (Weather Ball/Scald); Kowtow Cleave guarantees KO on 21% Pelipper, removing rain and Tailwind support.
+|calc|Action: Drogon: Protect | Kingambit: Kowtow Cleave -> Pelipper (51-92% KO)
+|calc|Threats: Drogon threatened by Pelipper Weather Ball (90-158% KO); Kingambit threatened by Pelipper Weather Ball (48-74%)
+|
+|t:|1790979599
+|move|p1a: Drogon|Protect|p1a: Drogon
+|-singleturn|p1a: Drogon|Protect
+|move|p2b: Gorgeous|Scald|p1a: Drogon
+|-activate|p1a: Drogon|move: Protect
+|move|p2a: Yoru|Weather Ball|p1b: Kingambit
+|-damage|p1b: Kingambit|69/207
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Yoru
+|-damage|p2a: Yoru|0 fnt
+|faint|p2a: Yoru
+|-damage|p1b: Kingambit|49/207|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Gorgeous|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790979614
+|switch|p2a: Boomer|Rillaboom, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Boomer
+|-enditem|p2a: Boomer|Grassy Seed
+|-boost|p2a: Boomer|def|1|[from] item: Grassy Seed
+|turn|6
+|choice|move 2, move 4|claude|Drogon at 55% survives Scald rolls only sometimes but must pressure; Kingambit at 24% dies to anything, so Protect while Heat Wave chips both.
+|calc|Action: Drogon: Heat Wave (spread) -> Rillaboom (36-43%), Milotic (6-9%) | Kingambit: Protect
+|calc|Threats: Drogon threatened by Milotic Scald (58-102% KO); Kingambit threatened by Milotic Scald (32-48% KO)
+|
+|t:|1790979628
+|move|p1b: Kingambit|Protect|p1b: Kingambit
+|-singleturn|p1b: Kingambit|Protect
+|move|p2a: Boomer|Grassy Glide|p1b: Kingambit
+|-activate|p1b: Kingambit|move: Protect
+|move|p2b: Gorgeous|Scald|p1a: Drogon
+|-supereffective|p1a: Drogon|1
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Gorgeous|91/100|[from] Grassy Terrain
+|-heal|p2b: Gorgeous|97/100|[from] item: Leftovers
+|-heal|p1b: Kingambit|61/207|[from] Grassy Terrain
+|-sideend|p2: TurnToAsh|move: Tailwind
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790979628
+|switch|p1a: Garchomp|Garchomp, L50, M|17/185
+|turn|7
+|choice|move 2 2, move 1 2|claude|Only 2 mons left, both low; focus-fire Milotic with Garchomp's fastest hit plus Kowtow Cleave for max combined damage before it Scalds.
+|calc|Action: Garchomp: Dragon Claw -> Milotic (29-38%) | Kingambit: Kowtow Cleave -> Milotic (45-58%)
+|calc|Threats: Garchomp threatened by Rillaboom Wood Hammer (44-78% KO); Kingambit threatened by Milotic Scald (32-48% KO)
+|
+|t:|1790979654
+|move|p2a: Boomer|Grassy Glide|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Boomer|87/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|move|p2b: Gorgeous|Scald|p1b: Kingambit
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|win|TurnToAsh

@@ -1,0 +1,236 @@
+|init|battle
+|title|JJ1NE vs. pokemon sikkeeee!
+|j|☆JJ1NE
+|j|☆pokemon sikkeeee!
+|t:|1790924208
+|gametype|doubles
+|player|p1|JJ1NE|102|1170
+|player|p2|pokemon sikkeeee!|steven|1141
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Archaludon, L50, F|
+|poke|p2|Politoed, L50, F|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Sneasler, L50, M|
+|poke|p2|Golisopod, L50, M|
+|poke|p2|Farigiraf, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790924216
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2a: Sneasler|Sneasler, L50, M|100/100
+|switch|p2b: Whimsicott|Whimsicott, L50, F|100/100
+|turn|1
+|
+|t:|1790924231
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|move|p2a: Sneasler|Fake Out|p1a: Dragonite
+|-damage|p1a: Dragonite|155/168
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2b: Whimsicott|Taunt|p1b: Whimsicott
+|-start|p1b: Whimsicott|move: Taunt
+|cant|p1a: Dragonite|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1790924242
+|move|p2b: Whimsicott|Tailwind|p2b: Whimsicott
+|-sidestart|p2: pokemon sikkeeee!|move: Tailwind
+|move|p1b: Whimsicott|Moonblast|p2b: Whimsicott
+|-damage|p2b: Whimsicott|44/100
+|move|p2a: Sneasler|Dire Claw|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|2
+|-enditem|p1b: Whimsicott|Focus Sash
+|-damage|p1b: Whimsicott|1/137
+|move|p1a: Dragonite|Draco Meteor|p2a: Sneasler
+|-damage|p2a: Sneasler|0 fnt
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2a: Sneasler
+|
+|upkeep
+|
+|t:|1790924257
+|switch|p2a: Archaludon|Archaludon, L50, F|100/100
+|turn|3
+|
+|t:|1790924262
+|move|p2a: Archaludon|Protect|p2a: Archaludon
+|-singleturn|p2a: Archaludon|Protect
+|move|p1b: Whimsicott|Moonblast|p2b: Whimsicott
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|move|p1a: Dragonite|Heat Wave|p2a: Archaludon
+|-activate|p2a: Archaludon|move: Protect
+|
+|upkeep
+|
+|t:|1790924267
+|switch|p2b: Politoed|Politoed, L50, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Politoed
+|turn|4
+|
+|t:|1790924283
+|switch|p1a: Milotic|Milotic, L50, M|202/202
+|move|p1b: Whimsicott|Moonblast|p2a: Archaludon
+|-damage|p2a: Archaludon|63/100
+|-unboost|p2a: Archaludon|spa|1
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|move|p2a: Archaludon|Dragon Pulse|p1a: Milotic
+|-damage|p1a: Milotic|168/202
+|move|p2b: Politoed|Ice Beam|p1a: Milotic
+|-resisted|p1a: Milotic|1
+|-damage|p1a: Milotic|153/202
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Archaludon|69/100|[from] item: Leftovers
+|-heal|p1a: Milotic|165/202|[from] item: Leftovers
+|-end|p1b: Whimsicott|move: Taunt
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1790924298
+|switch|p1b: Kingambit|Kingambit, L50, F|207/207
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1a: Milotic
+|-activate|p1a: Milotic|move: Protect
+|move|p2b: Politoed|Surf|p1b: Kingambit|[spread] p2a,p1b
+|-activate|p1a: Milotic|move: Protect
+|-resisted|p2a: Archaludon|1
+|-damage|p2a: Archaludon|44/100
+|-damage|p1b: Kingambit|108/207
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Archaludon|50/100g|[from] item: Leftovers
+|-heal|p1a: Milotic|177/202|[from] item: Leftovers
+|-sideend|p2: pokemon sikkeeee!|move: Tailwind
+|upkeep
+|turn|6
+|
+|t:|1790924313
+|move|p2a: Archaludon|Protect|p2a: Archaludon
+|-singleturn|p2a: Archaludon|Protect
+|move|p1a: Milotic|Scald|p2a: Archaludon
+|-activate|p2a: Archaludon|move: Protect
+|move|p2b: Politoed|Surf|p1a: Milotic|[spread] p1a,p1b
+|-activate|p2a: Archaludon|move: Protect
+|-resisted|p1a: Milotic|1
+|-damage|p1a: Milotic|152/202
+|-damage|p1b: Kingambit|18/207
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Archaludon
+|-activate|p2a: Archaludon|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Archaludon|56/100|[from] item: Leftovers
+|-heal|p1a: Milotic|164/202|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1790924339
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|18/202
+|move|p1a: Milotic|Scald|p2a: Archaludon
+|-resisted|p2a: Archaludon|1
+|-damage|p2a: Archaludon|33/100
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|move|p2b: Politoed|Weather Ball|p1b: Kingambit
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Archaludon|39/100|[from] item: Leftovers
+|-heal|p1a: Milotic|30/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790924339
+|switch|p1b: Dragonite|Dragonite-Mega, L50, M|155/168
+|turn|8
+|l|☆JJ1NE
+|player|p1|
+|
+|t:|1790924356
+|move|p2a: Archaludon|Protect|p2a: Archaludon
+|-singleturn|p2a: Archaludon|Protect
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p1b: Dragonite|Draco Meteor|p2a: Archaludon
+|-activate|p2a: Archaludon|move: Protect
+|move|p2b: Politoed|Ice Beam|p1b: Dragonite
+|-supereffective|p1b: Dragonite|2
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Archaludon|45/100|[from] item: Leftovers
+|-heal|p1a: Milotic|42/202|[from] item: Leftovers
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pokemon sikkeeee!)
+|j|☆JJ1NE
+|inactive|JJ1NE reconnected and has 90 seconds left.
+|player|p1|JJ1NE|102|
+
+|choice|pass, switch 4|engine
+|error|You cannot agree to open team sheets after Team Preview. Each player can still show their own sheet by using this command: !showteam hidestats
+|player|p1|JJ1NE|102|
+|
+|t:|1790924391
+|switch|p1b: Whimsicott|Whimsicott, L50, F|1/137
+|turn|9
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Only 2 mons left vs boosting Archaludon; Whimsicott at 1% dies to anything anyway. Moonblast chips Archaludon to ~10%, Milotic Protects to survive Electro Shot.
+|
+|t:|1790924402
+|move|p1a: Milotic|Protect||[still]
+|-fail|p1a: Milotic
+|move|p1b: Whimsicott|Moonblast|p2a: Archaludon
+|-damage|p2a: Archaludon|4/100
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|move|p2b: Politoed|Surf|p1b: Whimsicott|[spread] p2a,p1b
+|-resisted|p2a: Archaludon|1
+|-resisted|p1b: Whimsicott|1
+|-damage|p2a: Archaludon|0 fnt
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p2a: Archaludon
+|faint|p1b: Whimsicott
+|
+|win|pokemon sikkeeee!

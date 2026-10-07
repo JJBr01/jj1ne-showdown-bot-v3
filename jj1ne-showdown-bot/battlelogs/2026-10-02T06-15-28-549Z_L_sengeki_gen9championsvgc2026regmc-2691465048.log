@@ -1,0 +1,243 @@
+|init|battle
+|title|sengeki vs. JJ1NE
+|j|☆sengeki
+|j|☆JJ1NE
+
+|t:|1790921463
+|gametype|doubles
+|player|p1|sengeki|roughneck|1036
+|player|p2|JJ1NE|102|1079
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gholdengo, L50|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Raichu, L50, M|
+|poke|p1|Arcanine-Hisui, L50, F|
+|poke|p1|Staraptor, L50, M|
+|poke|p1|Dragapult, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4135|claude
+|uhtmlchange|otsrequest|
+sengeki rejected open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sengeki)
+|inactive|sengeki has 60 seconds left.
+|inactive|sengeki has 30 seconds left.
+|
+|t:|1790921532
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Dragapult|Dragapult, L50, M|100/100
+|switch|p1b: Raichu|Raichu, L50, M|100/100
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 4 mega|claude|Earthquake KOs Raichu (Drogon immune, Zap Cannon threat gone) while Drogon Protects Mega Zap Cannon/Draco; safe line regardless of their choice.
+|
+|t:|1790921554
+|switch|p1b: Staraptor|Staraptor, L50, M|100/100
+|-ability|p1b: Staraptor|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|-unboost|p2b: Drogon|atk|1
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p2b: Drogon|Protect|p2b: Drogon
+|-singleturn|p2b: Drogon|Protect
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Garchomp
+|-status|p2a: Garchomp|brn
+|move|p2a: Garchomp|Earthquake|p1b: Staraptor|[spread] p1a
+|-activate|p2b: Drogon|move: Protect
+|-immune|p1b: Staraptor
+|-damage|p1a: Dragapult|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Garchomp|174/185 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1|claude|Dragon Claw + Heat Wave nearly KOs Dragapult (80-95%) while Heat Wave also chunks Staraptor; Garchomp is burned and expendable, no Protect-stalling.
+|inactive|sengeki has 30 seconds left.
+|
+|t:|1790921581
+|detailschange|p1b: Staraptor|Staraptor-Mega, L50, M
+|-mega|p1b: Staraptor|Staraptor|Staraptite
+|move|p1a: Dragapult|Light Screen|p1a: Dragapult
+|-sidestart|p1: sengeki|move: Light Screen
+|move|p1b: Staraptor|Tailwind|p1b: Staraptor
+|-sidestart|p1: sengeki|move: Tailwind
+|move|p2a: Garchomp|Dragon Claw|p1a: Dragapult
+|-supereffective|p1a: Dragapult|1
+|-damage|p1a: Dragapult|54/100
+|move|p2b: Drogon|Heat Wave|p1b: Staraptor|[spread] p1a,p1b
+|-resisted|p1a: Dragapult|1
+|-damage|p1a: Dragapult|25/100
+|-damage|p1b: Staraptor|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Garchomp|163/185 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1|claude|Heat Wave KOs Dragapult and likely KOs Staraptor; Dragon Claw guarantees Dragapult dies first if Heat Wave rolls low.
+|
+|t:|1790921601
+|move|p1a: Dragapult|Reflect|p1a: Dragapult
+|-sidestart|p1: sengeki|Reflect
+|move|p1b: Staraptor|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|45/185 brn
+|-boost|p1b: Staraptor|def|1
+|-boost|p1b: Staraptor|spd|1
+|-damage|p1b: Staraptor|40/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Sitrus Berry|[eat]
+|-heal|p2a: Garchomp|91/185 brn|[from] item: Sitrus Berry
+|move|p2a: Garchomp|Dragon Claw|p1a: Dragapult
+|-supereffective|p1a: Dragapult|1
+|-damage|p1a: Dragapult|3/100
+|move|p2b: Drogon|Heat Wave|p1a: Dragapult|[spread] p1a,p1b
+|-resisted|p1a: Dragapult|1
+|-damage|p1a: Dragapult|0 fnt
+|-damage|p1b: Staraptor|8/100
+|faint|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Garchomp|80/185 brn|[from] brn
+|upkeep
+|
+|t:|1790921623
+|switch|p1a: Raichu|Raichu, L50, M|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1|claude|Heat Wave KOs Contrary Staraptor and chips Raichu 55-65%; Garchomp at 43% burned Protects from Brave Bird/Zap Cannon range.
+|
+|t:|1790921637
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Raichu|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|139/153
+|move|p1b: Staraptor|Roost|p1b: Staraptor
+|-heal|p1b: Staraptor|59/100
+|-singleturn|p1b: Staraptor|move: Roost
+|cant|p2b: Drogon|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Garchomp|69/185 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|switch 3, move 1|claude|Garchomp is dead to anything; Milotic walls Zap Cannon/Brave Bird. Heat Wave chips both and threatens to KO Staraptor at 59%.
+|
+|t:|1790921654
+|switch|p2a: Milotic|Milotic, L50, M|202/202
+|move|p1b: Staraptor|Roost|p1b: Staraptor
+|-heal|p1b: Staraptor|100/100
+|-singleturn|p1b: Staraptor|move: Roost
+|move|p1a: Raichu|Nuzzle|p2b: Drogon
+|-supereffective|p2b: Drogon|1
+|-damage|p2b: Drogon|115/153
+|-status|p2b: Drogon|par
+|move|p2b: Drogon|Heat Wave|p1b: Staraptor|[spread] p1a,p1b
+|-damage|p1a: Raichu|40/100
+|-damage|p1b: Staraptor|68/100
+|
+|-weather|none
+|-sideend|p1: sengeki|move: Tailwind
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 3 1|claude|Raichu at 40% dies to Scald+Ancient Power; removing Lightningrod/Nuzzle support leaves only Staraptor, and Drogon is paralyzed anyway.
+|
+|t:|1790921672
+|move|p1b: Staraptor|Close Combat|p2a: Milotic
+|-damage|p2a: Milotic|85/202
+|-boost|p1b: Staraptor|def|1
+|-boost|p1b: Staraptor|spd|1
+|move|p1a: Raichu|Nuzzle|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|61/202
+|-status|p2a: Milotic|par
+|move|p2b: Drogon|Ancient Power|p1a: Raichu
+|-damage|p1a: Raichu|17/100
+|move|p2a: Milotic|Scald|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|faint|p1a: Raichu
+|
+|-heal|p2a: Milotic|73/202 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1790921687
+|switch|p1a: Arcanine|Arcanine-Hisui, L50, F|100/100
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 4|claude|Scald breaks Arcanine's sash (leaves 1 HP, maybe burns) while Drogon Protects from Head Smash/Brave Bird; Milotic risks only one hit.
+|
+|t:|1790921697
+|move|p2b: Drogon|Protect|p2b: Drogon
+|-singleturn|p2b: Drogon|Protect
+|move|p1b: Staraptor|Close Combat|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|-boost|p1b: Staraptor|def|1
+|-boost|p1b: Staraptor|spd|1
+|faint|p2a: Milotic
+|move|p1a: Arcanine|Head Smash|p2b: Drogon
+|-activate|p2b: Drogon|move: Protect
+|
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790921697
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 3 1|claude|Focus-fire Arcanine: Kowtow + Ancient Power kills through Focus Sash. Kingambit survives Head Smash; Staraptor Close Combat KOs Kingambit regardless, so remove Arcanine now.
+|
+|t:|1790921713
+|move|p1b: Staraptor|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit|2
+|-damage|p2a: Kingambit|0 fnt
+|-boost|p1b: Staraptor|def|1
+|-boost|p1b: Staraptor|spd|1
+|faint|p2a: Kingambit
+|move|p1a: Arcanine|Head Smash|p2b: Drogon
+|-supereffective|p2b: Drogon|2
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790921713
+|switch|p2a: Garchomp|Garchomp, L50, M|69/185 brn
+|turn|9
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, pass|claude|Last Pokemon, burned and dying; Earthquake is our only chance to KO Arcanine before Staraptor kills us. Protect only delays.
+|
+|t:|1790921728
+|move|p1a: Arcanine|Extreme Speed|p2a: Garchomp
+|-damage|p2a: Garchomp|24/185 brn
+|-damage|p1a: Arcanine|87/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p1b: Staraptor|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-boost|p1b: Staraptor|def|1
+|-boost|p1b: Staraptor|spd|1
+|-damage|p1b: Staraptor|55/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|win|sengeki

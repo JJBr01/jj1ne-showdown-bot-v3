@@ -1,0 +1,119 @@
+|init|battle
+|title|charjabugking vs. JJ1NE
+|j|☆charjabugking
+|j|☆JJ1NE
+
+|t:|1790923086
+|gametype|doubles
+|player|p1|charjabugking|2|1178
+|player|p2|JJ1NE|102|1120
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Venusaur, L50, F|
+|poke|p1|Incineroar, L50, M|
+|poke|p1|Froslass, L50, F|
+|poke|p1|Dragapult, L50, F|
+|poke|p1|Sneasler, L50, M|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, F|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6145|claude
+|
+|t:|1790923101
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Froslass|Froslass, L50, F|100/100
+|switch|p1b: Dragapult|Dragapult, L50, F|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2b: Drogon|Charizard, L50, F|153/153
+|turn|1
+|choice|move 2 2, move 1 mega|claude|Heat Wave KOs Froslass before Aurora Veil; Moonblast+Heat Wave likely KOs Dragapult too, removing both threats immediately.
+|
+|t:|1790923112
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1b: Dragapult|Flamethrower|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|-damage|p1b: Dragapult|90/100|[from] item: Life Orb
+|move|p2a: Whimsicott|Moonblast|p1b: Dragapult
+|-supereffective|p1b: Dragapult|1
+|-damage|p1b: Dragapult|0 fnt
+|faint|p1b: Dragapult
+|move|p1a: Froslass|Icy Wind|p2b: Drogon|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|-damage|p2b: Drogon|129/153
+|-unboost|p2b: Drogon|spe|1
+|faint|p2a: Whimsicott
+|move|p2b: Drogon|Heat Wave|p1a: Froslass
+|-supereffective|p1a: Froslass|1
+|-damage|p1a: Froslass|0 fnt
+|faint|p1a: Froslass
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790923125
+|switch|p1b: Venusaur|Venusaur, L50, F|100/100
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|switch|p1a: Charizard|Charizard, L50, M|100/100
+|turn|2
+|choice|move 3, move 1|claude|Rock Slide likely KOs their Charizard before it Megas; Heat Wave breaks Venusaur's sash and chips Charizard, covering both foes.
+|
+|t:|1790923135
+|detailschange|p1a: Charizard|Charizard-Mega-Y, L50, M
+|-mega|p1a: Charizard|Charizard|Charizardite Y
+|move|p1b: Venusaur|Sleep Powder|p2a: Garchomp|[miss]
+|-miss|p1b: Venusaur|p2a: Garchomp
+|move|p2a: Garchomp|Rock Slide|p1b: Venusaur|[spread] p1b
+|-miss|p2a: Garchomp|p1a: Charizard
+|-damage|p1b: Venusaur|75/100
+|move|p1a: Charizard|Ancient Power|p2b: Drogon
+|-supereffective|p2b: Drogon|2
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790923135
+|switch|p2b: Kingambit|Kingambit, L50, M|207/207
+|turn|3
+|choice|move 3, move 1 2|claude|Rock Slide likely KOs Zard-Y (82-99% + flinch chance); Kowtow KOs Venusaur at 75%. Kingambit dies to Weather Ball anyway, so maximize damage.
+|
+|t:|1790923144
+|move|p1b: Venusaur|Leaf Storm|p2a: Garchomp
+|-damage|p2a: Garchomp|50/185
+|-unboost|p1b: Venusaur|spa|2
+|-enditem|p2a: Garchomp|Sitrus Berry|[eat]
+|-heal|p2a: Garchomp|96/185|[from] item: Sitrus Berry
+|move|p2a: Garchomp|Rock Slide|p1b: Venusaur|[spread] p1a,p1b
+|-supereffective|p1a: Charizard|2
+|-damage|p1a: Charizard|0 fnt
+|-damage|p1b: Venusaur|50/100g
+|faint|p1a: Charizard
+|move|p2b: Kingambit|Kowtow Cleave|p1b: Venusaur
+|-damage|p1b: Venusaur|0 fnt
+|faint|p1b: Venusaur
+|-damage|p2b: Kingambit|187/207|[from] item: Life Orb
+|
+|win|JJ1NE

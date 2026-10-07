@@ -1,0 +1,163 @@
+|init|battle
+|title|JJ1NE vs. Atropos86
+|j|☆JJ1NE
+
+|j|☆Atropos86
+|t:|1790957725
+|gametype|doubles
+|player|p1|JJ1NE|102|1216
+|player|p2|Atropos86|266|1129
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Raichu, L50, F|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Farigiraf, L50, M|
+|poke|p2|Incineroar, L50, F|
+|poke|p2|Rillaboom, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6243|claude
+|
+|t:|1790957747
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p1b: Dragonite|Dragonite, L50, F|168/168
+|switch|p2a: Whimsicott|Whimsicott, L50, F|100/100
+|switch|p2b: Garchomp|Garchomp, L50, F|100/100
+|turn|1
+|choice|move 1, move 1 2 mega|wolfe-fallback
+|
+|t:|1790957773
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, F
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: Atropos86|move: Tailwind
+|move|p2b: Garchomp|Flamethrower|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|31/137
+|move|p1b: Dragonite|Draco Meteor|p2b: Garchomp
+|-supereffective|p2b: Garchomp|1
+|-damage|p2b: Garchomp|0 fnt
+|-unboost|p1b: Dragonite|spa|2
+|faint|p2b: Garchomp
+|
+|upkeep
+|
+|t:|1790957783
+|switch|p2b: Farigiraf|Farigiraf, L50, M|100/100
+|turn|2
+|choice|move 2 1, move 2|claude|Whimsicott at 23% dies to anything; use it now. Moonblast + Heat Wave likely KOs their Whimsicott, removing their Tailwind/Encore support.
+|
+|t:|1790957792
+|move|p1a: Whimsicott|Moonblast|p2a: Whimsicott
+|-damage|p2a: Whimsicott|50/100g
+|move|p2a: Whimsicott|Dazzling Gleam|p1a: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1b: Dragonite|1
+|-crit|p1b: Dragonite
+|-damage|p1a: Whimsicott|0 fnt
+|-damage|p1b: Dragonite|126/168
+|faint|p1a: Whimsicott
+|move|p1b: Dragonite|Heat Wave|p2b: Farigiraf|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|8/100
+|-damage|p2b: Farigiraf|84/100
+|-status|p2b: Farigiraf|brn
+|move|p2b: Farigiraf|Psychic|p1b: Dragonite
+|-damage|p1b: Dragonite|29/168
+|-damage|p2b: Farigiraf|74/100 brn|[from] item: Life Orb
+|
+|-damage|p2b: Farigiraf|68/100 brn|[from] brn
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790957793
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|turn|3
+|choice|move 2 1, switch 3|claude|Dragonite at 17% with -2 SpA dies to anything; switch to Garchomp. Ice Beam KOs Whimsicott (8%, sash already gone).
+|
+|t:|1790957816
+|switch|p1b: Garchomp|Garchomp, L50, F|185/185
+|move|p2a: Whimsicott|Giga Drain|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|140/202
+|-heal|p2a: Whimsicott|27/100|[from] drain|[of] p1a: Milotic
+|move|p1a: Milotic|Ice Beam|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|move|p2b: Farigiraf|Hyper Voice|p1b: Garchomp|[spread] p1a,p1b
+|-damage|p1a: Milotic|89/202
+|-damage|p1b: Garchomp|98/185
+|-damage|p2b: Farigiraf|59/100 brn|[from] item: Life Orb
+|
+|-heal|p1a: Milotic|101/202|[from] item: Leftovers
+|-damage|p2b: Farigiraf|52/100 brn|[from] brn
+|upkeep
+|
+|t:|1790957825
+|switch|p2a: Rillaboom|Rillaboom, L50, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|4
+|choice|move 4, move 2 1|claude|Milotic Protects Wood Hammer; Garchomp outspeeds and chunks Rillaboom, the main threat. Farigiraf's burn keeps ticking toward death.
+|
+|t:|1790957833
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p2a: Rillaboom|Grassy Glide|p1a: Milotic
+|-activate|p1a: Milotic|move: Protect
+|move|p1b: Garchomp|Dragon Claw|p2a: Rillaboom
+|-damage|p2a: Rillaboom|55/100
+|move|p2b: Farigiraf|Psychic|p1b: Garchomp
+|-damage|p1b: Garchomp|0 fnt
+|faint|p1b: Garchomp
+|-damage|p2b: Farigiraf|43/100 brn|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|62/100|[from] Grassy Terrain
+|-heal|p1a: Milotic|113/202|[from] Grassy Terrain
+|-heal|p1a: Milotic|125/202|[from] item: Leftovers
+|-heal|p2b: Farigiraf|49/100 brn|[from] Grassy Terrain
+|-damage|p2b: Farigiraf|43/100 brn|[from] brn
+|-sideend|p2: Atropos86|move: Tailwind
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790957833
+|switch|p1b: Dragonite|Dragonite-Mega, L50, F|29/168
+|turn|5
+|choice|move 1 2, move 1 1|claude|Dragonite moves first: Draco Meteor KOs Rillaboom (77-90% vs 62%), removing the Wood Hammer/Grassy Glide threat; Scald chips burned Farigiraf toward KO.
+|
+|t:|1790957849
+|move|p2a: Rillaboom|Grassy Glide|p1a: Milotic
+|-supereffective|p1a: Milotic|1
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|move|p1b: Dragonite|Draco Meteor|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-unboost|p1b: Dragonite|spa|2
+|faint|p2a: Rillaboom
+|move|p2b: Farigiraf|Psychic|p1b: Dragonite
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|-damage|p2b: Farigiraf|33/100 brn|[from] item: Life Orb
+|
+|win|Atropos86

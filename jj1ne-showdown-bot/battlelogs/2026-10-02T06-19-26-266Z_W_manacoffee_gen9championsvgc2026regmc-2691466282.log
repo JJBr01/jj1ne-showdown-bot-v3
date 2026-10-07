@@ -1,0 +1,191 @@
+|init|battle
+|title|JJ1NE vs. mana_coffee
+|j|☆JJ1NE
+
+|j|☆mana_coffee
+|t:|1790921743
+|gametype|doubles
+|player|p1|JJ1NE|102|1054
+|player|p2|mana_coffee|acetrainersnowf|1047
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Umbreon, L50, F|
+|poke|p2|Raichu, L50, F|
+|poke|p2|Sneasler, L50, M|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Zoroark-Hisui, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2345|claude
+mana_coffee has agreed to open team sheets.
+|showteam|p1|Charizard||CharizarditeY|Blaze|HeatWave,SolarBeam,AncientPower,Protect|Modest||F|||50|]Dragonite||Dragoninite|InnerFocus|DracoMeteor,HeatWave,Tailwind,Protect|Modest||F|||50|]Milotic||Leftovers|Competitive|Scald,IceBeam,Recover,Protect|Calm||F|||50|]Garchomp||SitrusBerry|RoughSkin|Earthquake,DragonClaw,RockSlide,Protect|Jolly||F|||50|]Kingambit||LifeOrb|Defiant|KowtowCleave,SuckerPunch,IronHead,Protect|Adamant||F|||50|]Whimsicott||FocusSash|Prankster|Tailwind,Moonblast,Encore,Protect|Timid||M|||50|
+|showteam|p2|Umbreon||BlackGlasses|InnerFocus|Snarl,FoulPlay,Detect,Moonlight|Calm||F|||50|]Raichu||RaichuniteY|Static|FakeOut,ZapCannon,FocusBlast,Protect|Hasty||F|||50|]Sneasler||AirBalloon|PoisonTouch|FakeOut,NightSlash,DireClaw,CloseCombat|Jolly||M|||50|]Dragonite||DragonFang|InnerFocus|IceSpinner,BrickBreak,DragonClaw,Protect|Jolly||F|||50|]Rillaboom||Leftovers|GrassySurge|GrassyGlide,WoodHammer,HighHorsepower,FakeOut|Jolly||F|||50|]Zoroark-Hisui||FocusSash|Illusion|BitterMalice,DarkPulse,Extrasensory,Protect|Timid||M|||50|
+|
+|t:|1790921776
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Dragonite|Dragonite, L50, F|168/168
+|switch|p1b: Milotic|Milotic, L50, F|202/202
+|switch|p2a: Raichu|Raichu, L50, F|100/100
+|switch|p2b: Rillaboom|Rillaboom, L50, F|100/100
+|turn|1
+|choice|move 1 1 mega, move 4|claude|Mega Draco likely OHKOs Raichu before it Megas; Milotic Protects through Fake Out and Wood Hammer, keeping it healthy.
+|
+|t:|1790921806
+|detailschange|p2a: Raichu|Raichu-Mega-Y, L50, F
+|-mega|p2a: Raichu|Raichu|Raichunite Y
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Rillaboom|Protect|p2b: Rillaboom
+|-singleturn|p2b: Rillaboom|Protect
+|move|p1b: Milotic|Protect|p1b: Milotic
+|-singleturn|p1b: Milotic|Protect
+|move|p2a: Raichu|Zap Cannon|p1b: Milotic
+|-activate|p1b: Milotic|move: Protect
+|move|p1a: Dragonite|Draco Meteor|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2a: Raichu
+|
+|upkeep
+|
+|t:|1790921823
+|switch|p2a: Umbreon|Umbreon, L50, F|100/100
+|turn|2
+|choice|move 3, switch 4|claude|Milotic dies to Wood Hammer; Kingambit resists Grass and Dark, Defiant-proof. Tailwind sets speed while Dragonite's SpA is -2.
+|
+|t:|1790921857
+|switch|p1b: Kingambit|Kingambit, L50, F|207/207
+|move|p2b: Rillaboom|Dark Pulse|p1b: Kingambit
+|-resisted|p1b: Kingambit|1
+|-damage|p1b: Kingambit|178/207
+|move|p1a: Dragonite|Tailwind|p1a: Dragonite
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Umbreon|Foul Play|p1a: Dragonite
+|-damage|p1a: Dragonite|134/168
+|
+|upkeep
+|turn|3
+|choice|move 1 2, move 1 2|claude|Focus Rillaboom: Kowtow + Draco Meteor guarantees KO, removing Grassy Surge and High Horsepower threat on Kingambit.
+|
+|t:|1790921884
+|switch|p2a: Rillaboom|Rillaboom, L50, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Dragonite|Draco Meteor|p2b: Rillaboom
+|-damage|p2b: Rillaboom|18/100
+|-unboost|p1a: Dragonite|spa|2
+|replace|p2b: Zoroark|Zoroark-Hisui, L50, M
+|-end|p2b: Zoroark|Illusion
+|move|p2b: Zoroark|Extrasensory|p1a: Dragonite
+|-damage|p1a: Dragonite|94/168
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Zoroark
+|-supereffective|p2b: Zoroark|1
+|-damage|p2b: Zoroark|0 fnt
+|faint|p2b: Zoroark
+|-damage|p1b: Kingambit|158/207|[from] item: Life Orb
+|
+|-heal|p1b: Kingambit|170/207|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790921900
+|switch|p2b: Umbreon|Umbreon, L50, F|100/100
+|turn|4
+|choice|move 2, move 1 1|claude|Dragonite at -4 SpA should pivot eventually, but Kowtow Cleave KOs Rillaboom now; Heat Wave also KOs it if Protect blocks one. Removes Grassy Surge.
+|
+|t:|1790921912
+|move|p1a: Dragonite|Heat Wave|p2a: Rillaboom|[spread] p2a,p2b
+|-supereffective|p2a: Rillaboom|1
+|-damage|p2a: Rillaboom|72/100
+|-damage|p2b: Umbreon|94/100
+|move|p2a: Rillaboom|High Horsepower|p1b: Kingambit
+|-supereffective|p1b: Kingambit|1
+|-damage|p1b: Kingambit|72/207
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-damage|p1b: Kingambit|52/207|[from] item: Life Orb
+|move|p2b: Umbreon|Snarl|p1b: Kingambit|[spread] p1a,p1b
+|-resisted|p1b: Kingambit|1
+|-damage|p1a: Dragonite|76/168
+|-damage|p1b: Kingambit|40/207
+|-unboost|p1a: Dragonite|spa|1
+|-unboost|p1b: Kingambit|spa|1
+|-ability|p1b: Kingambit|Defiant|boost
+|-boost|p1b: Kingambit|atk|2
+|
+|-heal|p1b: Kingambit|52/207|[from] Grassy Terrain
+|-heal|p2b: Umbreon|100/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|choice|switch 4, move 3 2|claude|Iron Head OHKOs Umbreon; Dragonite at -5 SpA and 45% pivots to healthy Milotic to reset and absorb Foul Play.
+|
+|t:|1790921931
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|move|p2b: Umbreon|Detect|p2b: Umbreon
+|-singleturn|p2b: Umbreon|Protect
+|move|p1b: Kingambit|Iron Head|p2b: Umbreon
+|-activate|p2b: Umbreon|move: Protect
+|
+|-heal|p1b: Kingambit|64/207|[from] Grassy Terrain
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|turn|6
+|choice|move 4, move 3 2|claude|Umbreon Detected last turn; unlikely to Detect twice. Iron Head OHKOs it; Milotic Protects to dodge Foul Play risk.
+|
+|t:|1790921942
+|move|p1a: Milotic|Protect|p1a: Milotic
+|-singleturn|p1a: Milotic|Protect
+|move|p2b: Umbreon|Foul Play|p1b: Kingambit
+|-resisted|p1b: Kingambit|1
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790921942
+|switch|p1b: Garchomp|Garchomp, L50, F|185/185
+|turn|7
+|choice|move 1 2, move 2 2|claude|Focus Umbreon with max damage; Dragon Claw + Scald ~60%, Foul Play on Milotic is weak. Pressure it past Moonlight recovery.
+|
+|t:|1790921952
+|move|p1b: Garchomp|Dragon Claw|p2b: Umbreon
+|-damage|p2b: Umbreon|62/100
+|move|p1a: Milotic|Scald|p2b: Umbreon
+|-damage|p2b: Umbreon|47/100
+|-status|p2b: Umbreon|brn
+|move|p2b: Umbreon|Foul Play|p1b: Garchomp
+|-damage|p1b: Garchomp|134/185
+|-damage|p2b: Umbreon|35/100 brn|[from] ability: Rough Skin|[of] p1b: Garchomp
+|
+|-heal|p1b: Garchomp|145/185|[from] Grassy Terrain
+|-heal|p2b: Umbreon|41/100 brn|[from] Grassy Terrain
+|-damage|p2b: Umbreon|35/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|choice|move 1 2, move 2 2|claude|Dragon Claw KOs Umbreon at 35%; Scald adds insurance versus Detect-less roll. Milotic at full HP doesn't need Recover.
+|
+|t:|1790921966
+|move|p1b: Garchomp|Dragon Claw|p2b: Umbreon
+|-damage|p2b: Umbreon|1/100 brn
+|move|p1a: Milotic|Scald|p2b: Umbreon
+|-damage|p2b: Umbreon|0 fnt
+|faint|p2b: Umbreon
+|
+|win|JJ1NE

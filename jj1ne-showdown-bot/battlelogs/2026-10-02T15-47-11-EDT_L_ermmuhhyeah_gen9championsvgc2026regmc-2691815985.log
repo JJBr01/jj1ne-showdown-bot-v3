@@ -1,0 +1,185 @@
+|init|battle
+|title|ermm_uhh_yeah vs. JJ1NE
+|j|☆ermm_uhh_yeah
+|j|☆JJ1NE
+
+|t:|1790970111
+|gametype|doubles
+|player|p1|ermm_uhh_yeah|266|1210
+|player|p2|JJ1NE|102|1124
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Golurk, L50, shiny|
+|poke|p1|Farigiraf, L50, M|
+|poke|p1|Rotom-Wash, L50, shiny|
+|poke|p1|Torkoal, L50, M|
+|poke|p1|Glimmora, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6523|claude
+|
+|t:|1790970182
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Farigiraf|Farigiraf, L50, M|100/100
+|switch|p1b: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2b: Kingambit|Kingambit, L50, F|207/207
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1b: Rillaboom
+|-enditem|p1a: Farigiraf|Grassy Seed
+|-boost|p1a: Farigiraf|def|1|[from] item: Grassy Seed
+|turn|1
+|choice|move 1, move 1 1|claude|Tailwind before Trick Room goes up isn't ideal, but Kowtow Cleave pressures the TR setter hard; Whimsicott outspeeds everything to set speed control.
+|
+|t:|1790970202
+|move|p1a: Farigiraf|Helping Hand|p1b: Rillaboom
+|-singleturn|p1b: Rillaboom|Helping Hand|[of] p1a: Farigiraf
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Farigiraf
+|-supereffective|p1a: Farigiraf|1
+|-damage|p1a: Farigiraf|10/100
+|-damage|p2b: Kingambit|187/207|[from] item: Life Orb
+|move|p1b: Rillaboom|High Horsepower|p2b: Kingambit
+|-supereffective|p2b: Kingambit|1
+|-damage|p2b: Kingambit|23/207
+|
+|-heal|p2b: Kingambit|35/207|[from] Grassy Terrain
+|-heal|p1a: Farigiraf|16/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|choice|move 2 1, switch 3|claude|Moonblast KOs Farigiraf (Trick Room setter), and Kingambit at 17% must leave before Grassy Glide/High Horsepower finishes it; Dragonite resists Grass.
+|
+|t:|1790970300
+|switch|p2b: Dragonite|Dragonite, L50, M|168/168
+|move|p1a: Farigiraf|Helping Hand|p1b: Rillaboom
+|-singleturn|p1b: Rillaboom|Helping Hand|[of] p1a: Farigiraf
+|move|p1b: Rillaboom|Grassy Glide|p2b: Dragonite
+|-resisted|p2b: Dragonite|2
+|-damage|p2b: Dragonite|140/168
+|move|p2a: Whimsicott|Moonblast|p1a: Farigiraf
+|-damage|p1a: Farigiraf|0 fnt
+|faint|p1a: Farigiraf
+|
+|upkeep
+|
+|t:|1790970317
+|switch|p1a: Glimmora|Glimmora, L50, M|100/100
+|turn|3
+|choice|move 2 2, move 1 2 mega|claude|Glimmora will Mega and Power Gem KO Dragonite; remove Rillaboom now with focused damage while we're faster, then handle Glimmora with Milotic.
+|
+|t:|1790970334
+|detailschange|p2b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p2b: Dragonite|Dragonite|Dragoninite
+|detailschange|p1a: Glimmora|Glimmora-Mega, L50, M
+|-mega|p1a: Glimmora|Glimmora|Glimmoranite
+|move|p2a: Whimsicott|Moonblast|p1b: Rillaboom
+|-damage|p1b: Rillaboom|60/100
+|-enditem|p1b: Rillaboom|Eject Button
+|
+|t:|1790970341
+|switch|p1b: Torkoal|Torkoal, L50, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Torkoal
+|move|p2b: Dragonite|Draco Meteor|p1b: Torkoal
+|-damage|p1b: Torkoal|0 fnt
+|-unboost|p2b: Dragonite|spa|2
+|faint|p1b: Torkoal
+|move|p1a: Glimmora|Sludge Bomb|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|2
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Whimsicott|9/137|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790970353
+|switch|p1b: Rillaboom|Rillaboom, L50, M|60/100
+|turn|4
+|choice|switch 4, move 2|claude|Whimsicott at 7% dies to anything; swap to Milotic which tanks Power Gem/Sludge Bomb. Heat Wave likely KOs Rillaboom at 60%.
+|
+|t:|1790970360
+|switch|p2a: Milotic|Milotic, L50, M|202/202
+|move|p1b: Rillaboom|Fake Out|p2b: Dragonite
+|-damage|p2b: Dragonite|115/168
+|cant|p2b: Dragonite|flinch
+|move|p1a: Glimmora|Power Gem|p2b: Dragonite
+|-supereffective|p2b: Dragonite|1
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2b: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Rillaboom|66/100|[from] Grassy Terrain
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790970361
+|switch|p2b: Kingambit|Kingambit, L50, F|35/207
+|turn|5
+|choice|move 1 1, move 3 1|claude|Kingambit dies to anything; use it now. Iron Head 79-143% likely KOs Mega Glimmora, Scald adds chip to guarantee removing their biggest threat.
+|
+|t:|1790970401
+|move|p1b: Rillaboom|Grassy Glide|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|56/202
+|move|p1a: Glimmora|Earth Power|p2b: Kingambit
+|-supereffective|p2b: Kingambit|1
+|-damage|p2b: Kingambit|0 fnt
+|faint|p2b: Kingambit
+|move|p2a: Milotic|Scald|p1a: Glimmora
+|-supereffective|p1a: Glimmora|1
+|-damage|p1a: Glimmora|73/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Glimmora|79/100|[from] Grassy Terrain
+|-heal|p2a: Milotic|68/202|[from] Grassy Terrain
+|-heal|p2a: Milotic|80/202|[from] item: Leftovers
+|-heal|p1b: Rillaboom|71/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790970401
+|switch|p2b: Whimsicott|Whimsicott, L50, M|9/137
+|turn|6
+|choice|move 2 2, move 4|claude|Only two Pokemon left; Whimsicott dies to anything, so Protect it and chip Rillaboom with Ice Beam — Tailwind is wasted at 7% HP.
+|
+|t:|1790970421
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p1a: Glimmora|Sludge Bomb|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|move|p1b: Rillaboom|Grassy Glide|p2b: Whimsicott
+|-activate|p2b: Whimsicott|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|choice|pass, move 2 2|claude|Last Pokemon at 7%; anything KOs us. Moonblast Rillaboom for max chip since Protect was used last turn and we die regardless.
+|
+|t:|1790970431
+|move|p2b: Whimsicott|Moonblast|p1b: Rillaboom
+|-damage|p1b: Rillaboom|32/100
+|move|p1a: Glimmora|Sludge Bomb|p2b: Whimsicott
+|-supereffective|p2b: Whimsicott|2
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|
+|win|ermm_uhh_yeah

@@ -1,0 +1,174 @@
+|init|battle
+|title|JJ1NE vs. hshddjdn
+|j|☆JJ1NE
+
+|j|☆hshddjdn
+|t:|1790995904
+|gametype|doubles
+|player|p1|JJ1NE|102|1121
+|player|p2|hshddjdn|lucas|1121
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Beedrill, L50, F|
+|poke|p2|Quaquaval, L50, F|
+|poke|p2|Drampa, L50, M|
+|poke|p2|Reuniclus, L50, M|
+|poke|p2|Conkeldurr, L50, M|
+|poke|p2|Toucannon, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|choice|team 3245|wolfe-fallback
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hshddjdn)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|
+|t:|1790995920
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Reuniclus|Reuniclus, L50, M|100/100
+|switch|p2b: Toucannon|Toucannon, L50, M|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 1 2 mega|claude|Focus fire Toucannon, the faster attacker; combined Dragon Claw + Mega Dragon Pulse likely KOs before it acts, leaving slow Reuniclus manageable.
+|calc|Action: Garchomp: Dragon Claw -> Toucannon (35-66%) | Dragonite: Dragon Pulse [Mega] -> Toucannon (34-64%)
+|calc|Threats: Garchomp threatened by Reuniclus Future Sight (44-80%); Dragonite threatened by Reuniclus Future Sight (43-77%)
+|
+|t:|1790995931
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p1a: Garchomp|Dragon Claw|p2b: Toucannon
+|-damage|p2b: Toucannon|51/100
+|move|p1b: Dragonite|Dragon Pulse|p2b: Toucannon
+|-damage|p2b: Toucannon|0 fnt
+|faint|p2b: Toucannon
+|move|p2a: Reuniclus|Trick Room|p2a: Reuniclus
+|-fieldstart|move: Trick Room|[of] p2a: Reuniclus
+|
+|upkeep
+|
+|t:|1790995939
+|switch|p2b: Conkeldurr|Conkeldurr, L50, M|100/100
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|Reuniclus is the Trick Room engine; focus both actions to remove it. Combined 65-118% likely KOs it, denying further TR resets.
+|calc|Action: Garchomp: Dragon Claw -> Reuniclus (30-55%) | Dragonite: Dragon Pulse -> Reuniclus (35-63%)
+|calc|Threats: Garchomp threatened by Conkeldurr Focus Punch (56-99%); Dragonite threatened by Conkeldurr Double-Edge (14-25%)
+|
+|t:|1790995945
+|move|p2a: Reuniclus|Psychic|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|29/185
+|-damage|p2a: Reuniclus|90/100|[from] item: Life Orb
+|move|p2b: Conkeldurr|Ice Punch|p1b: Dragonite
+|-supereffective|p1b: Dragonite|2
+|-damage|p1b: Dragonite|31/168
+|move|p1b: Dragonite|Dragon Pulse|p2a: Reuniclus
+|-damage|p2a: Reuniclus|54/100
+|move|p1a: Garchomp|Dragon Claw|p2a: Reuniclus
+|-damage|p2a: Reuniclus|12/100
+|
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 2|claude|Heat Wave guarantees the Reuniclus KO even if Garchomp's Claw is blocked, and chips Conkeldurr; both our mons die to any hit anyway.
+|calc|Action: Garchomp: Dragon Claw -> Reuniclus (30-55% KO) | Dragonite: Heat Wave (spread) -> Reuniclus (19-35% KO), Conkeldurr (23-45%)
+|calc|Threats: Garchomp threatened by Conkeldurr Ice Punch (76-134% KO); Dragonite threatened by Conkeldurr Ice Punch (73-126% KO)
+|
+|t:|1790995956
+|move|p2a: Reuniclus|Psychic|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2a: Reuniclus|2/100|[from] item: Life Orb
+|move|p2b: Conkeldurr|Ice Punch|p1b: Dragonite
+|-supereffective|p1b: Dragonite|2
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|
+|upkeep
+|choice|switch 3, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790995956
+|switch|p1b: Kingambit|Kingambit, L50, M|207/207
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 1 1|claude|Kingambit moves first under TR: Kowtow KOs Reuniclus (Focus Blast threat); Whimsicott Moonblast chunks/maybe KOs Conkeldurr.
+|calc|Action: Whimsicott: Moonblast -> Conkeldurr (57-107% (OHKO 14%)) | Kingambit: Kowtow Cleave -> Reuniclus (93-171% KO)
+|calc|Threats: Whimsicott threatened by Conkeldurr Ice Punch (53-99%); Kingambit threatened by Reuniclus Focus Blast (124-187% OHKO)
+|
+|t:|1790995963
+|move|p2a: Reuniclus|Flash Cannon|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|12/137
+|-damage|p2a: Reuniclus|0 fnt|[from] item: Life Orb
+|faint|p2a: Reuniclus
+|move|p2b: Conkeldurr|Fire Punch|p1b: Kingambit
+|-supereffective|p1b: Kingambit|1
+|-damage|p1b: Kingambit|70/207
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Conkeldurr
+|-resisted|p2b: Conkeldurr|1
+|-damage|p2b: Conkeldurr|68/100
+|-damage|p1b: Kingambit|50/207|[from] item: Life Orb
+|move|p1a: Whimsicott|Moonblast|p2b: Conkeldurr
+|-supereffective|p2b: Conkeldurr|1
+|-damage|p2b: Conkeldurr|0 fnt
+|faint|p2b: Conkeldurr
+|
+|upkeep
+|
+|t:|1790995971
+|switch|p2a: Quaquaval|Quaquaval, L50, F|100/100
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|Only Quaquaval left; Kingambit moves first under TR, Kowtow + Moonblast guarantees the KO this turn before Close Combat lands.
+|calc|Action: Whimsicott: Moonblast -> Quaquaval (57-107% (OHKO 16%)) | Kingambit: Kowtow Cleave -> Quaquaval (25-46%)
+|calc|Threats: Whimsicott threatened by Quaquaval Last Resort (43-82% KO); Kingambit threatened by Quaquaval Close Combat (147-211% KO)
+|
+|t:|1790995982
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Quaquaval
+|-resisted|p2a: Quaquaval|1
+|-damage|p2a: Quaquaval|57/100
+|-damage|p1b: Kingambit|30/207|[from] item: Life Orb
+|move|p2a: Quaquaval|Aqua Step|p1a: Whimsicott
+|-resisted|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1a: Whimsicott
+|-ability|p2a: Quaquaval|Moxie|boost
+|-boost|p2a: Quaquaval|atk|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 1|claude|Last mon at 14%; Quaquaval outspeeds and KOs anyway. Sucker Punch hits first if it attacks — only line that can win.
+|calc|Action: Kingambit: Sucker Punch -> Quaquaval (20-38%)
+|calc|Threats: Kingambit threatened by Quaquaval Wave Crash (54-78% KO)
+|
+|t:|1790995987
+|move|p1b: Kingambit|Sucker Punch|p2a: Quaquaval
+|-resisted|p2a: Quaquaval|1
+|-damage|p2a: Quaquaval|19/100
+|-damage|p1b: Kingambit|10/207|[from] item: Life Orb
+|move|p2a: Quaquaval|Aqua Step|p1b: Kingambit
+|-damage|p1b: Kingambit|0 fnt
+|-boost|p2a: Quaquaval|spe|1
+|faint|p1b: Kingambit
+|
+|win|hshddjdn

@@ -1,0 +1,212 @@
+|init|battle
+|title|JJ1NE vs. braborba
+|j|☆JJ1NE
+
+|j|☆braborba
+|t:|1790986411
+|gametype|doubles
+|player|p1|JJ1NE|102|1230
+|player|p2|braborba|pokemaniac|1188
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Torkoal, L50, M|
+|poke|p2|Politoed, L50, F|
+|poke|p2|Venusaur, L50, M|
+|poke|p2|Archaludon, L50, F|
+|poke|p2|Indeedee-F, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by braborba)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5134|claude|Kingambit leads: immune to Indeedee's Psychic/Expanding Force, pressures Trick Room setter. Drogon's Drought overrides Drizzle; Scarf Garchomp and Whimsicott Encore/Tailwind in back.
+|
+|t:|1790986428
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Torkoal|Torkoal, L50, M|100/100
+|switch|p2b: Venusaur|Venusaur, L50, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 mega|claude|Torkoal Eruption OHKOs Kingambit; Protect it. Mega Drogon Heat Wave breaks Venusaur's Sash and chips Torkoal, keeping sun ours.
+|calc|Action: Kingambit: Protect | Drogon: Heat Wave [Mega] (spread) -> Torkoal (24-39%), Venusaur (73-134% (OHKO 56%))
+|calc|Threats: Kingambit threatened by Torkoal Eruption (122-184% OHKO); Drogon threatened by Torkoal Eruption (34-63%)
+|inactive|braborba has 30 seconds left.
+|
+|t:|1790986456
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|move|p1a: Kingambit|Protect|p1a: Kingambit
+|-singleturn|p1a: Kingambit|Protect
+|move|p2b: Venusaur|Weather Ball|p1a: Kingambit
+|-activate|p1a: Kingambit|move: Protect
+|move|p1b: Drogon|Heat Wave|p2a: Torkoal|[spread] p2a,p2b
+|-resisted|p2a: Torkoal|1
+|-supereffective|p2b: Venusaur|1
+|-damage|p2a: Torkoal|65/100
+|-enditem|p2b: Venusaur|Focus Sash
+|-damage|p2b: Venusaur|1/100
+|-enditem|p2a: Torkoal|Eject Button
+|
+|t:|1790986460
+|switch|p2a: Politoed|Politoed, L50, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 2|wolfe-fallback
+|
+|t:|1790986472
+|move|p1a: Kingambit|Sucker Punch|p2b: Venusaur
+|-damage|p2b: Venusaur|0 fnt
+|faint|p2b: Venusaur
+|-damage|p1a: Kingambit|187/207|[from] item: Life Orb
+|move|p2a: Politoed|Muddy Water|p1a: Kingambit|[spread] p1a,p1b
+|-supereffective|p1b: Drogon|1
+|-damage|p1a: Kingambit|126/207
+|-damage|p1b: Drogon|57/153
+|-unboost|p1a: Kingambit|accuracy|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|move|p1b: Drogon|Heat Wave|p2a: Politoed
+|-resisted|p2a: Politoed|1
+|-crit|p2a: Politoed
+|-damage|p2a: Politoed|77/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1790986475
+|switch|p2b: Dragonite|Dragonite, L50, M|100/100
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 4|claude|Kowtow Cleave guarantees KO on the rain setter (removes Drizzle); Drogon at 37% Protects from Muddy Water/Weather Ball which would KO it.
+|calc|Action: Kingambit: Kowtow Cleave -> Politoed (101-130% KO) | Drogon: Protect
+|calc|Threats: Kingambit threatened by Politoed Weather Ball (33-51%); Drogon threatened by Politoed Weather Ball (61-107% KO)
+|
+|t:|1790986488
+|switch|p2a: Torkoal|Torkoal, L50, M|65/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|detailschange|p2b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p2b: Dragonite|Dragonite|Dragoninite
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p2b: Dragonite|Flamethrower|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790986488
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 3 1|claude|Focus Torkoal at 65%: Stomping Tantrum + Ancient Power guarantees the KO (97% min), removing Eject Button pivot and a spread threat.
+|calc|Action: Garchomp: Stomping Tantrum -> Torkoal (47-66% (KO 6%)) | Drogon: Ancient Power -> Torkoal (50-78% (KO 47%))
+|calc|Threats: Garchomp threatened by Dragonite-Mega Ice Spinner (50-89%); Drogon threatened by Torkoal Weather Ball (20-37%)
+|inactive|braborba has 30 seconds left.
+|
+|t:|1790986514
+|move|p2b: Dragonite|Protect|p2b: Dragonite
+|-singleturn|p2b: Dragonite|Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Torkoal
+|-supereffective|p2a: Torkoal|1
+|-damage|p2a: Torkoal|7/100
+|move|p1b: Drogon|Ancient Power|p2a: Torkoal
+|-supereffective|p2a: Torkoal|1
+|-crit|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790986523
+|switch|p2a: Politoed|Politoed, L50, F|77/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4 1, move 4|claude|Drogon at 37% dies to Muddy Water or Weather Ball in rain; Protect it while Garchomp chips the rain setter Politoed.
+|calc|Action: Garchomp: Stomping Tantrum -> Politoed (31-40%) | Drogon: Protect
+|calc|Threats: Garchomp threatened by Dragonite-Mega Ice Spinner (50-89%); Drogon threatened by Politoed Weather Ball (61-107% KO)
+|
+|t:|1790986535
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p1a: Garchomp|Stomping Tantrum|p2a: Politoed
+|-damage|p2a: Politoed|32/100
+|move|p2a: Politoed|Icy Wind|p1a: Garchomp|[spread] p1a
+|-activate|p1b: Drogon|move: Protect
+|-supereffective|p1a: Garchomp|2
+|-damage|p1a: Garchomp|105/185
+|-unboost|p1a: Garchomp|spe|1
+|move|p2b: Dragonite|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790986535
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|We're down 2-4; focus-fire Politoed: 40-58% combined KOs it at 32%, removing rain so Drogon's sun returns and Weather Ball powers up.
+|calc|Action: Whimsicott: Moonblast -> Politoed (21-30%) | Drogon: Weather Ball -> Politoed (19-28%)
+|calc|Threats: Whimsicott threatened by Dragonite-Mega Hurricane (126-242% OHKO); Drogon threatened by Politoed Weather Ball (61-107% KO)
+|inactive|braborba has 30 seconds left.
+|
+|t:|1790986565
+|move|p2a: Politoed|Icy Wind|p1b: Drogon|[spread] p1a,p1b
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|93/137
+|-damage|p1b: Drogon|44/153
+|-unboost|p1a: Whimsicott|spe|1
+|-unboost|p1b: Drogon|spe|1
+|move|p2b: Dragonite|Hurricane|p1b: Drogon
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p1a: Whimsicott|Moonblast|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, pass|claude|Last Pokemon, no bench; Protect only delays one turn. Moonblast chip is the only line that can win.
+|calc|Action: Whimsicott: Moonblast -> Dragonite-Mega (20-31%)
+|calc|Threats: Whimsicott threatened by Dragonite-Mega Hurricane (126-242% KO)
+|
+|t:|1790986574
+|move|p2b: Dragonite|Hurricane|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|win|braborba

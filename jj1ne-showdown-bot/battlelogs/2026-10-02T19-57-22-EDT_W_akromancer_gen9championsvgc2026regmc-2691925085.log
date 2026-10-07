@@ -1,0 +1,172 @@
+|init|battle
+|title|Akromancer vs. JJ1NE
+|j|☆Akromancer
+|j|☆JJ1NE
+
+|t:|1790985375
+|gametype|doubles
+|player|p1|Akromancer|1|1151
+|player|p2|JJ1NE|102|1203
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Torkoal, L50, M|
+|poke|p1|Sinistcha, L50|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Salamence, L50, M|
+|poke|p1|Gardevoir, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5146|claude|Kingambit immune to Expanding Force/Psychic, hits Indeedee, Sinistcha, Gardevoir super-effectively; Whimsicott Encore stops Trick Room; Drogon sheltered in back; Milotic bulky backup.
+|
+|t:|1790985381
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Indeedee|Indeedee-F, L50, F|100/100
+|switch|p1b: Gardevoir|Gardevoir, L50, F|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|choice|move 3 2, move 1 1 mega|claude|Iron Head OHKOs Gardevoir (the Mega Expanding Force win-con) while Weather Ball chips the terrain setter; Kingambit immune to Psychic anyway.
+|calc|Action: Kingambit: Iron Head -> Gardevoir (117-164% OHKO) | Drogon: Weather Ball [Mega] -> Indeedee-F (8-12%)
+|calc|Threats: Kingambit threatened by Gardevoir Hyper Voice (8-12%); Drogon threatened by Gardevoir Expanding Force (44-83%)
+|
+|t:|1790985385
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|detailschange|p1b: Gardevoir|Gardevoir-Mega, L50, F
+|-mega|p1b: Gardevoir|Gardevoir|Gardevoirite
+|move|p1a: Indeedee|Follow Me|p1a: Indeedee
+|-singleturn|p1a: Indeedee|move: Follow Me
+|move|p2b: Drogon|Weather Ball|p1a: Indeedee
+|-damage|p1a: Indeedee|32/100
+|move|p2a: Kingambit|Iron Head|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|move|p1b: Gardevoir|Trick Room|p1b: Gardevoir
+|-fieldstart|move: Trick Room|[of] p1b: Gardevoir
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790985398
+|switch|p1a: Kingambit|Kingambit, L50, F|100/100
+|turn|2
+|choice|move 3 2, move 1 1|claude|Iron Head (our Kingambit moves first under TR) guaranteed KOs Mega Gardevoir; Weather Ball guaranteed KOs their Kingambit. Double KO, removes terrain-abuser and Dark threat.
+|calc|Action: Kingambit: Iron Head -> Gardevoir-Mega (117-164% OHKO) | Drogon: Weather Ball -> Kingambit (139-251% OHKO)
+|calc|Threats: Kingambit threatened by Gardevoir-Mega Hyper Voice (35-53%); Drogon threatened by Gardevoir-Mega Expanding Force (45-80%)
+|
+|t:|1790985407
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Drogon
+|-damage|p2b: Drogon|50/153
+|move|p2a: Kingambit|Iron Head|p1b: Gardevoir
+|-supereffective|p1b: Gardevoir|1
+|-damage|p1b: Gardevoir|0 fnt
+|faint|p1b: Gardevoir
+|-damage|p2a: Kingambit|167/207|[from] item: Life Orb
+|move|p2b: Drogon|Weather Ball|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790985416
+|switch|p1b: Torkoal|Torkoal, L50, M|100/100
+|-item|p1b: Torkoal|Air Balloon
+|turn|3
+|choice|move 1 2, move 3 2|claude|Torkoal moves first under TR and Eruption OHKOs Kingambit; focus-fire for the KO — Kowtow+Ancient Power 87-132% likely kills immediately.
+|calc|Action: Kingambit: Kowtow Cleave -> Torkoal (37-54%) | Drogon: Ancient Power -> Torkoal (50-78%)
+|calc|Threats: Kingambit threatened by Torkoal Eruption (100-152% KO); Drogon threatened by Torkoal Eruption (23-41% (KO 48%))
+|
+|t:|1790985418
+|move|p1b: Torkoal|Eruption|p2a: Kingambit|[spread] p2a,p2b
+|-supereffective|p2a: Kingambit|1
+|-resisted|p2b: Drogon|1
+|-crit|p2b: Drogon
+|-damage|p2a: Kingambit|0 fnt
+|-damage|p2b: Drogon|0 fnt
+|faint|p2a: Kingambit
+|faint|p2b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, switch 3|engine
+|
+|t:|1790985419
+|switch|p2a: Milotic|Milotic, L50, F|202/202
+|switch|p2b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|choice|move 1 2, move 4|claude|Whimsicott dies to any Eruption; Protect it while Milotic Scalds Torkoal — possible burn cripples Eruption and we out-sustain with Recover.
+|calc|Action: Milotic: Scald -> Torkoal (25-41%) | Whimsicott: Protect
+|calc|Threats: Milotic threatened by Torkoal Eruption (19-24%); Whimsicott threatened by Torkoal Eruption (133-258% OHKO)
+|
+|t:|1790985429
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p1b: Torkoal|Solar Beam||[still]
+|-prepare|p1b: Torkoal|Solar Beam
+|-anim|p1b: Torkoal|Solar Beam|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|122/202
+|move|p2a: Milotic|Scald|p1b: Torkoal
+|-supereffective|p1b: Torkoal|1
+|-damage|p1b: Torkoal|66/100
+|-enditem|p1b: Torkoal|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Milotic|134/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|choice|move 4, move 2 2|wolfe-fallback
+|
+|t:|1790985436
+|move|p2a: Milotic|Protect|p2a: Milotic
+|-singleturn|p2a: Milotic|Protect
+|move|p1b: Torkoal|Eruption|p2a: Milotic|[spread] p2b
+|-activate|p2a: Milotic|move: Protect
+|-supereffective|p2b: Whimsicott|1
+|-crit|p2b: Whimsicott
+|-enditem|p2b: Whimsicott|Focus Sash
+|-damage|p2b: Whimsicott|1/137
+|move|p2b: Whimsicott|Moonblast|p1b: Torkoal
+|-resisted|p1b: Torkoal|1
+|-damage|p1b: Torkoal|43/100
+|
+|-weather|none
+|-heal|p2a: Milotic|146/202|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|choice|move 1 2, move 4|claude|Scald likely KOs Torkoal (51-81% vs 43%); Whimsicott at 1 HP Protects to survive Eruption and stay alive for later Tailwind.
+|calc|Action: Milotic: Scald -> Torkoal (51-81% KO) | Whimsicott: Protect
+|calc|Threats: Milotic threatened by Torkoal Solar Beam (35-46%); Whimsicott threatened by Torkoal Eruption (39-74% KO)
+|
+|t:|1790985442
+|move|p2b: Whimsicott|Protect|p2b: Whimsicott
+|-singleturn|p2b: Whimsicott|Protect
+|move|p2a: Milotic|Scald|p1b: Torkoal
+|-supereffective|p1b: Torkoal|1
+|-damage|p1b: Torkoal|0 fnt
+|faint|p1b: Torkoal
+|
+|win|JJ1NE

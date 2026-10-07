@@ -1,0 +1,132 @@
+|init|battle
+|title|klooooo vs. JJ1NE
+|j|☆klooooo
+|j|☆JJ1NE
+
+|t:|1790916889
+|gametype|doubles
+|player|p1|klooooo|depotagent|1120
+|player|p2|JJ1NE|102|1077
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Oranguru, L50, M|
+|poke|p1|Rillaboom, L50, M|
+|poke|p1|Mudsdale, L50, F|
+|poke|p1|Orthworm, L50, M|
+|poke|p1|Skeledirge, L50, F|
+|poke|p1|Dragalge, L50, F|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6125|claude
+|uhtmlchange|otsrequest|
+klooooo rejected open team sheets.
+|
+|t:|1790916935
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Oranguru|Oranguru, L50, M|100/100
+|switch|p1b: Rillaboom|Rillaboom, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2b: Drogon|Charizard, L50, F|153/153
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1b: Rillaboom
+|-enditem|p1b: Rillaboom|Grassy Seed
+|-boost|p1b: Rillaboom|def|1|[from] item: Grassy Seed
+|turn|1
+|choice|move 1, move 1 mega|claude|Mega Heat Wave OHKOs Rillaboom and chips Oranguru; Whimsicott outspeeds everything for Tailwind before Fake Out matters, setting up sweep.
+|
+|t:|1790916951
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p1b: Rillaboom|Fake Out|p2a: Whimsicott
+|-damage|p2a: Whimsicott|107/137
+|cant|p2a: Whimsicott|flinch
+|move|p2b: Drogon|Heat Wave|p1a: Oranguru|[spread] p1a,p1b
+|-supereffective|p1b: Rillaboom|1
+|-damage|p1a: Oranguru|37/100
+|-damage|p1b: Rillaboom|0 fnt
+|faint|p1b: Rillaboom
+|move|p1a: Oranguru|Trick Room|p1a: Oranguru
+|-fieldstart|move: Trick Room|[of] p1a: Oranguru
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Oranguru|43/100|[from] Grassy Terrain
+|-heal|p2a: Whimsicott|115/137|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790916970
+|switch|p1b: Mudsdale|Mudsdale, L50, F|100/100
+|turn|2
+|choice|move 3 1, move 1|claude|Heat Wave KOs Oranguru (43%) and badly damages Mudsdale; Encore locks Oranguru into Trick Room if it survives, ending TR.
+|
+|t:|1790916980
+|move|p2a: Whimsicott|Encore|p1a: Oranguru
+|-start|p1a: Oranguru|Encore
+|-enditem|p1a: Oranguru|Mental Herb
+|-end|p1a: Oranguru|Encore
+|move|p1b: Mudsdale|Curse|p1b: Mudsdale
+|-unboost|p1b: Mudsdale|spe|1
+|-boost|p1b: Mudsdale|atk|1
+|-boost|p1b: Mudsdale|def|1
+|move|p1a: Oranguru|Instruct|p1b: Mudsdale
+|-singleturn|p1b: Mudsdale|move: Instruct|[of] p1a: Oranguru
+|move|p1b: Mudsdale|Curse|p1b: Mudsdale
+|-unboost|p1b: Mudsdale|spe|1
+|-boost|p1b: Mudsdale|atk|1
+|-boost|p1b: Mudsdale|def|1
+|move|p2b: Drogon|Heat Wave|p1a: Oranguru|[spread] p1a,p1b
+|-damage|p1a: Oranguru|0 fnt
+|-damage|p1b: Mudsdale|51/100
+|-ability|p1b: Mudsdale|Stamina|boost
+|-boost|p1b: Mudsdale|def|1
+|faint|p1a: Oranguru
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1b: Mudsdale|57/100|[from] Grassy Terrain
+|-heal|p1b: Mudsdale|64/100|[from] item: Leftovers
+|-heal|p2a: Whimsicott|123/137|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790917000
+|switch|p1a: Orthworm|Orthworm, L50, M|100/100
+|turn|3
+|choice|move 4, move 2 2|claude|Solar Beam guarantees KO on boosted Mudsdale (113-133%) before it Double-Edges; Heat Wave only 75-89%. Whimsicott Protects from Orthworm Iron Head.
+|
+|t:|1790917014
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1b: Mudsdale|Body Press|p2b: Drogon
+|-resisted|p2b: Drogon|1
+|-damage|p2b: Drogon|109/153
+|move|p1a: Orthworm|Body Press|p2b: Drogon
+|-resisted|p2b: Drogon|1
+|-damage|p2b: Drogon|81/153
+|move|p2b: Drogon|Solar Beam||[still]
+|-prepare|p2b: Drogon|Solar Beam
+|-anim|p2b: Drogon|Solar Beam|p1b: Mudsdale
+|-supereffective|p1b: Mudsdale|1
+|-damage|p1b: Mudsdale|0 fnt
+|faint|p1b: Mudsdale
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Whimsicott|131/137|[from] Grassy Terrain
+|upkeep
+|turn|4
+|choice|switch 3, move 1|claude|Heat Wave OHKOs Orthworm; Whimsicott swaps to Dragonite to dodge Iron Head KO and face Skeledirge/Dragalge.
+|-message|klooooo forfeited.
+|
+|win|JJ1NE

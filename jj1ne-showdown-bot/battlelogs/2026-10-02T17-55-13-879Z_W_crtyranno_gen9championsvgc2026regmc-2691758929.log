@@ -1,0 +1,181 @@
+|init|battle
+|title|JJ1NE vs. CRtyranno
+|j|☆JJ1NE
+
+|j|☆CRtyranno
+|t:|1790963504
+|gametype|doubles
+|player|p1|JJ1NE|102|1101
+|player|p2|CRtyranno|265|1088
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Golurk, L50|
+|poke|p2|Golisopod, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Hatterene, L50, F|
+|poke|p2|Tyranitar, L50, M|
+|poke|p2|Indeedee-F, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6524|claude
+|
+|t:|1790963567
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p1b: Kingambit|Kingambit, L50, F|207/207
+|switch|p2a: Hat Trick|Hatterene, L50, F|100/100
+|switch|p2b: Monkey Business|Rillaboom, L50, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2b: Monkey Business
+|-enditem|p2a: Hat Trick|Grassy Seed
+|-boost|p2a: Hat Trick|def|1|[from] item: Grassy Seed
+|turn|1
+|choice|move 2 1, move 3 1|claude|Hatterene is the Trick Room setter and Magic Bounce blocks Encore/Tailwind-neutral plays; Moonblast + Iron Head likely KOs it turn 1.
+|
+|t:|1790963585
+|move|p2b: Monkey Business|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|106/137
+|cant|p1a: Whimsicott|flinch
+|move|p1b: Kingambit|Iron Head|p2a: Hat Trick
+|-supereffective|p2a: Hat Trick|1
+|-damage|p2a: Hat Trick|7/100
+|-damage|p1b: Kingambit|187/207|[from] item: Life Orb
+|move|p2a: Hat Trick|Trick Room|p2a: Hat Trick
+|-fieldstart|move: Trick Room|[of] p2a: Hat Trick
+|
+|-heal|p2a: Hat Trick|14/100|[from] Grassy Terrain
+|-heal|p1b: Kingambit|199/207|[from] Grassy Terrain
+|-heal|p1a: Whimsicott|114/137|[from] Grassy Terrain
+|upkeep
+|turn|2
+|choice|move 2 1, move 1 2|claude|Hatterene at 14% dies to Moonblast; Kingambit's Kowtow Cleave hits Rillaboom hard. Clears Trick Room setter and pressures the other.
+|
+|t:|1790963605
+|move|p2a: Hat Trick|Magic Powder|p1b: Kingambit
+|-start|p1b: Kingambit|typechange|Psychic
+|move|p2b: Monkey Business|U-turn|p1b: Kingambit
+|-supereffective|p1b: Kingambit|1
+|-damage|p1b: Kingambit|115/207
+|
+|t:|1790963615
+|switch|p2b: Zonai|Golurk, L50|100/100|[from] U-turn
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Zonai
+|-supereffective|p2b: Zonai|1
+|-crit|p2b: Zonai
+|-damage|p2b: Zonai|0 fnt
+|faint|p2b: Zonai
+|-damage|p1b: Kingambit|95/207|[from] item: Life Orb
+|move|p1a: Whimsicott|Moonblast|p2a: Hat Trick
+|-damage|p2a: Hat Trick|0 fnt
+|faint|p2a: Hat Trick
+|
+|-heal|p1b: Kingambit|107/207|[from] Grassy Terrain
+|-heal|p1a: Whimsicott|122/137|[from] Grassy Terrain
+|upkeep
+|
+|t:|1790963629
+|switch|p2a: Gojira|Tyranitar, L50, M|100/100
+|switch|p2b: Monkey Business|Rillaboom, L50, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|turn|3
+|choice|move 2 1, move 3 1|claude|Kingambit moves first under TR: Iron Head 74-90% Tyranitar, Moonblast finishes it. Removing Tyranitar before it Megas and OHKOs Kingambit with Low Kick.
+|
+|t:|1790963646
+|move|p2b: Monkey Business|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|89/137
+|move|p1b: Kingambit|Iron Head|p2a: Gojira
+|-supereffective|p2a: Gojira|1
+|-damage|p2a: Gojira|39/100
+|-damage|p1b: Kingambit|87/207|[from] item: Life Orb
+|move|p2a: Gojira|Rock Slide|p1b: Kingambit|[spread] p1a,p1b
+|-damage|p1a: Whimsicott|17/137
+|-damage|p1b: Kingambit|41/207
+|cant|p1a: Whimsicott|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2b: Monkey Business|94/100|[from] Sandstorm
+|-damage|p1b: Kingambit|29/207|[from] Sandstorm
+|-damage|p1a: Whimsicott|9/137|[from] Sandstorm
+|-heal|p2b: Monkey Business|100/100|[from] Grassy Terrain
+|-heal|p1b: Kingambit|41/207|[from] Grassy Terrain
+|-heal|p2a: Gojira|45/100|[from] Grassy Terrain
+|-heal|p1a: Whimsicott|17/137|[from] Grassy Terrain
+|upkeep
+|turn|4
+|choice|move 4, move 3 1|claude|Kingambit moves first under Trick Room; Iron Head likely KOs Tyranitar at 45%. Whimsicott at 9% Protects to survive Rock Slide.
+|
+|t:|1790963676
+|move|p1a: Whimsicott|Protect|p1a: Whimsicott
+|-singleturn|p1a: Whimsicott|Protect
+|move|p2a: Gojira|Protect|p2a: Gojira
+|-singleturn|p2a: Gojira|Protect
+|move|p2b: Monkey Business|Grassy Glide|p1b: Kingambit
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2b: Monkey Business|94/100|[from] Sandstorm
+|-damage|p1a: Whimsicott|9/137|[from] Sandstorm
+|-heal|p2b: Monkey Business|100/100|[from] Grassy Terrain
+|-heal|p2a: Gojira|51/100|[from] Grassy Terrain
+|-heal|p1a: Whimsicott|17/137|[from] Grassy Terrain
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790963676
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|turn|5
+|choice|move 2 1, move 1 2 mega|claude|Trick Room ends after this turn. Moonblast chips Tyranitar (51%) while Draco Meteor cripples Rillaboom; Whimsicott dies anyway, so maximize damage spread onto both threats.
+|
+|t:|1790963695
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Monkey Business|U-turn|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|move|p2a: Gojira|Rock Slide|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|96/168
+|move|p1b: Dragonite|Draco Meteor|p2b: Monkey Business
+|-damage|p2b: Monkey Business|5/100
+|-unboost|p1b: Dragonite|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2b: Monkey Business|0 fnt|[from] Sandstorm
+|-damage|p1b: Dragonite|86/168|[from] Sandstorm
+|faint|p2b: Monkey Business
+|-heal|p2a: Gojira|57/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|-fieldend|move: Grassy Terrain
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790963695
+|switch|p1a: Garchomp|Garchomp, L50, M|185/185
+|turn|6
+|choice|move 1, move 4|claude|Earthquake nearly KOs Tyranitar while Protect shields Dragonite from the Rock Slide that would OHKO it.
+|
+|t:|1790963713
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p1a: Garchomp|Earthquake|p2a: Gojira|[spread] p2a
+|-activate|p1b: Dragonite|move: Protect
+|-supereffective|p2a: Gojira|1
+|-damage|p2a: Gojira|0 fnt
+|faint|p2a: Gojira
+|
+|win|JJ1NE

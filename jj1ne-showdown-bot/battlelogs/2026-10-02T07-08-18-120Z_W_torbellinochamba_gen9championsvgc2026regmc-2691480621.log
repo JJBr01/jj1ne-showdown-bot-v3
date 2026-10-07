@@ -1,0 +1,183 @@
+|init|battle
+|title|JJ1NE vs. TorbellinoChamba
+|j|☆JJ1NE
+
+|j|☆TorbellinoChamba
+|t:|1790924785
+|gametype|doubles
+|player|p1|JJ1NE|102|1174
+|player|p2|TorbellinoChamba|roxie|1213
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Zoroark-Hisui, L50, F, shiny|
+|poke|p2|Sneasler, L50, M|
+|poke|p2|Froslass, L50, F, shiny|
+|poke|p2|Charizard, L50, F, shiny|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, F, shiny|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6134|claude
+|
+|t:|1790924798
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Sneasler|Sneasler, L50, M|100/100
+|switch|p2b: Froslass|Froslass, L50, F, shiny|100/100
+|turn|1
+|choice|move 1, move 1 mega|claude|Whimsicott outspeeds both for Tailwind; Mega Drogon Heat Wave KOs Froslass and nearly KOs Sneasler, denying Blizzard and Unburden.
+|
+|t:|1790924809
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2b: Froslass|Protect|p2b: Froslass
+|-singleturn|p2b: Froslass|Protect
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1b: Drogon|Heat Wave|p2b: Froslass|[spread] 
+|-activate|p2b: Froslass|move: Protect
+|-miss|p1b: Drogon|p2a: Sneasler
+|move|p2a: Sneasler|Icy Wind|p1a: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|75/137
+|-damage|p1b: Drogon|130/153
+|-unboost|p1a: Whimsicott|spe|1
+|-unboost|p1b: Drogon|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|choice|move 2 1, move 1|claude|Heat Wave KOs Froslass and nearly KOs Sneasler; Moonblast on Sneasler secures the double KO before Dire Claw kills Whimsicott.
+|
+|t:|1790924828
+|switch|p2b: Garchomp|Garchomp, L50, F|100/100
+|move|p1a: Whimsicott|Moonblast|p2a: Sneasler
+|-damage|p2a: Sneasler|25/100
+|replace|p2a: Zoroark|Zoroark-Hisui, L50, F, shiny
+|-end|p2a: Zoroark|Illusion
+|move|p1b: Drogon|Heat Wave|p2b: Garchomp|[spread] p2a,p2b
+|-resisted|p2b: Garchomp|1
+|-damage|p2a: Zoroark|0 fnt
+|-damage|p2b: Garchomp|59/100
+|faint|p2a: Zoroark
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790924850
+|switch|p2a: Sneasler|Sneasler, L50, M|100/100
+|turn|3
+|choice|move 2 2, move 1|claude|Garchomp at 59% likely KO'd by Moonblast; Heat Wave very likely KOs fresh Sneasler and chips Garchomp. Double KO chance beats Protecting while Mega Garchomp threatens Rock Slide.
+|
+|t:|1790924861
+|move|p2a: Sneasler|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|48/137
+|cant|p1a: Whimsicott|flinch
+|move|p1b: Drogon|Heat Wave|p2a: Sneasler|[spread] p2a,p2b
+|-resisted|p2b: Garchomp|1
+|-damage|p2a: Sneasler|7/100
+|-damage|p2b: Garchomp|21/100
+|move|p2b: Garchomp|Rock Slide|p1a: Whimsicott|[spread] p1b
+|-miss|p2b: Garchomp|p1a: Whimsicott
+|-supereffective|p1b: Drogon|2
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|-damage|p2b: Garchomp|11/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790924861
+|switch|p1b: Milotic|Milotic, L50, M|202/202
+|turn|4
+|choice|move 2 1, move 2 2|claude|Whimsicott outspeeds: Moonblast KOs Sneasler (7%), Ice Beam KOs Garchomp (11%). Double KO this turn before Dire Claw/Rock Slide.
+|
+|t:|1790924880
+|move|p1a: Whimsicott|Moonblast|p2a: Sneasler
+|-damage|p2a: Sneasler|0 fnt
+|faint|p2a: Sneasler
+|move|p1b: Milotic|Ice Beam|p2b: Garchomp
+|-supereffective|p2b: Garchomp|2
+|-damage|p2b: Garchomp|0 fnt
+|faint|p2b: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790924884
+|switch|p2a: Froslass|Froslass, L50, F, shiny|100/100
+|turn|5
+|choice|move 4, move 1 1|claude|Whimsicott dies to Blizzard/Shadow Ball; Protect it while Milotic chips Froslass. Keeping Whimsicott alive preserves Tailwind option later.
+|
+|t:|1790924888
+|detailschange|p2a: Froslass|Froslass-Mega, L50, F, shiny
+|-mega|p2a: Froslass|Froslass|Froslassite
+|-weather|Snowscape|[from] ability: Snow Warning|[of] p2a: Froslass
+|move|p1a: Whimsicott|Protect|p1a: Whimsicott
+|-singleturn|p1a: Whimsicott|Protect
+|move|p2a: Froslass|Blizzard|p1a: Whimsicott|[spread] p1b
+|-activate|p1a: Whimsicott|move: Protect
+|-resisted|p1b: Milotic|1
+|-damage|p1b: Milotic|175/202
+|move|p1b: Milotic|Scald|p2a: Froslass
+|-damage|p2a: Froslass|65/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1b: Milotic|187/202|[from] item: Leftovers
+|upkeep
+|turn|6
+|choice|move 2 1, move 1 1|claude|Blizzard OHKOs Whimsicott regardless; focus-fire Froslass now — Moonblast+Scald (64–77%) nearly KOs, and Whimsicott dies either way.
+|
+|t:|1790924894
+|move|p2a: Froslass|Blizzard|p1a: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1a: Whimsicott|1
+|-resisted|p1b: Milotic|1
+|-damage|p1a: Whimsicott|0 fnt
+|-damage|p1b: Milotic|159/202
+|faint|p1a: Whimsicott
+|move|p1b: Milotic|Scald|p2a: Froslass
+|-damage|p2a: Froslass|30/100
+|
+|-weather|Snowscape|[upkeep]
+|-heal|p1b: Milotic|171/202|[from] item: Leftovers
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790924894
+|switch|p1a: Garchomp|Garchomp, L50, F|185/185
+|turn|7
+|choice|move 3, move 1 1|claude|Froslass at 30%: Rock Slide alone KOs (44-53%) and Scald backs it up. Garchomp dies to Blizzard, so must kill now, not Protect.
+|
+|t:|1790924898
+|move|p2a: Froslass|Blizzard|p1a: Garchomp|[spread] p1a,p1b
+|-supereffective|p1a: Garchomp|2
+|-resisted|p1b: Milotic|1
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p1b: Milotic|143/202
+|-status|p1b: Milotic|frz
+|faint|p1a: Garchomp
+|-curestatus|p1b: Milotic|frz|[from] move: Scald
+|move|p1b: Milotic|Scald|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|faint|p2a: Froslass
+|
+|win|JJ1NE

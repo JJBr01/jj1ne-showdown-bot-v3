@@ -1,0 +1,185 @@
+|init|battle
+|title|JJ1NE vs. test0824
+|j|☆JJ1NE
+
+|j|☆test0824
+|t:|1790959185
+|gametype|doubles
+|player|p1|JJ1NE|102|1084
+|player|p2|test0824|chuck|1185
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Baxcalibur, L50, F|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Volcarona, L50, M|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Tyranitar, L50, F|
+|poke|p2|Excadrill, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 1623|claude
+|
+|t:|1790959200
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Drogon|Charizard, L50, F|153/153
+|switch|p1b: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2a: Baxcalibur|Baxcalibur, L50, F|100/100
+|switch|p2b: Milotic|Milotic, L50, M|100/100
+|turn|1
+|choice|move 1 mega, move 2 1|claude|Focus Baxcalibur: Moonblast + Heat Wave likely KO before it Megas and threatens both; Whimsicott outspeeds, Icicle Crash OHKOs it anyway.
+|
+|t:|1790959228
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|move|p2a: Baxcalibur|Ice Shard|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|41/137
+|move|p1b: Whimsicott|Moonblast|p2a: Baxcalibur
+|-supereffective|p2a: Baxcalibur|1
+|-damage|p2a: Baxcalibur|21/100
+|move|p1a: Drogon|Heat Wave|p2a: Baxcalibur|[spread] p2a,p2b
+|-resisted|p2b: Milotic|1
+|-damage|p2a: Baxcalibur|0 fnt
+|-damage|p2b: Milotic|70/100
+|faint|p2a: Baxcalibur
+|move|p2b: Milotic|Dragon Cheer|p2: Baxcalibur|[notarget]
+|-fail|p2b: Milotic
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790959243
+|switch|p2a: Tyranitar|Tyranitar, L50, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|2
+|choice|move 4, switch 4|claude|Rock Slide OHKOs Drogon and KOs 30% Whimsicott; Protect Drogon, pivot Whimsicott to bulky Milotic which walls Tyranitar.
+|
+|t:|1790959253
+|switch|p1b: Milotic|Milotic, L50, F|202/202
+|move|p1a: Drogon|Protect|p1a: Drogon
+|-singleturn|p1a: Drogon|Protect
+|move|p2b: Milotic|Icy Wind|p1a: Drogon|[spread] p1b
+|-activate|p1a: Drogon|move: Protect
+|-resisted|p1b: Milotic|1
+|-damage|p1b: Milotic|196/202
+|-unboost|p1b: Milotic|spe|1
+|-ability|p1b: Milotic|Competitive|boost
+|-boost|p1b: Milotic|spa|2
+|move|p2a: Tyranitar|Dragon Dance|p2a: Tyranitar
+|-boost|p2a: Tyranitar|atk|1
+|-boost|p2a: Tyranitar|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Drogon|144/153|[from] Sandstorm
+|-damage|p2b: Milotic|70/100|[from] Sandstorm
+|-damage|p1b: Milotic|184/202|[from] Sandstorm
+|-heal|p2b: Milotic|76/100|[from] item: Leftovers
+|-heal|p1b: Milotic|196/202|[from] item: Leftovers
+|upkeep
+|turn|3
+|choice|move 4, move 1 1|claude|+1 Tyranitar Rock Slide OHKOs Drogon; Protect it while Milotic Scalds Tyranitar for ~60% plus burn chance.
+|
+|t:|1790959274
+|move|p1a: Drogon|Protect||[still]
+|-fail|p1a: Drogon
+|move|p2a: Tyranitar|Protect|p2a: Tyranitar
+|-singleturn|p2a: Tyranitar|Protect
+|move|p2b: Milotic|Icy Wind|p1a: Drogon|[spread] p1a,p1b
+|-resisted|p1b: Milotic|1
+|-damage|p1a: Drogon|128/153
+|-damage|p1b: Milotic|190/202
+|-unboost|p1a: Drogon|spe|1
+|-unboost|p1b: Milotic|spe|1
+|-ability|p1b: Milotic|Competitive|boost
+|-boost|p1b: Milotic|spa|2
+|move|p1b: Milotic|Scald|p2a: Tyranitar
+|-activate|p2a: Tyranitar|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2b: Milotic|70/100|[from] Sandstorm
+|-damage|p1a: Drogon|119/153|[from] Sandstorm
+|-damage|p1b: Milotic|178/202|[from] Sandstorm
+|-heal|p2b: Milotic|76/100|[from] item: Leftovers
+|-heal|p1b: Milotic|190/202|[from] item: Leftovers
+|upkeep
+|turn|4
+|choice|move 2 1, move 1 1|claude|Tyranitar has +1 Dragon Dance and Mega pending; Solar Beam + Scald (81-97%) almost certainly KOs it before it Megas and OHKOs Drogon with Rock Slide.
+|
+|t:|1790959299
+|detailschange|p2a: Tyranitar|Tyranitar-Mega, L50, F
+|-mega|p2a: Tyranitar|Tyranitar|Tyranitarite
+|move|p2a: Tyranitar|Rock Slide|p1b: Milotic|[spread] p1a,p1b
+|-supereffective|p1a: Drogon|2
+|-damage|p1a: Drogon|0 fnt
+|-damage|p1b: Milotic|79/202
+|faint|p1a: Drogon
+|move|p2b: Milotic|Scald|p1b: Milotic
+|-resisted|p1b: Milotic|1
+|-damage|p1b: Milotic|63/202
+|cant|p1b: Milotic|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2b: Milotic|70/100|[from] Sandstorm
+|-damage|p1b: Milotic|51/202|[from] Sandstorm
+|-heal|p2b: Milotic|76/100|[from] item: Leftovers
+|-heal|p1b: Milotic|63/202|[from] item: Leftovers
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790959299
+|switch|p1a: Dragonite|Dragonite, L50, F|168/168
+|turn|5
+|choice|move 4, move 1 1|claude|Milotic at +4 SpA Scalds Tyranitar for 81-97%, nearly KO; Dragonite Protects to dodge Rock Slide KO and keep Multiscale.
+|
+|t:|1790959312
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2a: Tyranitar|Rock Slide|p1b: Milotic|[spread] p1b
+|-activate|p1a: Dragonite|move: Protect
+|-damage|p1b: Milotic|0 fnt
+|faint|p1b: Milotic
+|move|p2b: Milotic|Icy Wind|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|158/168|[from] Sandstorm
+|-damage|p2b: Milotic|70/100|[from] Sandstorm
+|-heal|p2b: Milotic|76/100|[from] item: Leftovers
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790959312
+|switch|p1b: Whimsicott|Whimsicott, L50, M|41/137
+|turn|6
+|choice|move 3, move 1|claude|Rock Slide KOs both regardless; only Tailwind from Whimsicott (moves first) gives Dragonite speed to fight back. Double Tailwind guarantees it lands.
+|
+|t:|1790959328
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Dragonite|Tailwind||[still]
+|-fail|p1a: Dragonite
+|move|p2a: Tyranitar|Rock Slide|p1b: Whimsicott|[spread] p1a,p1b
+|-supereffective|p1a: Dragonite|1
+|-damage|p1a: Dragonite|0 fnt
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1a: Dragonite
+|faint|p1b: Whimsicott
+|
+|win|test0824

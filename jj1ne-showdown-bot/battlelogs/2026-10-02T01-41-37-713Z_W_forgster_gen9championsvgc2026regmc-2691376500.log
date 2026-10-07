@@ -1,0 +1,101 @@
+|init|battle
+|title|JJ1NE vs. forgster
+|j|☆JJ1NE
+
+|j|☆forgster
+|t:|1790905224
+|gametype|doubles
+|player|p1|JJ1NE|102|1152
+|player|p2|forgster|bugcatcher-gen4dp|1131
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Rillaboom, L50, M|
+|poke|p2|Metagross, L50|
+|poke|p2|Whimsicott, L50, M|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Basculegion, L50, M|
+|poke|p2|Staraptor, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by forgster)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|j| JJBro1
+|choice|team 1634|claude
+|
+|t:|1790905238
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|switch|p1b: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2a: Staraptor|Staraptor, L50, M|100/100
+|switch|p2b: Whimsicott|Whimsicott, L50, M|100/100
+|-ability|p2a: Staraptor|Intimidate|boost
+|-unboost|p1a: Drogon|atk|1
+|-unboost|p1b: Whimsicott|atk|1
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 mega, move 2 1|claude|Moonblast + Heat Wave likely KOs Staraptor (Mega speed control/Brave Bird threat) before it acts; Heat Wave kills their Sash Whimsicott's bulk anyway.
+|
+|t:|1790905249
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|detailschange|p2a: Staraptor|Staraptor-Mega, L50, M
+|-mega|p2a: Staraptor|Staraptor|Staraptite
+|move|p2b: Whimsicott|Tailwind|p2b: Whimsicott
+|-sidestart|p2: forgster|move: Tailwind
+|move|p2a: Staraptor|Close Combat|p1a: Drogon
+|-resisted|p1a: Drogon|1
+|-damage|p1a: Drogon|84/153
+|-boost|p2a: Staraptor|def|1
+|-boost|p2a: Staraptor|spd|1
+|move|p1b: Whimsicott|Moonblast|p2a: Staraptor
+|-supereffective|p2a: Staraptor|1
+|-damage|p2a: Staraptor|56/100
+|move|p1a: Drogon|Heat Wave|p2a: Staraptor|[spread] p2a,p2b
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2a: Staraptor|10/100
+|-enditem|p2b: Whimsicott|Focus Sash
+|-damage|p2b: Whimsicott|1/100
+|-status|p2a: Staraptor|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Staraptor|4/100 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 1|claude|Heat Wave KOs both the 4% Contrary Staraptor and 1% Whimsicott; Tailwind matches their speed for the rest of the game.
+|inactive|forgster has 30 seconds left.
+|inactive|forgster has 20 seconds left.
+|inactive|forgster has 15 seconds left.
+|
+|t:|1790905289
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Drogon|Heat Wave|p2b: Whimsicott|[spread] p2a
+|-miss|p1a: Drogon|p2b: Whimsicott
+|-damage|p2a: Staraptor|0 fnt
+|faint|p2a: Staraptor
+|move|p2b: Whimsicott|Moonblast|p1a: Drogon
+|-resisted|p1a: Drogon|1
+|-damage|p1a: Drogon|64/153
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|forgster forfeited.
+|
+|win|JJ1NE

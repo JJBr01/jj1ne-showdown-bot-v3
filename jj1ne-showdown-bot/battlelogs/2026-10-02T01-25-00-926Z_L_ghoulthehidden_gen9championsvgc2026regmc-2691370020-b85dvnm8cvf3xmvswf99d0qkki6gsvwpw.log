@@ -1,0 +1,150 @@
+|init|battle
+|title|JJ1NE vs. GhoulTheHidden
+|j|☆JJ1NE
+
+|j|☆GhoulTheHidden
+|t:|1790904213
+|gametype|doubles
+|player|p1|JJ1NE|102|1175
+|player|p2|GhoulTheHidden|preschooler|1166
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Golisopod, L50, M, shiny|
+|poke|p2|Gardevoir, L50, F, shiny|
+|poke|p2|Glimmora, L50, F, shiny|
+|poke|p2|Sinistcha-Masterpiece, L50, shiny|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Armarouge, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6154|claude
+|
+|t:|1790904234
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p1b: Drogon|Charizard, L50, F|153/153
+|switch|p2a: Glimmora|Glimmora, L50, F, shiny|100/100
+|switch|p2b: Indeedee|Indeedee-F, L50, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|turn|1
+|choice|move 1, move 4 mega|claude|Glimmora Power Gem threatens Drogon, so Protect it while Whimsicott sets Tailwind before Indeedee's Trick Room matters.
+|
+|t:|1790904244
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, F
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p1b: Drogon|Protect|p1b: Drogon
+|-singleturn|p1b: Drogon|Protect
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Glimmora|Sludge Bomb|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott|2
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/137
+|move|p2b: Indeedee|Psychic|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790904244
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|turn|2
+|choice|move 3 1, move 1|claude|Iron Head OHKOs Glimmora (Mega/Toxic Debris threat) before it moves; Heat Wave chips Indeedee, pressuring the Trick Room setter.
+|
+|t:|1790904260
+|move|p2b: Indeedee|Follow Me|p2b: Indeedee
+|-singleturn|p2b: Indeedee|move: Follow Me
+|move|p1b: Drogon|Heat Wave|p2a: Glimmora|[spread] p2a,p2b
+|-resisted|p2a: Glimmora|1
+|-damage|p2a: Glimmora|56/100
+|-damage|p2b: Indeedee|31/100
+|move|p2a: Glimmora|Power Gem|p1b: Drogon
+|-supereffective|p1b: Drogon|2
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|move|p1a: Kingambit|Iron Head|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|-damage|p1a: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790904273
+|switch|p1b: Garchomp|Garchomp, L50, M|185/185
+|switch|p2b: Armarouge|Armarouge, L50, F|100/100
+|turn|3
+|choice|move 1 2, move 1|claude|Garchomp EQ kills Glimmora and chunks/KOs Armarouge; Kingambit Kowtow Cleave finishes Armarouge — double KO denies Trick Room and Expanding Force.
+|
+|t:|1790904281
+|move|p1b: Garchomp|Earthquake|p2a: Glimmora|[spread] p1a,p2a,p2b
+|-supereffective|p1a: Kingambit|1
+|-supereffective|p2a: Glimmora|2
+|-supereffective|p2b: Armarouge|1
+|-damage|p1a: Kingambit|59/207
+|-damage|p2a: Glimmora|0 fnt
+|-damage|p2b: Armarouge|14/100
+|-activate|p2a: Glimmora|ability: Toxic Debris
+|-sidestart|p1: JJ1NE|move: Toxic Spikes
+|faint|p2a: Glimmora
+|move|p1a: Kingambit|Kowtow Cleave|p2b: Armarouge
+|-supereffective|p2b: Armarouge|1
+|-damage|p2b: Armarouge|0 fnt
+|faint|p2b: Armarouge
+|-damage|p1a: Kingambit|39/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790904291
+|switch|p2a: Gardevoir|Gardevoir, L50, F, shiny|100/100
+|-ability|p2a: Gardevoir|Defiant|Trace|[from] ability: Trace|[of] p1a: Kingambit
+|turn|4
+|choice|move 3 1, move 1|claude|Iron Head OHKOs Gardevoir before it can Mega/Trick Room; Garchomp EQ backs it up. Kingambit is immune to Psychic anyway.
+|
+|t:|1790904294
+|detailschange|p2a: Gardevoir|Gardevoir-Mega, L50, F, shiny
+|-mega|p2a: Gardevoir|Gardevoir|Gardevoirite
+|move|p2a: Gardevoir|Protect|p2a: Gardevoir
+|-singleturn|p2a: Gardevoir|Protect
+|move|p1b: Garchomp|Earthquake|p2a: Gardevoir|[spread] p1a
+|-activate|p2a: Gardevoir|move: Protect
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|turn|5
+|choice|pass, move 1|claude|Only Garchomp left, Choice-locked into Earthquake; Kingambit fainted so no ally damage. Chip Gardevoir and hope for range next turn.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GhoulTheHidden)
+|
+|t:|1790904301
+|move|p1b: Garchomp|Earthquake|p2a: Gardevoir
+|-damage|p2a: Gardevoir|26/100
+|move|p2a: Gardevoir|Hyper Voice|p1b: Garchomp
+|-supereffective|p1b: Garchomp|1
+|-damage|p1b: Garchomp|0 fnt
+|faint|p1b: Garchomp
+|
+|win|GhoulTheHidden

@@ -1,0 +1,148 @@
+|init|battle
+|title|skillproblem vs. JJ1NE
+|j|☆skillproblem
+|j|☆JJ1NE
+
+|t:|1790918035
+|gametype|doubles
+|player|p1|skillproblem|102|1100
+|player|p2|JJ1NE|102|1118
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Grimmsnarl, L50, M|
+|poke|p1|Annihilape, L50, F|
+|poke|p1|Glimmora, L50, M|
+|poke|p1|Maushold, L50|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6125|claude
+|
+|t:|1790918066
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Glimmora|Glimmora, L50, M|100/100
+|switch|p1b: Grimmsnarl|Grimmsnarl, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, M|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|choice|move 2 2, move 4 mega|claude|Glimmora Power Gem OHKOs Drogon, so Protect it; Whimsicott chips Grimmsnarl, denying screens/speed support while staying safe behind Sash.
+|
+|t:|1790918081
+|detailschange|p1a: Glimmora|Glimmora-Mega, L50, M
+|-mega|p1a: Glimmora|Glimmora|Glimmoranite
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|move|p2b: Drogon|Protect|p2b: Drogon
+|-singleturn|p2b: Drogon|Protect
+|move|p1b: Grimmsnarl|Light Screen|p1b: Grimmsnarl
+|-sidestart|p1: skillproblem|move: Light Screen
+|move|p2a: Whimsicott|Moonblast|p1b: Grimmsnarl
+|-supereffective|p1b: Grimmsnarl|1
+|-damage|p1b: Grimmsnarl|51/100
+|move|p1a: Glimmora|Sludge Bomb|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|2
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|-status|p2a: Whimsicott|psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Whimsicott|0 fnt|[from] psn
+|faint|p2a: Whimsicott
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790918081
+|switch|p2a: Kingambit|Kingambit, L50, F|207/207
+|turn|2
+|choice|move 3 1, move 1|claude|Glimmora Power Gem OHKOs Drogon; Iron Head KOs Glimmora but it moves first — Heat Wave chips both and threatens Grimmsnarl. Kill the Mega threat now.
+|
+|t:|1790918111
+|move|p1b: Grimmsnarl|Parting Shot|p2b: Drogon
+|-unboost|p2b: Drogon|atk|1
+|-unboost|p2b: Drogon|spa|1
+|
+|t:|1790918115
+|switch|p1b: Maushold|Maushold, L50|100/100|[from] Parting Shot
+|move|p1a: Glimmora|Power Gem|p2b: Drogon
+|-supereffective|p2b: Drogon|2
+|-crit|p2b: Drogon
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|move|p2a: Kingambit|Iron Head|p1a: Glimmora
+|-supereffective|p1a: Glimmora|1
+|-damage|p1a: Glimmora|0 fnt
+|faint|p1a: Glimmora
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790918130
+|switch|p1a: Annihilape|Annihilape, L50, F|100/100
+|switch|p2b: Dragonite|Dragonite, L50, M|168/168
+|turn|3
+|choice|move 1 2, move 4|claude|Annihilape Close Combat OHKOs Kingambit; Dragonite Protects vs Ice Punch while Kingambit likely KOs Maushold, removing Friend Guard and a threat.
+|
+|t:|1790918146
+|move|p2b: Dragonite|Protect|p2b: Dragonite
+|-singleturn|p2b: Dragonite|Protect
+|move|p1a: Annihilape|Protect|p1a: Annihilape
+|-singleturn|p1a: Annihilape|Protect
+|move|p1b: Maushold|Super Fang|p2b: Dragonite
+|-activate|p2b: Dragonite|move: Protect
+|move|p2a: Kingambit|Kowtow Cleave|p1b: Maushold
+|-damage|p1b: Maushold|16/100
+|-damage|p2a: Kingambit|167/207|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|choice|move 1 1, move 1 1|claude|Annihilape Ice Punch OHKOs Dragonite; focus both attacks to KO Annihilape now. Maushold at 16% is harmless and dies later.
+|
+|t:|1790918167
+|move|p1b: Maushold|Super Fang|p2b: Dragonite
+|-damage|p2b: Dragonite|84/168
+|move|p2b: Dragonite|Draco Meteor|p1a: Annihilape
+|-damage|p1a: Annihilape|68/100
+|-unboost|p2b: Dragonite|spa|2
+|move|p1a: Annihilape|Drain Punch|p2a: Kingambit
+|-supereffective|p2a: Kingambit|2
+|-damage|p2a: Kingambit|0 fnt
+|-heal|p1a: Annihilape|100/100|[from] drain|[of] p2a: Kingambit
+|faint|p2a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|choice|pass, move 1 2|claude|Dragonite is our last Pokemon; Protect only delays. Draco Meteor KOs Maushold, removing Friend Guard and a Play Rough threat.
+|
+|t:|1790918183
+|move|p1b: Maushold|Follow Me|p1b: Maushold
+|-singleturn|p1b: Maushold|move: Follow Me
+|move|p2b: Dragonite|Draco Meteor|p1b: Maushold
+|-damage|p1b: Maushold|0 fnt
+|-unboost|p2b: Dragonite|spa|2
+|faint|p1b: Maushold
+|move|p1a: Annihilape|Rage Fist|p2b: Dragonite
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2b: Dragonite
+|
+|win|skillproblem

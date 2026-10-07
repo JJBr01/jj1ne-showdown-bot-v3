@@ -1,0 +1,157 @@
+|init|battle
+|title|JJ1NE vs. fizwater
+|j|☆JJ1NE
+
+|j|☆fizwater
+|t:|1790915907
+|gametype|doubles
+|player|p1|JJ1NE|102|1125
+|player|p2|fizwater|265|1256
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Raichu, L50, M|
+|poke|p2|Indeedee, L50, M|
+|poke|p2|Primarina, L50, F|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Sneasler, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by fizwater)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5421|claude
+|
+|t:|1790915930
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Garchomp|Garchomp, L50, F|185/185
+|switch|p2a: Indeedee|Indeedee, L50, M|100/100
+|switch|p2b: Raichu|Raichu, L50, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 1|claude|Kowtow Cleave OHKOs Indeedee (removes Psychic Terrain/Expanding Force); Earthquake KOs Raichu. Kingambit takes 53-64% EQ but Expanding Force can't touch it.
+|inactive|fizwater has 30 seconds left.
+|
+|t:|1790915962
+|detailschange|p2b: Raichu|Raichu-Mega-Y, L50, M
+|-mega|p2b: Raichu|Raichu|Raichunite Y
+|move|p2a: Indeedee|Expanding Force|p1a: Kingambit|[spread] p1b
+|-immune|p1a: Kingambit
+|-damage|p1b: Garchomp|77/185
+|-enditem|p1b: Garchomp|Sitrus Berry|[eat]
+|-heal|p1b: Garchomp|123/185|[from] item: Sitrus Berry
+|move|p2b: Raichu|Focus Blast|p1b: Garchomp
+|-damage|p1b: Garchomp|25/185
+|move|p1b: Garchomp|Earthquake|p2b: Raichu|[spread] p1a,p2a,p2b
+|-supereffective|p1a: Kingambit|1
+|-crit|p2a: Indeedee
+|-supereffective|p2b: Raichu|1
+|-damage|p1a: Kingambit|91/207
+|-damage|p2a: Indeedee|0 fnt
+|-damage|p2b: Raichu|0 fnt
+|faint|p2a: Indeedee
+|faint|p2b: Raichu
+|move|p1a: Kingambit|Kowtow Cleave|p2: Indeedee|[notarget]
+|-fail|p1a: Kingambit
+|
+|upkeep
+|
+|t:|1790915974
+|switch|p2b: Primarina|Primarina, L50, F|100/100
+|switch|p2a: Sneasler|Sneasler, L50, M|100/100
+|-enditem|p2a: Sneasler|Psychic Seed
+|-boost|p2a: Sneasler|spd|1|[from] item: Psychic Seed
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, switch 3|claude|Garchomp dies to anything at 14%; switch in Dragonite (resists Close Combat-free, immune nothing but bulky) while Kingambit Iron Heads Sneasler for likely KO.
+|
+|t:|1790915988
+|switch|p1b: Dragonite|Dragonite, L50, F|168/168
+|move|p2a: Sneasler|Dire Claw|p1b: Dragonite
+|-damage|p1b: Dragonite|93/168
+|move|p2b: Primarina|Moonblast|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|-damage|p2b: Primarina|90/100|[from] item: Life Orb
+|
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790915988
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2 mega, move 4|claude|Solar Beam (sun, no charge) likely KOs Primarina, the Dragonite-killer; Dragonite Protects to dodge Dire Claw/Moonblast while Multiscale is gone.
+|
+|t:|1790916008
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2a: Sneasler|Dire Claw|p1a: Drogon
+|-damage|p1a: Drogon|68/153
+|-status|p1a: Drogon|slp
+|cant|p1a: Drogon|slp
+|move|p2b: Primarina|Dazzling Gleam|p1b: Dragonite|[spread] p1a
+|-activate|p1b: Dragonite|move: Protect
+|-resisted|p1a: Drogon|1
+|-damage|p1a: Drogon|39/153 slp
+|-damage|p2b: Primarina|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1 1|claude|Drogon is asleep (Protect may fail anyway, but costs nothing); Draco Meteor chunks Sneasler, the Unburden sweeper threatening both our mons.
+|
+|t:|1790916024
+|cant|p1a: Drogon|slp
+|move|p2a: Sneasler|Dire Claw|p1a: Drogon
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|move|p1b: Dragonite|Draco Meteor|p2a: Sneasler
+|-damage|p2a: Sneasler|42/100
+|-unboost|p1b: Dragonite|spa|2
+|move|p2b: Primarina|Dazzling Gleam|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|-damage|p2b: Primarina|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790916024
+|switch|p1a: Garchomp|Garchomp, L50, F|25/185
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, pass|claude|Earthquake KOs Sneasler and chips Primarina; no ally to hurt. Our last mon, must trade maximally.
+|
+|t:|1790916031
+|move|p2a: Sneasler|Dire Claw|p1a: Garchomp
+|-resisted|p1a: Garchomp|1
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Sneasler|29/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|win|fizwater

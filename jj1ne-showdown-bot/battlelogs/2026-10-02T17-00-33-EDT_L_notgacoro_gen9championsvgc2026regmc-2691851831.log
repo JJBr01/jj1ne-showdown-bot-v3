@@ -1,0 +1,199 @@
+|init|battle
+|title|notgacoro vs. JJ1NE
+|j|☆notgacoro
+|j|☆JJ1NE
+
+|t:|1790974625
+|gametype|doubles
+|player|p1|notgacoro|102|1115
+|player|p2|JJ1NE|102|1132
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Sneasler, L50, M, shiny|
+|poke|p1|Sinistcha, L50|
+|poke|p1|Garchomp, L50, M|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 4135|claude|Proven 88% plan: Whimsicott Tailwind + Drogon pressure; Garchomp answers their Zard/Kingambit, Kingambit handles Sinistcha Trick Room and Sneasler-free Psychic Seed.
+notgacoro has agreed to open team sheets.
+|showteam|p1|Charizard||CharizarditeY|Blaze|HeatWave,SolarBeam,Protect,FocusBlast|Timid||M|||50|]Kingambit||BlackGlasses|Defiant|KowtowCleave,SuckerPunch,IronHead,Protect|Adamant||M|||50|]Whimsicott||FocusSash|Prankster|Tailwind,Moonblast,FakeTears,HelpingHand|Bold||F|||50|]Sneasler||WhiteHerb|Unburden|CloseCombat,DireClaw,FakeOut,Feint|Adamant||M|||50|]Sinistcha||OccaBerry|Hospitality|MatchaGotcha,RagePowder,Protect,LifeDew|Bold|||||50|]Garchomp||LifeOrb|RoughSkin|Earthquake,DragonClaw,RockSlide,Protect|Jolly||M|||50|
+|showteam|p2|Charizard||CharizarditeY|Blaze|HeatWave,SolarBeam,AirSlash,Protect|Modest||M|||50|]Dragonite||Dragoninite|InnerFocus|ExtremeSpeed,DragonClaw,LowKick,Protect|Adamant||M|||50|]Garchomp||SitrusBerry|RoughSkin|Earthquake,StompingTantrum,RockSlide,Protect|Jolly||M|||50|]Whimsicott||FocusSash|Prankster|Tailwind,Moonblast,Encore,Protect|Timid||F|||50|]Kingambit||LifeOrb|Defiant|KowtowCleave,SuckerPunch,IronHead,Protect|Adamant||M|||50|]Milotic||Leftovers|Competitive|Scald,IcyWind,Recover,Protect|Calm||F|||50|
+|j| JJBro1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by notgacoro)
+|
+|t:|1790974697
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Tung Tung|Sneasler, L50, M, shiny|100/100
+|switch|p1b: El Dictador|Charizard, L50, M|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 3 1 mega|claude|Whimsicott dies to Dire Claw/Heat Wave — Protect it; Mega Drogon Air Slash likely OHKOs Sneasler, the bigger threat.
+|calc|Action: Whimsicott: Protect | Drogon: Air Slash [Mega] -> Sneasler (62-115% (OHKO 29%))
+|calc|Threats: Whimsicott threatened by Sneasler Dire Claw (160-301% OHKO); Drogon threatened by Sneasler Dire Claw (37-61%)
+|
+|t:|1790974711
+|detailschange|p1b: El Dictador|Charizard-Mega-Y, L50, M
+|-mega|p1b: El Dictador|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: El Dictador
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Tung Tung|Fake Out|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|move|p1b: El Dictador|Heat Wave|p2b: Drogon|[spread] p2b
+|-activate|p2a: Whimsicott|move: Protect
+|-resisted|p2b: Drogon|1
+|-damage|p2b: Drogon|104/153
+|move|p2b: Drogon|Air Slash|p1a: Tung Tung
+|-supereffective|p1a: Tung Tung|1
+|-damage|p1a: Tung Tung|0 fnt
+|faint|p1a: Tung Tung
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790974733
+|switch|p1a: Whimsicott|Whimsicott, L50, F|100/100
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 1|claude|Heat Wave breaks their Sash Whimsicott and chips Charizard; our Whimsicott outspeeds and Encore is risky—instead Tailwind denies their speed control.
+|calc|Action: Whimsicott: Tailwind | Drogon: Heat Wave (spread) -> Whimsicott (130-255% OHKO), Charizard-Mega-Y (22-37%)
+|calc|Threats: Whimsicott threatened by Charizard-Mega-Y Heat Wave (105-206% OHKO); Drogon threatened by Charizard-Mega-Y Heat Wave (18-32%)
+|
+|t:|1790974741
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: notgacoro|move: Tailwind
+|move|p1b: El Dictador|Heat Wave|p2b: Drogon|[spread] p2a,p2b
+|-supereffective|p2a: Whimsicott|1
+|-resisted|p2b: Drogon|1
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|-damage|p2b: Drogon|55/153
+|move|p2b: Drogon|Heat Wave|p1b: El Dictador|[spread] p1a,p1b
+|-supereffective|p1a: Whimsicott|1
+|-resisted|p1b: El Dictador|1
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/100
+|-damage|p1b: El Dictador|63/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1|claude|Our Whimsicott moves first: Moonblast KOs their 1% Whimsicott, then Heat Wave chips Charizard. Protect wastes our faster slot.
+|calc|Action: Whimsicott: Moonblast -> Whimsicott (33-64% KO) | Drogon: Heat Wave (spread) -> Whimsicott (130-255% KO), Charizard-Mega-Y (22-37%)
+|calc|Threats: Whimsicott threatened by Charizard-Mega-Y Heat Wave (105-206% KO); Drogon threatened by Charizard-Mega-Y Heat Wave (18-32%)
+|inactive|notgacoro has 30 seconds left.
+|
+|t:|1790974770
+|move|p1a: Whimsicott|Fake Tears|p2b: Drogon
+|-unboost|p2b: Drogon|spd|2
+|move|p2a: Whimsicott|Moonblast|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|move|p1b: El Dictador|Heat Wave|p2b: Drogon|[spread] p2a
+|-miss|p1b: El Dictador|p2b: Drogon
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|move|p2b: Drogon|Heat Wave|p1b: El Dictador
+|-resisted|p1b: El Dictador|1
+|-damage|p1b: El Dictador|13/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790974783
+|switch|p2a: Garchomp|Garchomp, L50, M|185/185
+|switch|p1a: Garchomp|Garchomp, L50, M|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3, move 4|claude|Our Garchomp moves first: Rock Slide KOs their 13% Charizard; Drogon Protects from their Garchomp's Rock Slide, which would otherwise OHKO it.
+|calc|Action: Garchomp: Rock Slide (spread) -> Garchomp (6-11%), Charizard-Mega-Y (65-99% KO) | Drogon: Protect
+|calc|Threats: Garchomp threatened by Garchomp Dragon Claw (56-98%); Drogon threatened by Garchomp Rock Slide (70-116% KO)
+|
+|t:|1790974801
+|move|p2b: Drogon|Protect|p2b: Drogon
+|-singleturn|p2b: Drogon|Protect
+|move|p1a: Garchomp|Dragon Claw|p2a: Garchomp
+|-supereffective|p2a: Garchomp|1
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Garchomp|87/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-damage|p1a: Garchomp|77/100|[from] item: Life Orb
+|move|p1b: El Dictador|Heat Wave|p2b: Drogon
+|-activate|p2b: Drogon|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790974801
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1|claude|Drogon Protect is unavailable? No — Kingambit Protect while Drogon Heat Wave KOs their Charizard (13%) and chips Garchomp; Kingambit dodges Focus Blast/EQ.
+|calc|Action: Kingambit: Protect | Drogon: Heat Wave (spread) -> Garchomp (23-42%), Charizard-Mega-Y (22-37% KO)
+|calc|Threats: Kingambit threatened by Charizard-Mega-Y Focus Blast (120-182% OHKO); Drogon threatened by Garchomp Rock Slide (70-116% KO)
+|
+|t:|1790974819
+|move|p2a: Kingambit|Protect|p2a: Kingambit
+|-singleturn|p2a: Kingambit|Protect
+|move|p1a: Garchomp|Earthquake|p2b: Drogon|[spread] 
+|-activate|p2a: Kingambit|move: Protect
+|-immune|p1b: El Dictador
+|-immune|p2b: Drogon
+|move|p1b: El Dictador|Heat Wave|p2b: Drogon|[spread] p2b
+|-activate|p2a: Kingambit|move: Protect
+|-resisted|p2b: Drogon|1
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|
+|-weather|none
+|-sideend|p1: notgacoro|move: Tailwind
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, pass|claude|Only Kingambit left; both foes outspeed. Sucker Punch hits before their attacks and KOs Charizard at 13%, halving incoming damage.
+|calc|Action: Kingambit: Sucker Punch -> Charizard-Mega-Y (44-68% KO)
+|calc|Threats: Kingambit threatened by Charizard-Mega-Y Focus Blast (120-182% OHKO)
+|
+|t:|1790974833
+|move|p2a: Kingambit|Sucker Punch|p1b: El Dictador
+|-damage|p1b: El Dictador|0 fnt
+|faint|p1b: El Dictador
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|move|p1a: Garchomp|Earthquake|p2a: Kingambit
+|-supereffective|p2a: Kingambit|1
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|-damage|p1a: Garchomp|68/100|[from] item: Life Orb
+|
+|win|notgacoro

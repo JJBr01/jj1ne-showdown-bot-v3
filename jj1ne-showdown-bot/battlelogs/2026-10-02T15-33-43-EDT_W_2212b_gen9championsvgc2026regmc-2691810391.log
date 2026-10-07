@@ -1,0 +1,161 @@
+|init|battle
+|title|JJ1NE vs. 2212b
+|j|☆JJ1NE
+
+|j|☆2212b
+|t:|1790969450
+|gametype|doubles
+|player|p1|JJ1NE|102|1063
+|player|p2|2212b|266|1069
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Salamence, L50, M|
+|poke|p2|Weavile, L50, F|
+|poke|p2|Sylveon, L50, F|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Rotom-Heat, L50|
+|poke|p2|Swampert, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6213|claude
+|
+|t:|1790969495
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Dragonite|Dragonite, L50, F|168/168
+|switch|p2a: Rotom|Rotom-Heat, L50|100/100
+|switch|p2b: Weavile|Weavile, L50, F|100/100
+|turn|1
+|choice|move 2 2, move 1 2 mega|claude|Whimsicott moves first; Moonblast + Draco Meteor focus-fires Weavile, the faster threat that OHKOs Whimsicott and dents Dragonite.
+|
+|t:|1790969503
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, F
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Weavile|Fake Out|p1a: Whimsicott
+|-damage|p1a: Whimsicott|110/137
+|cant|p1a: Whimsicott|flinch
+|move|p1b: Dragonite|Draco Meteor|p2b: Weavile
+|-crit|p2b: Weavile
+|-enditem|p2b: Weavile|Focus Sash
+|-damage|p2b: Weavile|1/100
+|-unboost|p1b: Dragonite|spa|2
+|move|p2a: Rotom|Volt Switch|p1b: Dragonite
+|-damage|p1b: Dragonite|148/168
+|
+|t:|1790969513
+|switch|p2a: Salamence|Salamence, L50, M|100/100|[from] Volt Switch
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Whimsicott|atk|1
+|-unboost|p1b: Dragonite|atk|1
+|
+|upkeep
+|turn|2
+|choice|move 1, switch 4|claude|Whimsicott outspeeds: Tailwind now; Dragonite at -2 SpA pivots to Milotic, dodging Weavile Ice Spinner and Salamence Draco Meteor.
+|
+|t:|1790969533
+|switch|p1b: Milotic|Milotic, L50, M|202/202
+|detailschange|p2a: Salamence|Salamence-Mega, L50, M
+|-mega|p2a: Salamence|Salamence|Salamencite
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2b: Weavile|Ice Spinner|p1b: Milotic
+|-resisted|p1b: Milotic|1
+|-damage|p1b: Milotic|166/202
+|move|p2a: Salamence|Hyper Voice|p1b: Milotic|[spread] p1a,p1b
+|-supereffective|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|-damage|p1b: Milotic|117/202
+|faint|p1a: Whimsicott
+|
+|-heal|p1b: Milotic|129/202|[from] item: Leftovers
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790969533
+|switch|p1a: Drogon|Charizard, L50, F|153/153
+|turn|3
+|choice|move 1, move 2 1|claude|Heat Wave KOs 1% Weavile (sash already used) and chips Mence; Ice Beam likely KOs Salamence-Mega. Both foes removed in one turn.
+|
+|t:|1790969565
+|move|p2a: Salamence|Protect|p2a: Salamence
+|-singleturn|p2a: Salamence|Protect
+|move|p1a: Drogon|Heat Wave|p2a: Salamence|[spread] p2b
+|-activate|p2a: Salamence|move: Protect
+|-supereffective|p2b: Weavile|1
+|-damage|p2b: Weavile|0 fnt
+|faint|p2b: Weavile
+|move|p1b: Milotic|Ice Beam|p2a: Salamence
+|-activate|p2a: Salamence|move: Protect
+|
+|-heal|p1b: Milotic|141/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790969573
+|switch|p2b: Rotom|Rotom-Heat, L50|100/100
+|turn|4
+|choice|move 3 1, move 2 1|claude|Focus Mega Salamence: Ancient Power + Ice Beam likely KOs their key threat; both our mons move first under Tailwind.
+|
+|t:|1790969587
+|move|p1a: Drogon|Ancient Power|p2a: Salamence
+|-supereffective|p2a: Salamence|1
+|-damage|p2a: Salamence|55/100
+|move|p1b: Milotic|Ice Beam|p2a: Salamence
+|-supereffective|p2a: Salamence|2
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|move|p2b: Rotom|Volt Switch|p1b: Milotic
+|-supereffective|p1b: Milotic|1
+|-damage|p1b: Milotic|73/202
+|
+|t:|1790969592
+|switch|p2b: Sylveon|Sylveon, L50, F|100/100|[from] Volt Switch
+|
+|-heal|p1b: Milotic|85/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790969595
+|switch|p2a: Rotom|Rotom-Heat, L50|100/100
+|turn|5
+|choice|move 3 1, move 1 1|claude|Focus Rotom-Heat: Ancient Power + Scald likely KO it, removing the Thunderbolt that threatens both our mons; Milotic survives Hyper Voice.
+|
+|t:|1790969610
+|move|p1a: Drogon|Ancient Power|p2a: Rotom
+|-supereffective|p2a: Rotom|1
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|50/100g
+|move|p1b: Milotic|Scald|p2a: Rotom
+|-supereffective|p2a: Rotom|1
+|-damage|p2a: Rotom|8/100
+|-enditem|p2a: Rotom|Sitrus Berry|[eat]
+|-heal|p2a: Rotom|33/100|[from] item: Sitrus Berry
+|move|p2b: Sylveon|Hyper Voice|p1a: Drogon|[spread] p1a,p1b
+|-resisted|p1a: Drogon|1
+|-damage|p1a: Drogon|101/153
+|-damage|p1b: Milotic|25/202
+|move|p2a: Rotom|Volt Switch|p1a: Drogon
+|-supereffective|p1a: Drogon|1
+|-damage|p1a: Drogon|3/153
+|
+|-heal|p1b: Milotic|37/202|[from] item: Leftovers
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|turn|6
+|choice|move 3 1, move 4|claude|Drogon outspeeds and KOs Rotom with Ancient Power; Milotic Protects to survive Hyper Voice, leaving only Sylveon versus Dragonite.
+|-message|2212b forfeited.
+|
+|win|JJ1NE

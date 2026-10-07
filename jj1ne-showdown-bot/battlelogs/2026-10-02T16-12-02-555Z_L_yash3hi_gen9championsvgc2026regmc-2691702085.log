@@ -1,0 +1,192 @@
+|init|battle
+|title|JJ1NE vs. yash3hi
+|j|☆JJ1NE
+
+|j|☆yash3hi
+|t:|1790957373
+|gametype|doubles
+|player|p1|JJ1NE|102|1208
+|player|p2|yash3hi|101|1311
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Metagross, L50|
+|poke|p2|Dragapult, L50, F|
+|poke|p2|Milotic, L50, F|
+|poke|p2|Altaria, L50, M|
+|poke|p2|Arcanine-Hisui, L50, M|
+|poke|p2|Indeedee-F, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5612|claude
+|
+|t:|1790957404
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2a: Altaria|Altaria, L50, M|100/100
+|switch|p2b: Milotic|Milotic, L50, F|100/100
+|-ability|p2a: Altaria|Cloud Nine
+|turn|1
+|choice|move 1 1, move 2 1|claude|Focus Altaria: combined Moonblast + Kowtow Cleave KOs it, removing their Tailwind/burn support before Indeedee Trick Room appears.
+|
+|t:|1790957415
+|move|p1b: Whimsicott|Moonblast|p2a: Altaria
+|-supereffective|p2a: Altaria|1
+|-crit|p2a: Altaria
+|-damage|p2a: Altaria|1/100
+|move|p2a: Altaria|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p2b: Milotic|Coil|p2b: Milotic
+|-boost|p2b: Milotic|atk|1
+|-boost|p2b: Milotic|def|1
+|-boost|p2b: Milotic|accuracy|1
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Altaria
+|-damage|p2a: Altaria|0 fnt
+|faint|p2a: Altaria
+|-damage|p1a: Kingambit|187/207 brn|[from] item: Life Orb
+|
+|-damage|p1a: Kingambit|175/207 brn|[from] brn
+|upkeep
+|
+|t:|1790957430
+|switch|p2a: Indeedee|Indeedee-F, L50, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|-enditem|p2b: Milotic|Psychic Seed
+|-boost|p2b: Milotic|spd|1|[from] item: Psychic Seed
+|turn|2
+|choice|move 1 1, move 1|claude|Kowtow Cleave chunks Indeedee (Trick Room setter) past half; Tailwind gives speed control before Trick Room goes up. Encore fails vs possible switch.
+|
+|t:|1790957438
+|move|p2a: Indeedee|Follow Me|p2a: Indeedee
+|-singleturn|p2a: Indeedee|move: Follow Me
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Indeedee
+|-supereffective|p2a: Indeedee|1
+|-damage|p2a: Indeedee|33/100
+|-damage|p1a: Kingambit|141/207 brn|[from] item: Rocky Helmet|[of] p2a: Indeedee
+|-damage|p1a: Kingambit|121/207 brn|[from] item: Life Orb
+|move|p2b: Milotic|Coil|p2b: Milotic
+|-boost|p2b: Milotic|atk|1
+|-boost|p2b: Milotic|def|1
+|-boost|p2b: Milotic|accuracy|1
+|
+|-damage|p1a: Kingambit|109/207 brn|[from] brn
+|upkeep
+|turn|3
+|choice|move 1 1, move 3 1|claude|Kowtow KOs Indeedee (33%), removing Follow Me/Trick Room; Encore locks Indeedee's Follow Me in case it survives or redirects.
+|
+|t:|1790957454
+|move|p2a: Indeedee|Follow Me|p2a: Indeedee
+|-singleturn|p2a: Indeedee|move: Follow Me
+|move|p1b: Whimsicott|Encore|p2a: Indeedee
+|-activate|p2a: Indeedee|move: Psychic Terrain
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Indeedee
+|-supereffective|p2a: Indeedee|1
+|-damage|p2a: Indeedee|0 fnt
+|-damage|p1a: Kingambit|75/207 brn|[from] item: Rocky Helmet|[of] p2a: Indeedee
+|faint|p2a: Indeedee
+|-damage|p1a: Kingambit|55/207 brn|[from] item: Life Orb
+|move|p2b: Milotic|Hypnosis|p1b: Whimsicott
+|-status|p1b: Whimsicott|slp|[from] move: Hypnosis
+|
+|-damage|p1a: Kingambit|43/207 brn|[from] brn
+|upkeep
+|
+|t:|1790957466
+|switch|p2a: Metagross|Metagross, L50|100/100
+|turn|4
+|choice|switch 4, move 4|claude|Kingambit at 21% burned dies to burn/Steel Roller anyway; bring Dragonite in safely while sleeping Whimsicott Protects.
+|
+|t:|1790957470
+|switch|p1a: Dragonite|Dragonite, L50, F|168/168
+|detailschange|p2a: Metagross|Metagross-Mega, L50
+|-mega|p2a: Metagross|Metagross|Metagrossite
+|cant|p1b: Whimsicott|slp
+|move|p2a: Metagross|Psych Up|p2b: Milotic
+|-copyboost|p2a: Metagross|p2b: Milotic|[from] move: Psych Up
+|move|p2b: Milotic|Muddy Water|p1b: Whimsicott|[spread] p1a,p1b
+|-resisted|p1a: Dragonite|1
+|-resisted|p1b: Whimsicott|1
+|-damage|p1a: Dragonite|146/168
+|-damage|p1b: Whimsicott|110/137 slp
+|-unboost|p1a: Dragonite|accuracy|1
+|
+|upkeep
+|turn|5
+|choice|move 2 mega, move 3 1|claude|Whimsicott is asleep (Encore likely wasted anyway); Heat Wave halves Metagross, the real threat, while Dragonite Megas. Protecting just gives free Coil turns.
+|
+|t:|1790957487
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, F
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|cant|p1b: Whimsicott|slp
+|move|p1a: Dragonite|Heat Wave|p2a: Metagross|[spread] p2b
+|-miss|p1a: Dragonite|p2a: Metagross
+|-resisted|p2b: Milotic|1
+|-damage|p2b: Milotic|94/100
+|move|p2a: Metagross|Psychic Fangs|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|move|p2b: Milotic|Muddy Water|p1b: Whimsicott
+|-resisted|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|72/137 slp
+|
+|-sideend|p1: JJ1NE|move: Tailwind
+|upkeep
+|choice|switch 3, pass|engine
+|
+|t:|1790957487
+|switch|p1a: Drogon|Charizard, L50, F|153/153
+|turn|6
+|choice|move 1, move 4|claude|Whimsicott is asleep (Protect likely fails anyway, and it's not the KO target). Heat Wave chunks Metagross 60-72%, setting up a KO next turn on the main threat.
+|
+|t:|1790957508
+|-curestatus|p1b: Whimsicott|slp|[msg]
+|move|p1b: Whimsicott|Protect|p1b: Whimsicott
+|-singleturn|p1b: Whimsicott|Protect
+|move|p2a: Metagross|Psychic Fangs|p1a: Drogon
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|move|p2b: Milotic|Muddy Water|p1b: Whimsicott
+|-activate|p1b: Whimsicott|move: Protect
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|choice|switch 4, pass|engine
+|
+|t:|1790957508
+|switch|p1a: Kingambit|Kingambit, L50, F|43/207 brn
+|turn|7
+|choice|move 1 1, move 1|claude|We're down to two chipped mons; burned Kingambit dies soon anyway. Max damage on Metagross now, Tailwind for speed on remaining turns.
+|
+|t:|1790957522
+|move|p1b: Whimsicott|Tailwind|p1b: Whimsicott
+|-sidestart|p1: JJ1NE|move: Tailwind
+|move|p2a: Metagross|Psychic Fangs|p1b: Whimsicott
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Metagross
+|-supereffective|p2a: Metagross|1
+|-crit|p2a: Metagross
+|-damage|p2a: Metagross|25/100
+|-damage|p1a: Kingambit|23/207 brn|[from] item: Life Orb
+|move|p2b: Milotic|Muddy Water|p1a: Kingambit
+|-damage|p1a: Kingambit|0 fnt
+|faint|p1a: Kingambit
+|
+|win|yash3hi

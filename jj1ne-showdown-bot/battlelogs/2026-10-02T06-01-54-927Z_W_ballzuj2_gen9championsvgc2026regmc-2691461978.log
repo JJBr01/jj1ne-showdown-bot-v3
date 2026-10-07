@@ -1,0 +1,182 @@
+|init|battle
+|title|JJ1NE vs. ballz_uj2
+|j|☆JJ1NE
+
+|j|☆ballz_uj2
+|t:|1790920766
+|gametype|doubles
+|player|p1|JJ1NE|102|1066
+|player|p2|ballz_uj2|169|1101
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, F|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Gholdengo, L50|
+|poke|p2|Volcarona, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Incineroar, L50, M|
+|poke|p2|Rillaboom, L50, F|
+|poke|p2|Raichu, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5234|claude
+|
+|t:|1790920788
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, F|207/207
+|switch|p1b: Dragonite|Dragonite, L50, F|168/168
+|switch|p2a: Volcarona|Volcarona, L50, M|100/100
+|switch|p2b: Garchomp|Garchomp, L50, M|100/100
+|turn|1
+|choice|move 1 1, move 1 2 mega|claude|Garchompite-Z Garchomp is the threat: Draco Meteor OHKOs it before it Megas; Kowtow chips Volcarona, which Overheats Kingambit anyway.
+|
+|t:|1790920805
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, F
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p2b: Garchomp|Protect|p2b: Garchomp
+|-singleturn|p2b: Garchomp|Protect
+|move|p1b: Dragonite|Draco Meteor|p2b: Garchomp
+|-activate|p2b: Garchomp|move: Protect
+|move|p2a: Volcarona|Tailwind|p2a: Volcarona
+|-sidestart|p2: ballz_uj2|move: Tailwind
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Volcarona
+|-damage|p2a: Volcarona|28/100
+|-damage|p1a: Kingambit|173/207|[from] item: Rocky Helmet|[of] p2a: Volcarona
+|-status|p1a: Kingambit|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|-damage|p1a: Kingambit|153/207 brn|[from] item: Life Orb
+|
+|-damage|p1a: Kingambit|141/207 brn|[from] brn
+|upkeep
+|turn|2
+|choice|move 1 1, move 1 2|claude|Garchomp must die before it Megas; Draco Meteor OHKOs it. Kowtow has 50% to finish Volcarona; Kingambit is burned anyway.
+|
+|t:|1790920822
+|detailschange|p2b: Garchomp|Garchomp-Mega-Z, L50, M
+|-mega|p2b: Garchomp|Garchomp|Garchompite Z
+|move|p2a: Volcarona|Rage Powder|p2a: Volcarona
+|-singleturn|p2a: Volcarona|move: Rage Powder
+|move|p2b: Garchomp|Dragon Pulse|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|99/168
+|move|p1b: Dragonite|Draco Meteor|p2a: Volcarona|[miss]
+|-miss|p1b: Dragonite|p2a: Volcarona
+|move|p1a: Kingambit|Kowtow Cleave|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-damage|p1a: Kingambit|107/207 brn|[from] item: Rocky Helmet|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|-damage|p1a: Kingambit|87/207 brn|[from] item: Life Orb
+|
+|-damage|p1a: Kingambit|75/207 brn|[from] brn
+|upkeep
+|
+|t:|1790920834
+|switch|p2a: Incineroar|Incineroar, L50, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|-unboost|p1b: Dragonite|atk|1
+|turn|3
+|choice|switch 3, move 1 2|claude|Draco Meteor OHKOs Mega Garchomp, their big threat; Kingambit (36% burned) escapes Flare Blitz into Milotic which walls Incineroar.
+|
+|t:|1790920853
+|switch|p1a: Milotic|Milotic, L50, F|202/202
+|move|p2a: Incineroar|Fake Out|p1b: Dragonite
+|-damage|p1b: Dragonite|81/168
+|move|p2b: Garchomp|Dragon Pulse|p1b: Dragonite
+|-supereffective|p1b: Dragonite|1
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|
+|upkeep
+|choice|pass, switch 4|engine
+|
+|t:|1790920853
+|switch|p1b: Garchomp|Garchomp, L50, F|185/185
+|turn|4
+|choice|move 2 2, move 2 2|claude|Mega Garchomp OHKOs our Garchomp first; focus both attacks to KO it this turn — Ice Beam + Dragon Claw guarantees the kill.
+|
+|t:|1790920868
+|move|p2b: Garchomp|Dragon Pulse|p1b: Garchomp
+|-supereffective|p1b: Garchomp|1
+|-damage|p1b: Garchomp|0 fnt
+|faint|p1b: Garchomp
+|move|p2a: Incineroar|Parting Shot|p1a: Milotic
+|-unboost|p1a: Milotic|atk|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|-unboost|p1a: Milotic|spa|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|
+|t:|1790920873
+|switch|p2a: Gholdengo|Gholdengo, L50|100/100|[from] Parting Shot
+|move|p1a: Milotic|Ice Beam|p2b: Garchomp
+|-supereffective|p2b: Garchomp|1
+|-damage|p2b: Garchomp|0 fnt
+|faint|p2b: Garchomp
+|
+|-sideend|p2: ballz_uj2|move: Tailwind
+|upkeep
+|choice|pass, switch 3|engine
+|
+|t:|1790920878
+|switch|p2b: Incineroar|Incineroar, L50, M|100/100
+|switch|p1b: Kingambit|Kingambit, L50, F|75/207 brn
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Milotic|atk|1
+|-ability|p1a: Milotic|Competitive|boost
+|-boost|p1a: Milotic|spa|2
+|-unboost|p1b: Kingambit|atk|1
+|-ability|p1b: Kingambit|Defiant|boost
+|-boost|p1b: Kingambit|atk|2
+|turn|5
+|choice|move 1 2, move 4|claude|Scald guarantees KO on Incineroar (Kingambit's killer); Kingambit Protects to dodge Make It Rain/Flare Blitz at 36% burned.
+|
+|t:|1790920895
+|move|p1b: Kingambit|Protect|p1b: Kingambit
+|-singleturn|p1b: Kingambit|Protect
+|move|p2b: Incineroar|Fake Out|p1a: Milotic
+|-damage|p1a: Milotic|180/202
+|move|p2a: Gholdengo|Make It Rain|p1b: Kingambit|[spread] p1a
+|-activate|p1b: Kingambit|move: Protect
+|-resisted|p1a: Milotic|1
+|-damage|p1a: Milotic|145/202
+|-unboost|p2a: Gholdengo|spa|2
+|-damage|p2a: Gholdengo|90/100|[from] item: Life Orb
+|cant|p1a: Milotic|flinch
+|
+|-heal|p1a: Milotic|157/202|[from] item: Leftovers
+|-damage|p1b: Kingambit|63/207 brn|[from] brn
+|upkeep
+|turn|6
+|choice|move 1 2, move 1 1|claude|Milotic Scald KOs Incineroar; Kingambit Kowtow likely KOs Gholdengo, removing both actives before Flare Blitz kills burned Kingambit.
+|
+|t:|1790920915
+|move|p2a: Gholdengo|Shadow Ball|p1a: Milotic
+|-damage|p1a: Milotic|128/202
+|-damage|p2a: Gholdengo|81/100|[from] item: Life Orb
+|move|p1a: Milotic|Scald|p2b: Incineroar
+|-supereffective|p2b: Incineroar|1
+|-damage|p2b: Incineroar|0 fnt
+|faint|p2b: Incineroar
+|move|p1b: Kingambit|Kowtow Cleave|p2a: Gholdengo
+|-supereffective|p2a: Gholdengo|1
+|-damage|p2a: Gholdengo|0 fnt
+|faint|p2a: Gholdengo
+|-damage|p1b: Kingambit|43/207 brn|[from] item: Life Orb
+|
+|win|JJ1NE

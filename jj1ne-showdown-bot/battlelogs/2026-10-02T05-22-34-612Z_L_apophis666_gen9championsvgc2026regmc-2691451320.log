@@ -1,0 +1,161 @@
+|init|battle
+|title|JJ1NE vs. Apophis666
+|j|☆JJ1NE
+
+|j|☆Apophis666
+|t:|1790918418
+|gametype|doubles
+|player|p1|JJ1NE|102|1082
+|player|p2|Apophis666|265|1000
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Archaludon, L50, M|
+|poke|p2|Tsareena, L50, F|
+|poke|p2|Talonflame, L50, M|
+|poke|p2|Swampert, L50, F|
+|poke|p2|Pelipper, L50, F|
+|poke|p2|Snorlax, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Apophis666)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 2546|claude
+|inactive|Apophis666 has 60 seconds left.
+|
+|t:|1790918451
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|switch|p1b: Kingambit|Kingambit, L50, F|207/207
+|switch|p2a: Talonflame|Talonflame, L50, M|100/100
+|switch|p2b: Archaludon|Archaludon, L50, M|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1 mega, move 1 2|claude|Draco Meteor OHKOs Talonflame (their Tailwind/Gale Wings threat); Kingambit chips Archaludon so we can burst it next turn before Electro Shot snowballs.
+|
+|t:|1790918465
+|detailschange|p1a: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1a: Dragonite|Dragonite|Dragoninite
+|move|p2b: Archaludon|Dragon Pulse|p1a: Dragonite
+|-supereffective|p1a: Dragonite|1
+|-damage|p1a: Dragonite|99/168
+|move|p2a: Talonflame|Flare Blitz|p1b: Kingambit
+|-supereffective|p1b: Kingambit|1
+|-damage|p1b: Kingambit|43/207
+|-damage|p2a: Talonflame|65/100|[from] Recoil
+|move|p1a: Dragonite|Draco Meteor|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2a: Talonflame
+|move|p1b: Kingambit|Kowtow Cleave|p2b: Archaludon
+|-damage|p2b: Archaludon|40/100
+|-damage|p1b: Kingambit|23/207|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1790918485
+|switch|p2a: Pelipper|Pelipper, L50, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 2 2|claude|Archaludon is the win condition at 40%; Draco Meteor + Sucker Punch both can KO it before Kingambit dies anyway.
+|
+|t:|1790918494
+|move|p1b: Kingambit|Sucker Punch|p2b: Archaludon
+|-damage|p2b: Archaludon|0 fnt
+|faint|p2b: Archaludon
+|-damage|p1b: Kingambit|3/207|[from] item: Life Orb
+|move|p1a: Dragonite|Draco Meteor|p2a: Pelipper
+|-damage|p2a: Pelipper|49/100
+|-unboost|p1a: Dragonite|spa|2
+|move|p2a: Pelipper|Weather Ball|p1b: Kingambit
+|-damage|p1b: Kingambit|0 fnt
+|faint|p1b: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790918507
+|switch|p2b: Swampert|Swampert, L50, F|100/100
+|switch|p1b: Garchomp|Garchomp, L50, M|185/185
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Garchomp outspeeds: Dragon Claw likely KOs Pelipper (49%), removing rain/Hurricane. Dragonite Protects from Mega Swampert Ice Punch OHKO.
+|
+|t:|1790918519
+|detailschange|p2b: Swampert|Swampert-Mega, L50, F
+|-mega|p2b: Swampert|Swampert|Swampertite
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2b: Swampert|Ice Punch|p1b: Garchomp
+|-supereffective|p1b: Garchomp|2
+|-damage|p1b: Garchomp|0 fnt
+|-damage|p2b: Swampert|87/100|[from] ability: Rough Skin|[of] p1b: Garchomp
+|faint|p1b: Garchomp
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: Apophis666|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|pass, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790918519
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Whimsicott Moonblast likely KOs Pelipper (55-66% vs 49%), removing rain and Hurricane; Dragonite Protects the guaranteed Ice Punch KO.
+|
+|t:|1790918535
+|move|p1a: Dragonite|Protect||[still]
+|-fail|p1a: Dragonite
+|move|p2b: Swampert|Ice Punch|p1a: Dragonite
+|-supereffective|p1a: Dragonite|2
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|move|p1b: Whimsicott|Moonblast|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Last Pokemon, no bench; Tailwind/Protect never win. Only chip damage can; Moonblast Swampert and hope.
+|
+|t:|1790918547
+|move|p2b: Swampert|Ice Punch|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|21/137
+|move|p1b: Whimsicott|Moonblast|p2b: Swampert
+|-damage|p2b: Swampert|58/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Last Pokémon, dies to anything; Tailwind/Protect win nothing. Only chance is chipping Swampert toward a Moonblast KO.
+|
+|t:|1790918554
+|move|p2b: Swampert|Ice Punch|p1b: Whimsicott
+|-supereffective|p1b: Whimsicott|1
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|
+|win|Apophis666

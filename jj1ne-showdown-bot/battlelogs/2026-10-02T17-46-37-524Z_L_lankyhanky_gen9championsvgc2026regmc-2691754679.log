@@ -1,0 +1,155 @@
+|init|battle
+|title|JJ1NE vs. LankyHanky
+|j|☆JJ1NE
+
+|j|☆LankyHanky
+|t:|1790963038
+|gametype|doubles
+|player|p1|JJ1NE|102|1086
+|player|p2|LankyHanky|170|1147
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, F|
+|poke|p2|Cofagrigus, L50, F|
+|poke|p2|Pangoro, L50, F|
+|poke|p2|Gengar, L50, M|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Staraptor, L50, F|
+|poke|p2|Basculegion, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LankyHanky)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 6213|claude
+|
+|t:|1790963063
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p1b: Dragonite|Dragonite, L50, M|168/168
+|switch|p2a: Cofagrigus|Cofagrigus, L50, F|100/100
+|switch|p2b: Pangoro|Pangoro, L50, F|100/100
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 1 1 mega|claude|Moonblast OHKOs Pangoro before it moves; Draco Meteor likely KOs Cofagrigus, removing both leads and any Trick Room/Mummy threat immediately.
+|
+|t:|1790963078
+|detailschange|p1b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p1b: Dragonite|Dragonite|Dragoninite
+|move|p1a: Whimsicott|Moonblast|p2b: Pangoro
+|-supereffective|p2b: Pangoro|2
+|-damage|p2b: Pangoro|0 fnt
+|faint|p2b: Pangoro
+|move|p1b: Dragonite|Draco Meteor|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|43/100
+|-unboost|p1b: Dragonite|spa|2
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p2a: Cofagrigus|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790963091
+|switch|p2b: Kingambit|Kingambit, L50, M|100/100
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|Kingambit Iron Head OHKOs Whimsicott under Trick Room anyway; focus Cofagrigus to end Trick Room setter — Moonblast alone likely KOs at 49%.
+|
+|t:|1790963111
+|move|p2a: Cofagrigus|Will-O-Wisp|p1b: Dragonite
+|-status|p1b: Dragonite|brn
+|move|p2b: Kingambit|Swords Dance|p2b: Kingambit
+|-boost|p2b: Kingambit|atk|2
+|move|p1b: Dragonite|Draco Meteor|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|19/100
+|-unboost|p1b: Dragonite|spa|2
+|move|p1a: Whimsicott|Moonblast|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|0 fnt
+|faint|p2a: Cofagrigus
+|
+|-damage|p1b: Dragonite|158/168 brn|[from] brn
+|upkeep
+|
+|t:|1790963124
+|switch|p2a: Basculegion|Basculegion, L50, M|100/100
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 4|claude|Both actives die to Kingambit/Basculegion under Trick Room; double Protect burns a Trick Room turn safely, then our speed takes over.
+|
+|t:|1790963138
+|move|p1a: Whimsicott|Protect|p1a: Whimsicott
+|-singleturn|p1a: Whimsicott|Protect
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p2b: Kingambit|Sucker Punch||[still]
+|-fail|p2b: Kingambit
+|move|p2a: Basculegion|Last Respects|p1b: Dragonite
+|-activate|p1b: Dragonite|move: Protect
+|
+|-damage|p1b: Dragonite|148/168 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, switch 4|claude|Dragonite at -4 SpA is dead weight and dies to Sucker Punch/Iron Head; Milotic walls both. Whimsicott chips the +2 Kingambit.
+|
+|t:|1790963158
+|switch|p1b: Milotic|Milotic, L50, F|202/202
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Whimsicott
+|-resisted|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|17/137
+|move|p1a: Whimsicott|Moonblast|p2b: Kingambit
+|-damage|p2b: Kingambit|66/100
+|move|p2a: Basculegion|Last Respects|p1b: Milotic
+|-damage|p1b: Milotic|32/202
+|
+|-heal|p1b: Milotic|44/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 1 2|claude|Milotic moves first in Trick Room; Scald + Moonblast likely KOs +2 Kingambit, removing the Sucker Punch sweeper before both our mons die anyway.
+|
+|t:|1790963177
+|move|p2b: Kingambit|Sucker Punch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott|1
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|move|p1b: Milotic|Scald|p2b: Kingambit
+|-damage|p2b: Kingambit|40/100
+|move|p2a: Basculegion|Last Respects|p1b: Milotic
+|-damage|p1b: Milotic|0 fnt
+|faint|p1b: Milotic
+|
+|-fieldend|move: Trick Room
+|upkeep
+|choice|switch 3, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790963177
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|switch|p1b: Dragonite|Dragonite-Mega, L50, M|148/168 brn
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 2|claude|Double Heat Wave KOs +2 Kingambit (Sucker Punch threat) and chips Basculegion ~38%; Dragonite moves first, Drogon survives nothing else anyway.
+|
+|t:|1790963197
+|move|p2b: Kingambit|Sucker Punch|p1a: Drogon
+|-damage|p1a: Drogon|0 fnt
+|faint|p1a: Drogon
+|move|p2a: Basculegion|Last Respects|p1b: Dragonite
+|-damage|p1b: Dragonite|0 fnt
+|faint|p1b: Dragonite
+|
+|win|LankyHanky

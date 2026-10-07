@@ -1,0 +1,146 @@
+|init|battle
+|title|JJ1NE vs. derek is king
+|j|☆JJ1NE
+
+|j|☆derek is king
+|t:|1790984132
+|gametype|doubles
+|player|p1|JJ1NE|102|1221
+|player|p2|derek is king|266|1168
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, M|
+|poke|p1|Garchomp, L50, M|
+|poke|p1|Whimsicott, L50, F|
+|poke|p1|Kingambit, L50, M|
+|poke|p1|Milotic, L50, F|
+|poke|p2|Gardevoir, L50, F|
+|poke|p2|Gallade, L50, M|
+|poke|p2|Indeedee-F, L50, F|
+|poke|p2|Armarouge, L50, M|
+|poke|p2|Alakazam, L50, M|
+|poke|p2|Gholdengo, L50|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5142|claude|Psychic Terrain team: Kingambit immune to Expanding Force, hits Indeedee/Gardevoir/Alakazam hard. Whimsicott Tailwind/Encore vs Trick Room. Garchomp support, Drogon sheltered in back.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by derek is king)
+|
+|t:|1790984165
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Kingambit|Kingambit, L50, M|207/207
+|switch|p1b: Drogon|Charizard, L50, M|153/153
+|switch|p2a: Gardevoir|Gardevoir, L50, F|100/100
+|switch|p2b: Armarouge|Armarouge, L50, M|100/100
+|-ability|p2a: Gardevoir|Blaze|Trace|[from] ability: Trace|[of] p1b: Drogon
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 3 2 mega|claude|Armarouge is the Trick Room setter and Expanding Force threat; Kowtow + Ancient Power guarantees the KO before it can set Trick Room.
+|calc|Action: Kingambit: Kowtow Cleave -> Armarouge (90-156% (OHKO 84%)) | Drogon: Ancient Power [Mega] -> Armarouge (32-59%)
+|calc|Threats: Kingambit threatened by Armarouge Armor Cannon (121-182% OHKO); Drogon threatened by Armarouge Expanding Force (44-85%)
+|
+|t:|1790984182
+|detailschange|p1b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1b: Drogon
+|move|p2a: Gardevoir|Protect|p2a: Gardevoir
+|-singleturn|p2a: Gardevoir|Protect
+|move|p1b: Drogon|Ancient Power|p2b: Armarouge
+|-supereffective|p2b: Armarouge|1
+|-damage|p2b: Armarouge|43/100
+|move|p2b: Armarouge|Armor Cannon|p1a: Kingambit
+|-supereffective|p1a: Kingambit|1
+|-damage|p1a: Kingambit|0 fnt
+|-unboost|p2b: Armarouge|def|1
+|-unboost|p2b: Armarouge|spd|1
+|faint|p1a: Kingambit
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 405 sec total
+|
+|t:|1790984183
+|switch|p1a: Dragonite|Dragonite, L50, M|168/168
+|turn|2
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 1 2, move 3 2|claude|Armarouge at 43% with -def dies to Ancient Power (62-116%) or Dragon Pulse; double-targeting guarantees removing the Armor Cannon/Trick Room threat now.
+|calc|Action: Dragonite: Dragon Pulse -> Armarouge (47-89% KO) | Drogon: Ancient Power -> Armarouge (62-116% KO)
+|calc|Threats: Dragonite threatened by Armarouge Armor Cannon (42-75%); Drogon threatened by Armarouge Armor Cannon (41-73%)
+|
+|t:|1790984205
+|switch|p2b: Indeedee|Indeedee-F, L50, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|detailschange|p2a: Gardevoir|Gardevoir-Mega, L50, F
+|-mega|p2a: Gardevoir|Gardevoir|Gardevoirite
+|move|p1b: Drogon|Ancient Power|p2b: Indeedee
+|-damage|p2b: Indeedee|78/100
+|move|p1a: Dragonite|Dragon Pulse|p2b: Indeedee
+|-damage|p2b: Indeedee|43/100
+|move|p2a: Gardevoir|Expanding Force|p1a: Dragonite|[spread] p1a,p1b
+|-damage|p1a: Dragonite|29/168
+|-damage|p1b: Drogon|29/153
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 4, move 1 2|claude|Dragonite Protects (Hyper Voice/Expanding Force kills it); Drogon Weather Ball likely KOs Indeedee, removing Psychic Terrain and Trick Room/Follow Me support.
+|calc|Action: Dragonite: Protect | Drogon: Weather Ball -> Indeedee-F (47-69% KO)
+|calc|Threats: Dragonite threatened by Gardevoir-Mega Hyper Voice (64-114% KO); Drogon threatened by Gardevoir-Mega Expanding Force (45-80% KO)
+|
+|t:|1790984229
+|move|p1a: Dragonite|Protect|p1a: Dragonite
+|-singleturn|p1a: Dragonite|Protect
+|move|p2b: Indeedee|Follow Me|p2b: Indeedee
+|-singleturn|p2b: Indeedee|move: Follow Me
+|move|p1b: Drogon|Weather Ball|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|faint|p2b: Indeedee
+|move|p2a: Gardevoir|Expanding Force|p1b: Drogon|[spread] p1b
+|-activate|p1a: Dragonite|move: Protect
+|-damage|p1b: Drogon|0 fnt
+|faint|p1b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 405 sec total
+|
+|t:|1790984237
+|switch|p1b: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Gallade|Gallade, L50, M|100/100
+|turn|4
+|inactive|Time left: 55 sec this turn | 405 sec total
+|choice|move 2, move 2 2|claude|We're 2v2 down on HP; must deal max damage now. Heat Wave hits both, Moonblast chunks Gallade. Dragonite dies anyway; no safe stall line exists.
+|calc|Action: Dragonite: Heat Wave (spread) -> Gardevoir-Mega (20-30%), Gallade (23-34%) | Whimsicott: Moonblast -> Gallade (48-70%)
+|calc|Threats: Dragonite threatened by Gardevoir-Mega Hyper Voice (64-114% KO); Whimsicott threatened by Gardevoir-Mega Expanding Force (66-128% (OHKO 46%))
+|
+|t:|1790984247
+|move|p1b: Whimsicott|Moonblast|p2b: Gallade
+|-supereffective|p2b: Gallade|1
+|-damage|p2b: Gallade|43/100
+|move|p1a: Dragonite|Heat Wave|p2b: Gallade|[spread] p2a,p2b
+|-damage|p2a: Gardevoir|70/100
+|-damage|p2b: Gallade|10/100
+|move|p2a: Gardevoir|Expanding Force|p1a: Dragonite|[spread] p1a,p1b
+|-crit|p1b: Whimsicott
+|-damage|p1a: Dragonite|0 fnt
+|-enditem|p1b: Whimsicott|Focus Sash
+|-damage|p1b: Whimsicott|1/137
+|faint|p1a: Dragonite
+|move|p2b: Gallade|Psycho Cut|p1b: Whimsicott
+|-damage|p1b: Whimsicott|0 fnt
+|faint|p1b: Whimsicott
+|-damage|p2b: Gallade|1/100|[from] item: Life Orb
+|
+|win|derek is king

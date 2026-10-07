@@ -1,0 +1,206 @@
+|init|battle
+|title|DUCVN vs. JJ1NE
+|j|☆DUCVN
+|j|☆JJ1NE
+
+|t:|1790916048
+|gametype|doubles
+|player|p1|DUCVN|2|1158
+|player|p2|JJ1NE|102|1109
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Malamar, L50, M|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Aerodactyl, L50, F|
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Meowscarada, L50, F|
+|poke|p1|Sneasler, L50, F|
+|poke|p2|Charizard, L50, F|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Milotic, L50, M|
+|poke|p2|Garchomp, L50, F|
+|poke|p2|Kingambit, L50, F|
+|poke|p2|Whimsicott, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 5261|claude
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DUCVN)
+|
+|t:|1790916064
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Garchomp|Garchomp, L50, F|100/100
+|switch|p1b: Malamar|Malamar, L50, M|100/100
+|switch|p2a: Kingambit|Kingambit, L50, F|207/207
+|switch|p2b: Dragonite|Dragonite, L50, M|168/168
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 1 1 mega|claude|Malamar (Contrary/Skill Swap/Trick Room) must die now; Kowtow Cleave + Draco Meteor kills Garchomp, removing both threats. Kingambit survives Superpower risk acceptably.
+|
+|t:|1790916071
+|detailschange|p1a: Garchomp|Garchomp-Mega-Z, L50, F
+|-mega|p1a: Garchomp|Garchomp|Garchompite Z
+|detailschange|p2b: Dragonite|Dragonite-Mega, L50, M
+|-mega|p2b: Dragonite|Dragonite|Dragoninite
+|move|p1a: Garchomp|Substitute|p1a: Garchomp
+|-start|p1a: Garchomp|Substitute
+|-damage|p1a: Garchomp|75/100
+|move|p2b: Dragonite|Draco Meteor|p1a: Garchomp
+|-supereffective|p1a: Garchomp|1
+|-end|p1a: Garchomp|Substitute
+|-unboost|p2b: Dragonite|spa|2
+|move|p1b: Malamar|Skill Swap|p1a: Garchomp
+|-activate|p1b: Malamar|Skill Swap|||[of] p1a: Garchomp
+|-hint|Skill Swap does not announce the abilities of the Pokémon when used between allies.
+|move|p2a: Kingambit|Kowtow Cleave|p1b: Malamar
+|-damage|p1b: Malamar|30/100
+|-enditem|p1b: Malamar|Sitrus Berry|[eat]
+|-heal|p1b: Malamar|55/100|[from] item: Sitrus Berry
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 1 1|claude|Malamar has Contrary (Skill Swap given to Garchomp); KO it now with Kowtow Cleave while Draco Meteor breaks Garchomp's Sub and chunks it.
+|
+|t:|1790916090
+|move|p1a: Garchomp|Draco Meteor|p2b: Dragonite
+|-supereffective|p2b: Dragonite|1
+|-damage|p2b: Dragonite|63/168
+|-boost|p1a: Garchomp|spa|2
+|move|p2b: Dragonite|Draco Meteor|p1a: Garchomp
+|-supereffective|p1a: Garchomp|1
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2b: Dragonite|spa|2
+|faint|p1a: Garchomp
+|move|p1b: Malamar|Superpower|p2a: Kingambit
+|-supereffective|p2a: Kingambit|2
+|-damage|p2a: Kingambit|27/207
+|-unboost|p1b: Malamar|atk|1
+|-unboost|p1b: Malamar|def|1
+|move|p2a: Kingambit|Kowtow Cleave|p1b: Malamar
+|-damage|p1b: Malamar|0 fnt
+|faint|p1b: Malamar
+|-damage|p2a: Kingambit|7/207|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1790916103
+|switch|p1a: Aerodactyl|Aerodactyl, L50, F|100/100
+|switch|p1b: Indeedee|Indeedee-F, L50, F|100/100
+|-ability|p1a: Aerodactyl|Unnerve
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, move 4|claude|Kingambit dies to anything anyway; Iron Head guarantees the Aerodactyl KO (Kowtow only 82%) while Dragonite Protects the Rock Slide.
+|
+|t:|1790916112
+|move|p2b: Dragonite|Protect|p2b: Dragonite
+|-singleturn|p2b: Dragonite|Protect
+|move|p1a: Aerodactyl|Rock Slide|p2a: Kingambit|[spread] p2a
+|-activate|p2b: Dragonite|move: Protect
+|-resisted|p2a: Kingambit|1
+|-crit|p2a: Kingambit
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|move|p1b: Indeedee|Mystical Fire|p2b: Dragonite
+|-activate|p2b: Dragonite|move: Protect
+|
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790916112
+|switch|p2a: Drogon|Charizard, L50, F|153/153
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 3|claude|Aerodactyl Rock Slide OHKOs Drogon and likely KOs 38% Dragonite; Protect Drogon while Tailwind (unblocked by terrain) flips speed for next turn.
+|
+|t:|1790916120
+|move|p1b: Indeedee|Helping Hand|p1a: Aerodactyl
+|-singleturn|p1a: Aerodactyl|Helping Hand|[of] p1b: Indeedee
+|move|p2a: Drogon|Protect|p2a: Drogon
+|-singleturn|p2a: Drogon|Protect
+|move|p1a: Aerodactyl|Rock Slide|p2a: Drogon|[spread] p2b
+|-activate|p2a: Drogon|move: Protect
+|-supereffective|p2b: Dragonite|1
+|-damage|p2b: Dragonite|0 fnt
+|faint|p2b: Dragonite
+|
+|upkeep
+|choice|pass, switch 3|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790916120
+|switch|p2b: Whimsicott|Whimsicott, L50, F|137/137
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, move 2 1|claude|Aerodactyl Rock Slide OHKOs Drogon and we're down 2 Pokemon; focus fire both attacks to KO it now (55-65% + 46-55%) before it moves again.
+|
+|t:|1790916132
+|move|p1a: Aerodactyl|Tailwind|p1a: Aerodactyl
+|-sidestart|p1: DUCVN|move: Tailwind
+|move|p1b: Indeedee|Mystical Fire|p2a: Drogon
+|-resisted|p2a: Drogon|1
+|-damage|p2a: Drogon|137/153
+|-unboost|p2a: Drogon|spa|1
+|move|p2b: Whimsicott|Moonblast|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|51/100
+|move|p2a: Drogon|Ancient Power|p1a: Aerodactyl
+|-supereffective|p1a: Aerodactyl|1
+|-damage|p1a: Aerodactyl|10/100
+|
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Whimsicott Moonblast KOs the 10% Aerodactyl (the Rock Slide threat); Drogon Protects from its faster Rock Slide meanwhile.
+|
+|t:|1790916148
+|move|p2a: Drogon|Protect|p2a: Drogon
+|-singleturn|p2a: Drogon|Protect
+|move|p1a: Aerodactyl|Dual Wingbeat|p2b: Whimsicott
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|59/137
+|-supereffective|p2b: Whimsicott|1
+|-damage|p2b: Whimsicott|0 fnt
+|faint|p2b: Whimsicott
+|-hitcount|p2: Whimsicott|2
+|move|p1b: Indeedee|Mystical Fire|p2a: Drogon
+|-activate|p2a: Drogon|move: Protect
+|
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, pass|claude|Heat Wave KOs 10% Aerodactyl while also chipping Indeedee; Drogon dies regardless, so maximize damage across both foes.
+|
+|t:|1790916158
+|move|p1a: Aerodactyl|Rock Slide|p2a: Drogon|[miss]
+|-miss|p1a: Aerodactyl|p2a: Drogon
+|move|p1b: Indeedee|Heal Pulse|p1a: Aerodactyl
+|-heal|p1a: Aerodactyl|61/100
+|move|p2a: Drogon|Heat Wave|p1a: Aerodactyl|[spread] p1a,p1b
+|-resisted|p1a: Aerodactyl|1
+|-damage|p1a: Aerodactyl|44/100
+|-damage|p1b: Indeedee|79/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 1, pass|claude|Drogon is our last Pokemon; Protect only delays. Ancient Power can KO Aerodactyl at 44% on a high roll — our only win path.
+|
+|t:|1790916168
+|move|p1a: Aerodactyl|Rock Slide|p2a: Drogon
+|-supereffective|p2a: Drogon|2
+|-damage|p2a: Drogon|0 fnt
+|faint|p2a: Drogon
+|
+|win|DUCVN

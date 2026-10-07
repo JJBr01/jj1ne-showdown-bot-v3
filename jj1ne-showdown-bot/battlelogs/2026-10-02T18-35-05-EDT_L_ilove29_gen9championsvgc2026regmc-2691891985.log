@@ -1,0 +1,322 @@
+|init|battle
+|title|ilove29 vs. JJ1NE
+|j|☆ilove29
+|j|☆JJ1NE
+
+|t:|1790980227
+|gametype|doubles
+|player|p1|ilove29|swimmerf-gen4|1094
+|player|p2|JJ1NE|102|1024
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Starmie, L50, shiny|
+|poke|p1|Pelipper, L50, M|
+|poke|p1|Slowking-Galar, L50, F|
+|poke|p1|Indeedee-F, L50, F|
+|poke|p1|Sneasler, L50, F|
+|poke|p1|Swampert, L50, F, shiny|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ilove29)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|team 5146|claude|Kingambit leads vs Indeedee Psychic Terrain (immune to Psychic, hits setters hard); Charizard-Y Mega in back resets rain; Whimsicott Encore/Tailwind; Milotic walls Swampert/water.
+|inactive|ilove29 has 60 seconds left.
+|
+|t:|1790980265
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Swampert|Swampert, L50, F, shiny|100/100
+|switch|p1b: Sneasler|Sneasler, L50, F|100/100
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|-item|p1b: Sneasler|Air Balloon
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1 2 mega|claude|Sneasler Close Combat OHKOs Kingambit and Fake Out threatens; Protect Kingambit while Mega Drogon's sun Weather Ball likely KOs Sneasler through Air Balloon.
+|calc|Action: Kingambit: Protect | Drogon: Weather Ball [Mega] -> Sneasler (13-25%)
+|calc|Threats: Kingambit threatened by Sneasler Close Combat (153-222% OHKO); Drogon threatened by Swampert Wave Crash (100-165% OHKO)
+|
+|t:|1790980281
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|detailschange|p1a: Swampert|Swampert-Mega, L50, F, shiny
+|-mega|p1a: Swampert|Swampert|Swampertite
+|move|p2a: Kingambit|Protect|p2a: Kingambit
+|-singleturn|p2a: Kingambit|Protect
+|move|p1b: Sneasler|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|123/153
+|cant|p2b: Drogon|flinch
+|move|p1a: Swampert|Earthquake|p2a: Kingambit|[spread] 
+|-activate|p2a: Kingambit|move: Protect
+|-immune|p1b: Sneasler
+|-immune|p2b: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 3 2, move 1 2|claude|Sneasler threatens Close Combat OHKO on Kingambit; Weather Ball likely KOs it, Iron Head finishes. Removing Sneasler denies their fast attacker.
+|calc|Action: Kingambit: Iron Head -> Sneasler (58-114% (OHKO 26%)) | Drogon: Weather Ball -> Sneasler (80-149% (OHKO 71%))
+|calc|Threats: Kingambit threatened by Sneasler Close Combat (153-222% OHKO); Drogon threatened by Swampert-Mega Wave Crash (62-102% (KO 55%))
+|inactive|ilove29 has 30 seconds left.
+|
+|t:|1790980314
+|move|p1b: Sneasler|Close Combat|p2a: Kingambit
+|-supereffective|p2a: Kingambit|2
+|-damage|p2a: Kingambit|0 fnt
+|-unboost|p1b: Sneasler|def|1
+|-unboost|p1b: Sneasler|spd|1
+|faint|p2a: Kingambit
+|move|p2b: Drogon|Weather Ball|p1b: Sneasler
+|-damage|p1b: Sneasler|0 fnt
+|-enditem|p1b: Sneasler|Air Balloon
+|faint|p1b: Sneasler
+|move|p1a: Swampert|Waterfall|p2b: Drogon
+|-supereffective|p2b: Drogon|1
+|-damage|p2b: Drogon|27/153
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|choice|switch 3, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790980327
+|switch|p1b: Indeedee|Indeedee-F, L50, F|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1b: Indeedee
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, switch 4|claude|Drogon dies to anything; switch it out for Milotic (resists Water/Ice) while Whimsicott sets Tailwind — Psychic Terrain doesn't block Tailwind.
+|calc|Action: Whimsicott: Tailwind | Drogon switches to Milotic
+|calc|Threats: Whimsicott threatened by Swampert-Mega Ice Punch (55-104% (OHKO 9%)); Drogon threatened by Swampert-Mega Wave Crash (62-102% KO)
+|
+|t:|1790980338
+|switch|p2b: Milotic|Milotic, L50, F|202/202
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|move|p1a: Swampert|Waterfall|p2b: Milotic
+|-resisted|p2b: Milotic|1
+|-damage|p2b: Milotic|178/202
+|move|p1b: Indeedee|Trick Room|p1b: Indeedee
+|-fieldstart|move: Trick Room|[of] p1b: Indeedee
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|190/202|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 2 1|claude|Trick Room: both foes move first. Ice Punch can OHKO Whimsicott, so Protect it; Milotic chips Swampert while stalling Trick Room turns.
+|calc|Action: Whimsicott: Protect | Milotic: Ice Beam -> Swampert-Mega (12-21%)
+|calc|Threats: Whimsicott threatened by Swampert-Mega Ice Punch (55-104% (OHKO 9%)); Milotic threatened by Swampert-Mega Earthquake (36-48%)
+|inactive|ilove29 has 30 seconds left.
+|
+|t:|1790980365
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Swampert|Ice Punch|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Protect
+|move|p1b: Indeedee|Psychic|p2b: Milotic
+|-damage|p2b: Milotic|141/202
+|move|p2b: Milotic|Ice Beam|p1a: Swampert
+|-damage|p1a: Swampert|82/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|153/202|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 4|claude|Whimsicott chips Swampert; Milotic Protects to dodge Earthquake/Psychic and stall Trick Room turns while Tailwind runs out safely.
+|calc|Action: Whimsicott: Moonblast -> Swampert-Mega (20-36%) | Milotic: Protect
+|calc|Threats: Whimsicott threatened by Swampert-Mega Ice Punch (55-104% (OHKO 9%)); Milotic threatened by Swampert-Mega Earthquake (36-48%)
+|
+|t:|1790980372
+|move|p1b: Indeedee|Helping Hand|p1a: Swampert
+|-singleturn|p1a: Swampert|Helping Hand|[of] p1b: Indeedee
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1a: Swampert|Ice Punch|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|move|p2a: Whimsicott|Moonblast|p1a: Swampert
+|-damage|p1a: Swampert|54/100
+|
+|-weather|none
+|-heal|p2b: Milotic|165/202|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 4, move 1 1|claude|Whimsicott at 1% Protects behind Milotic's Scald on Swampert; Scald burn chance cripples their main attacker while we stall Trick Room turns.
+|calc|Action: Whimsicott: Protect | Milotic: Scald -> Swampert-Mega (16-29%)
+|calc|Threats: Whimsicott threatened by Swampert-Mega Ice Punch (55-104% KO); Milotic threatened by Swampert-Mega Earthquake (36-48%)
+|
+|t:|1790980397
+|move|p2a: Whimsicott|Protect|p2a: Whimsicott
+|-singleturn|p2a: Whimsicott|Protect
+|move|p1a: Swampert|Rock Slide|p2b: Milotic|[spread] p2b
+|-activate|p2a: Whimsicott|move: Protect
+|-damage|p2b: Milotic|122/202
+|move|p1b: Indeedee|Psychic|p2b: Milotic
+|-damage|p2b: Milotic|71/202
+|move|p2b: Milotic|Scald|p1a: Swampert
+|-damage|p1a: Swampert|32/100
+|
+|-heal|p2b: Milotic|83/202|[from] item: Leftovers
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|turn|7
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|Swampert at 32%: Moonblast (20-36%) + Scald (16-29%) likely KOs it, removing the Ice Punch/Earthquake threat. Trick Room ends this turn; Whimsicott dies regardless if it attacks, so maximize damage.
+|calc|Action: Whimsicott: Moonblast -> Swampert-Mega (20-36% (KO 28%)) | Milotic: Scald -> Swampert-Mega (16-29%)
+|calc|Threats: Whimsicott threatened by Swampert-Mega Ice Punch (55-104% KO); Milotic threatened by Swampert-Mega Earthquake (36-48% (KO 56%))
+|
+|t:|1790980418
+|move|p1a: Swampert|Ice Punch|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|move|p1b: Indeedee|Psychic|p2b: Milotic
+|-damage|p2b: Milotic|32/202
+|move|p2b: Milotic|Scald|p1a: Swampert
+|-damage|p1a: Swampert|7/100
+|
+|-heal|p2b: Milotic|44/202|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|choice|switch 4, pass|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790980419
+|switch|p2a: Drogon|Charizard-Mega-Y, L50, M|27/153
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Drogon
+|turn|8
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 4|claude|Swampert at 7% is a guaranteed KO for Weather Ball, removing the Rock Slide that OHKOs Drogon; Milotic Protects Indeedee's Psychic.
+|calc|Action: Drogon: Weather Ball -> Swampert-Mega (29-51% KO) | Milotic: Protect
+|calc|Threats: Drogon threatened by Swampert-Mega Rock Slide (78-128% KO); Milotic threatened by Swampert-Mega Earthquake (36-48% KO)
+|
+|t:|1790980432
+|move|p2b: Milotic|Protect|p2b: Milotic
+|-singleturn|p2b: Milotic|Protect
+|move|p1b: Indeedee|Protect|p1b: Indeedee
+|-singleturn|p1b: Indeedee|Protect
+|move|p2a: Drogon|Weather Ball|p1a: Swampert
+|-resisted|p1a: Swampert|1
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|56/202|[from] item: Leftovers
+|upkeep
+|
+|t:|1790980441
+|switch|p1a: Slowking|Slowking-Galar, L50, F|100/100
+|-enditem|p1a: Slowking|Psychic Seed
+|-boost|p1a: Slowking|spd|1|[from] item: Psychic Seed
+|turn|9
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 2, move 3|claude|We're 2v2 but both low; stalling loses to Future Sight. Drogon must threaten the faster Indeedee while Milotic Recovers out of Psychic range.
+|calc|Action: Drogon: Weather Ball -> Indeedee-F (47-69%) | Milotic: Recover
+|calc|Threats: Drogon threatened by Slowking-Galar Future Sight (50-90% KO); Milotic threatened by Slowking-Galar Future Sight (40-52% KO)
+|
+|t:|1790980448
+|move|p1b: Indeedee|Helping Hand|p1a: Slowking
+|-singleturn|p1a: Slowking|Helping Hand|[of] p1b: Indeedee
+|move|p2a: Drogon|Weather Ball|p1b: Indeedee
+|-damage|p1b: Indeedee|35/100
+|move|p2b: Milotic|Recover|p2b: Milotic
+|-heal|p2b: Milotic|157/202
+|move|p1a: Slowking|Expanding Force|p2a: Drogon|[spread] p2a,p2b
+|-damage|p2a: Drogon|0 fnt
+|-damage|p2b: Milotic|39/202
+|faint|p2a: Drogon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|51/202|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 3|claude|Milotic alone at 25%; Expanding Force/Belch KO us. Recover (faster than both) to survive another turn; Protect only delays one turn.
+|calc|Action: Milotic: Recover
+|calc|Threats: Milotic threatened by Slowking-Galar Belch (31-41% KO)
+|
+|t:|1790980466
+|move|p1b: Indeedee|Protect|p1b: Indeedee
+|-singleturn|p1b: Indeedee|Protect
+|move|p2b: Milotic|Recover|p2b: Milotic
+|-heal|p2b: Milotic|152/202
+|move|p1a: Slowking|Calm Mind|p1a: Slowking
+|-boost|p1a: Slowking|spa|1
+|-boost|p1a: Slowking|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|164/202|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Last Pokemon, hopeless vs +1 Calm Mind Slowking; only line is chipping Indeedee down for a Protect-less KO next turn. Ice Beam is max damage.
+|calc|Action: Milotic: Ice Beam -> Indeedee-F (15-22%)
+|calc|Threats: Milotic threatened by Slowking-Galar Expanding Force (31-41%)
+|
+|t:|1790980488
+|move|p2b: Milotic|Ice Beam|p1b: Indeedee
+|-damage|p1b: Indeedee|19/100
+|move|p1b: Indeedee|Psychic|p2b: Milotic
+|-damage|p2b: Milotic|125/202
+|move|p1a: Slowking|Calm Mind|p1a: Slowking
+|-boost|p1a: Slowking|spa|1
+|-boost|p1a: Slowking|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Milotic|137/202|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Milotic alone vs +2/+3 Slowking; only hope is KOing Indeedee (46% chance) then stalling Recover. Ice Beam is the sole offensive line.
+|calc|Action: Milotic: Ice Beam -> Indeedee-F (15-22% (KO 46%))
+|calc|Threats: Milotic threatened by Slowking-Galar Expanding Force (42-53%)
+|
+|t:|1790980494
+|move|p1b: Indeedee|Protect|p1b: Indeedee
+|-singleturn|p1b: Indeedee|Protect
+|move|p1a: Slowking|Protect|p1a: Slowking
+|-singleturn|p1a: Slowking|Protect
+|move|p2b: Milotic|Ice Beam|p1b: Indeedee
+|-activate|p1b: Indeedee|move: Protect
+|
+|-weather|none
+|-heal|p2b: Milotic|149/202|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 1 2|claude|Scald guarantees KO on Indeedee, removing Trick Room/Helping Hand; Slowking at +2/+3 is unkillable anyway, so take the sure KO.
+|calc|Action: Milotic: Scald -> Indeedee-F (19-29% KO)
+|calc|Threats: Milotic threatened by Slowking-Galar Expanding Force (42-53%)
+|
+|t:|1790980505
+|move|p1b: Indeedee|Helping Hand|p1a: Slowking
+|-singleturn|p1a: Slowking|Helping Hand|[of] p1b: Indeedee
+|move|p2b: Milotic|Scald|p1b: Indeedee
+|-damage|p1b: Indeedee|0 fnt
+|faint|p1b: Indeedee
+|move|p1a: Slowking|Expanding Force|p2b: Milotic
+|-damage|p2b: Milotic|0 fnt
+|faint|p2b: Milotic
+|
+|win|ilove29

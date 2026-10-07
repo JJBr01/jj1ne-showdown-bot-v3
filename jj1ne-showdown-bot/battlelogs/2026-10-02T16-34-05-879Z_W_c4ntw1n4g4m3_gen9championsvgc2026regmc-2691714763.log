@@ -1,0 +1,108 @@
+|init|battle
+|title|JJ1NE vs. c4ntw1n4g4m3
+|j|☆JJ1NE
+
+|j|‽c4ntw1n4g4m3
+|t:|1790958744
+|gametype|doubles
+|player|p1|JJ1NE|102|1063
+|player|p2|c4ntw1n4g4m3|schoolkid-gen4dp|1059
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Charizard, L50, M|
+|poke|p1|Dragonite, L50, F|
+|poke|p1|Milotic, L50, F|
+|poke|p1|Garchomp, L50, F|
+|poke|p1|Kingambit, L50, F|
+|poke|p1|Whimsicott, L50, M|
+|poke|p2|Alakazam, L50, M|
+|poke|p2|Sneasler, L50, M, shiny|
+|poke|p2|Milotic, L50, F, shiny|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Indeedee-F, L50, F, shiny|
+|poke|p2|Chesnaught, L50, M|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|choice|team 1263|claude
+|
+|t:|1790958774
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Drogon|Charizard, L50, M|153/153
+|switch|p1b: Dragonite|Dragonite, L50, F|168/168
+|switch|p2a: Milotic|Milotic, L50, F, shiny|100/100
+|switch|p2b: Indeedee|Indeedee-F, L50, F, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2b: Indeedee
+|turn|1
+|choice|move 1 mega, move 1 2|claude|Coach rule: focus Indeedee turn 1 to break Psychic Terrain. Heat Wave + Draco Meteor nearly KOs it; sun also boosts Drogon.
+|
+|t:|1790958787
+|detailschange|p1a: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p1a: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Drogon
+|move|p1a: Drogon|Heat Wave|p2b: Indeedee|[spread] p2a,p2b
+|-resisted|p2a: Milotic|1
+|-damage|p2a: Milotic|77/100
+|-damage|p2b: Indeedee|28/100
+|move|p1b: Dragonite|Draco Meteor|p2b: Indeedee
+|-damage|p2b: Indeedee|0 fnt
+|-unboost|p1b: Dragonite|spa|2
+|faint|p2b: Indeedee
+|move|p2a: Milotic|Coil|p2a: Milotic
+|-boost|p2a: Milotic|atk|1
+|-boost|p2a: Milotic|def|1
+|-boost|p2a: Milotic|accuracy|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Milotic|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1790958813
+|switch|p2b: Chesnaught|Chesnaught, L50, M|100/100
+|turn|2
+|choice|move 2 1, move 1 1|claude|Heat Wave already KOs Chesnaught regardless; but Coil Milotic is the snowballing win condition — Solar Beam (sun, 1-turn) plus Draco Meteor likely KOs it now.
+|
+|t:|1790958823
+|detailschange|p2b: Chesnaught|Chesnaught-Mega, L50, M
+|-mega|p2b: Chesnaught|Chesnaught|Chesnaughtite
+|move|p1a: Drogon|Solar Beam||[still]
+|-prepare|p1a: Drogon|Solar Beam
+|-anim|p1a: Drogon|Solar Beam|p2a: Milotic
+|-supereffective|p2a: Milotic|1
+|-damage|p2a: Milotic|15/100
+|move|p1b: Dragonite|Draco Meteor|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|-unboost|p1b: Dragonite|spa|2
+|faint|p2a: Milotic
+|move|p2b: Chesnaught|Belly Drum|p2b: Chesnaught
+|-damage|p2b: Chesnaught|50/100g
+|-setboost|p2b: Chesnaught|atk|6|[from] move: Belly Drum
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1790958837
+|switch|p2a: Kingambit|Kingambit, L50, M|100/100
+|turn|3
+|choice|move 1, move 4|claude|Heat Wave OHKOs both foes; Dragonite Protects in case Kingambit/Chesnaught Protects and retaliates. Drogon moves first, safe line.
+|
+|t:|1790958845
+|move|p1b: Dragonite|Protect|p1b: Dragonite
+|-singleturn|p1b: Dragonite|Protect
+|move|p1a: Drogon|Heat Wave|p2a: Kingambit|[spread] p2a,p2b
+|-supereffective|p2a: Kingambit|1
+|-supereffective|p2b: Chesnaught|1
+|-damage|p2a: Kingambit|0 fnt
+|-damage|p2b: Chesnaught|0 fnt
+|faint|p2a: Kingambit
+|faint|p2b: Chesnaught
+|
+|win|JJ1NE

@@ -1,0 +1,170 @@
+|init|battle
+|title|Polmoharazero vs. JJ1NE
+|j|☆Polmoharazero
+|j|☆JJ1NE
+
+|t:|1790978784
+|gametype|doubles
+|player|p1|Polmoharazero|1|1098
+|player|p2|JJ1NE|102|1000
+|gen|9
+|tier|[Gen 9 Champions] VGC 2026 Reg M-C
+|rated|
+|rule|Species Clause: Limit one of each Pokémon
+|rule|Item Clause: Limit 1 of each item
+|clearpoke
+|poke|p1|Gengar, L50, F|
+|poke|p1|Rillaboom, L50, F|
+|poke|p1|Pelipper, L50, F|
+|poke|p1|Archaludon, L50, M|
+|poke|p1|Incineroar, L50, F|
+|poke|p1|Infernape, L50, F|
+|poke|p2|Charizard, L50, M|
+|poke|p2|Dragonite, L50, M|
+|poke|p2|Garchomp, L50, M|
+|poke|p2|Whimsicott, L50, F|
+|poke|p2|Kingambit, L50, M|
+|poke|p2|Milotic, L50, F|
+|teampreview|4
+|uhtml|otsrequest|<button name="send" value="/acceptopenteamsheets" class="button" style="margin-right: 10px;"><strong>Accept Open Team Sheets</strong></button><button name="send" value="/rejectopenteamsheets" class="button" style="margin-top: 10px"><strong>Deny Open Team Sheets</strong></button>
+|uhtmlchange|otsrequest|
+JJ1NE has agreed to open team sheets.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Polmoharazero)
+|inactive|Time left: 90 sec this turn | 420 sec total | 90 sec grace
+|choice|team 4153|claude|Whimsicott Tailwind + Charizard-Y Drought cancels rain, pressures Rillaboom/Pelipper. Kingambit answers Gengar/Perish Song; Scarf Garchomp bursts Archaludon.
+|
+|t:|1790978814
+|teamsize|p1|4
+|teamsize|p2|4
+|start
+|uhtmlchange|otsrequest|
+|switch|p1a: Gengar|Gengar, L50, F|100/100
+|switch|p1b: Infernape|Infernape, L50, F|100/100
+|switch|p2a: Whimsicott|Whimsicott, L50, F|137/137
+|switch|p2b: Drogon|Charizard, L50, M|153/153
+|turn|1
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1, move 1 1 mega|claude|Whimsicott outspeeds everything for Tailwind; Drogon mega Weather Ball in sun threatens 42% OHKO on Gengar before Shadow Tag/Perish Song sets up.
+|calc|Action: Whimsicott: Tailwind | Drogon: Weather Ball [Mega] -> Gengar (0-0%)
+|calc|Threats: Whimsicott threatened by Gengar Sludge Bomb (160-307% OHKO); Drogon threatened by Gengar Sludge Bomb (33-63%)
+|inactive|Polmoharazero has 30 seconds left.
+|
+|t:|1790978840
+|detailschange|p2b: Drogon|Charizard-Mega-Y, L50, M
+|-mega|p2b: Drogon|Charizard|Charizardite Y
+|-weather|SunnyDay|[from] ability: Drought|[of] p2b: Drogon
+|detailschange|p1a: Gengar|Gengar-Mega, L50, F
+|-mega|p1a: Gengar|Gengar|Gengarite
+|move|p1b: Infernape|Fake Out|p2b: Drogon
+|-damage|p2b: Drogon|133/153
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: JJ1NE|move: Tailwind
+|cant|p2b: Drogon|flinch
+|move|p1a: Gengar|Sludge Bomb|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|2
+|-enditem|p2a: Whimsicott|Focus Sash
+|-damage|p2a: Whimsicott|1/137
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 1, move 1 1|claude|Whimsicott is dead anyway at 1%; chip Gengar with Moonblast so Weather Ball's 81-113% roll converts to the KO on the Shadow Tag trapper.
+|calc|Action: Whimsicott: Moonblast -> Gengar-Mega (14-20%) | Drogon: Weather Ball -> Gengar-Mega (81-113% (OHKO 42%))
+|calc|Threats: Whimsicott threatened by Gengar-Mega Sludge Bomb (236-450% KO); Drogon threatened by Gengar-Mega Sludge Bomb (41-71%)
+|inactive|Polmoharazero has 30 seconds left.
+|
+|t:|1790978867
+|switch|p1b: Pelipper|Pelipper, L50, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1b: Pelipper
+|move|p2a: Whimsicott|Moonblast|p1a: Gengar
+|-resisted|p1a: Gengar|1
+|-damage|p1a: Gengar|79/100
+|move|p2b: Drogon|Weather Ball|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1790978878
+|switch|p1a: Archaludon|Archaludon, L50, M|100/100
+|-item|p1a: Archaludon|Air Balloon
+|turn|3
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 2 2, move 3 2|claude|Pelipper is the rain/support win-con; Moonblast + Ancient Power likely KO it, removing rain so Weather Ball returns to Fire. Whimsicott at 1% dies regardless.
+|calc|Action: Whimsicott: Moonblast -> Pelipper (34-66%) | Drogon: Ancient Power -> Pelipper (53-102% (OHKO 6%))
+|calc|Threats: Whimsicott threatened by Pelipper Hurricane (94-184% KO); Drogon threatened by Pelipper Weather Ball (90-158% KO)
+|
+|t:|1790978890
+|move|p2a: Whimsicott|Moonblast|p1b: Pelipper
+|-damage|p1b: Pelipper|67/100
+|move|p2b: Drogon|Ancient Power|p1b: Pelipper
+|-supereffective|p1b: Pelipper|1
+|-damage|p1b: Pelipper|14/100
+|move|p1a: Archaludon|Electro Shot||[still]
+|-prepare|p1a: Archaludon|Electro Shot
+|-boost|p1a: Archaludon|spa|1
+|-anim|p1a: Archaludon|Electro Shot|p2b: Drogon
+|-supereffective|p2b: Drogon|1
+|-damage|p2b: Drogon|0 fnt
+|faint|p2b: Drogon
+|move|p1b: Pelipper|Hurricane|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott|1
+|-crit|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|choice|switch 3, switch 4|engine
+|inactive|Time left: 55 sec this turn | 420 sec total
+|
+|t:|1790978890
+|switch|p2a: Kingambit|Kingambit, L50, M|207/207
+|switch|p2b: Garchomp|Garchomp, L50, M|185/185
+|turn|4
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|move 1 1, move 2 2|claude|Pelipper at 14% dies to Dragon Claw; Kingambit Kowtow chips Archaludon (the +1 SpA win condition) instead of overkilling Pelipper.
+|calc|Action: Kingambit: Kowtow Cleave -> Archaludon (36-52%) | Garchomp: Dragon Claw -> Pelipper (33-60% KO)
+|calc|Threats: Kingambit threatened by Archaludon Electro Shot (65-97%); Garchomp threatened by Archaludon Dragon Pulse (92-163% (OHKO 89%))
+|inactive|Polmoharazero has 30 seconds left.
+|
+|t:|1790978918
+|move|p2b: Garchomp|Dragon Claw|p1b: Pelipper
+|-damage|p1b: Pelipper|0 fnt
+|faint|p1b: Pelipper
+|move|p2a: Kingambit|Kowtow Cleave|p1a: Archaludon
+|-damage|p1a: Archaludon|49/100
+|-ability|p1a: Archaludon|Stamina|boost
+|-boost|p1a: Archaludon|def|1
+|-enditem|p1a: Archaludon|Air Balloon
+|-damage|p2a: Kingambit|187/207|[from] item: Life Orb
+|move|p1a: Archaludon|Aura Sphere|p2a: Kingambit
+|-supereffective|p2a: Kingambit|2
+|-damage|p2a: Kingambit|0 fnt
+|faint|p2a: Kingambit
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: JJ1NE|move: Tailwind
+|upkeep
+|
+|t:|1790978933
+|switch|p1b: Infernape|Infernape, L50, F|100/100
+|turn|5
+|inactive|Time left: 55 sec this turn | 420 sec total
+|choice|pass, move 2 2|claude|Last Pokémon, Choice-locked; Dragon Claw into Infernape is far better damage than into Archaludon's +1 Def Stamina wall.
+|calc|Action: Garchomp: Dragon Claw -> Infernape (37-71%)
+|calc|Threats: Garchomp threatened by Archaludon Flash Cannon (43-77%)
+|
+|t:|1790978941
+|move|p1b: Infernape|Fake Out|p2b: Garchomp
+|-damage|p2b: Garchomp|165/185
+|-damage|p1b: Infernape|87/100|[from] ability: Rough Skin|[of] p2b: Garchomp
+|cant|p2b: Garchomp|flinch
+|move|p1a: Archaludon|Dragon Pulse|p2b: Garchomp
+|-supereffective|p2b: Garchomp|1
+|-damage|p2b: Garchomp|0 fnt
+|faint|p2b: Garchomp
+|
+|win|Polmoharazero
