@@ -1,0 +1,55 @@
+# PokePaste: Desu's Frankfurt Regional 2027 Top 16 Team
+Author: VGCPastes
+Source: https://pokepast.es/10c22cdfbe0e4e19
+
+```
+Raichu @ Raichunite Y  
+Ability: Lightning Rod  
+Timid Nature  
+- Zap Cannon  
+- Focus Blast  
+- Fake Out  
+- Protect  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Impish Nature  
+- Fake Out  
+- Helping Hand  
+- Flare Blitz  
+- Parting Shot  
+
+Sinistcha @ Kasib Berry  
+Ability: Hospitality  
+Bold Nature  
+- Matcha Gotcha  
+- Protect  
+- Rage Powder  
+- Trick Room  
+
+Kommo-o @ Leftovers  
+Ability: Soundproof  
+Modest Nature  
+- Clanging Scales  
+- Aura Sphere  
+- Clangorous Soul  
+- Protect  
+
+Kingambit @ Focus Sash  
+Ability: Defiant  
+Adamant Nature  
+- Kowtow Cleave  
+- Sucker Punch  
+- Low Kick  
+- Iron Head  
+
+Delphox @ Delphoxite  
+Ability: Blaze  
+Timid Nature  
+- Heat Wave  
+- Psychic  
+- Nasty Plot  
+- Protect  
+
+
+```

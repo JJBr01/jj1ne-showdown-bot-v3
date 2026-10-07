@@ -1,0 +1,501 @@
+{
+ "games": 290,
+ "wins": 137,
+ "byArch": {
+  "?": {
+   "w": 0,
+   "g": 2
+  },
+  "standard": {
+   "w": 42,
+   "g": 78
+  },
+  "trickroom": {
+   "w": 27,
+   "g": 62
+  },
+  "snow": {
+   "w": 5,
+   "g": 9
+  },
+  "sand": {
+   "w": 5,
+   "g": 14
+  },
+  "rain": {
+   "w": 13,
+   "g": 41
+  },
+  "sun": {
+   "w": 18,
+   "g": 24
+  },
+  "psyterrain": {
+   "w": 24,
+   "g": 53
+  },
+  "raichu-staraptor": {
+   "w": 3,
+   "g": 7
+  }
+ },
+ "byPlan": {
+  "? / ?": {
+   "w": 0,
+   "g": 2
+  },
+  "standard / Charizard|zw": {
+   "w": 20,
+   "g": 34
+  },
+  "trickroom / Dragonite|zf": {
+   "w": 2,
+   "g": 2
+  },
+  "standard / Dragonite|zw": {
+   "w": 20,
+   "g": 36
+  },
+  "snow / Charizard|zw": {
+   "w": 4,
+   "g": 8
+  },
+  "sand / Charizard|zw": {
+   "w": 5,
+   "g": 9
+  },
+  "rain / Charizard|zw": {
+   "w": 4,
+   "g": 16
+  },
+  "sun / Charizard|zw": {
+   "w": 18,
+   "g": 24
+  },
+  "trickroom / Charizard|zw": {
+   "w": 9,
+   "g": 17
+  },
+  "sand / Charizard|zf": {
+   "w": 0,
+   "g": 1
+  },
+  "trickroom / Charizard|zf": {
+   "w": 0,
+   "g": 1
+  },
+  "psyterrain / Charizard|zw": {
+   "w": 10,
+   "g": 22
+  },
+  "sand / Dragonite|zw": {
+   "w": 0,
+   "g": 3
+  },
+  "trickroom / Dragonite|zw": {
+   "w": 7,
+   "g": 21
+  },
+  "raichu-staraptor / Charizard|zw": {
+   "w": 1,
+   "g": 5
+  },
+  "psyterrain / Dragonite|zw": {
+   "w": 2,
+   "g": 9
+  },
+  "rain / Dragonite|zw": {
+   "w": 7,
+   "g": 18
+  },
+  "trickroom / resumed": {
+   "w": 0,
+   "g": 1
+  },
+  "rain / resumed": {
+   "w": 0,
+   "g": 1
+  },
+  "sand / resumed": {
+   "w": 0,
+   "g": 1
+  },
+  "psyterrain / Charizard|zk": {
+   "w": 12,
+   "g": 19
+  },
+  "trickroom / Charizard|zk": {
+   "w": 5,
+   "g": 13
+  },
+  "rain / Charizard|zg": {
+   "w": 0,
+   "g": 2
+  },
+  "trickroom / Dragonite|zk": {
+   "w": 4,
+   "g": 7
+  },
+  "raichu-staraptor / Dragonite|zw": {
+   "w": 1,
+   "g": 1
+  },
+  "standard / Charizard|zk": {
+   "w": 0,
+   "g": 1
+  },
+  "psyterrain / Dragonite|zk": {
+   "w": 0,
+   "g": 3
+  },
+  "rain / Charizard|zk": {
+   "w": 1,
+   "g": 3
+  },
+  "raichu-staraptor / Charizard|zg": {
+   "w": 1,
+   "g": 1
+  },
+  "standard / Dragonite|zg": {
+   "w": 0,
+   "g": 1
+  },
+  "standard / Dragonite|zk": {
+   "w": 1,
+   "g": 2
+  },
+  "snow / Dragonite|zw": {
+   "w": 1,
+   "g": 1
+  },
+  "rain / Dragonite|zk": {
+   "w": 1,
+   "g": 1
+  },
+  "standard / Charizard|zf": {
+   "w": 0,
+   "g": 3
+  },
+  "standard / Dragonite|zf": {
+   "w": 1,
+   "g": 1
+  }
+ },
+ "ourFaints": {
+  "Drogon": 143,
+  "Milotic": 84,
+  "Whimsicott": 177,
+  "Sneasler": 9,
+  "Garchomp": 103,
+  "Dragonite": 105,
+  "Kingambit": 143,
+  "Rillaboom": 6,
+  "Incineroar": 5
+ },
+ "ourKOs": {
+  "Milotic": 91,
+  "Whimsicott": 105,
+  "Sneasler": 11,
+  "Dragonite": 115,
+  "Drogon": 162,
+  "Garchomp": 94,
+  "Kingambit": 114,
+  "Rillaboom": 4,
+  "Incineroar": 2
+ },
+ "killers": {
+  "Garchomp-Mega-Z Power Gem": 9,
+  "Rillaboom Grassy Glide": 16,
+  "Sneasler Dire Claw": 18,
+  "Sneasler Close Combat": 21,
+  "Dragalge Venoshock": 1,
+  "Sneasler Rock Slide": 8,
+  "Abomasnow-Mega Blizzard": 2,
+  "Armarouge Expanding Force": 7,
+  "Salamence-Mega Draco Meteor": 2,
+  "Rillaboom Wood Hammer": 20,
+  "Glimmora Sludge Bomb": 2,
+  "Gholdengo Make It Rain": 10,
+  "Gholdengo Shadow Ball": 3,
+  "Kingambit Sucker Punch": 6,
+  "Garchomp Stomping Tantrum": 2,
+  "Kingambit Kowtow Cleave": 3,
+  "Torterra Earthquake": 1,
+  "Torterra Seed Bomb": 1,
+  "Inteleon Ice Beam": 7,
+  "Indeedee Expanding Force": 10,
+  "Corviknight Brave Bird": 1,
+  "Excadrill Rock Slide": 3,
+  "Excadrill High Horsepower": 2,
+  "Tyranitar Rock Slide": 4,
+  "Alakazam-Mega Expanding Force": 10,
+  "Reuniclus Expanding Force": 4,
+  "Inteleon Snipe Shot": 2,
+  "Rillaboom High Horsepower": 3,
+  "Metagross-Mega Steel Roller": 1,
+  "Metagross-Mega Bullet Punch": 1,
+  "Pincurchin Rising Voltage": 2,
+  "Raichu-Mega-X Volt Tackle": 2,
+  "Whimsicott Moonblast": 4,
+  "Raichu-Mega-Y Zap Cannon": 12,
+  "Torkoal Heat Wave": 2,
+  "Tyranitar-Mega Rock Slide": 18,
+  "Tyranitar-Mega Low Kick": 2,
+  "Incineroar Close Combat": 2,
+  "Indeedee-F Psychic": 5,
+  "Incineroar Overheat": 1,
+  "Pelipper U-turn": 1,
+  "Swampert-Mega Waterfall": 1,
+  "Aegislash-Blade Iron Head": 1,
+  "Mawile-Mega Play Rough": 4,
+  "Milotic Scald": 6,
+  "Maushold Population Bomb": 1,
+  "Milotic Icy Wind": 6,
+  "Arcanine-Hisui Flare Blitz": 8,
+  "Sylveon Hyper Voice": 9,
+  "Pelipper Weather Ball": 5,
+  "Blastoise-Mega Ice Beam": 3,
+  "Eelektross-Mega Flamethrower": 2,
+  "Eelektross-Mega Dragon Pulse": 1,
+  "Arcanine-Hisui Extreme Speed": 2,
+  "Blaziken-Mega Rock Slide": 2,
+  "Glimmora Power Gem": 1,
+  "Gardevoir-Mega Hyper Voice": 9,
+  "Blastoise-Mega Water Spout": 4,
+  "Blastoise-Mega Dark Pulse": 2,
+  "Incineroar Darkest Lariat": 3,
+  "Greninja Icy Wind": 1,
+  "Raichu-Mega-Y Focus Blast": 4,
+  "Torkoal Eruption": 5,
+  "Ninetales-Alola Freeze-Dry": 2,
+  "Armarouge Armor Cannon": 5,
+  "Incineroar Fake Out": 4,
+  "Farigiraf Psychic": 3,
+  "Pelipper Hurricane": 9,
+  "Archaludon Electro Shot": 19,
+  "Archaludon Dragon Pulse": 11,
+  "Garchomp-Mega-Z Dragon Pulse": 7,
+  "Garchomp-Mega-Z Earth Power": 4,
+  "Volcarona Struggle Bug": 2,
+  "Volcarona Overheat": 4,
+  "Floette-Mega Moonblast": 4,
+  "Charizard-Mega-Y Heat Wave": 9,
+  "Archaludon Snarl": 1,
+  "Rillaboom Fake Out": 5,
+  "Kingambit Low Kick": 1,
+  "Serperior Leaf Storm": 1,
+  "Grapploct Storm Throw": 3,
+  "Ninetales-Alola Blizzard": 1,
+  "Volcarona Fiery Dance": 3,
+  "Dragapult Dragon Darts": 3,
+  "Politoed Muddy Water": 2,
+  "Steelix-Mega High Horsepower": 2,
+  "Tyranitar Knock Off": 1,
+  "Golurk-Mega Headlong Rush": 1,
+  "Archaludon Flash Cannon": 7,
+  "Gardevoir Mystical Fire": 1,
+  "Gardevoir Dazzling Gleam": 1,
+  "Meowstic-F-Mega Expanding Force": 8,
+  "Gardevoir-Mega Expanding Force": 7,
+  "Drampa-Mega Hyper Voice": 2,
+  "Primarina Moonblast": 5,
+  "Primarina Dazzling Gleam": 1,
+  "Aerodactyl Rock Slide": 12,
+  "Aerodactyl Dual Wingbeat": 2,
+  "Archaludon Draco Meteor": 2,
+  "Tsareena Triple Axel": 3,
+  "Kommo-o Clanging Scales": 2,
+  "Torkoal Overheat": 1,
+  "Dragonite-Mega Heat Wave": 4,
+  "Dragonite-Mega Ice Beam": 1,
+  "Archaludon Thunderbolt": 1,
+  "Glimmora-Mega Sludge Bomb": 3,
+  "Glimmora-Mega Power Gem": 7,
+  "Annihilape Drain Punch": 1,
+  "Annihilape Rage Fist": 4,
+  "Kleavor Stone Axe": 3,
+  "Starmie-Mega Aqua Jet": 1,
+  "Toxtricity Overdrive": 1,
+  "Swampert-Mega Ice Punch": 6,
+  "Incineroar Flare Blitz": 10,
+  "Garchomp-Mega-Z Draco Meteor": 4,
+  "Araquanid Dive": 1,
+  "Araquanid Infestation": 1,
+  "Greninja-Mega Weather Ball": 2,
+  "Greninja-Mega Hydro Pump": 1,
+  "Dragonite Rock Slide": 1,
+  "Blaziken-Mega Flare Blitz": 1,
+  "Primarina Hyper Voice": 7,
+  "Sylveon Hyper Beam": 1,
+  "Feraligatr-Mega Slash": 1,
+  "Ceruledge Shadow Sneak": 1,
+  "Samurott-Hisui Night Slash": 3,
+  "Lucario-Mega-Z Aura Sphere": 1,
+  "Dragonite Breaking Swipe": 2,
+  "Staraptor-Mega Close Combat": 6,
+  "Arcanine-Hisui Head Smash": 3,
+  "Umbreon Foul Play": 1,
+  "Golisopod-Mega Leech Life": 6,
+  "Indeedee Psyshock": 1,
+  "Rotom-Wash Hydro Pump": 1,
+  "Rotom-Wash Thunder": 1,
+  "Froslass Icy Wind": 1,
+  "Charizard-Mega-Y Ancient Power": 1,
+  "Typhlosion-Hisui Eruption": 1,
+  "Politoed Weather Ball": 2,
+  "Politoed Ice Beam": 1,
+  "Politoed Surf": 1,
+  "Garchomp Rock Slide": 3,
+  "Froslass-Mega Blizzard": 3,
+  "Excadrill Iron Head": 4,
+  "Basculegion Last Respects": 16,
+  "Volcarona Heat Wave": 2,
+  "Gengar-Mega Sludge Bomb": 2,
+  "Toxapex Infestation": 2,
+  "Mamoswine Icicle Crash": 1,
+  "Heliolisk Thunderbolt": 1,
+  "Metagross-Mega Psychic Fangs": 4,
+  "Milotic Muddy Water": 1,
+  "Grimmsnarl Spirit Break": 3,
+  "Whimsicott Dazzling Gleam": 1,
+  "Raichu Volt Switch": 1,
+  "Malamar-Mega Throat Chop": 1,
+  "Indeedee-F Mystical Fire": 1,
+  "Farigiraf Thunderbolt": 1,
+  "Mawile-Mega Iron Head": 1,
+  "Tsareena Petal Blizzard": 1,
+  "Clawitzer Aura Sphere": 1,
+  "Clawitzer Dragon Pulse": 1,
+  "Rillaboom U-turn": 2,
+  "Lucario-Mega Extreme Speed": 1,
+  "Lucario-Mega Close Combat": 1,
+  "Rotom-Wash Volt Switch": 1,
+  "Rotom-Wash Thunderbolt": 1,
+  "Dragonite Extreme Speed": 1,
+  "Dragonite Air Slash": 1,
+  "Charizard Solar Beam": 1,
+  "Tyranitar-Mega Body Press": 1,
+  "Altaria-Mega Double-Edge": 1,
+  "Weavile Ice Spinner": 2,
+  "Absol-Mega-Z Close Combat": 1,
+  "Alakazam Expanding Force": 1,
+  "Indeedee-F Dazzling Gleam": 1,
+  "Baxcalibur Icicle Crash": 1,
+  "Baxcalibur Breaking Swipe": 1,
+  "Salamence-Mega Hyper Voice": 7,
+  "Sinistcha-Masterpiece Matcha Gotcha": 1,
+  "Glimmora-Mega Earth Power": 1,
+  "Garchomp Dragon Claw": 1,
+  "Garchomp Earthquake": 1,
+  "Staraptor-Mega Brave Bird": 3,
+  "Chesnaught-Mega Drain Punch": 2,
+  "Chesnaught-Mega Shadow Claw": 1,
+  "Corviknight Drill Peck": 1,
+  "Kommo-o Aura Sphere": 1,
+  "Gyarados-Mega Waterfall": 1,
+  "Gyarados-Mega Ice Fang": 1,
+  "Archaludon Aura Sphere": 1,
+  "Golurk Rock Slide": 1,
+  "Staraptor Brave Bird": 1,
+  "Slowking-Galar Expanding Force": 2,
+  "Swampert-Mega Liquidation": 2,
+  "Swampert-Mega High Horsepower": 1,
+  "Rampardos Rock Slide": 1,
+  "Pidgeot-Mega Heat Wave": 1,
+  "Dragalge-Mega Draco Meteor": 1,
+  "Sableye Shadow Sneak": 1,
+  "Ampharos-Mega Parabolic Charge": 2,
+  "Kleavor X-Scissor": 1,
+  "Ampharos-Mega Power Gem": 1,
+  "Floette-Mega Dazzling Gleam": 2,
+  "Milotic Ice Beam": 1,
+  "Dragapult Phantom Force": 1,
+  "Vileplume Acid Spray": 1,
+  "Ditto Ancient Power": 1,
+  "Goodra-Hisui Body Press": 1,
+  "Gallade Psycho Cut": 1,
+  "Flareon Flare Blitz": 1,
+  "Gallade Drain Punch": 1,
+  "Gallade-Mega Psycho Cut": 1,
+  "Mamoswine Ice Shard": 4,
+  "Mamoswine High Horsepower": 1,
+  "Lucario-Mega-Z Vacuum Wave": 1,
+  "Toxicroak Gunk Shot": 1,
+  "Toxicroak Sucker Punch": 1,
+  "Rotom-Heat Overheat": 1,
+  "Dragonite-Mega Flamethrower": 1,
+  "Dragonite-Mega Hurricane": 3,
+  "Kleavor Close Combat": 1,
+  "Tyranitar-Mega Knock Off": 1,
+  "Indeedee Dazzling Gleam": 2,
+  "Victreebel-Mega Giga Drain": 1,
+  "Raichu-Alola Volt Switch": 1,
+  "Golisopod-Mega Sucker Punch": 4,
+  "Rillaboom Superpower": 1,
+  "Floette-Mega Light of Ruin": 1,
+  "Hippowdon Rock Slide": 1,
+  "Basculegion Wave Crash": 1,
+  "Sylveon Quick Attack": 1,
+  "Blastoise-Mega Surf": 3,
+  "Abomasnow Blizzard": 1,
+  "Palafin Close Combat": 1,
+  "Hatterene Dazzling Gleam": 1,
+  "Hatterene Expanding Force": 1,
+  "Maushold-Four Population Bomb": 2,
+  "Pinsir-Mega Body Slam": 1,
+  "Baxcalibur Ice Shard": 1,
+  "Salamence Draco Meteor": 1,
+  "Blaziken-Mega Close Combat": 1,
+  "Scrafty-Mega Close Combat": 1,
+  "Sylveon Moonblast": 1,
+  "Swampert High Horsepower": 1,
+  "Houndoom Heat Wave": 1,
+  "Quaquaval Triple Axel": 1,
+  "Quaquaval Aqua Step": 3,
+  "Golisopod-Mega Iron Head": 1,
+  "Politoed Icy Wind": 1,
+  "Tsareena Power Whip": 1,
+  "Aggron-Mega Head Smash": 1,
+  "Aggron-Mega Body Press": 1,
+  "Sinistcha Matcha Gotcha": 1,
+  "Dragonite-Mega Extreme Speed": 1,
+  "Kangaskhan Last Resort": 1,
+  "Reuniclus Psychic": 1,
+  "Conkeldurr Ice Punch": 1,
+  "Dragonite-Mega Thunder": 1,
+  "Glalie-Mega Explosion": 1,
+  "Pawmot Close Combat": 1,
+  "Salamence-Mega Flamethrower": 3,
+  "Dragapult U-turn": 1,
+  "Alcremie-Caramel-Swirl Draining Kiss": 1,
+  "Golisopod Liquidation": 1,
+  "Tyrantrum Rock Slide": 1,
+  "Glimmora Mortal Spin": 1,
+  "Basculegion-F Shadow Ball": 1,
+  "Pyroar-Mega Heat Wave": 1,
+  "Dragapult Draco Meteor": 1,
+  "Dragonite-Mega Draco Meteor": 1,
+  "Tsareena Low Kick": 1,
+  "Torkoal Weather Ball": 2,
+  "Clawitzer Ice Beam": 1,
+  "Ampharos-Mega Dragon Pulse": 1,
+  "Dragonite Dragon Pulse": 2,
+  "Baxcalibur-Mega Icicle Crash": 1,
+  "Dragonite-Mega Dragon Pulse": 1
+ },
+ "firstKO": {
+  "us": {
+   "w": 117,
+   "g": 181
+  },
+  "them": {
+   "w": 18,
+   "g": 105
+  }
+ },
+ "calc": {
+  "checked": 611,
+  "inRange": 397
+ },
+ "avgTurns": 6.203448275862068
+}

@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-04T19:30:41.051Z",
+  "proposals": [
+    {
+      "gamesLeft": 3,
+      "area": "preview",
+      "change": "SNOW HARD OVERRIDE (re-assert, enforce in getLeadPreference): any opposing sheet with Froslass, Abomasnow, Ninetales-Alola or Snow Warning forces Mega Charizard-Y and a Charizard+Whimsicott lead; Mega Dragonite is forbidden as the Mega.",
+      "evidence": "Mega Dragonite lost 71% HP to a 100%-accurate Blizzard on T1 under Snowscape with Aurora Veil up and contributed 0 KOs; Drought would have removed snow, Blizzard accuracy and the Veil.",
+      "added": "2026-10-03T04:01:19.102Z"
+    },
+    {
+      "gamesLeft": 3,
+      "area": "pilot",
+      "change": "PROTECT-REPEAT BLOCK: if a foe used Protect/Detect on the immediately preceding turn AND our chosen move is single-target at that same foe, heavily penalize (-4) the move; prefer a spread move or target the partner.",
+      "evidence": "Sneasler Protected on T3 and T5, eating Garchomp Stomping Tantrum twice plus Kingambit Iron Head — 3 wasted actions, and Garchomp died the same turn it whiffed.",
+      "added": "2026-10-03T04:01:19.102Z"
+    },
+    {
+      "gamesLeft": 3,
+      "area": "pilot",
+      "change": "SETUP PUNISH OVERRIDE: when a foe gains +2 Atk/SpA (Swords Dance/Nasty Plot/Quiver Dance), ban Protect on both of our slots for the following turn unless that slot is in the OHKO band, and force at least one spread move or focus attack at the booster.",
+      "evidence": "Sneasler used Swords Dance on T4 while both our slots did nothing (Protect + flinch) and then closed out the game.",
+      "added": "2026-10-03T04:01:19.103Z"
+    },
+    {
+      "gamesLeft": 4,
+      "area": "pilot",
+      "change": "LOW KICK / HEAVY SLAM WEIGHT GUARD: never lead or leave Kingambit (100kg), Garchomp (95kg) or Drogon (100kg) in front of a revealed or sheet-listed Low Kick / Grass Knot user (Tsareena, Hariyama, Machamp, Rillaboom); treat Low Kick on Kingambit as a guaranteed OHKO and force Protect/switch.",
+      "evidence": "T1 Tsareena Low Kick dealt 100% to a full-HP 207 HP Kingambit; the threat display did not list it and the engine fallback left Kingambit in.",
+      "added": "2026-10-03T04:06:35.471Z"
+    },
+    {
+      "gamesLeft": 4,
+      "area": "pilot",
+      "change": "LAST-USED-MOVE THREAT INCLUSION: any move a foe has actually used this battle must be included in the OHKO-band computation for every subsequent turn, even if the sheet/heuristics rank it low.",
+      "evidence": "T4 Torkoal Weather Ball (used T4 after Eruption on T3) was absent from the displayed threats; Drogon at 41% attacked and was OHKO'd.",
+      "added": "2026-10-03T04:06:35.472Z"
+    },
+    {
+      "gamesLeft": 4,
+      "area": "pilot",
+      "change": "TRICK ROOM SPEED INVERSION IN THREAT MODEL: while Trick Room is active, every foe slower than our slot in raw Speed must be treated as moving FIRST for OHKO-band blocking purposes.",
+      "evidence": "Torkoal (base 20 Spe) moved before Drogon (138) on T4 and T5 and KO'd both Drogon and chipped Milotic before they acted.",
+      "added": "2026-10-03T04:06:35.472Z"
+    },
+    {
+      "gamesLeft": 4,
+      "area": "pilot",
+      "change": "4x SWITCH-IN BAN: never switch Garchomp into a field with an active revealed Ice-move user (Clawitzer, Froslass, Alolan Ninetales, Inteleon); prefer Milotic or Whimsicott.",
+      "evidence": "T5 Garchomp entered and was OHKO'd by Clawitzer Ice Beam for zero value.",
+      "added": "2026-10-03T04:06:35.472Z"
+    },
+    {
+      "gamesLeft": 4,
+      "area": "team",
+      "change": "Keep Milotic as an auto-bring vs any Fire/Trick Room core: it solo-won the endgame via Scald burn + Recover vs Clawitzer and tanked Torkoal Eruption.",
+      "evidence": "Milotic dealt 191% and took the last 8 turns of the game alone.",
+      "added": "2026-10-03T04:06:35.473Z"
+    }
+  ]
+}

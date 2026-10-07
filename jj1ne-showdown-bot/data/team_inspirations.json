@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": "2026-10-03T04:06:35.476Z",
+    "opponent": "pixy.flower∆",
+    "suggestion": "Mirror their Torkoal 'sun Weather Ball + Eruption under Trick Room' pressure by giving Mega Dragonite Extreme Speed over Heat Wave (redundant with Charizard-Y sun Heat Wave): a +2 priority finisher ignores Trick Room speed inversion entirely and would have closed Torkoal at 32% and Clawitzer at 72% without needing to outspeed.",
+    "reason": "Every unit they threatened us with moved first under Trick Room; priority is the only speed-control-independent damage we lack, and Heat Wave on Dragonite contributed zero this game."
+  },
+  {
+    "timestamp": "2026-10-03T04:01:19.106Z",
+    "opponent": "Noobilio",
+    "suggestion": "Mirror Noobilio's Sneasler Protect-cycle + Swords Dance engine by giving ourselves a Protect-proof finisher: swap Mega Dragonite's Heat Wave for Extreme Speed, and keep Garchomp's Rock Slide as the designated anti-Sneasler/Froslass spread button (hits both slots so Protect only saves one).",
+    "reason": "Sneasler bought three free turns with Protect while Rillaboom Fake Out/Wood Hammer deleted our Ground slot; spread moves and +2 priority are the only two tools that do not lose value to Protect-timing, and Heat Wave on Dragonite is fully redundant with Charizard-Y sun Heat Wave."
+  },
+  {
+    "timestamp": "2026-10-03T03:57:01.124Z",
+    "opponent": "gogogadgetnuke",
+    "suggestion": "Mirror their Ninetales-Alola 'weather + Encore' disruption: give Whimsicott more value by keeping Encore (it locked our Tailwind the same way theirs did) and swap Mega Dragonite's Heat Wave for Extreme Speed, since Charizard-Y already owns sun Heat Wave and we twice needed a priority finisher on a 3-10% Ninetales and a 1-HP setter.",
+    "reason": "Their Ninetales survived at 3% and 10% HP for two extra turns and got a Helping Hand Blizzard off that nearly took Whimsicott and Milotic; a +2 priority finisher on Mega Dragonite closes those exact windows and does not overlap with any existing move."
+  },
+  {
+    "timestamp": "2026-10-03T03:54:00.325Z",
+    "opponent": "maplestreetcafe",
+    "suggestion": "Mirror their Rillaboom + Basculegion 'chip-then-Last-Respects' engine: swap Mega Dragonite's Heat Wave for Extreme Speed as a +2 priority finisher, and consider Milotic's Protect -> Haze is NOT needed; instead keep Protect but shift Whimsicott's Encore usage earlier against Aurora Veil setters.",
+    "reason": "Their win condition was that every one of our chipped attackers got one more free turn while their Rillaboom/Basculegion closed. Last Respects scaled with our faints — we had no way to finish a 15% Rillaboom or a 44% Basculegion before it acted. Extreme Speed solves exactly that and overlaps with nothing since Charizard-Y already owns sun Heat Wave."
+  },
+  {
+    "timestamp": "2026-10-03T03:49:49.726Z",
+    "opponent": "Gellapo",
+    "suggestion": "Gellapo's bulky Milotic (Recover + Protect) stalled two of our actions on 202 HP; mirror that durability tax by keeping Recover-Protect Milotic but shifting Mega Dragonite's Heat Wave (fully redundant with Charizard-Y sun Heat Wave) to Extreme Speed, giving us a +2 priority finisher that closes Protect-cycling bulky walls and 1-HP Sash setters the turn they drop.",
+    "reason": "Our only wasted action this game was a single-target KO attempt into a predictable Protect; priority damage ignores the Protect-timing game entirely and is the one tool this team still lacks (confirmed across the grynpup, Suttirak, Lawliet0 and appledragon3 reviews)."
+  },
+  {
+    "timestamp": "2026-10-03T03:46:38.702Z",
+    "opponent": "Lawliet0",
+    "suggestion": "Their win condition was a single 4x-coverage special move (Volcarona Overheat) deleting our Steel/Dark and Grass bodies regardless of their bulk. Mirror this: swap Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed as a +2 priority finisher, and prefer Garchomp's Rock Slide as the dedicated Volcarona/Pyroar answer — Rock Slide 4x's Volcarona and ignores its Quiver Dance speed.",
+    "reason": "Volcarona at 31% and 25% HP got three free Overheats across the game because we had zero priority and zero faster answer; Extreme Speed or a Scarf Rock Slide removes it on any of those turns."
+  },
+  {
+    "timestamp": "2026-10-03T03:42:49.185Z",
+    "opponent": "Suttirak",
+    "suggestion": "Their Whimsicott + Focus Sash guaranteed a Tailwind turn even at 1 HP — the same pattern that keeps burning us. Mirror the lesson by swapping Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed: a +2 priority single-target finisher closes 1-HP Sash setters, chipped Megas (Pyroar at 8%) and boosted sweepers before they act, and it ignores Tailwind/Trick Room entirely.",
+    "reason": "Across the last six games the deciding pattern has been a foe surviving at 1-20% and getting one more action (Whimsicott Tailwind, Pyroar Heat Wave, Golisopod Leech Life, Volcarona Fiery Dance). Our team has zero priority outside Kingambit's Sucker Punch, which fails against status/Protect and Psychic Terrain."
+  },
+  {
+    "timestamp": "2026-10-03T03:40:16.509Z",
+    "opponent": "appledragon3",
+    "suggestion": "Copy their redirection shell in spirit: Indeedee Follow Me + Sinistcha Rage Powder bought two full turns of action denial. Our structural counter is spread damage, so keep Heat Wave on Charizard-Y, but swap Mega Dragonite's Heat Wave (redundant) for Extreme Speed as a +2 priority single-target finisher that converts chipped foes without caring about speed; and consider Garchomp's Rock Slide staying over Stomping Tantrum since spread moves ignore Follow Me/Rage Powder entirely.",
+    "reason": "Both turns where our single-target calc was invalid this game were caused by redirection; our only clean answers were spread moves (Heat Wave KO'd Sinistcha through Rage Powder) and priority. Extreme Speed also closes the recurring pattern of chipped sweepers (Salamence at 16%, Volcarona at 14%, Espathra at 1%) surviving to take a piece."
+  },
+  {
+    "timestamp": "2026-10-03T03:36:33.187Z",
+    "opponent": "grynpup",
+    "suggestion": "Swap Mega Dragonite's Heat Wave for Extreme Speed, and consider Milotic's Scald -> Haze is NOT needed; instead give Whimsicott Light Screen over Moonblast is rejected — keep Moonblast. The single highest-value change remains Extreme Speed on Dragonite as a +2 priority finisher.",
+    "reason": "grynpup's engine was 'boost behind a bulky body, then drain-heal through our chip' (Swords Dance Mega Golisopod + Leech Life). Our team has zero way to finish a boosted foe before it moves once Tailwind is gone; Extreme Speed on Dragonite converts chipped boosted sweepers (Golisopod at 31%, Basculegion at 44%) regardless of their speed, and overlaps with nothing else since Charizard-Y already provides sun Heat Wave."
+  },
+  {
+    "timestamp": "2026-10-03T03:32:42.346Z",
+    "opponent": "Buglife-cn",
+    "suggestion": "Copy their 'chip-and-stall residual' engine: Glimmora's Mortal Spin poisoned both of our supports and then Spiky Shield cycled while residual did the work. Our structural answer is twofold — (1) actually use Milotic's Recover (it already has it, we simply never click it), and (2) swap Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed, a +2 priority single-target finisher that ignores Protect-timing games by letting us convert chipped foes on the turn they drop rather than losing a turn to Spiky Shield.",
+    "reason": "Glimmora alone ate four of our actions (T6-T10) through Protect cycling and residual; priority damage and proactive healing are the two tools we lack to break that pattern, and Heat Wave on Dragonite has never been the deciding move in any logged game."
+  },
+  {
+    "timestamp": "2026-10-03T03:29:53.919Z",
+    "opponent": "tellur2525",
+    "suggestion": "Copy their Volcarona 'Quiver Dance behind a Rage Powder/Trick Room body' pattern in spirit: a single free boosting turn nearly won them the game from a 2-0 deficit. Our structural answer remains swapping Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed — a +2 priority finisher converts exactly the 14-21% boosted sweepers that currently get a free extra turn to KO one of our pieces.",
+    "reason": "Volcarona survived at 28% then 14% and still got two attacking turns; Extreme Speed would have removed it on either turn regardless of its +1 Speed, and overlaps with nothing else on our team."
+  },
+  {
+    "timestamp": "2026-10-03T03:26:54.769Z",
+    "opponent": "DougTheCat",
+    "suggestion": "Copy their Whimsicott 'Tailwind + Light Screen' support shell in spirit: their Whimsicott bought two full free turns of screens/speed while their attackers traded. On our side, swap Mega Dragonite's Heat Wave (fully redundant with Charizard-Y's sun-boosted Heat Wave) for Extreme Speed — this game Dragonite ended at 8% HP and could not convert a 25% Garchomp, and a +2 priority finisher would have closed that slot immediately regardless of Multiscale being broken.",
+    "reason": "Dragonite's Heat Wave did useful chip only because Charizard was not brought; in every game where both Megas are on the sheet it is dead weight. Extreme Speed is single-target (ignores Wide Guard), +2 priority (ignores Tailwind, Trick Room and Grassy Glide), and converts exactly the chipped 8-25% foes that have repeatedly survived to take one of our pieces."
+  },
+  {
+    "timestamp": "2026-10-03T03:24:55.386Z",
+    "opponent": "lolomanolo09",
+    "suggestion": "Swap Mega Dragonite's Heat Wave (fully redundant with Charizard-Y's sun-boosted Heat Wave) for Extreme Speed, and in preview vs Rock-coverage teams bring Garchomp + Kingambit behind Charizard instead of Milotic + Dragonite.",
+    "reason": "Their win engine was a single fast Rock-coverage Mega (Glimmora Power Gem) deleting both of our Megas on consecutive turns while Rillaboom's Fake Out erased our support action. Extreme Speed gives Dragonite a +2 finisher that converts chipped foes (Espathra at 1%, Sneasler at 10%) without needing to survive a turn, and Garchomp/Kingambit are the only members that do not fold to Power Gem."
+  },
+  {
+    "timestamp": "2026-10-03T03:21:34.212Z",
+    "opponent": "szrfsdfsdsd",
+    "suggestion": "Their win engine was 'passive escalation + Protect cycling' (Mega Blaziken Speed Boost + Detect, Inteleon Focus Energy + Protect). Our structural answer is a priority finisher that ignores Protect timing games: swap Mega Dragonite's Heat Wave (fully redundant with Charizard-Y sun Heat Wave) for Extreme Speed (+2 priority, single-target, ignores Wide Guard and Trick Room).",
+    "reason": "Every recent loss shares the pattern of our slow attackers losing actions to Protect/Detect cycling and dying before converting chipped foes; Extreme Speed converts Sash/low-HP foes (Inteleon at 33%, Golisopod at 8%) regardless of speed boosts."
+  },
+  {
+    "timestamp": "2026-10-03T03:17:52.535Z",
+    "opponent": "vvnvcv",
+    "suggestion": "Copy their 'Follow Me + Trick Room redirector' structure in spirit: their Indeedee generated two full free turns purely by soaking our single-target moves. Our structural answers are (a) spread damage that ignores redirection — keep Heat Wave on Drogon, and (b) a priority finisher. Swap Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed: +2 priority ignores Trick Room speed inversion entirely, ignores redirection targeting games less, and finishes chipped Sash/low-HP foes like Basculegion before Last Respects fires.",
+    "reason": "We lost this game to two mechanics Extreme Speed fully beats: Trick Room speed inversion (priority ignores TR) and low-HP snowball threats getting a free turn. Heat Wave on Dragonite has never been the deciding move in any logged game because Charizard-Y already provides sun-boosted spread Fire."
+  },
+  {
+    "timestamp": "2026-10-03T03:14:08.534Z",
+    "opponent": "lucasborgespinto",
+    "suggestion": "Copy their Arcanine-Hisui 'Protect + Head Smash/Flare Blitz' pressure pattern: a foe with a displayed OHKO that Protects every other turn fully blanks our slow attackers. Our structural answer is a priority finisher — swap Mega Dragonite's Heat Wave (redundant with Charizard-Y sun Heat Wave) for Extreme Speed, so a chipped Mega converts 1-HP/Sash foes through Protect-timing games and in Trick Room.",
+    "reason": "Three of the last five reviews independently flagged the same hole: our two slowest win-cons (Kingambit, Milotic) repeatedly lose actions to Protect timing and die before converting. Extreme Speed on Dragonite is single-target (ignores Wide Guard), +2 priority (ignores Grassy Glide/Sucker Punch and Trick Room), and overlaps with nothing else on the team."
+  },
+  {
+    "timestamp": "2026-10-03T03:10:25.656Z",
+    "opponent": "cxy090506",
+    "suggestion": "Their Salamence-Mega + Torkoal + Indeedee shell shows how much value a single fast Mega with Fire coverage extracts against our Steel/Dark pivot. Add Protect discipline rather than new coverage, but for the team: swap Mega Dragonite's Heat Wave for Extreme Speed (redundant with Charizard-Y sun Heat Wave) so a chipped Mega has a +2 finisher that ignores Wide Guard, Protect timing and Trick Room.",
+    "reason": "Our repeated loss pattern is slow attackers dying before converting; a priority finisher on Dragonite plus stricter Protect usage on Kingambit directly addresses the two wasted actions seen this game and in the prior four."
+  },
+  {
+    "timestamp": "2026-10-03T03:08:20.934Z",
+    "opponent": "xtero",
+    "suggestion": "Copy their 'Wide Guard + trapping chip' support shell: Toxapex blanked our Mega's entire offense for two turns with Wide Guard and Infestation while costing them nothing. Our analogue is Milotic — but Milotic has no spread-denial. Consider swapping Mega Dragonite's Heat Wave (redundant with Charizard's Heat Wave and blanked by Wide Guard) for Extreme Speed: a +2 single-target finisher that ignores Wide Guard, Protect timing, Grassy Glide and Trick Room, and converts our chipped Mega into KOs on Sash/1-HP foes.",
+    "reason": "Our two recurring wasted-action patterns are spread moves into Wide Guard and slow attackers unable to finish chipped foes; a priority single-target move on Dragonite solves both, and Heat Wave on Dragonite overlaps entirely with Charizard-Y's sun-boosted Heat Wave."
+  },
+  {
+    "timestamp": "2026-10-03T03:05:22.539Z",
+    "opponent": "zagallobr",
+    "suggestion": "Copy their 'Protect-then-Explosion' tempo trick in spirit: our equivalent is a +2 priority finisher. Swap Mega Dragonite's Heat Wave for Extreme Speed so a chipped Mega converts through Protect-timing games and finishes Sash/1-HP foes (Noivern, Pawmot) that our slow attackers kept missing.",
+    "reason": "Both of this game's wasted actions (Kowtow into Protect, Drogon dying before it could move again) are solved by a priority move that does not care about the opponent's Protect timing."
+  },
+  {
+    "timestamp": "2026-10-03T03:03:22.699Z",
+    "opponent": "pandahandsgoboom",
+    "suggestion": "Copy their 'Grimmsnarl Parting Shot pivot + scaling bulky attacker' structure: Parting Shot neutered our Mega Charizard on turn 1 (-1 Atk/-1 SpA) AND brought Pelipper in for free. For us, swap Mega Dragonite's Heat Wave for Extreme Speed (a +2 finisher that works through Reflect/Protect and in Trick Room), and consider Milotic as the mandatory 4th vs any rain sheet — Scald + Recover + Competitive is our only real Archaludon answer, far better than a Whimsicott whose Prankster is blanked by Grimmsnarl's Dark typing.",
+    "reason": "Grimmsnarl is Dark-type, so Whimsicott's Encore/Taunt are dead on arrival, and our Tailwind was answered by their own Tailwind. A bulky Water that recovers through Electro Shot chip and a priority finisher on Dragonite both directly attack the Archaludon snowball pattern."
+  },
+  {
+    "timestamp": "2026-10-03T02:59:53.426Z",
+    "opponent": "Gharou",
+    "suggestion": "Copy their 'sand chassis + two spread-damage carries' build: they won with Primarina (Hyper Voice/Dazzling Gleam/Moonblast) and Rillaboom (Grassy Glide priority + Grassy Terrain recovery) while Tyranitar just supplied chip weather. For us, bring Milotic as the default Whimsicott replacement into any sheet containing Primarina or a Dark-type (Prankster-dead) lead, and strongly consider swapping Mega Dragonite's Heat Wave for Extreme Speed so a chipped Mega has a priority answer to Grassy Glide/Aqua Jet cleaners.",
+    "reason": "Our Whimsicott had its signature move blanked by Dark immunity and its Tailwind never landed, while their spread special attacker racked 250% damage unanswered. A bulky Water with Competitive and a +2 priority finisher attack both halves of that pattern."
+  },
+  {
+    "timestamp": "2026-10-03T02:56:30.908Z",
+    "opponent": "thinuih554",
+    "suggestion": "Copy their 'Protect-first pivot wall' usage: Gholdengo Protect blanked two of our turns while Arcanine-H set up a guaranteed OHKO behind it. For us, swap Mega Dragonite's Heat Wave for Extreme Speed so a chipped Mega has a +2 action that still converts when the obvious target Protects, and consider bringing Milotic over Whimsicott into Arcanine-H/Gholdengo sheets (Scald + Recover answers Flare Blitz and Head Smash recoil).",
+    "reason": "Our recurring failure mode is a wasted Mega turn into a Protect while a Rock/Fire attacker lines up an OHKO; a priority finisher and a bulky Water pivot attack both halves of that pattern."
+  },
+  {
+    "timestamp": "2026-10-03T02:53:56.345Z",
+    "opponent": "hshddjdn",
+    "suggestion": "Copy their 'slow bulky setter + two slow heavy hitters' redundancy: they had Reuniclus set TR and still won after it died because Conkeldurr and Quaquaval both snowballed. For us, swap Mega Dragonite's Heat Wave for Extreme Speed (a +2 finisher that works in and out of Trick Room and converts chipped Megas into KOs), and consider Milotic's Recover-based longevity as the preferred Trick Room partner for Kingambit instead of Garchomp.",
+    "reason": "Our two fastest mons were dead weight once Trick Room went up and died with attacks unused; a priority finisher and a bulky TR-neutral pivot would have kept us in the game after the setter resolved."
+  },
+  {
+    "timestamp": "2026-10-03T02:51:33.723Z",
+    "opponent": "DeltaCorvus",
+    "suggestion": "Copy their 'Fake Out + spread special + faint-scaling cleaner' shape: run Mega Dragonite with Extreme Speed over Heat Wave as a +2 unblockable finisher, and consider Milotic as the default lead partner for Whimsicott against Incineroar/Primarina sheets so Drogon never eats the Fake Out turn.",
+    "reason": "Incineroar Fake Out into Primarina Hyper Voice deleted 69% of Drogon before it moved, and Basculegion's Last Respects closed three KOs through our Protects — a priority finisher plus delaying our Mega's entry attacks both failure modes directly."
+  },
+  {
+    "timestamp": "2026-10-03T02:46:35.466Z",
+    "opponent": "LLCDoubleOG",
+    "suggestion": "Give Drogon a Covert Cloak in place of its current item slot consideration is impossible (Charizardite Y is mandatory) — instead swap Mega Dragonite's Heat Wave for Extreme Speed and bring Dragonite as the primary Mega against any sheet with two Fake Out users. Alternatively, lead Kingambit (Fake Out-resistant bulk, Defiant) alongside Whimsicott and bring Drogon in on turn 3 after the Fake Out is spent.",
+    "reason": "Their whole opening was Sneasler Fake Out + Gholdengo Shadow Ball to delete our Mega before it acted — the same pattern that has killed Drogon in five straight games. We cannot run Covert Cloak on a Mega Stone holder, so the fix is either a priority finisher on Dragonite or delaying Drogon's entry past the Fake Out turn."
+  },
+  {
+    "timestamp": "2026-10-03T02:43:41.686Z",
+    "opponent": "gaxynuzz12",
+    "suggestion": "Their Heracross-Mega + Farigiraf shell shows the value of a Protect-first Mega that stalls a turn while the partner sets the field. For us, keep Protect on Drogon but swap Mega Dragonite's Heat Wave for Extreme Speed: a +2 finisher ignores Protect timing games, Wide Guard and redirection, and gives a chipped Dragonite a usable turn (five straight games where our Mega had no way to convert). Also consider Covert Cloak on Drogon to blank Fake Out/flinch on its Mega turn.",
+    "reason": "We won here because Encore removed their Protect cycling; in the losses our Megas lost their turn to Fake Out/flinch or were walled by Protect timing. A priority finisher plus a flinch-blanking item attacks both recurring failure modes directly."
+  },
+  {
+    "timestamp": "2026-10-03T02:40:45.444Z",
+    "opponent": "goatgovaa",
+    "suggestion": "Copy their 'Fake Out + immediate Tailwind' opening: Kangaskhan Fake Out flinched our lead while Whimsicott set Tailwind unopposed. For us, give Drogon a Covert Cloak (blanks Fake Out flinch, Rock Slide flinch, and Dire Claw secondaries on its Mega turn) and swap Mega Dragonite's Heat Wave for Extreme Speed so a chipped Mega can still convert a turn into damage at +2 priority instead of dying with the attack unused.",
+    "reason": "Drogon ended this game at 17% HP and died clicking an unnecessary attack; across the last five games our Megas have repeatedly either lost their turn to Fake Out/flinch or had no safe way to deal damage while chipped. Covert Cloak and a priority finisher address both failure modes directly."
+  },
+  {
+    "timestamp": "2026-10-03T02:37:23.757Z",
+    "opponent": "unsupervised702",
+    "suggestion": "Copy their 'Helping Hand + spread Mega' shape: Farigiraf Helping Hand into Mega Salamence Hyper Voice KO'd two of our Pokemon in a single action. For us, swap Mega Dragonite's Heat Wave for Extreme Speed as a +2 unblockable finisher, and consider Safety Goggles/Covert Cloak on Kingambit so Fake Out cannot steal its turn-1 action (it was flinched on T1 and contributed only one KO).",
+    "reason": "Spread + support doubling is the highest-value action economy play in the format, and our Megas repeatedly lose turns to Fake Out/flinch; a priority finisher plus a flinch-blanking item attacks both of our recurring failure modes."
+  },
+  {
+    "timestamp": "2026-10-03T02:33:22.463Z",
+    "opponent": "nwoidn",
+    "suggestion": "Copy their 'Fake Out + priority cleaner behind Tailwind' shape: Rillaboom Fake Out denied our Mega's turn 1 and Grassy Glide closed two KOs at +1. For us, swap Mega Dragonite's Heat Wave for Extreme Speed (unblockable +2 finisher, ignores Wide Guard/redirection/paralysis) and give Drogon a Covert Cloak to blank Fake Out flinches on its Mega turn.",
+    "reason": "Fake Out or flinch cost Drogon its turn-1 action in three of the last five games, and opposing +1/+2 priority scored the final KOs in four of them; a priority finisher and a flinch-blanking item attack both recurring failure modes directly."
+  },
+  {
+    "timestamp": "2026-10-03T02:30:18.387Z",
+    "opponent": "makloy",
+    "suggestion": "Copy their 'Rock-coverage lead + priority cleaner' shape: Glimmora Power Gem + Garchomp Rock Slide deleted our Mega on turn 1, and Rillaboom Grassy Glide cleaned up two low-HP Pokemon at +1 priority. For us: swap Mega Dragonite's Heat Wave for Extreme Speed (an unblockable +2 finisher that converts chipped Pokemon into KOs and gives a crippled Dragonite a usable turn), and give Drogon a Covert Cloak to blank Fake Out/flinch (Rock Slide flinched our Dragonite on T1 and cost the game).",
+    "reason": "Across the last five games our Megas have repeatedly ended at single-digit HP with zero damage contributed, and flinch/priority was the deciding mechanic in three of them; a priority finisher and a flinch-blocking item attack both failure modes directly."
+  },
+  {
+    "timestamp": "2026-10-03T02:28:12.473Z",
+    "opponent": "antumin",
+    "suggestion": "Copy their 'status-support behind a bulky trapper' shape: Meowstic Thunder Wave + Toxapex Infestation neutralized our Mega for four turns without ever KOing it. For us, give Drogon a Covert Cloak (blanks Fake Out, Infestation's trap chip stays but secondary flinch/Thunder-Wave-via-contact pressure drops) or, better, swap Mega Dragonite's Heat Wave for Extreme Speed so a paralyzed or chipped Mega still converts turns into damage at +2 priority.",
+    "reason": "Drogon lost T2, T3 and T6 to paralysis/Protect and died contributing 97%; a priority move and a status-blanking item directly answer the repeated 'our Mega has no usable turns' failure mode seen in the last five games."
+  },
+  {
+    "timestamp": "2026-10-03T02:24:08.069Z",
+    "opponent": "6leen",
+    "suggestion": "Copy their 'Wide Guard pivot + unkillable Mega wall' shape: Gallade's Wide Guard blanked two of our Charizard turns while Mega Aggron set Iron Defense behind it. For us, swap Mega Dragonite's Heat Wave (spread, Wide-Guardable) for Extreme Speed — an unblockable single-target priority finisher that ignores Wide Guard, redirection and paralysis speed loss.",
+    "reason": "Across the last five games our spread moves were blocked three times (Wide Guard x2, Protect) and Dragonite/Drogon repeatedly had no way to convert a last turn into damage; a priority single-target move fixes both failure modes at once."
+  },
+  {
+    "timestamp": "2026-10-03T02:20:31.590Z",
+    "opponent": "mrporksin",
+    "suggestion": "Copy their 'fast Rock lead + Ground partner' squeeze: Aerodactyl (Rock Slide + Taunt) alongside Excadrill (High Horsepower/Iron Head) attacked both of our Megas' weaknesses simultaneously. For us: make Milotic the mandatory fourth versus any Rock+Ground front (it answers Excadrill with Scald and Aerodactyl with Scald/Ice Beam), and swap Mega Dragonite's Heat Wave for Extreme Speed so a chipped/burned Dragonite still converts its last turns into damage instead of Protecting.",
+    "reason": "Our Kingambit died contributing 0% and our Dragonite spent 2 of its 5 turns Protecting at single-digit HP; both failures come from having no Ground-resistant fourth and no priority finisher."
+  },
+  {
+    "timestamp": "2026-10-03T02:17:32.979Z",
+    "opponent": "Muito Prazer",
+    "suggestion": "Copy their 'fast Rock lead + mirror Mega Charizard behind a Tailwind setter' shape: Aerodactyl threatened our Mega into permanent Protect while their own Whimsicott matched our speed control. For us: give Drogon a Covert Cloak or Focus Sash is not enough — instead swap Mega Dragonite's Heat Wave for Extreme Speed (unblockable finisher) and make Milotic the mandatory fourth versus any Rock-coverage lead, so losing Drogon does not end the game.",
+    "reason": "Our entire game plan collapsed the moment Aerodactyl's Rock Slide connected on turn 2; we had no priority, no Rock-resist pivot on the field, and our remaining three Pokemon dealt only 188% total damage across five turns."
+  },
+  {
+    "timestamp": "2026-10-03T02:14:30.570Z",
+    "opponent": "widerule",
+    "suggestion": "Copy their 'status-first Mega' shape: Raichu-Mega-Y led with Fake Out then Zap Cannon paralysis behind a Rage Powder redirector, effectively removing two of our Pokemon's turns without KOing anything. For us: give Mega Dragonite Extreme Speed over Heat Wave (unblockable finisher that ignores paralysis speed loss and redirection) and consider Covert Cloak on Drogon to blank Fake Out entirely.",
+    "reason": "Our Mega Dragonite lost turn 1 to Fake Out, turn 2 to Zap Cannon paralysis, and turn 5 to full paralysis — three dead turns from a single opposing Pokemon. A priority move and a Fake Out immunity item directly answer that pattern."
+  },
+  {
+    "timestamp": "2026-10-03T02:10:03.686Z",
+    "opponent": "fhbds",
+    "suggestion": "Copy their 'pivot + weather reset' shape: Rillaboom U-turn brought Raichu-Mega-Y in for free on the exact turn their Politoed died, converting a losing board into a sweep. For us: swap Dragonite's Heat Wave for Extreme Speed (unblockable finisher that does not need Drogon alive) and give Drogon Covert Cloak so Rillaboom/Incineroar Fake Out cannot blank our Mega's first turn.",
+    "reason": "Both of Drogon's lost turns this game came from priority denial (Fake Out flinch T1, then a rain-boosted Weather Ball), and our endgame lost because Raichu-Mega-Y was faster than everything we had left with zero Tailwind up."
+  },
+  {
+    "timestamp": "2026-10-03T02:04:52.713Z",
+    "opponent": "nishi44 (JJ1NE)",
+    "suggestion": "Copy their 'double weather + Mega bruiser' shape: Pelipper Drizzle into Mega Swampert Wave Crash (Swift Swim-adjacent pressure) plus Alolan Ninetales to re-set weather after we flip to sun. For us: give Drogon a Covert Cloak or consider Milotic as the default fourth vs rain, and strongly consider swapping Dragonite's Heat Wave for Extreme Speed so we own an unblockable finisher that does not require Drogon to survive the turn-1 Water hit.",
+    "reason": "Their Mega Swampert put Charizard-Y to 8% on turn 1 through an un-Protected Mega evolution, and their Ninetales immediately overwrote our sun — our whole game plan hinges on a Mega that dies to one Water move, so we need either a Protect-first discipline rule (now coded) or a priority finisher that works without the Mega."
+  },
+  {
+    "timestamp": "2026-10-03T02:02:58.385Z",
+    "opponent": "dani_browse",
+    "suggestion": "Copy their 'self-boosting physical sweeper behind a redirector' shape: Quaquaval (Aqua Step speed snowball) + Indeedee-F (Follow Me) won them the game with zero speed control. For us: replace Garchomp's Rock Slide slot thinking with Dragonite running Extreme Speed over Heat Wave so we have an unblockable finisher on boosted sweepers, and consider Covert Cloak on Whimsicott so it survives chip to Encore the boosting slot on turn 2.",
+    "reason": "We had no way to answer a +2 speed Quaquaval once it got going — every answer we had was slower, and Whimsicott's Encore (the actual counter to a boosting attacker) was never used because Whimsicott was in the back."
+  },
+  {
+    "timestamp": "2026-10-03T01:58:39.387Z",
+    "opponent": "regmc_aipilot_13",
+    "suggestion": "Copy their 'Rock/Ground coverage on a Mega Dragon' shape: Garchomp-Mega-Z with Power Gem single-handedly deleted our Mega Charizard turn 2 and later Draco Meteor'd our Garchomp. For us: give Drogon Covert Cloak or simply stop leading it into Rock users, and swap Dragonite's Heat Wave for Extreme Speed so we own an unblockable finisher that does not require Drogon to survive; also consider Milotic as the default fourth vs Ground cores.",
+    "reason": "Every point of damage we lost this game came from coverage moves hitting a 4x weakness (Power Gem x2) and from Ground spam on Kingambit; we have no priority finisher and no Rock-resistant pivot to absorb those hits."
+  },
+  {
+    "timestamp": "2026-10-03T01:57:27.655Z",
+    "opponent": "sigm4",
+    "suggestion": "Copy their 'Fake Out redundancy' shape: they ran TWO Fake Out users (Scrafty and Rillaboom) and used them to delete a 1-HP Mega and flinch our last Pokemon on the winning turn. For us: swap Dragonite's Heat Wave for Extreme Speed (unblockable priority finisher) and consider Covert Cloak on Drogon so Fake Out cannot flinch/finish our Mega.",
+    "reason": "Both of our key losses this game came from priority: Rillaboom Fake Out KO'd Drogon at 1 HP, and Rillaboom Fake Out flinched Garchomp on the final turn so Sylveon could Moonblast it. We have zero unblockable priority of our own."
+  },
+  {
+    "timestamp": "2026-10-03T01:52:50.609Z",
+    "opponent": "aC-Carrot",
+    "suggestion": "Copy their 'Protect-cycling second slot' discipline: their Garchomp Protected twice to burn our actions while Blaziken boosted. For us, add Protect usage discipline on Garchomp-equivalent slots and consider swapping Whimsicott's Focus Sash to Covert Cloak (immune to Fake Out flinch/secondary chip) so our speed-control piece survives to set a second Tailwind.",
+    "reason": "They won two full turns of tempo with a single Protect-cycling Pokemon while their Mega boosted; our Sash Whimsicott, by contrast, dies to incidental spread chip before its Sash is ever relevant."
+  },
+  {
+    "timestamp": "2026-10-03T01:48:42.201Z",
+    "opponent": "Guest 22352254",
+    "suggestion": "Copy their 'trap + clock + powder' shape: Mega Gengar denied all switching while Perish Song and Sleep Powder removed our two best pieces without a single KO being earned. For us, add Safety Goggles to Milotic (or swap Whimsicott's Focus Sash to Covert Cloak) and consider Dragonite's Heat Wave slot becoming Extreme Speed so we have an unblockable finisher on trapped boards.",
+    "reason": "We lost 4 Pokemon and only 2 of their mons died to actual damage — the rest of our losses came from status and a perish clock we could not escape, which items (Goggles/Cloak) and priority directly answer."
+  },
+  {
+    "timestamp": "2026-10-03T01:44:52.369Z",
+    "opponent": "TommyR32",
+    "suggestion": "Copy their 'weather setter + priority breaker' pairing: Baxcalibur's Ice Shard punished every frail support mon regardless of speed, and Pelipper re-set rain instantly after Zard's Drought. For us: give Whimsicott more effective HP (its Focus Sash is dead weight vs chip/priority once it has taken any damage) — switch Whimsicott to Covert Cloak or keep Sash but lead it only when a Fake Out/priority user is NOT present; and strongly consider Dragonite's Heat Wave slot becoming Extreme Speed so we own a priority answer to chipped sweepers like Baxcalibur and Volcarona.",
+    "reason": "Both of our leads died to a combination of priority and weather-boosted Water damage while our team has zero priority outside blockable Sucker Punch; the opponent won every speed war they needed without any Tailwind."
+  },
+  {
+    "timestamp": "2026-10-03T01:41:37.333Z",
+    "opponent": "HIRLEGAN",
+    "suggestion": "Copy their 'redirect + Fighting breaker + Flying-type weather pivot' shape: Indeedee's Follow Me bought Sneasler a free turn, and Pelipper (Ground-immune, Hurricane/Tailwind) hard-walled our Choice-locked Garchomp. For us: run Milotic as the default fourth vs psyterrain/Fighting cores (survives Close Combat, Scald burns Sneasler, Ice Beam hits Rillaboom/Salamence) and swap Garchomp to Sitrus Berry so it can click Dragon Claw/Rock Slide into Flying pivots instead of being locked into an immune Ground move.",
+    "reason": "Every loss in this set ended with our Dark/Ground core unable to touch the surviving foe: Kingambit died to Close Combat before acting, and Garchomp spent two final turns clicking Stomping Tantrum into a Ground-immune Pelipper and a Protect-cycling Mega Metagross."
+  },
+  {
+    "timestamp": "2026-10-03T01:38:18.226Z",
+    "opponent": "16zac",
+    "suggestion": "Copy their 'Protect-cycling chip engine': Gholdengo Protected turn 2, Arcanine Protected turn 3, and their spread Make It Rain did 100% of their damage without ever winning a speed war. For us: give Kingambit a Safety Goggles/Clear Amulet-style chip-resistance slot or, better, run Milotic as Garchomp's partner vs Gholdengo cores — Milotic takes Make It Rain for ~25%, Recovers, and Scald burns Arcanine-H.",
+    "reason": "Our only loss condition in this game was spread chip damage from a Steel special attacker that we could not pressure; Kingambit at 207 HP was reduced to 12% purely by two Make It Rains."
+  },
+  {
+    "timestamp": "2026-10-03T01:35:23.474Z",
+    "opponent": "300376L",
+    "suggestion": "Copy their 'cheap turn-1 Tailwind from the support slot + two independent physical Mega/boosting threats' shape: Volcarona clicked Tailwind turn 1 (not an attack) and then boosted freely with Fiery Dance while Maushold forced both our leads to die. For us: run Milotic as the default partner to Charizard-Y in frail-lead matchups, and strongly consider replacing Whimsicott's Moonblast with Helping Hand or keeping Encore primed — Whimsicott's job is Tailwind/Encore, not 30% chip.",
+    "reason": "Their support mon spent turn 1 on speed control and still won the speed war; our support mon spent turn 1 on a 30% chip, got no Tailwind up all game, and both of our leads died to one move."
+  },
+  {
+    "timestamp": "2026-10-03T01:31:53.346Z",
+    "opponent": "khoikhoiisminisun",
+    "suggestion": "Copy their 'terrain setter + fast Fighting breaker' pairing: Indeedee's Psychic Terrain blanked our only priority while Sneasler's Close Combat deleted our Dark-type lead before it moved. For us that means Garchomp should be the designated psyterrain lead (EQ hits grounded Indeedee/Meowstic AND Sneasler), and Dragonite should trade Heat Wave for Extreme Speed so we keep a priority option that Psychic Terrain does NOT blank on Flying-type users... (Extreme Speed is still blocked for grounded targets, so alternatively run Milotic as the psyterrain fourth).",
+    "reason": "Our entire Psychic Terrain game plan is built on Kingambit, and Kingambit keeps dying to Close Combat before it acts; the opponent won by making our 'immunity' piece irrelevant."
+  },
+  {
+    "timestamp": "2026-10-03T01:29:08.304Z",
+    "opponent": "booknerd07",
+    "suggestion": "Copy their 'double speed control + setup Mega' shape: Aerodactyl clicked Tailwind twice (and Protected to preserve it) while Mega Charizard-X Dragon Danced behind it. For us, that means Whimsicott must be a disruption lead (Encore first, Tailwind second) rather than an autopilot Tailwind bot, and Dragonite should trade Heat Wave for Extreme Speed so a chipped +1 sweeper (Charizard-X at 14%) can be deleted through priority instead of whiffing Sucker Punch.",
+    "reason": "Their win came entirely from one unpunished Dragon Dance plus repeated Protect/Detect turns; we had exactly zero tools that punish Protect-cycling (no priority outside blockable Sucker Punch, and Encore never used)."
+  },
+  {
+    "timestamp": "2026-10-03T01:25:23.766Z",
+    "opponent": "JoieScon",
+    "suggestion": "Copy their 'priority insurance behind a setup Mega' shape: Mamoswine's Ice Shard cleaned up three of our Pokemon that were all faster than it. For us, swap Dragonite's Heat Wave for Extreme Speed (STAB +2 priority, hits every chipped sweeper) and strongly consider Milotic over Garchomp in rain/Ice matchups — Competitive + Scald + Recover walls Blastoise and Palafin far better than a 4x-Ice-weak Scarf attacker.",
+    "reason": "Every recent loss ended with a chipped foe at <=30% HP that out-prioritized or outsped our whole remaining team; we own exactly one priority move and it is Dark-typed and blockable."
+  },
+  {
+    "timestamp": "2026-10-03T01:20:29.646Z",
+    "opponent": "final annihilation",
+    "suggestion": "Copy their 'free setup turn' engine: Fake Out + Shell Smash Mega Blastoise converted one unpunished turn into four KOs. For us, lead Whimsicott (Encore) in any matchup with a Shell Smash/boost shell, and seriously consider swapping Dragonite's Heat Wave for Extreme Speed — a +2 priority move is the only tool that punishes a chipped, boosted sweeper that outspeeds our whole team.",
+    "reason": "Every one of our last four losses featured a boosted or priority-protected foe we could not touch after it got ahead in speed; we have zero moves in the +1/+2 bracket outside Kingambit's Sucker Punch, which is blocked by Psychic Terrain and Armor Tail in half the meta."
+  }
+]

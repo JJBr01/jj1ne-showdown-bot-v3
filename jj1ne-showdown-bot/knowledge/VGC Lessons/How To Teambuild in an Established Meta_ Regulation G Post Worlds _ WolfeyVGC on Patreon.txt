@@ -1,0 +1,223 @@
+[00:00:01:08 - 00:00:09:32]
+Speaker 1
+ Real YouTube is talk about how to build in a post world metagame that's been very established already.
+
+[00:00:10:48 - 00:00:51:16]
+Speaker 1
+ Okay, hello, second video of the day, unless you're watching this on different days, in which case first video of the day, maybe, I don't know, I don't know what you do. Anyway, today we are talking about something that I think is actually really interesting and also really, really challenging. You all did not pick an easy topic for me this week at all, which is okay. So, the topic for this week's video, as submitted by and voted for with, I don't know, submitted by the patrons and voted for by a wider set of patrons, is how to build in an established meta. Parentheses, Regulation G, post worlds. This is a very hard topic and there's not really one right answer, but I've got some perspective for you all that I hope will be useful.
+
+[00:00:52:16 - 00:01:58:21]
+Speaker 1
+ Yeah, and I think that there are some things that we can talk about that will hopefully give you some direction. So I guess let's talk about some terminology. First, what do I mean when I say an established metagame? Typically the life cycle that metagames follow tends to be somewhat standardized. A new ruleset will be announced and at first there's a lot of experimentation. People will be trying out different Pokemon and the teams that tend to rise to the top at the beginning of a format tend to be teams that really optimize around offense. So basically at the beginning of a format, offensive teams are at their strongest because people's defensive counterplay has not been fully built out yet. So they're not really as well prepared, especially for threats that are not as easily established. So we see this often. If you remember the first region of Regulation H, it was a rain team, which people knew to expect, but it was a rain team with offensive mouse hold, choice ban, basket legion. Or maybe it was actually Mystic Water. Maybe it was life orb, like offensive, Swift and basket legion, or caledon, a bunch of big offensive threats that tended to perform well. That team was more balance-y, but it definitely had some offensive aspects. And in the first tournament of Regulation G,
+
+[00:01:59:22 - 00:02:44:16]
+Speaker 1
+ it's this window, it was the Mariahon team that actually took home the title. And the second place team was a choice-pex Torapagos team as well. And so in the early format, teams tend to do well. They tend to be a little bit less optimized, which makes sense. People have had less time with them, but teams that do well tend to be built around offense. We have, just looking at the top eight of this one, two, like an offensive Mariahon team in first and an offensive Mariahon team in eighth. Then we have a choice-pex Torapagos team both in second and in fifth being used. I think this is choice-pex, right? Yep, choice-pex Torapagos here in favor of a more defensive, like calm mindset, which was more popular later. Then we have some balance-y stuff with some strong offensive components. Like this team actually has a lot of offense between the booster energy raging bolt, the calorific ice, the scarf, Urjifu, the Pelipper.
+
+[00:02:45:43 - 00:02:45:45]
+Speaker 1
+ And
+
+[00:02:46:45 - 00:04:01:37]
+Speaker 1
+ I think this team also had some interesting aspects to it, but yeah, like, yeah, offense, kind of like offensive-y based. These are more balance-y teams, but yeah, it's a lot of offensive teams. And then we have sneaking in here and assault this Kyogre team, which although not explicitly offensive definitely has some strong offensive elements. This team basically took advantage of the fact that it was really difficult to break Kyogre and compare it with priority blocking offensive Pokemon with Serena and protect shattering offensive Pokemon, Urjifu, and then Jugulist for Hurricane and Spex Fluttermain. So there's a lot of offensive teams doing well at the beginning. And I would even classify this team, although Dzomizetta is definitely more defensive. There's still a lot of offense on this team. Choice-bend Rillaboom, Chenpow is obviously a very offensive Pokemon, and this Latios can hit quite hard as well with more like Pelipper and Moltres for some, I don't know if support is the right word, but a little more defense on the team. Yeah, so at the beginning of the format, teams are unoptimized. And because of that, you can kind of get away with more creativity in your team building because you can think about building a team as if you want your team to do well, there are certain bars you need to clear. And those bars only get higher and higher the longer a format is out for. So for example, let's say you're like, okay, I want to make sure I beat Mirai'don. At the beginning of a format, the bar that you needed to clear to beat Mirai'don was this team. It was, you know, Fergraf, Bloodmooner, Saluna,
+
+[00:04:02:52 - 00:04:13:25]
+Speaker 1
+ Ograpunt Cornerstone, Mirai'don, Wimsicott, and then like the last couple of slots could change like Incineroar or Ditto or yes, something else like we have Ditto here. Incineroar or, oh yeah, Ograpunt was used in place of Ditto actually, sorry.
+
+[00:04:15:07 - 00:04:18:58]
+Speaker 1
+ Torapagos, the Calm Mind teams, I'll see if I can find one, but they weren't nearly as optimized.
+
+[00:04:20:39 - 00:04:31:00]
+Speaker 1
+ Did I say Torapagos? I did, right? Yeah, like this, I think this is also probably Specs, so I had to guess this is like Power Herbs. So yeah, like the Torapagos teams, I guess that you mostly need to worry about were choice Specs it seems, or if they had Calm Mind,
+
+[00:04:32:05 - 00:04:50:03]
+Speaker 1
+ if they had Calm Mind, they were more like this, which is not the way that it ended up. Like you do have Incineroar and Amoongus and Tornadus, but like, actually Tornadus kind of would go away eventually, Raging Bolt wouldn't normally be here, and even Urshifu would occasionally be dropped on these teams for Pokemon like Rillaboom as an example, occasionally Ograpunt as well. So the bar was a lot lower in terms of like the
+
+[00:04:51:44 - 00:05:27:28]
+Speaker 1
+ archetypes. People hadn't figured out as optimized archetypes. Zomizenta is a great example where this team was like, I would say not very optimized. The kind of more futuristic version of Zomizenta would drop all these Pokemon except for Chenpao and Rillaboom who would run an Asalfa set, which changes how it plays dramatically. So the beginning of a format, the bar you have to clear is lower, so there's a lot more room for experimentation. But the longer the format goes on, the more optimized the teams get. So here in Los Angeles, this was the next American regional. We see Calyrex Shadow taking home the whole thing with a set using Terrafairy, Nasty Plot Draningus. This was a new set for the time, and it was fully built around Calyrex Shadow. Actually yeah,
+
+[00:05:28:31 - 00:05:47:30]
+Speaker 1
+ yeah. A new archetypes will pop up. For example, Zation didn't really stick, but we had a Zation popping up. This was the tournament where Coridon did its best with two placements in the top eight. Coridon would not really do very well from this point onward, but you can see that Calyfairy has become a more popular Pokemon to pair with Calyrex Shadow, and Terrafairy has picked up a lot in usage, this one running Calm Mind. So
+
+[00:05:49:13 - 00:06:13:10]
+Speaker 1
+ yeah, basically the more the format develops, the more optimized the teams become, and the more composition gets introduced into the meta game. So in Stockholm, for example, we see Zomizenta taking home the whole thing. This is right after Indianapolis. I think if we were to order this, it would be Indianapolis, then Stockholm, then Los Angeles, if I'm not much mistaken. But yeah, here we see kind of more of the same, because since I think these two events were very close together, here's another choice, but Strapago is very similar to the team that got second in
+
+[00:06:14:23 - 00:07:09:51]
+Speaker 1
+ Indianapolis. But the teams are getting a little more optimized. People are experimenting a little bit more. This team has Goldengo as an example as a tech option. This is Dark Urgevoo rather than the more popular Water One. And actually here, we see Miraadon teams starting to get a little bit closer to where they will eventually end up, the team that will eventually win Worlds. This team has four of the six Pokemon that won the World Championships compared to this team, which has three. This team is missing Iron Hands. This team is hitting Overupon Fire, and this team is, who am I forgetting, Urgevoo? So we went from three... Actually, I think the Miraadon teams are a great example because it won Worlds eventually. So yeah, Miraadon here basically goes from three of the Worlds winning Pokemon to here in Stockholm. It goes all the way up to the team gets fourth, and it has four of the Worlds winning Pokemon. These teams are getting more and more optimized. Let's see what the... Was it Choice Bandons as well? Okay, yeah, this is I think almost an exact copy of the team that top eighted. So
+
+[00:07:12:04 - 00:07:47:59]
+Speaker 1
+ yes. So the teams are becoming more and more optimized. People are experimenting. New Pokemon are entering the meta. Here's a Regidrego in top eight. We have Zation... Oh, I opened the wrong one. No, I'm the right one. Where's Zation? Oh, right. That was in LA. Zation's popping up. Karadin's popping up more. We go to Bologna. We see another version of Calyric Shadow, but this one running the Citrus Berry, actually, Terra Fairy, and starts introducing some new Pokemon like Covert Cloak, Chiu. Focus Ash Miencho. That's a new one. We see Screamtail actually get a top eight appearance with Encore, Disabled, Dazzling, Gleeman, Protect. This is now closer to the final version of Terrapagos as an example. And we... Let's see here.
+
+[00:07:49:23 - 00:07:58:27]
+Speaker 1
+ What else do I have to say? We actually see this Calyric's team ends up with four out of the six Pokemon that will end up being the four out of the five kind of core that ends up sticking as the
+
+[00:07:59:32 - 00:08:07:09]
+Speaker 1
+ format develops. Let's see here. Yeah, another version of the Screamtail team. I assume these two work together. That's very similar to how the teams will eventually end up.
+
+[00:08:08:19 - 00:08:37:07]
+Speaker 1
+ And then... Let's see. Is this actually... Yeah, another. It looks like an identical. Oh, but this one is raging vault. Not that it really matters. Anyway, as we move further and further into the format, the teams become more and more developed. By the time we hit NAIC, which was the last major event before Worlds, the teams are closer. This team that gets fourth actually has five of the six Pokemon that will eventually win Worlds. It's got Dark issues instead of Water issues. And instead of Ogroupon Hearthplum, it has Choice Garth, G.U. But it's Electric Miraide, and it's not a fairy. That's another important thing.
+
+[00:08:38:12 - 00:09:09:12]
+Speaker 1
+ But yeah, these teams are getting more and more optimized. This team has five of the six Pokemon that every... This Calyric's team has five of the same six Pokemon that almost every Shadow Rider team would have going into Worlds. With the last slot being Smeargle and that rotating a little bit. This raging vault, for example, though, isn't the set that will eventually stick, which has Thunder Bolt over Calm Mind. Shadow Rider eventually starts running Terra Normal and Terra Dark instead of Terra Fairy for better advantage in the Mirror Match. I don't remember how fast this Shadow Rider was, but there are ways in which these are not as optimized. The Ice Rider teams continue to develop. This one actually wins the whole thing.
+
+[00:09:10:24 - 00:09:29:52]
+Speaker 1
+ And then it actually brings us to Worlds. I think this context is really valuable and really important to understand, because how good a team is largely depends on the context of what's around it and largely depends on what Pokemon people are using around it. So by the timing of the Worlds, people have spent... There was basically two months between NIIC and Worlds and people have spent a lot of time really optimizing their archetypes.
+
+[00:09:31:40 - 00:09:48:47]
+Speaker 1
+ And so, at least at this point, it feels like people have found a lot of really strong ways of running Miraide on. This team is the Miraide on team to beat. We knew about this going into Worlds. Arubego was the initial team builder of this team. Many players identified that this was the strongest version of Miraide on that had been figured out going into Worlds. This is the Zamasenta team at the moment.
+
+[00:09:49:52 - 00:09:59:30]
+Speaker 1
+ I think there's some room for experimentation here, but Zamasenta, Chenpao, Rillaboom, and in my opinion, Speed Booster, Flarmain, this is a very optimized core. Gets top four.
+
+[00:10:00:49 - 00:11:47:04]
+Speaker 1
+ The Ice Rider teams have a little experimentation. We'll talk about that. The Tarapagos teams tend to look pretty similar. They tend to feature Tarapagos with Calm Mind. They tend to feature both Incineroar and Rillaboom as well as Urshifu. And then the last two slots rotate a little bit. Occasionally, she's the Ograpon. Obviously, these two Pokémon work as well. Fluttermane is somewhat common here because of the ability to provide some speed support compared to like Tornadus, who they were using earlier. Here's an Ograpon as well. And the Shadowrider teams almost all run. Shadowrider, Rillaboom, Incineroar, Urshifu, Water, Raging Bolt, and the last slot rotate. So you can have Clefairy, you can have Ograpon, Hearthflame. Weezing is its own archetype, which is separate. You can have Vergiraph like I had. You can have Amoongus. But as you can see, all these teams have five of the same six Pokémon. Every single Shadowrider team in Top Cut except for the one Weezing team, five of the same six Pokémon with a rotating sixth slot. And the archetypes are really developed. The Icerider is a little bit weird, so I'll talk about that later. Torapagos, Shadowrider, Miraidon, Icerider I'm skipping for now. Kyogre is a little bit different. Kyogre is a little underexplored. Which who am I missing? Korydon, zero Korydon in Top Cut. That's brutal. Which means the last thing... Wait, Miraidon, Korydon, Kyogre, Zamazenta, Icerider, Shadowrider, Torapagos. Just all of them. So basically it seems like the archetypes that are rising to the top are Icerider and Miraidon. Those are the best. Zamazenta is also really good. Shadowrider struggles a fair bit. I would say it's like Icerider, Miraidon, Zamazenta, Torapagos, Shadowrider just based on the world's results. Not based on my personal opinions, but if you're only looking at worlds, that's how I would rank things. No Shadowrider in the top eight. Only one Torapagos in the top eight. One Zamazenta, but it makes it further in his overall scarier archetype. And I would guess there were fewer players playing it overall. There's actually, I think, more Zamazenta than Torapagos in Top Cut as well. But many of them, as you can see, use Zamazenta, Chen-Pow... Actually, these are a little different.
+
+[00:11:48:15 - 00:11:52:46]
+Speaker 1
+ There are some similar Pokemon, but yeah, these two together have most of the Pokemon on the team that got top four.
+
+[00:11:54:34 - 00:12:33:50]
+Speaker 1
+ And so all of this context, in my opinion, is important because you need to understand that in a developed metagame, the bar that you need to clear is a lot higher. So you might think, "Oh, there's less room for creativity because the bar is a lot higher." However, something that comes to the bar being higher is that the teams have become more standardized by a lot. The Mirai'don teams... I mean, any Pokemon works as an example, but if you compare the teams that we're using, Mirai'don's kind of a bad example because it wasn't really seeing a ton of play here. It was really only a couple players who believed in it. But yeah, here's one with Whimsicott, Gothitelle, Urshuvu, Pelipper, Ursulina, Bloodmoon. Here's one with Iron Bundle, Iron Valiant, Forygraf, Torren, Incin.
+
+[00:12:35:11 - 00:12:59:46]
+Speaker 1
+ Let's find the next Mirai'don team that I can. Jarvis. Yeah, that's all of them in top of day two. But yeah, here's one with Juggulist, Iron Boulder. You know what I mean? Here's another Pelipper here. Here's one with Fluttermane. This one's closer to how things ended up. Let's see here if I can find any more. Are we still at 6-3? 6-3 is good. I don't need to... Yeah. Here's Iron Bundle, Iron Juggulist, Iron Hands, Overpawn, Wellspring. As you can see here,
+
+[00:13:00:52 - 00:13:44:08]
+Speaker 1
+ the teams varied pretty significantly. But I would guess that if we look at Worlds, you have Worlds winning team. You have exact same-six Pokémon that won Worlds. Dendoza doesn't count. Dendoza's always doing its own thing. Skipping that. No more Mirai... Oh yeah, Worlds winning team again. Exact same-six Pokémon. Maybe it's a different Urshuvu. Yeah, this is Dark Urshuvu compared to Water. I don't know how I... I'm actually a little shocked when I knew that. And the further down you go, I would imagine you see a lot more of the same. Riley's team is a little bit different. Jeremy has five of the same-six Pokémon, kind of an outdated version with Chi-U over Overpawn Hearthflame and Dark Urshuvu. Riley has his own version which is unique. This is like a different take on it with Tarragost, Mirai'don. I played this. And like Ursuluna, yeah. Like at the end, Avianstin or it's all... This is all different than a lot of them. But yeah, here's another one. Exact same-six Pokémon.
+
+[00:13:45:09 - 00:16:16:32]
+Speaker 1
+ Exact same-six Pokémon again. Basically almost every Mirai'don team, the majority of them that made it into day two at least, had very similar builds. This is one, two, three, four of the same six, but various in Landorus and Goldengo. This is the outdated version with Chi-U over Overpawn, but otherwise identical. This is a similar version with Ursuluna over Whimsicott and Chi-U over whatever it's called, Overpawn. But yeah, most of these teams, this is four of the same six. Most of these teams, as you can see, have at least four of the same six Pokémon. Here's four of the same six again, the further down you go. But the teams that were at the top were all pretty optimized around this version that seems to be the strongest. Here's six of six again. Here's four of six. They all look pretty similar. Here's one, two, three, four of six. Here's one, two, three, four, five of six. Most Mira in the entire Day two of Worlds, they were all built around four of the same six Which is crazy, right? It's crazy that one archetype has that much Lina I chose Mira in part because I think it's an sur needs to be paired with in order to bring out his full potential. That's part of the reason why I chose Mira to go through. If we were to look at Pokemon like Calyrex Ice Rider, it would look different. Calyrex Ice Rider actually seems to be a lot more flexibility. Going into the tournament, I actually don't see any of the Ice Rider teams that I personally expected. This is the team that I thought was the Ice Rider team to beat going into Worlds. Sometimes the Fergraff are in a different set, but yeah, these were the six Pokemon. Antonio Sanchez's team. These are like, yeah, this is the Ice Rider team that I thought was the big one that had the target on spec, but yeah, none of the teams in the top eight featured that one, despite there being three Ice Riders. So teams become very, very, very standardized. There is some experimentation. There is some variance within them, but for the most part, the longer a format goes on, because the bar gets higher and higher, it's because the teams are getting more and more optimized. People are discovering kind of necessary partners or partners that really bring out a Pokemon to potential and the sets that really bring out a Pokemon to potential. Miraion is a great example because the set that really brings out its full potential seems to be Choice Specs' Terra Fairey with these moves. You could argue that modest nature is important to that, though I wouldn't argue with you because I'm not a Miraion expert like that. It's not only the Miraion set, but with Choice Specs, understanding that Miraion's best set is Choice Specs, you then need to understand that Fergraff is the best partner and Electric Seed in Fergraff is really important because otherwise it's too easy to get rid of. Electric Seed really helps resistance in our knockoff and a bunch of other moves and Pokemon such as Ice Rider.
+
+[00:16:17:32 - 00:16:49:19]
+Speaker 1
+ With this, then you understand, okay, if you have Fergraff, you need a Trick Room Sweep brand. It turns out that Iron Hands is the best one with the Assault Vest. People are figuring out more and more of these combinations. Whimsicott gives you advantages in the mirror. It's maybe not necessary, but it's really good. Then Ograbah Nursery would do unique things as well. I don't think every one of these Pokemon is necessary, but personally, I think that if you're not going to have Fergraff with your Miraion, you need a really smart answer to fake out. In Riley's case, that was Terra Ghost. You have to think about how you're going to bring the most value out of your Miraion and most of the time the answer is Choice Specs, which means you need a way to stop fake out.
+
+[00:16:50:38 - 00:17:03:59]
+Speaker 1
+ As these teams get more and more optimized, they crowd out their lesser versions. As we looked through Miraion, the teams that didn't have at least four of the same six Pokemon didn't make it to day two, period, with the one exception being the Dendozo team,
+
+[00:17:05:25 - 00:17:21:10]
+Speaker 1
+ which is its own unique archetype. I would put the Shadow Rider with the Weezing as an end zone category as well. For the most part, if you want to play a more normal Miraion team and you don't want to play Dendozo, you're going to be looking at something similar to the world champion team, the Arobega team built by the Japanese player initially.
+
+[00:17:22:22 - 00:17:36:44]
+Speaker 1
+ Because of that, because now these teams are more standard, yes, generally Pokemon are being crowded out of the format. Yes, generally Pokemon can't keep up as well as they could in the beginning of the format. There's less room for some
+
+[00:17:38:32 - 00:18:09:30]
+Speaker 1
+ of these weirder choices in theory. However, with the teams getting more standardized, that also means you can get a big advantage if you have a Pokemon that might not be good generally into the format, but is really good into the Pokemon that people are using. For example, this team that got second at Worlds has some really weird Pokemon. It has Choice Scarf Landerous and it has Booster Energy Iron Valiant with Spirit Break Wide Guard Encore and Coaching. My guess is that, I don't know for sure, but my guess is that against this team, the world
+
+[00:18:22:46 - 00:18:51:25]
+Speaker 1
+ champion team, there's not a lot of Pokemon that want to take ground moves from Landerous. Like Iron Hands, no. It's true or not, but I think it is a good point that Yuta probably beat. I'd have to look this up, but I'm pretty sure Yuta took out some of the Miraidon players on his way to the finals of Worlds. That's in part because maybe Landerous wouldn't have done so well at the beginning of the format here, where there's all these Ice Rider, there's not that many Miraidon.
+
+[00:18:52:29 - 00:19:19:29]
+Speaker 1
+ Even the Miraidon teams, they have some weird partners. Overpawn Rock actually isn't that bad in the Landerous with Tail and Support. Ursulune is also not that bad. You trade one for one and you can get Trickrem up. Whereas here, if you get Trickrem up, what are you hitting it with? Iron Hands? It doesn't have a Steel move, right? It has double fighting? Yeah. It's because this team has become more optimized, there's more room for something like Landerous and Iron Valiant. I would classify Entei in this category as well. I don't fully understand why Entei was on the team. However,
+
+[00:19:20:41 - 00:19:43:09]
+Speaker 1
+ Entei is not a Pokemon that's seeing a lot of success, but it must do something specific here that matches up well into the format. It must be useful against specific matchups. Maybe it's Shadow Rider with Terra Normal to punish the Astra Barrage and not be immune to Fakeout and be really rude versus a Senora Rillaboom and have Extreme Speed to get around like, like, Prior or Redirection from Clefairy, etc.
+
+[00:19:44:54 - 00:21:58:06]
+Speaker 1
+ This is another team I lost to this team where it's a hard Trickrem team with a really unique approach. It's got a Solfest Torquell, it's got Terror Dragon in Prison, no Protect. Here we didn't really see a lot of it. Galade in this format was not very popular, but it has Wide Guard. There's a lot of Pokemon that can really fill specific niches when formats become more optimized because there's just fewer Pokemon in the pool. If you think about it, a lot of times, in the main meta here, where they have a number, maybe there were like 40 or 50 Pokemon that were being used, here that number might be closer to 30, not including any of the weird niche things. The amount of Pokemon you need to prepare for going into Worlds was like, "All the Pokemon on this team, all the Pokemon on this team, this is not going to be useful." There's fewer, by there being fewer Pokemon in the metagame and by teams becoming more streamlined, there is more opportunity if you want to be creative and if you want to counter something specific. Maybe you can find something like this Landorus where it has a really good matchup against it, or it just gives your team a huge edge against a specific restricted Pokemon that's totally possible. Or alternatively, maybe you want to use something standard. I think that's actually super valid as well. If you want to use something standard, you have a really good baseline to go off of. You have these teams which have been very optimized. The Maguiredun team I mentioned, the Zomba's Engine team I mentioned, Torapagos, these two are another example. And then Shadowrider seems to be running, at least as of Worlds, had a very consistent build that it would run in terms of partners. It would always be these five, basically, on almost every Shadowrider team. And then there's also some more niche archetypes. Like maybe you're interested in Heart Trickerman, you can look at this as a starting point, or Dendozo, you can look at this as a starting point, or the Weezing Dendozo team as well, which I think will be pretty popular going forward as my guess, or at least we'll see a decent bit of play. You can look at this as well. These teams are all becoming more and more optimized as the format goes on, and so you don't have to start from scratch. In fact, if you were interested in playing something more standard, I would encourage you to look at a team that's already seen some proven success and think about where, like, if there's room for it to be optimized, but you can also just focus on learning how to use it. Like, everybody at Worlds should have been prepared for this team. I know that I was very prepared for this team, and I know my friends were as well.
+
+[00:21:59:07 - 00:22:38:13]
+Speaker 1
+ That didn't stop it from winning, because the team was really well built, and Luca knew how to play it extremely well. And because of that, it didn't matter that people had practiced against maybe their friends who were picking up your item just to give it a shot. He had dedicated game plans into most of the restricted Pokémon, I assume, and so he was playing the game in a different way and caught people off guard that way. I think there's this pressure as a player to feel like you always need to be winning with your team, but I think what Luca did just gave him the advantage with his play. His team was really good. It was really, really well built, but I mean, it was heavily inspired by another player who built it, the Japanese player, and everybody knew about it. Everybody knew that this was the mean—this was demi-ride-on team to beat going into Worlds,
+
+[00:22:39:46 - 00:22:47:51]
+Speaker 1
+ and it didn't stop it from winning. So I think there's also a lesson in that as well. I think in Regulation G, taking a team that is very optimized and very, very
+
+[00:22:48:57 - 00:22:57:03]
+Speaker 1
+ polished and learning how to play it at the highest level, you absolutely can have success. And because these teams are so optimized, if you want to
+
+[00:22:58:33 - 00:23:24:50]
+Speaker 1
+ use one of these teams, there should be games and players that you can follow and watch the replays. If you want to learn how to use this mi-ride-on team, Luca wrote a really comprehensive report. You can find it here. I read it all recently. There's multiple games you can watch of his. This report, as you can see, is very in-depth. It's a good report, and it's actually longer than it appears because in here, for example, these are all different mini sections here. Here's round three, for example.
+
+[00:23:26:26 - 00:23:31:13]
+Speaker 1
+ You can see what he lost to. You can also use this as inspiration. It's the website. I think it's Pokedata.
+
+[00:23:33:05 - 00:24:05:02]
+Speaker 1
+ I might be wrong about this, but I'm pretty—no, that's not right. Isn't it? I think I'm in the wrong one. Okay, cool. This is pokedata.ovh. Can you see my URL? You can. You can see it there. If you do this, I can go to the Pokémon World Championships, I can go to Masters, and then I can go to—that's interesting. Is it going to change? I don't like it in dark mode. How do I make it light? There we go. Cool. I can do something like click on Luca and be like, "Oh, okay. Who didn't he lose to? Takahiro Nakata? Who's this? Where has it taken me?" Here it is. Okay,
+
+[00:24:07:44 - 00:24:11:32]
+Speaker 1
+ here's the open team sheet. This is what he lost to. Ice Rider with—is
+
+[00:24:12:35 - 00:24:15:50]
+Speaker 1
+ that right? Wait, who did I click on? I got confused. What have I done?
+
+[00:24:20:22 - 00:25:13:38]
+Speaker 1
+ Yeah, so he lost to Takahiro. So, yeah, here's the team. Oh, yeah, I remember reading this in the report. Yeah, he's got this life orb flutter main with helping hand speed booster—sorry, with the speed booster energy, and then helping hand torquele with paring with this. And you can just one-shot everything because helping hand life orb moon blush just kills everything, especially with Terrafairy. It just deletes everything. So you can say, "Okay, I really want to beat the Miraion team. Maybe I'll look around this torquele flutter main combo, or maybe you are interested in the Ice Rider, Ogarpon, Frigaraf core." You can do this for any player. You can say, "Who did they beat and what did they lose to?" If you look at the second place player, for example, who went 13 and 3, you click on their name, and then you can see, "Okay, they lost to Renzo Navarro. Okay, let's see. What did Renzo have? They had his Amazenta team. Okay, like with the Scarf Chi, you can kind of look through this." So there's a lot between Victory Road and also—Victory Road is also—let's see if I can find it. They're having a tournament this weekend, aren't they? I'm pretty sure.
+
+[00:25:16:22 - 00:25:19:17]
+Speaker 1
+ Yeah, there's also online tournament—wait, team result.
+
+[00:25:20:32 - 00:25:20:47]
+Speaker 1
+ Huh?
+
+[00:25:22:08 - 00:25:27:05]
+Speaker 1
+ Huh? What? Huh? Anyway, this will eventually be updated. This is just a bug.
+
+[00:25:28:28 - 00:25:58:37]
+Speaker 1
+ But yeah, you can check Victory Road. They'll be posting results on the front page. And of course, as tournaments start happening, again, you can follow those as well. But yeah, these will hopefully have—the online tournaments are pretty big. The Victory Road hosts, and they'll have good data. You can also look through Poke data and see what people are using and what they're losing to or what they lost to at Worlds. This is a great resource. You can see this is actually that same Denozo team that beat the second place player at Worlds. Although I think this one might be a little different.
+
+[00:25:59:37 - 00:25:59:46]
+Speaker 1
+ Anyway,
+
+[00:26:01:02 - 00:26:32:49]
+Speaker 1
+ so basically, if you want to play something standard or you want to play something creative, there's room for both of that. If you're trying to play something—both really require, in my opinion, a deep understanding of what is the meta and what is essential on those teams. Because in order to beat the meta, you have to know the meta. You can't counter something you don't understand. So I think it's really useful to think about how people are running the different restricted Pokémon and where they're being standardized and whether or not. I said I would come back to Ice Rider, so I'll talk about it here. Ice Rider kind of—oh man, I'm on the wrong place. Hang on.
+
+[00:26:34:17 - 00:27:20:16]
+Speaker 1
+ Go back. Go back. There we go. Okay. Ice Rider, for example, at least at Worlds, the teams with Ice Rider were all unique takes on it. This team had Ice Rider, which is what we expected, but also at a lucky and lander-ish. So Ice Rider, the teams that did best, were teams that were all experimenting. That could have just been something specific about the players and the specific way that Worlds played out. I do think that standardized Ice Riders are still good. They're still a strong composition. But yeah, every Ice Rider team in the top eight had some kind of weird and unorthodox innovation on it. So that's an archetype that you might—if you're having trouble with it, you might just need to be fundamentally more solid against that matchup compared to relying on countering a specific version of that team. Whereas the Miraionon teams at the moment, it seems like they mostly run four of the same six, if not six of the same six.
+
+[00:27:21:52 - 00:27:44:41]
+Speaker 1
+ So yeah, just good to keep in mind. Anyway, I think that it's really useful to understand, to really look through the results, look through the data, and understand which matchups were hard for different players, who beat who. And also, yeah, just take time to really sit with and understand the different archetypes and the cores. And then, after you've done all that, then start moving towards building or taking something that exists and then learning how to use it.
+
+[00:27:46:06 - 00:28:23:04]
+Speaker 1
+ But I think that in order to understand how—you can't just glance at this team and understand you're not going to add one Pokémon that just beats this team. I think if anything, the Landorus on this team proves that. Scarf Landorus was not enough to just—and in the finals, from a great player piloting it, it still wasn't enough once he figured out how to play the team in the matchup. And so yeah, it's not necessarily enough to just look at it and be like, "Oh, this Pokémon is a good matchup." You really need to think about things deeply and think about how they're going to interact with your other Pokémon when you do Deviate. Anyway, that's kind of where my head's at when it comes to playing this format and thinking about the meta and all that good stuff. I hope this was interesting to you. I hope you feel like you learned something.
+
+[00:28:24:35 - 00:29:02:30]
+Speaker 1
+ Yeah, I think that's probably it from me for now. I think I don't want to overload you all with information. I feel like I talked a lot. So yeah, anyway, that's it for me. Hope you all enjoyed the video. I hope it gave you some interesting things to think about. I think this is a hard format, but I'm confident you all will be able to master it in time. I'm hoping the same for myself. I think it's really hard, but it's also fun and it feels very different than Regulation H, so I think it's a new set of challenges. Anyway, thanks for watching. Thank you for all the support. I'll probably take a couple weeks off from Patreon stuff though. I need to get through the last couple of Patreon DMs, so hoping to do that in the next week or so. But yeah, that's it for me. Hope you all enjoy Regulation G in the end of Regulation H. Happy New Year, and 2024 was full of fun.

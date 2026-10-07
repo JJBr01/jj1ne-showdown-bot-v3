@@ -1,0 +1,331 @@
+[00:00:00:57 - 00:00:10:28]
+Speaker 1
+ Alrighty, hello everybody. So number one Microsoft Paint is still broken, number two my microphone is in the frame. I like bumped it yesterday. Behold, I fixed it. Now it's out of the frame. So
+
+[00:00:11:33 - 00:00:24:57]
+Speaker 1
+ this month's Patreon video winning topic was talking about leads, how to know which Pokemon to lead. However, I for more that I had already covered a couple months ago, probably over a year ago actually to be honest, I had already covered
+
+[00:00:26:07 - 00:01:33:25]
+Speaker 1
+ Wolf's Guide to Team Preview, it already exists out there. And I realized basically that a lot of the stuff I wanted to say about leads was already covered in the Team Preview Guide because that's a big part of Team Preview is understanding which Pokemon to lead. And so rather than doing a video that I thought would be like a total overlap of, or not like a total overlap, but like a part, at least a pretty heavy partial overlap of something I had already covered, I instead decided to pick the number two most voted for topic here so that you all would get some new information. If people aren't happy about this, let me know and I can include like a lead guide in the voting for next month, but because I've already covered it and because it wasn't actually linked in the pinned post so people might not have realized that I had covered it before, I figured that this was a better solution and if we want to include it again in future votes then that's totally fine, but for now I wanted to talk about board states, which I think is actually a bit more interesting and pretty complex. So let's get into it. What's a board state? A board state is a term that we use to refer to a moment in a Pokemon battle, like a single instant within a Pokemon battle. Board states importantly only exist between turns, so if animations are playing and you're kind of watching things play out, I would not personally describe that as a board state, I would say that's a turn.
+
+[00:01:34:30 - 00:02:00:28]
+Speaker 1
+ Board states exist in a space where you are actually, as a player, able to make moves, not while moves are currently happening. You can think of this as kind of like a snapshot in a game, like you were to take a picture of a moment and then show your friend and be like "yeah, this is the board state right now", you can also think about this like if you're playing, you're suddenly transported into somebody else's body and you're in the middle of the game and the board state is what's currently going on in the battle in front of you. Well, it's a little bit more complicated, we'll get into that.
+
+[00:02:02:20 - 00:02:15:57]
+Speaker 1
+ They're used a lot of the time when you're doing analysis on a game because you're looking at the spaces between turns when players can actually take actions, right? And so you can do this during analysis, but you can also do it during the moment when you're actually playing, you're like "what's the board state right now?"
+
+[00:02:17:38 - 00:03:05:18]
+Speaker 1
+ Why do we care? Understanding what's actually going on in a game, both in the moment and in potential future moments, it's very, very crucial. Like this is basically, understanding board states is a lot of the—sorry, let me go ahead and say this. Understanding board states is a lot of the ways in which people think about the game. Like when people think about the game, it's oftentimes in terms of board states. It's actually almost entirely in terms of board states. And if you do the work to improve your understanding of board states when you're practicing, it'll just become easier when you're actually competing and playing in tournament to intuitively grasp what's going on. Maybe you're not always able to do the work you can do when you sit down for 20 minutes to break down a single turn, but if you do that work enough, you'll start to notice trends and you'll start to notice good moves versus bad moves, right? And you can use that to, in the moment when you only have 45 seconds, make better decisions.
+
+[00:03:06:21 - 00:03:22:44]
+Speaker 1
+ Understanding board states also improves your ability to understand future positions that you could be in based on the current position. And the better your ability to do that is, the higher likelihood it is that you'll be able to play towards favorable future states rather than just random ones or whatever ones your opponent dictates, right?
+
+[00:03:24:34 - 00:03:32:40]
+Speaker 1
+ In order to make this a little bit more approachable, I've broken this down into two types of board states that I want to talk about today, which are present board states and future board states.
+
+[00:03:32:40 - 00:03:42:21]
+Speaker 2
+ Also, I have something I wanted to say before we got any further—what was it? It was in the last slide? I didn't write this down.
+
+[00:03:43:58 - 00:03:45:01]
+Speaker 2
+ What did I want to say?
+
+[00:03:46:05 - 00:03:46:31]
+Speaker 2
+ I forgot.
+
+[00:03:47:47 - 00:03:57:10]
+Speaker 1
+ I forgot. Okay, let's talk about present board states. A present board state describes the situation that is currently taking place in the battle and the different dynamics that are present there.
+
+[00:03:59:27 - 00:04:07:22]
+Speaker 1
+ Current board states or present board states, these are the building blocks of all future board states. The future board states we're going to get into are a bit more complex. Present
+
+[00:04:10:49 - 00:05:39:48]
+Speaker 1
+ board states are really about the relationship between the Pokémon on the field. So, what's the turn order of the Pokémon naturally? Do any moves have additional priority that could change the order in which the Pokémon move? Are there any Pokémon that are in danger of getting KO'd, especially before they can move, and therefore they won't be able to make an attack? And if so, can they do anything about that? Can they protect? Can they switch? And on the other side of that, are there any Pokémon that are vulnerable that don't have any defensive counterplay that you can attack into for free? These are just some examples. It isn't an all-encompassing list, but really it's about what's going on right now on the field. I think that these are a bit simpler because you're only thinking about the current situation on the field, not necessarily the current turn, but the current situation. It's like, what should I do this turn? Because what are the options that each player has available on this turn? They can attack, they can switch, whatever. And you might think that this is really simple. Like, oh yeah, I've been playing for a while, so of course I understand the stuff intuitively. However, I know that this is not a very clear screenshot, but I couldn't get a clean one. This is a screenshot from Game 2 of Regionals round 10, two weekends ago, where I was playing against my friend Leonard. And the position is—let's describe the current board state here, okay? I have Whimsicott and Terra normal Ursuluna with 67 HP left. Leonard has Goldengo who just switched in and took a bunch of damage, so it's at plus zero with Life Orb and Metal Plate—no, no, sorry, that's dead. Ursuluna with Assault Vest took a little bit of damage here, but it's still pretty healthy. I have Incinero in the back. It's healthy enough that it won't die to a vacuum wave. I forgot exactly how much health it has.
+
+[00:05:41:25 - 00:06:10:33]
+Speaker 1
+ And Tailwind is not up. So the dynamics here are that this Ursuluna has Vacuum Wave with Assault Vest, so it could, in theory, KO my Ursuluna, but I don't know if it will exactly. I don't know the damage calc. I have Whimsicott who can set up Tailwind, but also needs to be mindful of when it sets up Tailwind because, yeah, it doesn't want to get stalled out. And Leonard is threatening a KO on both my Pokémon with both Make it Rain on both, or an attack from Ursuluna. Maybe Vacuum Wave or Hyper Voice would definitely get it, and then Blood Moon will probably KO Whimsicott as well. So these are the dynamics on this turn. And
+
+[00:06:12:21 - 00:06:50:37]
+Speaker 1
+ what I do here is I go Protect with Ursuluna and Moonblast with Whimsicott, and Leonard goes Nasty Plot and Blood Moon to KO my Whimsicott, and I lose the game because in this moment there were so many things going on, and I was thinking about the Vacuum Wave or whatever, that I forgot that I never set Tailwind. So I could have gone Protect plus Tailwind here, which would have been a pretty reasonable play. However, I forgot that Tailwind was not already up, so I went Protect and Moonblast into Gold Angle for zero damage, and in doing so, I lose my Whimsicott, lose the Speed Control, lose the game. And so this is an example of a present board state where there was so much going on and there was so much ambiguity between is Gold Angle going to set up, is it going to attack, is it going to protect? Like, am
+
+[00:06:51:53 - 00:07:09:00]
+Speaker 1
+ I in range of Vacuum Wave? Because if I am in range of Vacuum Wave, then I need to protect this turn because there's also grassy terrain recovery going on, right? And so, yeah, basically just a ton going on here. I don't even remember if Leonard still has his Terra left. He very well might. I think he probably still does, to be honest.
+
+[00:07:10:53 - 00:07:35:45]
+Speaker 1
+ So just like a ton going on here, and I just made a technical error on a present board state. So even if you've been playing for a long time, you might still make mistakes here, especially when things are complex. Like, if you think about it, Whimsicott has a speed stat that's slower than Gold Angle, but if it uses Prankster moves, then it will go first. Gold Angle is good as Gold Ability means that I can't go for Fake Tears or Encore, so that's something I need to be aware of. Ursuluna has a Saltfest, I don't know how much damage it's going to do, and if I don't use my Ursuluna to beat their Ursuluna, then I'm going to lose to it with,
+
+[00:07:37:22 - 00:07:48:07]
+Speaker 1
+ that I will lose to it with my Incineroar and Whimsicott. Like, I need my Ursuluna to deal with their Ursuluna at some point. Vacuum Wave can KO Ursuluna, but also he can read that I'm going to protect and go for Whimsicott instead with Blood Moon.
+
+[00:07:49:11 - 00:07:51:17]
+Speaker 1
+ Gold Angle can also protect this turn. For example,
+
+[00:07:53:04 - 00:08:06:36]
+Speaker 1
+ if my Ursuluna is not in range of Vacuum Wave, then my Tailwind plus Earth Power Play, which would KO Gold Angle and seems pretty reasonable, might probably accept me up for a win, would lose to it with Protect Play. But also, if I could go for Tailwind and Blood Moon, then I might lose to make it rain. So there's a lot going on here, basically,
+
+[00:08:07:49 - 00:08:17:32]
+Speaker 1
+ is what I'm trying to get at. And so future boards, sorry, present board states, even though they sound simple enough, because it's like, yeah, just what's going on in the field, you don't need to think about future turns.
+
+[00:08:18:43 - 00:08:33:17]
+Speaker 1
+ Even still, when there's a lot going on and a lot of different dynamics and a lot of different options that each player has, they can be too confusing and sometimes you won't make mistakes so it's important to pay attention. Like here, I forgot that I didn't say Tailwind up and that ultimately cost me the game and therefore the set.
+
+[00:08:35:00 - 00:09:28:16]
+Speaker 1
+ I remembered what I wanted to say. Do you all think I would be a good teacher? You've been sitting through my Power Points for a little bit now. My original plan when I quit my job to do YouTube full-time back in 2020 was I was going to give it six months and then try and go back into the working world. But if things didn't work out for me in data science, which is what my degree is in, then my backup plan was to become a high school teacher and maybe coach the track team. That's the ideal situation. I don't think that's super likely anymore, but yeah, that was my—I gave it a lot of thought in terms of what I thought I would enjoy and what I would think I would be decently good at. And I realized in making these Power Points for you all that I am kind of doing—I mean, this is educational content, right? I'm not out here using some dumb Pokémon. I'm trying to teach you. So anyway, you're my guinea pigs for my illustrious high school teaching career. Let me know. Future board states are a lot harder. They're a lot more complicated and by a meaningful margin compared to present board states.
+
+[00:09:29:28 - 00:10:18:13]
+Speaker 1
+ Future board states only exist in relation to present board states. They're the possible ways that the game can look in future terms depending on how the present turn goes. So what I mean by this is basically you have a position on the field and you're saying, "Okay, depending on which moves each player makes here, we're going to end up in different theoretical future board states and which one specifically we end up in depends on specifically how the present turn goes." So you wouldn't say, "Oh yeah, I want a future board state on turn seven when it's turned zero. The battle hasn't even started where I have this and this and this and this." It's more like, "What are the different ways that next turn can look given how this turn goes?" That's a simple way of putting it. And of course when you end up in a future board state, then it becomes a present board state where you have to make decisions. So future board states are more theoretical whereas present board states are actually grounded in the ones you have to actually deal with.
+
+[00:10:19:50 - 00:10:47:05]
+Speaker 1
+ Because there are so many potential future board states at any given time, they're really difficult to predict perfectly and they're overall just pretty complex. And so the way that we talk about future board states is we talk about the crucial pieces rather than having the exact scenario. This is a present board state and so I can tell you everything about what's going on in the field. I might not be able to tell you every piece of information. I don't know if my Ursuluna is in range of vacuum wave, but I can tell you how much health my Ursuluna has, roughly how much health the Goldango has,
+
+[00:10:48:40 - 00:11:21:51]
+Speaker 1
+ the different stat boosts, whether Tailwind is up, whether Terra is used, right? Whereas if you were to take the situation and say, "What does the next turn look like?" That's a lot harder. I could say, "Well, in a perfect world I have Tailwind up and my Ursuluna is still alive." That's what I'm aiming for here. But does my Ursuluna have 1 HP? Does it have 80 HP? That can vary. Is my whims of the alive? Is my whims of the cut dead? Right? The important thing is that I've set myself up for Tailwind. The ideal future board state I want to play to in this state is I want to get rid of the Ursuluna and I want to have my Incinero able to 1v1 the Goldango. That's what I'm trying to play towards here. And if I have Tailwind up, that makes it even easier. So
+
+[00:11:24:47 - 00:11:25:02]
+Speaker 1
+ yeah.
+
+[00:11:27:42 - 00:12:00:42]
+Speaker 1
+ I've talked a little bit about this, but let's talk about it explicitly as well. In a present board state, all the variables are known. You know exactly what's going on in the field and while you might not have perfect information, like in the example I gave where I didn't know if I was Meringe of Vacuum Wave, also you might not know who's faster between your Pokémon or how much exact HP your opponent has left. You can still describe what's going on in the battle with relative accuracy and you can describe what you don't know as well. You can say, "Okay, Ursuluna has high green HP. I think it's 85-90% right? I don't know who's faster here, but I know that we both have Ursuluna." Stuff like that. Whereas in a future board state,
+
+[00:12:02:27 - 00:12:08:48]
+Speaker 1
+ it's not only you lack information about what's going on in the field, you don't even know what is going on in the field with precision.
+
+[00:12:11:23 - 00:12:34:32]
+Speaker 1
+ Future board states are by nature volatile. You're not talking about them in terms of what is going to happen because you don't know what's going to happen on the current turn most of the time. There are situations where there's only one way that a turn can go and therefore you know with some level of confidence what the future state is, but for the most part that's not really what we're talking about here. That's a different skill. That's the ability to understand future board states.
+
+[00:12:35:34 - 00:12:49:31]
+Speaker 1
+ That's the ability to accurately visualize future board states that are fixed. To be able to say, "This is exactly what's going to happen." It's a different skill than what we're talking about here, which is ambiguous future board states where you don't know exactly what's going to happen.
+
+[00:12:51:13 - 00:13:21:30]
+Speaker 1
+ Future board states can be very loose. They can be as loose as, "I don't even know which Pokémon are going to be on the field in a future board state." At least not all of them a lot of the time. For that reason, understanding future board states it's not about getting the game into the perfect spot where you're like, "Okay, I've got Goldengo at 1 HP and Nerseloon at 30 HP and I've got my Incidentally Nerseloon." It's not about playing a lot of the time to the exact perfect conditions you need to win. Instead it's about understanding what the most valuable and crucial resources that your opponent has are and preventing your opponent from using those resources to win.
+
+[00:13:23:03 - 00:13:40:07]
+Speaker 1
+ It's more about, you can think about this as a little bit more targeted in a way. It's not about saying, "This is the exact way I want the game to look." It's about saying, "This is the crucial Pokémon. This is their win condition. How do I stop them from getting there?" Or if they're going to get there, "How do I give myself tools to make it difficult for them to win?" This is probably a little bit
+
+[00:13:42:20 - 00:13:58:12]
+Speaker 1
+ complicated so I wanted to give a bit of an example. We're going to use the regulation in each example because that's the format that most of you have been playing recently. Imagine your opponent has the relatively common core of Nasty Plot, Goldengo, let's say they have Life Orb, Incineroar, let's say it's, I don't know, Safety Goggles or Citrus Berry or whatever, and they have a Salthus Rillaboom.
+
+[00:14:00:30 - 00:14:08:37]
+Speaker 1
+ The current board state is to turn 0 and your opponent let Incineroar and Goldengo. You don't have Pokémon in this example. Just think about this in terms of whatever team you've been using, think about it.
+
+[00:14:09:42 - 00:14:11:59]
+Speaker 1
+ Assuming you don't have Psychic Terrain or Priority Blocking.
+
+[00:14:13:22 - 00:15:11:39]
+Speaker 1
+ If you think about who your opponent can go for here, they can go over a Fake Out Nasty Plot with Incin plus Goldengo. They can go Protect Goldengo and Parting Shot to bring in Rillaboom. They can go Fake Out plus Make It Rain if they want to go for damage. They can also go Fake Out plus Shadow Ball. They can go Protect plus Knock Off to get some damage down, maybe chip one of your Pokémon, maybe remove a Crucial Item. They can protect Goldengo and hard switch if you have a faster Fake Out user like your own Incineroar or your Rillaboom to get their Fake Out present on turn 2. They can Nasty Plot and switch to Rillaboom if they think you're going to go for a move that covers Fake Out Make It Rain, for example, if you're going to be passive. And there's a couple other options as well. They can Flare Blitz, they can switch Goldengo out and Parting Shot as well to maintain pressure there, right? And basically in a vacuum all of these moves are viable. I didn't pick any super niche moves for a reason. These are all moves that are available to the instant Rillagold angle player on the first turn, generally in a vacuum. And of course with so many moves and such good Pokémon on your opponent's side of the field, you're not going to be able to cover for every single one of these potential future board states. Like, what's the game going to look at with Fake Out Nasty Plot? Very different than Protect Parting Shot, very different than Fake Out Make It Rain, right?
+
+[00:15:13:23 - 00:16:23:17]
+Speaker 1
+ And because of that, we understand that we're not going to be able to cover for every option unless you're just completely destroying them. But most of the time that's not going to be the case. And by the way, I didn't even factor in Terra. It's like maybe you have Eruption, Hisui, and Typhlosion, and they led Rillaboom plus Goldengo, but they could switch an instant and tear water. All of a sudden you're not actually in that kind of a shape, right? And so you probably aren't going to be able to cover for every one of the potential future board states, even one turn down the line. But what you can do is you can identify the most threatening ones and the ones that aren't as threatening and you can prioritize accordingly. So for example, maybe what you're really worried about is a Nasty Plot turn and you have, let's say, instant on the field and a Pokémon that can do a decent chunk of damage to Goldengo. In that case, maybe you say, "You know what? I'm not that worried about Fake Out here. I'm not that worried about Predictless Parting Shot. I'm really only worried about Fake Out plus Nasty Plot." And so you go for Knock Off plus Attack with your partner into Goldengo and basically say, "I'm going to get some damage down regardless," because you understand that making it rain in that position isn't actually that big of a problem. So this is an example of how we approach future board states is we identify what's threatening from the opponent in this hypothetical scenario. It's letting the opponent get a Nasty Plot up for free. And then we make our moves basically to prevent the opponent from getting to that scary future board state.
+
+[00:16:25:28 - 00:17:37:17]
+Speaker 1
+ Things that you want to watch out for generally in future board states. I want to ground this a little bit more to give you all some more explicit tools that you can use to understand board states. Basically, I think that there's two things that you need to watch out for above all else when you are considering what future board states going to look for, look like, sorry, and that's speed and power. And specifically, this is like making sure that your opponent never gets into a position where they are faster than you and they are doing enough damage that they can carry your Pokémon. If they do get into a position where your opponent can both attack first and threaten a KO on your Pokémon, your counterplay basically has to be entirely defensive. Like if they just outspeed both your Pokémon and KO both your Pokémon, if they go for that then you won't prevent it, then you won't be able to make any moves and you'll just lose Pokémon, right? And so because of that, your only real counterplay is to play defensively and they can call that out because there's not really that much of a downside a lot of the time or because it's really obvious. And in a best case scenario, you end up in a guessing game. And in a worst case scenario, they can cover for both your current Pokémon and whatever they have in the back, or you don't have any Pokémon in the back and you just lose. So you really want to make sure that your opponent is not both attacking first and doing a ton of damage. Of course, it's worth noting that power and speed, these terms, they're relative. It's not about like, oh, you need to make sure your opponent never gets into Pokémon faster than Fluttermane out, right?
+
+[00:17:38:44 - 00:18:36:15]
+Speaker 1
+ Because it's more about letting them attack first than it is about any kind of objective measure. Like, for example, your opponent might not have any fast Pokémon, but if you have a hard Trickerm team, like think about like, indeed, he had a rainy Torquell or Saluna and Trickerm just ended and your opponent is Pokémon that are faster than like 85 speed stat, which is where indeed he will often sit on those teams. Like then you're just you're just boomed, right? Like they're they they're like, maybe you're not boomed, but they're already speeding everything, even if they don't have Tailwind or even a Pokémon very fast, right? They're already going to be moving first. And also the same thing is with power. Like maybe they're not using, you know, Torquell eruption, but if you have, you know, a one HP Zorok and your opponent has, you know, Vacuum Wave versus L eenal Blood Moon, like that's a power advantage. They can kill you. You can't do anything about it. They're going to move. They're going to attack before you can move. And they have the speed advantage because of Vacuum Wave there, too. So, yeah, like it's it's not necessarily about these things in a vacuum. It's more about understanding speed and power relative to your current Pokémon's like health and, yeah, like stats, basically.
+
+[00:18:37:25 - 00:18:37:58]
+Speaker 1
+ Let's talk about speed.
+
+[00:18:39:55 - 00:18:49:13]
+Speaker 1
+ Speed is the number one thing that you want to maintain control of during a Pokémon battle. Losing control of the speed is a really, really big deal because your opponent will talk about it or why in a second.
+
+[00:18:50:41 - 00:19:37:43]
+Speaker 1
+ Basically, speed, like I said, it can take the form of explicit speed control with things like Tailwind, Trichrome, Icywind, but it also takes the form of Pokémon that are naturally just very fast, like Dragon Bolt, Fluttermane, Iron Bundle or Choice Garth Pokémon or Priority Moves, excuse me. In certain formats, it can also take the form of a Pokémon that boosts its stats. Like back in the day, Xerneas was the biggest example of this. It gave both speed and power if you let it give GM and see up for free. Nowadays, we don't really have anything that's like that power level, but like there are Pokémon where they will boost their speed stat and therefore become more threatening. And that's more like more more commonly like Volcarona and Dragonite. They're not these, but one aren't generally as threatening anywhere near as threatening as Xerneas was. But like, you know, sometimes like, oh, they got a Quiver Dance for free and I didn't do any damage. Now I'm in trouble. That's happened to all of us, I think. Same thing with Scale Shot, honestly. A
+
+[00:19:38:58 - 00:20:00:35]
+Speaker 1
+ big part of the reason why you want to prevent your opponent from getting into positions where they can get control of the speed without any counterplay is because, oh wait, sorry, I read this wrong. You do want to prevent your opponent from getting into positions where they can get control of the speed without any counterplay. And sometimes the tactics used to do this are interesting. Oftentimes at the top level, you're actually going to want to deny your opponent
+
+[00:20:02:20 - 00:20:34:47]
+Speaker 1
+ free switches by actually leaving their non-threatening Pokémon on the field or by making sure that they don't get into their speed control Pokémon on the wrong turn. Like maybe you delay KOing a Pokémon for one turn so that you get your Tailwinds that are out the same turn they get their Tailwinds that are out and therefore they never have a turn where they have the speed advantage and you don't. And so yeah, delaying KO is just an advanced tactic, but it's a really important one because you want to keep in mind in future board states, oh, if I take the KO here on the Incineroar, the Emissacon comes in, they've got Ursulunar next to it, Tailwind plus Terra Normal Hypervoice is going to KO all my guys, right?
+
+[00:20:35:48 - 00:22:10:11]
+Speaker 1
+ Or maybe you want to like, you can think about this with the Tricroom too, like, oh, I don't want to let them get both Indeedee and Hatterini on the field at the same turn when this Tricroom ends because then they'll be able to set a second one up. So maybe I won't KO the Torquell this turn because that way next turn I can make it so that they don't have the support that they need to get Tricroom up. Stuff like that. Part of the reason why, I think I might have already said something like this, but like, part of the reason why you want to be attacking first is not only because of the whole KO pressure thing where like, if the opponent attacks before you can move, then like, yeah, they can knock you out and you won't get a chance to move. But also, if you feel like you're very unlucky in Pokemon, odds are that your teams don't have good speed control because a lot of times moves with secondary effects are more impactful when they're moving before you. Like if you're going to get, let's say your opponent's going for Ice Beam and you're going to get frozen, like you can see the future and you're like, this Ice Beam will freeze my Pokemon. That freeze is less impactful if you've already made your move for the turn and it's also less impactful if you KO your opponent or force them to play defensive because you're faster than them and you're threatening them. The same is true of like, Paralysis, like Thunderbolt, Paralize into Full Para. That sucks, this happened to all of us, right? But if you are attacking before your opponent, then you can't lose your turn that turn, right? Like if you already have gotten your attack off, then Thunderbolt, Para, it will still be annoying for future turns, but you will have one fewer chance to get unlucky. Same thing with Burn, right? Skald isn't very popular anymore, but let's say they go for Heat Wave and they burn your, like, I don't know, your Tarah Water Rillaboom, who was about to pick up a KO on the Ursuluna. Like if you had already attacked for the turn, then the burn would still be annoying for future turns, but it wouldn't impact the current one.
+
+[00:22:11:46 - 00:22:12:35]
+Speaker 1
+ And so,
+
+[00:22:13:45 - 00:22:30:26]
+Speaker 1
+ yeah, basically, like being able to attack before your opponent is not only important from like forcing them to play defensive and making sure that you are able to actually pressure like KOs, but it's also important to mitigate your bad luck. Um, this is a board state that is... This is about speed.
+
+[00:22:33:40 - 00:22:36:44]
+Speaker 1
+ Let's understand this present board state. I've got 1 HP Zorok. This is...
+
+[00:22:40:45 - 00:23:27:21]
+Speaker 1
+ Okay, cool. I have 1 HP Zorok and I have plus 1 special attack Goldengo, who just took Make it Rain Kray. Leonard just protected his Focus Ash mouse hold, who is, I believe, at minus 1... This is minus 1 speed and his Assaultless Ursuluna, who switched in and took this much from Make it Rain. Plus 2 Make it Rain, now I'm plus 1, okay? And so in this present board state, you're thinking, "Okay, Ursuluna is threatening a vacuum wave here or a vacuum wave here. Mouse hold is mostly threatening to go for beat up and Zorok, like follow me, it could go for, but there's no single target move here." So like, it's kind of threatening to KO Zorok here. So it's like vacuum wave pressure and vacuum wave pressure and like, yeah, beat up pressure, right? And so if you just look at the present board state, you're thinking, "Okay, Wolf might go for Icy Wind, Make it Rain and try and get the KO, but the Ursuluna could tear it to water and therefore resist the moves, right?"
+
+[00:23:29:05 - 00:23:31:15]
+Speaker 1
+ One second, I have to pull this up.
+
+[00:23:35:40 - 00:23:36:28]
+Speaker 2
+ Wait, do I not?
+
+[00:23:39:14 - 00:23:40:53]
+Speaker 2
+ I could have sworn I added a speaker note here.
+
+[00:23:42:16 - 00:23:43:10]
+Speaker 2
+ Sorry, one second.
+
+[00:23:44:20 - 00:23:46:40]
+Speaker 2
+ All right, I gotta find it. Hold on. Sorry, sorry.
+
+[00:23:55:06 - 00:23:55:22]
+Speaker 1
+ Okay.
+
+[00:23:57:09 - 00:23:59:04]
+Speaker 1
+ I think this is the board. Okay, I have the board state here.
+
+[00:24:01:19 - 00:24:05:20]
+Speaker 1
+ Alrighty, sorry, I meant to put this in the speaker notes, I just forgot. So
+
+[00:24:06:23 - 00:24:30:10]
+Speaker 1
+ here's the board state, as you can see. And if we look at this again, like the main thing that we're thinking about here is like, make it rain versus like vacuum wave, right? However, what I realized is that there's a way that I can use the offensive pressure I have now to get into a position where I get speed control because my opponent is not able to pressure it on this turn. And so what I do is I switch Doraark out
+
+[00:24:31:19 - 00:24:32:29]
+Speaker 1
+ into Whimsicott because
+
+[00:24:33:43 - 00:24:36:53]
+Speaker 1
+ in this situation, we're only worried about the Ursuluna going for vacuum wave.
+
+[00:24:38:45 - 00:25:00:59]
+Speaker 1
+ And he goes for vacuum wave into Goldango and it doesn't KO, I had no idea if it would or not. As I go for make it rain here, which KOs the mouse hold and doesn't KO the Ursuluna, but the thing is, even if vacuum wave had KOed Ursuluna there, I would have been able to bring out my own Ursuluna Blood Moon and go for Tailwind because he can't stop it on this turn and terra normal hyper voice and potentially pick up both KOs on this turn. And so
+
+[00:25:04:20 - 00:25:21:02]
+Speaker 1
+ basically in this, we went from this position to this position in a single turn, but the idea was that because he was in a position where he couldn't pressure Whimsicott from coming in, I was able to maneuver so that I could get speed control on the turn where I needed it and potentially set myself up to win the game. So I thought that was a pretty interesting example of
+
+[00:25:22:37 - 00:26:04:32]
+Speaker 1
+ future speed control playing a role because if you look at this position, you're not necessarily going to be thinking about like, oh, Whimsicott coming in here and getting Tailwind up. However, because he was in a position where he was forced to, because I had both speed and power on this turn and he was forced to play to respect that, I found the opportunity to bring Whimsicott in safely and go for a spot, like and go for a Tailwind that was going to be pretty difficult to punish or cover for a worst case scenario where even in a worst case scenario, I would still be able to get Tailwind up and go from there. So yeah, just an example of like some like, this is a position where you're not really thinking about Tailwind, but by thinking about future board states and how important Tailwind is going to be to allow my final Pokemon, Ursuluna Blood Moon to win the game, I was able to identify the spot where bringing Whimsicott in safely was, you know, possible and go from there.
+
+[00:26:05:35 - 00:26:18:33]
+Speaker 1
+ Let's look at power. So while speed is the most important thing to control, it's only useful if you're moving first if you can do something with that speed, right? Like moving first with your Metapod or your Wimpod or whatever, it doesn't really matter because it's like, okay, you're moving first, but you're not doing anything.
+
+[00:26:20:30 - 00:26:54:58]
+Speaker 1
+ I've talked about this already, but I'll mention it again because I think it's really important. The reason why it's so important to be moving first with speed is because like just of a simple way that the Pokemon battle system works, which is that if you're not going to Pokemon before it can move, it doesn't get to take an action for the current turn. And therefore, the best defense is to knock out your opponent before they can move so that you don't have to take any damage. Like protecting switching and getting knocked out are all actions that happen that mean that you don't get to do any damage on that turn if you haven't already taken an action. And so yeah, basically you want to move first because you want to prevent your opponent from actually getting moves off and if they don't get moves off, they don't win the game.
+
+[00:26:56:31 - 00:26:57:09]
+Speaker 1
+ However,
+
+[00:26:58:14 - 00:27:01:35]
+Speaker 1
+ I think I missed a bullet point here, but I think I forgot to write a bullet point here. But basically,
+
+[00:27:03:07 - 00:27:04:55]
+Speaker 1
+ if we understand that the
+
+[00:27:06:00 - 00:27:46:01]
+Speaker 1
+ important thing is to get both speed and power and that speed without power isn't actually that helpful, we can actually deliberately knock out our opponent's support Pokemon, Pokemon that aren't doing damage, in positions where they're going to get speed control in order to waste their turns and force them to reposition manually. So you can think about board states that maybe you've had where you have like whimsicott and cineroar and your opponent has a cineroar and they go for parting shot instead of flare bullets to KO your whimsicott. You know, like putting your opponent in a position where they get speed control but they only have limited turns and they're not actually doing anything on the current turn is really good. So here's an example from Regulation F. This is from Orlando last year. This is turn one of game one. So I've got Amoongas and Landorus. My opponent has Indeedee and Hatterini.
+
+[00:27:47:53 - 00:28:00:11]
+Speaker 1
+ This is a hard tricker team that my opponent has. I have kind of like a balanced team. And so one thing that I could do here is like I have Sludge Bomb with the Amoongas, so I could try and take a KO here if I wanted. However, what I do end up doing, as you will see here,
+
+[00:28:02:20 - 00:28:03:04]
+Speaker 1
+ is...
+
+[00:28:09:29 - 00:28:49:39]
+Speaker 1
+ This is a crazy play. Because if you went for Expanding Force, I was just boomed. Basically I go for Sludge Bomb instead of going for Earth Power here because I actually don't want to get a KO. I would prefer not to get a KO here and you can see that even with the poison I wouldn't have gotten a KO and with Earth Power I would have. And so here what I've done is I've put damage on the Indeedee, but I haven't actually taken the KO because if I take the KO here Ben goes into Torquell and I probably just lose the game on the spot because Eruption plus Expanding Force does too much damage or he goes into Terror Grass or Shifu Dark and Wicked Blow plus Expanding Force does too much damage. And so I intentionally don't take the KO here because I do not want to give him a free switch in. Indeedee actually isn't that threatening and now on the second turn if we skip ahead,
+
+[00:28:51:32 - 00:28:54:05]
+Speaker 1
+ as I tear out a water on my Among Us,
+
+[00:28:57:45 - 00:29:00:00]
+Speaker 1
+ I protect Landorus and tell me I Spore here.
+
+[00:29:01:32 - 00:29:09:52]
+Speaker 1
+ You guys follow me? I'm pretty sure I Spore here because Expanding Force comes out but I think this one's super especially bulky into Citrus Berry. I take the Citrus Berry here
+
+[00:29:13:28 - 00:29:23:48]
+Speaker 1
+ and Among Us goes for Spore. So Sludge Bomb would have KO'd here but this is another example where I'm intentionally going to keep Ben support Pokemon alive because now he only has three turns of Tricroom left and
+
+[00:29:25:03 - 00:30:51:22]
+Speaker 1
+ he's in a spot where he has not gotten his Torquell out or his Ersivu Dark out. So indeedee basically did help set up Tricroom but I have intentionally left it alive for a couple turns so that he doesn't get both speed and power. Like yes, Hatterini is still strong but if we skip ahead even one more turn and then we'll stop watching this game, you can see that as he goes for another Expanding Force here he isn't able to KO either Pokemon. And you see here I actually again don't KO'd the Adidiego for another Spore to prevent it from switching out here as Landorus goes after the actual Pokemon that can do damage in Hatterini and so here it's turn four of the battle this next turn but indeedee's still in the field and he would much rather have had Ersivu or Torquell at pretty much any point during this battle. So you can see here that the value in not KO'ing your opponent's Pokemon and just leaving them alive when they aren't actually a damage threat and ultimately that decision is going to lead to me winning the game. Yeah, just an example that I thought was interesting where sometimes you don't want to KO your opponent's Pokemon if they're going to get speed control. And here I couldn't stop Ben from getting speed control but I could stop him from getting both speed control and power. By the way the specific reason why I went for Sludge Bomb Sludge Bomb here is because this indeedee had Healing Wish so he could have gone for Trick Arm Healing Wish if I was going for Spore or like, yeah I don't know, Sludge Bomb into Hatterini and Earth Power here, like I needed to make sure I doubled the Hatterini to prevent Healing Wish from knocking himself out to give him the free switch in inside Trick Arm so that's why I made that play turn one.
+
+[00:30:52:24 - 00:31:01:45]
+Speaker 1
+ Just to close things up, Board States are really complex and if you're feeling a little bit overwhelmed or like if a lot of what I'm saying today isn't making the most sense immediately do not worry, that's like totally normal.
+
+[00:31:02:47 - 00:31:16:57]
+Speaker 1
+ Pokemon is a complex game and we're talking about the advanced method that we use to understand the actual like happenings within the game so it's totally normal if you're feeling like a little bit overwhelmed or if not everything I'm saying is making perfect sense but I hope if you sit with it, it eventually will start to make some sense.
+
+[00:31:18:05 - 00:31:34:44]
+Speaker 1
+ In my opinion the important thing is that you keep doing this work, this is not work you do once and then forget about it, this is like the building blocks basically of what we're of understanding the game at its like more fundamental level. This is the kind of thing where just every time you do it, it'll get a little bit easier and over time you're gonna, it's just, it's a muscle, it's a muscle you have to build up.
+
+[00:31:35:58 - 00:32:24:11]
+Speaker 1
+ It's also worth noting that what I cover today is really just the basic building blocks, not the all-encompassing you know breakdown of board states. Like what I talked about today relatively, I would say is the, these are the foundation, right? We're trying to build a strong foundation here and so I think that like speed and power and yeah just like getting comfortable looking at the game from this kind of present versus future lens is like the really important starting point but it's not, it's not everything so there's still a lot more that you can do when it comes to understanding board states but I do think that what we talked about today is like really important and I didn't want to overwhelm it also it's already been half an hour and yeah like this stuff is already pretty complex so anyway thanks for watching, hope this was interesting, I think that's the last slide, it is cool. That's it for me for October so I'll be back next month with more Patreon hashtag content. Thank you for the support, as always I really appreciate it and yeah I think that's it for me, bye bye.

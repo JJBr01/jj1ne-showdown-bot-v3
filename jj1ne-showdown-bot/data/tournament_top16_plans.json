@@ -1,0 +1,1538 @@
+[
+  {
+    "index": 1,
+    "id": "MC463",
+    "name": "Riopaser's Frankfurt Regional 2027 Champion Team",
+    "event": "27 Sep 2026",
+    "rank": "Champion",
+    "pasteUrl": "https://pokepast.es/0e35fd9cd52d7552",
+    "species": [
+      "Raichu",
+      "Rillaboom",
+      "Volcarona",
+      "Incineroar",
+      "Gholdengo",
+      "Garchomp"
+    ],
+    "sets": [
+      {
+        "species": "Raichu",
+        "item": "Raichunite Y",
+        "ability": "Lightning Rod",
+        "moves": [
+          "Zap Cannon",
+          "Focus Blast",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "Fake Out",
+          "U-turn"
+        ]
+      },
+      {
+        "species": "Volcarona",
+        "item": "Rocky Helmet",
+        "ability": "Flame Body",
+        "moves": [
+          "Overheat",
+          "Struggle Bug",
+          "Rage Powder",
+          "Tailwind"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Parting Shot",
+          "Fake Out",
+          "Flare Blitz",
+          "Darkest Lariat"
+        ]
+      },
+      {
+        "species": "Gholdengo",
+        "item": "Life Orb",
+        "ability": "Good as Gold",
+        "moves": [
+          "Protect",
+          "Shadow Ball",
+          "Nasty Plot",
+          "Make It Rain"
+        ]
+      },
+      {
+        "species": "Garchomp",
+        "item": "Garchompite Z",
+        "ability": "Rough Skin",
+        "moves": [
+          "Dragon Pulse",
+          "Earth Power",
+          "Power Gem",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 2,
+    "id": "MC462",
+    "name": "ApronVGC's Frankfurt Regional 2027 Runner Up Team",
+    "event": "27 Sep 2026",
+    "rank": "Runner Up",
+    "pasteUrl": "https://pokepast.es/a5ae507e6a2ecd98",
+    "species": [
+      "Farigiraf",
+      "Incineroar",
+      "Torkoal",
+      "Sneasler",
+      "Sylveon",
+      "Garchomp"
+    ],
+    "sets": [
+      {
+        "species": "Farigiraf",
+        "item": "Sitrus Berry",
+        "ability": "Armor Tail",
+        "moves": [
+          "Psychic",
+          "Trick Room",
+          "Helping Hand",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Chople Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Darkest Lariat",
+          "Parting Shot",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Torkoal",
+        "item": "Charcoal",
+        "ability": "Drought",
+        "moves": [
+          "Eruption",
+          "Earth Power",
+          "Weather Ball",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "moves": [
+          "Close Combat",
+          "Gunk Shot",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Sylveon",
+        "item": "Fairy Feather",
+        "ability": "Pixilate",
+        "moves": [
+          "Hyper Voice",
+          "Hyper Beam",
+          "Yawn",
+          "Detect"
+        ]
+      },
+      {
+        "species": "Garchomp",
+        "item": "Garchompite Z",
+        "ability": "Rough Skin",
+        "moves": [
+          "Draco Meteor",
+          "Flamethrower",
+          "Power Gem",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Kingambit",
+        "Milotic"
+      ],
+      "back": [
+        "Charizard",
+        "Dragonite"
+      ],
+      "strategy": "Trick Room counter-lead: Kingambit moves before fast attackers under TR; Milotic is bulky and punishes Intimidate. Do NOT click Tailwind into TR. Double-target TR setter or stall turns with Protect."
+    }
+  },
+  {
+    "index": 3,
+    "id": "MC461",
+    "name": "yvarvgc's Frankfurt Regional 2027 Top 4 Team",
+    "event": "29 Sep 2026",
+    "rank": "Top 4",
+    "pasteUrl": "https://pokepast.es/0ae371a15057851a",
+    "species": [
+      "Meowstic-F",
+      "Kommo-o",
+      "Indeedee",
+      "Sneasler",
+      "Kingambit",
+      "Charizard"
+    ],
+    "sets": [
+      {
+        "species": "Meowstic-F",
+        "item": "Meowsticite",
+        "ability": "Competitive",
+        "moves": [
+          "Expanding Force",
+          "Thunderbolt",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Kommo-o",
+        "item": "Leftovers",
+        "ability": "Soundproof",
+        "moves": [
+          "Clanging Scales",
+          "Aura Sphere",
+          "Clangorous Soul",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Indeedee",
+        "item": "Focus Sash",
+        "ability": "Psychic Surge",
+        "moves": [
+          "Expanding Force",
+          "Energy Ball",
+          "Trick Room",
+          "Imprison"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "Psychic Seed",
+        "ability": "Unburden",
+        "moves": [
+          "Close Combat",
+          "Dire Claw",
+          "Rock Slide",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Kingambit",
+        "item": "Chople Berry",
+        "ability": "Defiant",
+        "moves": [
+          "Iron Head",
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Charizard",
+        "item": "Charizardite Y",
+        "ability": "Blaze",
+        "moves": [
+          "Weather Ball",
+          "Heat Wave",
+          "Ancient Power",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Kingambit",
+        "Whimsicott"
+      ],
+      "back": [
+        "Charizard",
+        "Garchomp"
+      ],
+      "strategy": "Lead Kingambit (immune to Expanding Force, OHKOs Indeedee with Kowtow Cleave). Bring Charizard Y in back to overwrite terrain or clear grass/steel partners. Leave Sneasler home."
+    }
+  },
+  {
+    "index": 4,
+    "id": "MC460",
+    "name": "Xeno's Frankfurt Regional 2027 Top 4 Team",
+    "event": "29 Sep 2026",
+    "rank": "Top 4",
+    "pasteUrl": "https://pokepast.es/50398ef3664d4646",
+    "species": [
+      "Dragonite",
+      "Floette-Eternal",
+      "Sneasler",
+      "Rillaboom",
+      "Gholdengo",
+      "Incineroar"
+    ],
+    "sets": [
+      {
+        "species": "Dragonite",
+        "item": "Dragoninite",
+        "ability": "Inner Focus",
+        "moves": [
+          "Dragon Pulse",
+          "Heat Wave",
+          "Tailwind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Floette-Eternal",
+        "item": "Floettite",
+        "ability": "Flower Veil",
+        "moves": [
+          "Draining Kiss",
+          "Dazzling Gleam",
+          "Calm Mind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "moves": [
+          "Close Combat",
+          "Dire Claw",
+          "Rock Tomb",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Grassy Glide",
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Gholdengo",
+        "item": "Life Orb",
+        "ability": "Good as Gold",
+        "moves": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Throat Chop",
+          "Parting Shot",
+          "Fake Out"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 5,
+    "id": "MC459",
+    "name": "Glum's Frankfurt Regional 2027 Top 8 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 8",
+    "pasteUrl": "https://pokepast.es/4269a79318df1ab2",
+    "species": [
+      "Vivillon",
+      "Politoed",
+      "Gengar",
+      "Incineroar",
+      "Rillaboom",
+      "Kommo-o"
+    ],
+    "sets": [
+      {
+        "species": "Vivillon",
+        "item": "Focus Sash",
+        "ability": "Compound Eyes",
+        "moves": [
+          "Sleep Powder",
+          "Rage Powder",
+          "Hurricane",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Politoed",
+        "item": "Sitrus Berry",
+        "ability": "Drizzle",
+        "moves": [
+          "Weather Ball",
+          "Perish Song",
+          "Encore",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Gengar",
+        "item": "Gengarite",
+        "ability": "Cursed Body",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Bomb",
+          "Perish Song",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Passho Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Protect",
+          "Fake Out",
+          "Flare Blitz",
+          "Parting Shot"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Occa Berry",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Fake Out",
+          "Grassy Glide",
+          "U-turn",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Kommo-o",
+        "item": "Leftovers",
+        "ability": "Soundproof",
+        "moves": [
+          "Clanging Scales",
+          "Clangorous Soul",
+          "Aura Sphere",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Whimsicott",
+        "Charizard"
+      ],
+      "back": [
+        "Dragonite",
+        "Milotic"
+      ],
+      "strategy": "Drogon (Mega Charizard Y) Drought overwrites Rain immediately. Set Tailwind turn 1 while Protecting Charizard or firing Solar Beam / Heat Wave. Milotic absorbs opposing Water Spout / Hydro Pump."
+    }
+  },
+  {
+    "index": 6,
+    "id": "MC458",
+    "name": "JMOdri's Frankfurt Regional 2027 Top 8 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 8",
+    "pasteUrl": "https://pokepast.es/8372636e85458df9",
+    "species": [
+      "Toxapex",
+      "Sylveon",
+      "Garchomp",
+      "Incineroar",
+      "Venusaur",
+      "Charizard"
+    ],
+    "sets": [
+      {
+        "species": "Toxapex",
+        "item": "Leftovers",
+        "ability": "Regenerator",
+        "moves": [
+          "Baneful Bunker",
+          "Wide Guard",
+          "Toxic",
+          "Infestation"
+        ]
+      },
+      {
+        "species": "Sylveon",
+        "item": "Fairy Feather",
+        "ability": "Pixilate",
+        "moves": [
+          "Detect",
+          "Yawn",
+          "Hyper Voice",
+          "Quick Attack"
+        ]
+      },
+      {
+        "species": "Garchomp",
+        "item": "Choice Scarf",
+        "ability": "Rough Skin",
+        "moves": [
+          "Dragon Claw",
+          "Earthquake",
+          "Stomping Tantrum",
+          "Rock Slide"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Fake Out",
+          "Parting Shot",
+          "Flare Blitz",
+          "Throat Chop"
+        ]
+      },
+      {
+        "species": "Venusaur",
+        "item": "Life Orb",
+        "ability": "Chlorophyll",
+        "moves": [
+          "Protect",
+          "Leaf Storm",
+          "Sludge Bomb",
+          "Earth Power"
+        ]
+      },
+      {
+        "species": "Charizard",
+        "item": "Charizardite Y",
+        "ability": "Blaze",
+        "moves": [
+          "Protect",
+          "Heat Wave",
+          "Weather Ball",
+          "Ancient Power"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 7,
+    "id": "MC457",
+    "name": "valentijn616's Frankfurt Regional 2027 Top 8 Team",
+    "event": "28 Sep 2026",
+    "rank": "Top 8",
+    "pasteUrl": "https://pokepast.es/5ad6c2c4759e6366",
+    "species": [
+      "Glimmora",
+      "Froslass",
+      "Volcarona",
+      "Rillaboom",
+      "Incineroar",
+      "Basculegion"
+    ],
+    "sets": [
+      {
+        "species": "Glimmora",
+        "item": "Glimmoranite",
+        "ability": "Toxic Debris",
+        "moves": [
+          "Spiky Shield",
+          "Sludge Bomb",
+          "Power Gem",
+          "Earth Power"
+        ]
+      },
+      {
+        "species": "Froslass",
+        "item": "Froslassite",
+        "ability": "Cursed Body",
+        "moves": [
+          "Protect",
+          "Blizzard",
+          "Shadow Ball",
+          "Aurora Veil"
+        ]
+      },
+      {
+        "species": "Volcarona",
+        "item": "Grassy Seed",
+        "ability": "Flame Body",
+        "moves": [
+          "Protect",
+          "Heat Wave",
+          "Giga Drain",
+          "Quiver Dance"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Wood Hammer",
+          "U-turn",
+          "Grassy Glide",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Darkest Lariat",
+          "Fake Out",
+          "Parting Shot"
+        ]
+      },
+      {
+        "species": "Basculegion",
+        "item": "Choice Scarf",
+        "ability": "Adaptability",
+        "moves": [
+          "Wave Crash",
+          "Last Respects",
+          "Flip Turn",
+          "Aqua Jet"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 8,
+    "id": "MC456",
+    "name": "Peppe's Frankfurt Regional 2027 Top 8 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 8",
+    "pasteUrl": "https://pokepast.es/f4e2a449941f8fb9",
+    "species": [
+      "Floette-Eternal",
+      "Rillaboom",
+      "Incineroar",
+      "Dragonite",
+      "Gholdengo",
+      "Sneasler"
+    ],
+    "sets": [
+      {
+        "species": "Floette-Eternal",
+        "item": "Floettite",
+        "ability": "Flower Veil",
+        "moves": [
+          "Dazzling Gleam",
+          "Draining Kiss",
+          "Calm Mind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Wood Hammer",
+          "Grassy Glide",
+          "High Horsepower",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Taunt",
+          "Parting Shot",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Dragonite",
+        "item": "Dragoninite",
+        "ability": "Inner Focus",
+        "moves": [
+          "Dragon Pulse",
+          "Heat Wave",
+          "Tailwind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Gholdengo",
+        "item": "Life Orb",
+        "ability": "Good as Gold",
+        "moves": [
+          "Make It Rain",
+          "Shadow Ball",
+          "Nasty Plot",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "moves": [
+          "Dire Claw",
+          "Close Combat",
+          "Rock Tomb",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 9,
+    "id": "MC455",
+    "name": "KoonKy's Frankfurt Regional 2027 Top 16 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 16",
+    "pasteUrl": "https://pokepast.es/7e97a19e8093f20b",
+    "species": [
+      "Kingambit",
+      "Salamence",
+      "Sneasler",
+      "Raichu",
+      "Rillaboom",
+      "Arcanine-Hisui"
+    ],
+    "sets": [
+      {
+        "species": "Kingambit",
+        "item": "Life Orb",
+        "ability": "Defiant",
+        "moves": [
+          "Protect",
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Swords Dance"
+        ]
+      },
+      {
+        "species": "Salamence",
+        "item": "Salamencite",
+        "ability": "Intimidate",
+        "moves": [
+          "Protect",
+          "Tailwind",
+          "Draco Meteor",
+          "Hyper Voice"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "Grassy Seed",
+        "ability": "Unburden",
+        "moves": [
+          "Protect",
+          "Dire Claw",
+          "Close Combat",
+          "Acrobatics"
+        ]
+      },
+      {
+        "species": "Raichu",
+        "item": "Raichunite Y",
+        "ability": "Lightning Rod",
+        "moves": [
+          "Protect",
+          "Zap Cannon",
+          "Focus Blast",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Grassy Glide",
+          "High Horsepower",
+          "Wood Hammer",
+          "Fake Out"
+        ]
+      },
+      {
+        "species": "Arcanine-Hisui",
+        "item": "Focus Sash",
+        "ability": "Rock Head",
+        "moves": [
+          "Protect",
+          "Flare Blitz",
+          "Head Smash",
+          "Extreme Speed"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 10,
+    "id": "MC454",
+    "name": "Desu's Frankfurt Regional 2027 Top 16 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 16",
+    "pasteUrl": "https://pokepast.es/10c22cdfbe0e4e19",
+    "species": [
+      "Raichu",
+      "Incineroar",
+      "Sinistcha",
+      "Kommo-o",
+      "Kingambit",
+      "Delphox"
+    ],
+    "sets": [
+      {
+        "species": "Raichu",
+        "item": "Raichunite Y",
+        "ability": "Lightning Rod",
+        "moves": [
+          "Zap Cannon",
+          "Focus Blast",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Fake Out",
+          "Helping Hand",
+          "Flare Blitz",
+          "Parting Shot"
+        ]
+      },
+      {
+        "species": "Sinistcha",
+        "item": "Kasib Berry",
+        "ability": "Hospitality",
+        "moves": [
+          "Matcha Gotcha",
+          "Protect",
+          "Rage Powder",
+          "Trick Room"
+        ]
+      },
+      {
+        "species": "Kommo-o",
+        "item": "Leftovers",
+        "ability": "Soundproof",
+        "moves": [
+          "Clanging Scales",
+          "Aura Sphere",
+          "Clangorous Soul",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Kingambit",
+        "item": "Focus Sash",
+        "ability": "Defiant",
+        "moves": [
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Low Kick",
+          "Iron Head"
+        ]
+      },
+      {
+        "species": "Delphox",
+        "item": "Delphoxite",
+        "ability": "Blaze",
+        "moves": [
+          "Heat Wave",
+          "Psychic",
+          "Nasty Plot",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Kingambit",
+        "Milotic"
+      ],
+      "back": [
+        "Charizard",
+        "Dragonite"
+      ],
+      "strategy": "Trick Room counter-lead: Kingambit moves before fast attackers under TR; Milotic is bulky and punishes Intimidate. Do NOT click Tailwind into TR. Double-target TR setter or stall turns with Protect."
+    }
+  },
+  {
+    "index": 11,
+    "id": "MC453",
+    "name": "FWIEFISCH's Frankfurt Regional 2027 Top 16 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 16",
+    "pasteUrl": "https://pokepast.es/3fb800fbaa57c1b5",
+    "species": [
+      "Golisopod",
+      "Raichu",
+      "Kingambit",
+      "Farigiraf",
+      "Pelipper",
+      "Archaludon"
+    ],
+    "sets": [
+      {
+        "species": "Golisopod",
+        "item": "Golisopite",
+        "ability": "Emergency Exit",
+        "moves": [
+          "Leech Life",
+          "Iron Head",
+          "Drill Run",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Raichu",
+        "item": "Raichunite Y",
+        "ability": "Lightning Rod",
+        "moves": [
+          "Zap Cannon",
+          "Focus Blast",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Kingambit",
+        "item": "Focus Sash",
+        "ability": "Defiant",
+        "moves": [
+          "Kowtow Cleave",
+          "Sucker Punch",
+          "Low Kick",
+          "Iron Head"
+        ]
+      },
+      {
+        "species": "Farigiraf",
+        "item": "Sitrus Berry",
+        "ability": "Armor Tail",
+        "moves": [
+          "Twin Beam",
+          "Helping Hand",
+          "Protect",
+          "Trick Room"
+        ]
+      },
+      {
+        "species": "Pelipper",
+        "item": "Life Orb",
+        "ability": "Drizzle",
+        "moves": [
+          "Hurricane",
+          "Weather Ball",
+          "Tailwind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Archaludon",
+        "item": "Leftovers",
+        "ability": "Stamina",
+        "moves": [
+          "Electro Shot",
+          "Dragon Pulse",
+          "Snarl",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Kingambit",
+        "Milotic"
+      ],
+      "back": [
+        "Charizard",
+        "Dragonite"
+      ],
+      "strategy": "Trick Room counter-lead: Kingambit moves before fast attackers under TR; Milotic is bulky and punishes Intimidate. Do NOT click Tailwind into TR. Double-target TR setter or stall turns with Protect."
+    }
+  },
+  {
+    "index": 12,
+    "id": "MC452",
+    "name": "Il Mule's Frankfurt Regional 2027 Top 16 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 16",
+    "pasteUrl": "https://pokepast.es/6ac165bfa08f50a5",
+    "species": [
+      "Tyranitar",
+      "Sneasler",
+      "Indeedee",
+      "Excadrill",
+      "Salamence",
+      "Corviknight"
+    ],
+    "sets": [
+      {
+        "species": "Tyranitar",
+        "item": "Tyranitarite",
+        "ability": "Sand Stream",
+        "moves": [
+          "Rock Slide",
+          "Knock Off",
+          "Low Kick",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "moves": [
+          "Close Combat",
+          "Coaching",
+          "Dire Claw",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Indeedee",
+        "item": "Choice Scarf",
+        "ability": "Psychic Surge",
+        "moves": [
+          "Expanding Force",
+          "Mystical Fire",
+          "Trick",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Excadrill",
+        "item": "Focus Sash",
+        "ability": "Sand Rush",
+        "moves": [
+          "Iron Head",
+          "High Horsepower",
+          "Rock Slide",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Salamence",
+        "item": "Salamencite",
+        "ability": "Intimidate",
+        "moves": [
+          "Draco Meteor",
+          "Flamethrower",
+          "Hyper Voice",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Corviknight",
+        "item": "Occa Berry",
+        "ability": "Mirror Armor",
+        "moves": [
+          "Brave Bird",
+          "Taunt",
+          "Tailwind",
+          "Roost"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Kingambit",
+        "Whimsicott"
+      ],
+      "back": [
+        "Charizard",
+        "Garchomp"
+      ],
+      "strategy": "Lead Kingambit (immune to Expanding Force, OHKOs Indeedee with Kowtow Cleave). Bring Charizard Y in back to overwrite terrain or clear grass/steel partners. Leave Sneasler home."
+    }
+  },
+  {
+    "index": 13,
+    "id": "MC445",
+    "name": "mev lad's Brisbane Regional 2027 Champion Team",
+    "event": "29 Sep 2026",
+    "rank": "Champion",
+    "pasteUrl": "https://pokepast.es/4d8ac07e6e8ba093",
+    "species": [
+      "Charizard",
+      "Pelipper",
+      "Archaludon",
+      "Venusaur",
+      "Grimmsnarl",
+      "Garchomp"
+    ],
+    "sets": [
+      {
+        "species": "Charizard",
+        "item": "Charizardite Y",
+        "ability": "Blaze",
+        "moves": [
+          "Weather Ball",
+          "Heat Wave",
+          "Hurricane",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Pelipper",
+        "item": "Sitrus Berry",
+        "ability": "Drizzle",
+        "moves": [
+          "Hurricane",
+          "Weather Ball",
+          "Tailwind",
+          "Wide Guard"
+        ]
+      },
+      {
+        "species": "Archaludon",
+        "item": "Leftovers",
+        "ability": "Stamina",
+        "moves": [
+          "Protect",
+          "Electro Shot",
+          "Dragon Pulse",
+          "Flash Cannon"
+        ]
+      },
+      {
+        "species": "Venusaur",
+        "item": "Focus Sash",
+        "ability": "Chlorophyll",
+        "moves": [
+          "Protect",
+          "Sleep Powder",
+          "Sludge Bomb",
+          "Leaf Storm"
+        ]
+      },
+      {
+        "species": "Grimmsnarl",
+        "item": "Light Clay",
+        "ability": "Prankster",
+        "moves": [
+          "Spirit Break",
+          "Reflect",
+          "Light Screen",
+          "Parting Shot"
+        ]
+      },
+      {
+        "species": "Garchomp",
+        "item": "Garchompite Z",
+        "ability": "Rough Skin",
+        "moves": [
+          "Draco Meteor",
+          "Earth Power",
+          "Power Gem",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Whimsicott",
+        "Charizard"
+      ],
+      "back": [
+        "Dragonite",
+        "Milotic"
+      ],
+      "strategy": "Drogon (Mega Charizard Y) Drought overwrites Rain immediately. Set Tailwind turn 1 while Protecting Charizard or firing Solar Beam / Heat Wave. Milotic absorbs opposing Water Spout / Hydro Pump."
+    }
+  },
+  {
+    "index": 14,
+    "id": "MC444",
+    "name": "Newcon8's Brisbane Regional 2027 Ruuner Up Team",
+    "event": "27 Sep 2026",
+    "rank": "Runner Up",
+    "pasteUrl": "https://pokepast.es/246aecb752facc29",
+    "species": [
+      "Floette-Eternal",
+      "Kingambit",
+      "Basculegion",
+      "Rillaboom",
+      "Salamence",
+      "Sneasler"
+    ],
+    "sets": [
+      {
+        "species": "Floette-Eternal",
+        "item": "Floettite",
+        "ability": "Flower Veil",
+        "moves": [
+          "Moonblast",
+          "Protect",
+          "Calm Mind",
+          "Dazzling Gleam"
+        ]
+      },
+      {
+        "species": "Kingambit",
+        "item": "Chople Berry",
+        "ability": "Defiant",
+        "moves": [
+          "Sucker Punch",
+          "Protect",
+          "Kowtow Cleave",
+          "Iron Head"
+        ]
+      },
+      {
+        "species": "Basculegion",
+        "item": "Colbur Berry",
+        "ability": "Adaptability",
+        "moves": [
+          "Last Respects",
+          "Aqua Jet",
+          "Protect",
+          "Wave Crash"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Grassy Glide",
+          "Fake Out",
+          "Wood Hammer",
+          "High Horsepower"
+        ]
+      },
+      {
+        "species": "Salamence",
+        "item": "Salamencite",
+        "ability": "Intimidate",
+        "moves": [
+          "Flamethrower",
+          "Protect",
+          "Tailwind",
+          "Hyper Voice"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "Focus Sash",
+        "ability": "Poison Touch",
+        "moves": [
+          "Protect",
+          "Dire Claw",
+          "Fake Out",
+          "Close Combat"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 15,
+    "id": "MC443",
+    "name": "maGicaUra's Brisbane Regional 2027 Top 4 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 4",
+    "pasteUrl": "https://pokepast.es/32857b1c3f3763e0",
+    "species": [
+      "Garchomp",
+      "Sneasler",
+      "Floette-Eternal",
+      "Incineroar",
+      "Rillaboom",
+      "Kingambit"
+    ],
+    "sets": [
+      {
+        "species": "Garchomp",
+        "item": "Garchompite",
+        "ability": "Rough Skin",
+        "moves": [
+          "Stomping Tantrum",
+          "Scale Shot",
+          "Protect",
+          "Rock Slide"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "Focus Sash",
+        "ability": "Poison Touch",
+        "moves": [
+          "Dire Claw",
+          "Fake Out",
+          "Close Combat",
+          "Coaching"
+        ]
+      },
+      {
+        "species": "Floette-Eternal",
+        "item": "Floettite",
+        "ability": "Flower Veil",
+        "moves": [
+          "Dazzling Gleam",
+          "Draining Kiss",
+          "Calm Mind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Fake Out",
+          "Parting Shot",
+          "Helping Hand"
+        ]
+      },
+      {
+        "species": "Rillaboom",
+        "item": "Miracle Seed",
+        "ability": "Grassy Surge",
+        "moves": [
+          "Wood Hammer",
+          "High Horsepower",
+          "Fake Out",
+          "Grassy Glide"
+        ]
+      },
+      {
+        "species": "Kingambit",
+        "item": "Life Orb",
+        "ability": "Defiant",
+        "moves": [
+          "Kowtow Cleave",
+          "Swords Dance",
+          "Sucker Punch",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Dragonite",
+      "leads": [
+        "Milotic",
+        "Dragonite"
+      ],
+      "back": [
+        "Kingambit",
+        "Charizard"
+      ],
+      "strategy": "Milotic gets Competitive +2 SpA boost from opposing Intimidate lead! Kingambit gets Defiant +2 Atk. Use boosted Scald / Kowtow Cleave to delete their Intimidate pivot on turn 1."
+    }
+  },
+  {
+    "index": 16,
+    "id": "MC442",
+    "name": "llefface's Brisbane Regional 2027 Top 4 Team",
+    "event": "27 Sep 2026",
+    "rank": "Top 4",
+    "pasteUrl": "https://pokepast.es/297320b831fb73b8",
+    "species": [
+      "Archaludon",
+      "Basculegion",
+      "Sneasler",
+      "Pelipper",
+      "Incineroar",
+      "Floette-Eternal"
+    ],
+    "sets": [
+      {
+        "species": "Archaludon",
+        "item": "Leftovers",
+        "ability": "Stamina",
+        "moves": [
+          "Flash Cannon",
+          "Dragon Pulse",
+          "Electro Shot",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Basculegion",
+        "item": "Choice Scarf",
+        "ability": "Adaptability",
+        "moves": [
+          "Wave Crash",
+          "Last Respects",
+          "Aqua Jet",
+          "Flip Turn"
+        ]
+      },
+      {
+        "species": "Sneasler",
+        "item": "White Herb",
+        "ability": "Unburden",
+        "moves": [
+          "Dire Claw",
+          "Close Combat",
+          "Fake Out",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Pelipper",
+        "item": "Focus Sash",
+        "ability": "Drizzle",
+        "moves": [
+          "Weather Ball",
+          "Hurricane",
+          "Tailwind",
+          "Protect"
+        ]
+      },
+      {
+        "species": "Incineroar",
+        "item": "Sitrus Berry",
+        "ability": "Intimidate",
+        "moves": [
+          "Flare Blitz",
+          "Snarl",
+          "Fake Out",
+          "Parting Shot"
+        ]
+      },
+      {
+        "species": "Floette-Eternal",
+        "item": "Floettite",
+        "ability": "Flower Veil",
+        "moves": [
+          "Moonblast",
+          "Dazzling Gleam",
+          "Calm Mind",
+          "Protect"
+        ]
+      }
+    ],
+    "plan": {
+      "mega": "Charizard",
+      "leads": [
+        "Whimsicott",
+        "Charizard"
+      ],
+      "back": [
+        "Dragonite",
+        "Milotic"
+      ],
+      "strategy": "Drogon (Mega Charizard Y) Drought overwrites Rain immediately. Set Tailwind turn 1 while Protecting Charizard or firing Solar Beam / Heat Wave. Milotic absorbs opposing Water Spout / Hydro Pump."
+    }
+  }
+]

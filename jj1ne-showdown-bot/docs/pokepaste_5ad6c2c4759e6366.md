@@ -1,0 +1,54 @@
+# PokePaste: Copy of Untitled 197 (OTS)
+Author: dooie kameel
+Source: https://pokepast.es/5ad6c2c4759e6366
+
+```
+Crystal Mt. (Glimmora-Mega) @ Glimmoranite  
+Ability: Toxic Debris  
+Level: 50  
+- Spiky Shield  
+- Sludge Bomb  
+- Power Gem  
+- Earth Power  
+
+Ice Queen (Froslass-Mega) (F) @ Froslassite  
+Ability: Cursed Body  
+Level: 50  
+- Protect  
+- Blizzard  
+- Shadow Ball  
+- Aurora Veil  
+
+DiscoInferno (Volcarona) @ Grassy Seed  
+Ability: Flame Body  
+Level: 50  
+- Protect  
+- Heat Wave  
+- Giga Drain  
+- Quiver Dance  
+
+W.t.t.Jungle (Rillaboom) @ Miracle Seed  
+Ability: Grassy Surge  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+- Fake Out  
+
+Hail2theKing (Incineroar) @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+- Flare Blitz  
+- Darkest Lariat  
+- Fake Out  
+- Parting Shot  
+
+Floods (Basculegion) (M) @ Choice Scarf  
+Ability: Adaptability  
+Level: 50  
+- Wave Crash  
+- Last Respects  
+- Flip Turn  
+- Aqua Jet  
+
+
+```

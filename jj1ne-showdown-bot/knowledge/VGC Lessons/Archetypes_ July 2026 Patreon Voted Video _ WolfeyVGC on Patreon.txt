@@ -1,0 +1,163 @@
+[00:00:00:55 - 00:00:07:13]
+Speaker 1
+ Real YouTube is talking about archetypes, my choice. One this month's poll.
+
+[00:00:08:33 - 00:00:36:05]
+Speaker 1
+ You know, it could have been worse. Hello everybody. Hello, hello, hello. So for this July 2026 Patreon monthly video, the winning option was actually Wolf's Choice. And while I liked some of the options in the poll, I decided to pick my own choice. That's what Wolf's Choice means, was I repositioned the microphone. So today we're going to talk about archetypes, because I think that this is something that I'm never going to win a poll otherwise, but I think it's an important thing to discuss if you are trying to get better at competitive Pokemon for a number of reasons.
+
+[00:00:37:53 - 00:00:46:46]
+Speaker 1
+ So yeah, so with that being said, let's go ahead and get started here talking about archetypes. The first question that we may have is, what is an archetype? Is my camera blocking this?
+
+[00:00:48:35 - 00:00:50:27]
+Speaker 1
+ Hold please, I'll just put the green screen up. Hold please.
+
+[00:00:54:54 - 00:01:00:10]
+Speaker 1
+ And you may be thinking, "Wolf, this doesn't help anything." That's because I haven't turned on the filters yet. Hold please.
+
+[00:01:02:09 - 00:01:31:47]
+Speaker 1
+ Great. Okay, great, that's better. So what's an archetype? An archetype is a category of different Pokemon teams. It's usually defined by how the team plays or by a core mechanical strategy of the team. Examples of archetypes will include stuff that is named after the main mechanic. So for example, sand teams are one type of team, or an archetypal team, sun teams, more than just the ones named after a mechanic. Dendozo teams used to be pretty big.
+
+[00:01:33:30 - 00:01:54:10]
+Speaker 1
+ Understanding what the popular archetypes are in a format can influence your team building both on a micro and macro level. Also understanding what the popular archetypes are in a format is helpful over time because there are certain things that tend to be strong against specific types of teams. So for example, if trickeroom is really popular, maybe you start thinking about Pokemon with moves like roar or whirlwind, or Pokemon that have moves like taunt, or your own trickeroom.
+
+[00:01:55:39 - 00:02:20:59]
+Speaker 1
+ It's worth noting that archetypes in Pokemon typically refer to the playstyle of a team as opposed to any individual Pokemon on the team. This is different compared to other games. You can call Megaradactyl, for example, a glass cannon, but that's not necessarily what we're talking about here, though it is worth noting how different Pokemon play as well. Women's Academy is almost exclusively used as a support Pokemon but often enables much more aggressive archetypes. So yeah, we're talking about the team as a whole, not just the individual Pokemon.
+
+[00:02:23:08 - 00:03:32:43]
+Speaker 1
+ Which archetypes exist? Well, it kind of depends. At any given time there are certain archetypes present, but it's important to understand that an archetype is something that the players kind of use as a shortcut to understanding the game rather than something that the developers tell us. So the short answer is the archetypes exist depending on what the players decide to call an archetype. That being said, there are archetypes that tend to show up pretty frequently. Weather is almost always present in every format of competitive Pokemon. Sun, rain, sand, and snow are the four biggest ones. Sun, rain, and rain are typically the two most popular, followed by sand, followed by snow, but depending on the format this will change. Snow is almost never the most popular, but even then there were times where Alola and Eintils were quite good in regulation, H in Scarlet and Violet, so yeah, basically weather is one type of archetype. Terrain not currently present in Pokemon Champions as of the time that I'm filming this was not really relevant in MA. Unfortunately not really in MB. We thought that Raichu X, who sets up the electric terrain, might be quite strong so far doesn't seem that way, even though there's no competing terrain, which is not good for Raichu. Dedicated Parastrap is built around Parasong and Shadow Tag, Hard Trichrome, these are some examples of archetypes. Tendozo, as I already mentioned, is present in a lot of the Scarlet and Violet formats.
+
+[00:03:34:16 - 00:03:42:10]
+Speaker 1
+ Some archetypes overlap. An archetype is not mutually exclusive. For example, Psi-Spam and Hard Trichrome historically have a lot of overlap, for example.
+
+[00:03:44:10 - 00:04:27:57]
+Speaker 1
+ More though, what I was saying earlier is that the archetypes exist are whatever the people decide. These are not things that are determined by the developers. It's not like the developer of Pokemon Champions is like, "Okay, we're going to put Trichrome as an archetype and therefore this is something that people can use." This is a way that players have of categorizing the different teams that are popular or playable to make things easier for themselves. For example, if you think about the reason why archetypes exist, the short version, is that if you were to be like, "Okay, I want to beat Charizard teams." I want to beat Charizard teams. I don't know if this is going to work as an example, but I'm going to try. Right now there's three or four different really strong Charizard teams. If you were to treat these all as individual teams and just look at them individually,
+
+[00:04:29:25 - 00:04:47:48]
+Speaker 1
+ maybe Pokemon that are strong versus one are not necessarily strong versus the others. But if you think about these as an archetype of Sun teams, then maybe you can find commonalities between them and Pokemon that are strong into all three different types of main Charizard teams right now. Basically, archetypes exist because they're useful for players to wrap their minds around.
+
+[00:04:49:40 - 00:05:04:52]
+Speaker 1
+ It's worth noting that the archetypes that exist are really dependent on the Pokemon and the mechanics that are legal. Certain archetypes like Dendozo can only be present when certain Pokemon are allowed, same with Sisbam, using Psychic, Terrain, and Expanding Force. These strategies are not currently in Pokemon Champion.
+
+[00:05:05:59 - 00:05:35:47]
+Speaker 1
+ Even though certain archetypes are only present when certain Pokemon are around, there are also archetypes that tend to appear regardless of the format. These are either built around mechanics that are generally strong or are a way of classifying a style of team rather than one built around a mechanic. We're going to go through these one at a time, but again, these generally revolve around how the Pokemon themselves are played and positioned as opposed to one core field condition because you can't have a Sun team without Pokemon that set the Sun up. Let's start with Hyper Offense.
+
+[00:05:36:58 - 00:06:11:14]
+Speaker 1
+ Hyper Offense, if you ever see something shortened to HO, that typically means Hyper Offense, these teams try to overwhelm their opponent with damage as quickly as possible. These are kind of the all-gas no-breaks teams. It is normally, not always, but normally achieved using Tailwind and Pokemon that are very strong, either due to high stats or high base power moves or both. The glass cannon of Pokemon go on these teams. The goal is just to do as much damage as quickly as possible. You can think of a Hyper Offense team in terms of how many turns it takes to win. Typically if a Hyper Offense team hasn't won the game or is near winning the game in like four or five turns, it's going to be pretty tough for them.
+
+[00:06:12:15 - 00:06:50:52]
+Speaker 1
+ These teams sacrifice almost all defense in favor of offensive positioning and they are like, even though that makes them sound bad, they're actually quite strong and really scary to play against if you don't have a rock solid defensive foundation. It has some overlap with hard trick-room teams because it's all about making use of the limited turns of your speed control to deal as much damage as possible before you run out of gas. Basically, this is like a sprint to the finish line and if you don't make it there, you're just not going to finish it all. Here's an example, Hyper Offense team. This is partially subjective. I think that most people would probably agree this is Hyper Offense, but yeah, maybe not. This is a team from the most recent online tournament which was used by VolvoMaxBenten, who is a strong player from Latin America.
+
+[00:06:52:05 - 00:06:53:41]
+Speaker 1
+ I wrote MA, but this is MP, sorry.
+
+[00:06:55:24 - 00:07:45:17]
+Speaker 1
+ In general, Hyper Offense team is a very aggressive playstyle. This is a type of team where you're aiming to win the game as fast as possible and if you ever end up out of position, you don't have the defensive resources most of the time to make a recovery. You can see that there's a lot of fast Pokemon with high damage output here between the Gardevoir, the Baski Legion, the Talonflame, and the Kommo. You have a lot of fast Pokemon, Mousehold as well has Super Fang and then King Amadon has Priority. Typically, Hyper Offense teams are going to use Tailwind as their primary form of speed control, but it's not necessarily mandatory, but it will normally happen. I would say 9 times out of 10 at least. Bulky Offense. So what makes this difference to Hyper Offense? Bulky Offense teams generally are much harder to punish due to using less exploitable Pokemon, usually bulkier ones, and they have better defensive synergy. They may have more flexible options for speed control, like Bulky Offense teams will sometimes have both Tailwind and Trick Room.
+
+[00:07:46:22 - 00:07:56:16]
+Speaker 1
+ They will often run strong priority attacks to circumvent the fact that their Pokemon cannot often be as fast as Hyper Offense teams or like they choose not to be in favor of bulk. It's kind of a chicken or a ribbed egg situation here.
+
+[00:07:57:19 - 00:08:09:08]
+Speaker 1
+ Screens to focus teams can sometimes fall into this category, it depends on if they're using Reflect and Light Screen to set up for offensive Pokemon or if they're using Reflect and Light Screen to set up for setup, but if they're setting up for offensive Pokemon they will sometimes fall into this category.
+
+[00:08:10:54 - 00:08:32:23]
+Speaker 1
+ It's worth noting that some of these categories are subjective. There are some people who might classify this current Big Six team as Hyper Offense. For me, I think it's much more a bulky offense team. These Pokemon, especially the Charizard, the Bascaleasian, and the Kengamba, tend to be quite bulky, and even though Wims have got Floette, and the more recent versions of this team have Lifeworm Garchomp, but yeah, I digress.
+
+[00:08:34:05 - 00:09:32:59]
+Speaker 1
+ What was I saying? Yeah, basically it's kind of subjective. I would classify this as bulky offense because there aren't that many super fast attackers, and because a lot of the Pokemon on this team are going to run some bulk, and this team actually has really nice defensive synergy as well, but yeah, some people might say this is Hyper Offense. But yeah, in general, bulky, powerful Pokemon, flexible speed control with strong priority moves to supplement the not full all-in on the speed control. Protect the King. These are typically set up teams. It's also sometimes called Protect the President or Protect the Prince as well. These teams do what it sounds like they do. They create space for one key Pokemon, which basically functions as the carry. If you've seen Incineroar's Anishinae Floette, that's this type of strategy, where basically you have all these support Pokemon setting up for one key sweeper. The general strategy is you use set up moves like Calm Mind or Shell Smosh or Nasty Plot or Swords Dance, and you make a Pokemon really strong while protecting it with tools like Fake Out Intimidate, Parting Shot, Rage Powder, Follow Me, etc. And then once your Pokemon is set up enough, you just try and KO everything.
+
+[00:09:34:47 - 00:09:42:38]
+Speaker 1
+ Typically the supportive pieces on this team are not going to be doing a ton of damage. This strategy is really all in on your main carry,
+
+[00:09:43:49 - 00:10:28:21]
+Speaker 1
+ and if the main carry goes down, you are certainly screwed. Almost always. Excuse me. The main way that you beat these kind of teams is that if you take out the main damage dealer, they have no more damage left a lot of the time. It depends on the specific Pokemon, but for example, on this team, this team has two different potential set up threats, the Blastoise and the Delphox, with four support Pokemon basically. Incineroar Sinister, in some ways Caesar is not a support Pokemon, but in this team specifically it kind of is because Attack of Ice protects for a quick card, and then mousehold. Imagine you have Incineroar Sinister, mousehold, and then Blastoise, and you lose Blastoise. It's like, well, it's going to be kind of difficult to win in most cases unless your opponent is really low on resources or really weak to Incineroar Sinister. So just worth keeping in mind here that these teams
+
+[00:10:29:33 - 00:10:35:53]
+Speaker 1
+ give you the illusion of control a lot of the time and they're very scary to play against, but if you ever get to the king, they can really run out of juice really quickly.
+
+[00:10:37:10 - 00:11:14:27]
+Speaker 1
+ Yes. Cool. Balance. This is sometimes called "good stuffs," but balance and good stuffs are two different things. Good stuffs is an archetype that basically means, or a term I should say, that basically means using a lot of the best Pokemon on the same team, like just using all the strongest Pokemon on the same team together. Balance is a specific type of playstyle that basically uses, like, I would say that it's the counterpart of bulky offense. Bulky offense is like using Pokemon with good defensive synergy in an offensive way. I think that balance is using Pokemon with good defensive synergy in a defensive way. Is that really right though? How do I explain this? That's not exactly right.
+
+[00:11:15:32 - 00:11:20:05]
+Speaker 1
+ Basically bulky offense and balance are two sides of the same coin, where bulky offense plays
+
+[00:11:21:11 - 00:11:41:08]
+Speaker 1
+ more of an emphasis on offense, and balance plays more of an emphasis on bulk, but they both are archetypes that aim to use Pokemon with good defensive synergy that also can do damage, and it just depends on where the emphasis is placed, whether it's on the defensive synergy part or on the offensive part, but they both can do both. Bulky offense teams have bulk, and balance teams have offense.
+
+[00:11:42:58 - 00:13:12:36]
+Speaker 1
+ Yeah, basically you're trying to play positionally to build an advantage for mitigating opposing damage and creating space for partner Pokemon. This is a space where defensive type cores that work well together, like firewater grass and fairy dragon steel. These are the archetypes that really tend to use these most frequently. Damage output on these teams can either come from your offensive pieces or your setup pieces, but ideally your supporting Pokemon are also dealing decent damage here as well, meaning that if you lose your main attacker it's not always the end. This is where balance and predict-the-king strategies differ, but they're otherwise somewhat similar, although, yeah, again, balance is more, and if this is on offense, this is one example of a balance team from Regulation C, where you have some bulky Pokemon on this team in Ting Lue, Arcanine, and Inan, and Iron Hands, but you also have, and actually, or sorry, Ting Lue, Arcanine, and Mungus, but you also have Flutterman, Palithin, and Iron Hands. I also think about the Regulation F balance team, which was Incinero Rillaboom, Urshifu, Raging Bolt, Fluttermane, plus one, and on those teams, Incinero and Rillaboom were supportive Pokemon, but they could still do good damage, and yeah, it's similar here, where like, I think Mungus isn't doing that much damage, but Flareblot, Arcanine, Stomping Tangerman, Fissure, Ting Lue, or Stomping Tangerman having still having Ting Lue, like these are still Pokemon that can do good damage, and Mungus not too much, but it's not like every Pokemon has to meet the goal. These teams basically rely heavily on their strong defensive synergy, and also if they have healing, that's a bonus, like Mungus here has some healing, using, yeah, like a lot of the classic VGC tools that we've kind of come to know and love, like Fake Out Spore, Rage Powder, Intimidate, etc. And yeah, if your supports can deal good damage, that is good as well.
+
+[00:13:14:19 - 00:13:38:30]
+Speaker 1
+ There's a couple other archetypes as well that are worth mentioning, but like, yeah, of course, like there's so many archetypes, it's just like I've tried to cover the ones that I think are the most relevant and the most helpful. Stahl is like kind of an archetype that comes up every once in a while, and sometimes has decent performances. Basically the idea of Stahl is that you try and just like use passive damage, and like, yeah, damage over time effects to win the game, sometimes these teams will use hazards, sometimes they will use
+
+[00:13:40:19 - 00:13:42:58]
+Speaker 1
+ weather conditions like Sandstorm, sometimes they'll use poison.
+
+[00:13:44:02 - 00:14:11:31]
+Speaker 1
+ In general they just try and stick a bunch of bulky Pokemon in the field and outlast your opponent. Most people probably understand intuitively how Stahl wants to play. They don't often work in doubles, just due to the amount of offensive pressure on the field at any given time. There have been a couple exceptions. Chansey and Chucklewor strategy back in like generation 7, Smirgle Muck in generation 9, and currently Overquill is like, these are all evasion based strategies that try to play using like, making a Pokemon unhittable with evasion, or yeah, actually all of these used evasion,
+
+[00:14:12:36 - 00:14:43:59]
+Speaker 1
+ and then using toxic damage or damage over time or fixed damage like Chansey Seismatoss to win the game. I would also say that like, we see flashes of Stahl sometimes, like there were certain Dendozo teams that used toxic spikes up early with either Glamora or Weezing, and the idea basically was to get toxic spikes up and then bring Dendozo in and when like, everything was poisoned and used Dendozo's Giga Bulk and spread damage in Earthquake to just like, let the poison take everything out. These teams weren't Stahl teams necessarily, but they had a Stahl strategy on them, and yeah, so like, that's something where you see Stahl teams coming into
+
+[00:14:45:18 - 00:14:53:24]
+Speaker 1
+ play. As always, archetype names, or I should say, archetype names aren't exhaustive or mutually exclusive, like we just talked about it in Dendozo team, that's also a Stahl team.
+
+[00:14:54:27 - 00:15:12:41]
+Speaker 1
+ If I miss anything, it probably exists within or overlaps heavily with one of the listed categories or I just forgot it. Again, also this is like something that the community kind of decides and we use like, like these are community terms, these aren't coming from the developers, like you know, they're not thinking, "Oh, like, let me make sure that Hyper Offense has enough pieces in this regulation," right? That's just not happening.
+
+[00:15:13:53 - 00:15:14:19]
+Speaker 1
+ So
+
+[00:15:15:41 - 00:15:28:12]
+Speaker 1
+ yeah, I just think that it's worth noting that like, the idea here is to give you a general sense of the most common archetypes, especially the most common archetypes when it comes to like, speed of games played, like, but we've kind of covered the whole spectrum from
+
+[00:15:29:33 - 00:15:46:10]
+Speaker 1
+ Hyper Offense all the way down to Balance, where Hyper Offense will often aim to win games in like, five or six turns, whereas Balance teams often are taking at least 10, sometimes even more to win depending on the format. So yeah, like it's basically like you can pick how long you want your battles to go is another way of thinking about it, but yeah, of course there are other archetypes that I didn't cover here as well.
+
+[00:15:47:28 - 00:16:53:12]
+Speaker 1
+ Now, final question, what do I do with all this info? Basically, this is designed to help you be able to analyze a team in team preview and develop your ability to understand how a team might want you to play. This is helpful especially for new players who are picking up teams because maybe you're like, "Wow, this team is doing well, but I hate using it." Maybe you don't like playing Hyper Offense, or maybe you don't like playing Protect the King, right? If you're somebody who gets really frustrated by critical hits, don't play Protect the King because if your king gets crit and you lose the game, like, if your king gets crit and your king going down means you lose the game, then you're going to be extra frustrated when you get crit. Balance is also something to stay away from if you really don't like getting crit because those games tend to go long. You should be maybe looking at bulky offense or games are only going about seven or eight turns and that's often, you know, enough that a critical hit is like, yeah, not going to happen every game and also like when it happens, you have enough offense that you aren't just going to lose the game on the spot. Understanding what your opponent wants to do is step one as well. Like when it's so like if you if you look at your opponent's team, you're like, "This is a Protect the King strategy." Then you understand you need to get rid of the king as fast as possible. If it's a Hyper Offense strategy, you think, "Okay, I need to get speed control over this thing," right? Understanding how a team wants to play is like a really good way to intuitively grasp what you're supposed to do to beat it and that's how you win games.
+
+[00:16:54:13 - 00:17:32:37]
+Speaker 1
+ Discussing the game is also a big part of learning and improving. Having better terminology to use when referring to teams can help others better understand you better and allow you to have better conversations and basically help you improve more. Right? If you're somebody who's never thought about archetypes, it can be useful to like go to your friends and say, "Okay, what archetypes does everybody prefer to play?" I wouldn't lock yourself into any archetype like everybody plays different archetypes. Like the top players all are flexible, but I think also everybody has preferences, right? I don't like playing Hyper Offense. I actually almost never play Hyper Offense and when I was younger, I really preferred to play like somewhere between balance and stall teams and now I have no patience for it. I'm like, "I don't want my games to go longer than 10 turns." Like, "Give me like a bulky offense. Like, that's what I want nowadays."
+
+[00:17:33:44 - 00:18:15:30]
+Speaker 1
+ Maybe, yeah, I don't like, I couldn't play balance in Regulation F. Like, I wasn't willing to do it. I was like, "I'm not playing a 15-turn grind fest. I'm not going to do it." So it can be helpful for many reasons, but yeah, hopefully this is helpful in some way, shape, or form. Again, keep in mind that this is all kind of like soft knowledge rather than hard knowledge. Like, this isn't things you can look up online or like you can. I actually don't know what resources exist for this, but it's not like you can go into like one of the Pokemon websites that has like a database and type in like, you know, every Hyper Offense team because they're just not tagged that way, but it's still useful nonetheless. Anyway, thank you for watching. I think the final Patreon video for the month will come at the end of the month because I'm about to leave the country for a wedding. I'll be gone for like 10, 11 days. So yeah, I will see you all at the end of the month. Thank you for watching and I think that's it for me. Bye-bye!

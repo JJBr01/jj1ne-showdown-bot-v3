@@ -1,0 +1,9 @@
+﻿node_modules/
+*.zip
+*.log
+jj1ne-showdown-bot/battlelogs/
+jj1ne-showdown-bot/coach/
+jj1ne-showdown-bot/reports/
+.env
+jj1ne-showdown-bot/ps/
+jj1ne-showdown-bot/tools/ncp-calc/

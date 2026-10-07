@@ -1,0 +1,207 @@
+[00:00:00:48 - 00:00:05:43]
+Speaker 1
+ Hello gamers, number one, my wrist hurts. That's your fun fact of the day.
+
+[00:00:07:24 - 00:00:38:53]
+Speaker 1
+ Actually I have a confession to make. I actually went back and watched one of my old videos from 2016. I went on the YouTube channel and I sorted my oldest and then I don't even know what possessed me. I wanted to break from it. I was just being procrastinated because I didn't want to write. Anyway, it was funny to watch. It's funny because I feel like I'm not that different than I was in 2016, but then I watched that and I'm like, oh, like, I don't know. I don't know. Why am I so far down in the chair? I didn't wear the shirt yesterday on camera, did I? Oh, if I did, promise not to judge me. How do I open this freaking thing?
+
+[00:00:40:16 - 00:00:45:11]
+Speaker 1
+ I'm putting away my Raycon earbuds. I don't want to say that for a sponsor. Ooh.
+
+[00:00:46:34 - 00:01:07:37]
+Speaker 1
+ Anyway, what was I saying? Oh yeah, okay, so let's do some updates. Update champ. So, I posted recently asking for feedback and to everyone who gave feedback, thanks a ton. It was super, super helpful. Basically, to summarize it up, the way that I'm looking at it is that, number one, people are happy with everything that's going on here, which is great. But people also want maybe some different types of content. The thing is that
+
+[00:01:08:51 - 00:02:32:41]
+Speaker 1
+ I feel like I'm kind of already sometimes a little pressed for time when it comes to Patreon, just because making three additional videos a month plus the team reports, the feedback on the teams, takes me a lot of time because I have to go through the whole team, think about the team, think about the meta game, look at the team in detail, go through the EV spreads. Oftentimes I have to check stats as well because I'm like, "Oh, are you wasting points here? What speed set are you at?" Anyway, it takes a while, so I don't think I can add on a bunch of additional videos per month, but what we can do and what I think is a really good idea for a solution is, at the moment the $25 tier, the Elite, no, yeah, Elite Four tier, is able to submit one team per month to be voted on by the Patreon as a whole for the monthly battle video. But people seem to be, I think that this seems to be the thing that people are the least interested in, so what I'm considering is changing it, considering it to rather than it being submit a team that Wolf will use for a battle video, instead have it be submit a concept for some kind of video that you want me to do. So this can be stuff like talk about team building, talk about taking notes, talk about predictions, talk about switches, or it can be other stuff as well that can really be anything honestly. If people submit a topic and the Patreon votes on it, then I'm happy to do it as long as it isn't a multi-hour project.
+
+[00:02:34:26 - 00:02:54:15]
+Speaker 1
+ So I think that's cool. Anyway, I let the top 2 tiers vote for this month about the monthly battle video, and they said they basically voted for, rather than have it be a monthly battle video this month, have it be instead a team building fundamental breakdown with examples.
+
+[00:02:56:03 - 00:03:06:26]
+Speaker 1
+ So I'm going to try and keep this relatively simple. Team building is a really complicated subject, and as a reminder I did spend quite a while working on vgcguide.com,
+
+[00:03:07:34 - 00:03:18:18]
+Speaker 1
+ which you can find which has all of my thoughts that I spent over a year writing. So if you have any, this is all free to access, also I'm pretty sure we lose money on this, I do not think we've made enough money to pay for the hosting costs.
+
+[00:03:19:45 - 00:03:25:12]
+Speaker 1
+ This is purely for you all, but as you can see I wrote most of these articles there at this one, yeah.
+
+[00:03:29:08 - 00:03:41:33]
+Speaker 1
+ I'm pretty proud of it, so if you want more team buildings to help I definitely recommend reading those articles. It's not as fun as watching a video, but the information is all good. How long has it been? I have water in here, oh my god, it's the best day of my life.
+
+[00:03:43:21 - 00:04:07:08]
+Speaker 1
+ This bad habit of starting recording and then not making sure my water is full. Anyway, let's talk about team building. I'm going to make a copy, yeah it's fine, I'm going to make a copy of this because this is the actual paste and I want to do this. So let's just quickly get this all in order, I think that'll be helpful for you to see the level 50 levels, just somebody remind me to delete this later because I always don't forget and then I'll have two copies and I'll be confused.
+
+[00:04:08:19 - 00:04:15:01]
+Speaker 1
+ 50, 50, 50, 50, more and wrong, 50, every dog, okay.
+
+[00:04:16:13 - 00:04:20:40]
+Speaker 1
+ Cool, alright cool. So let's talk about team building.
+
+[00:04:22:10 - 00:04:36:48]
+Speaker 1
+ There's a lot that I could say about this, so I want to talk about fundamentals more. I want to talk about fundamentals here more than I want to talk about building a team because I think that like those are different topics and they're related to each other, like when you're building a team you should be paying attention to the fundamentals on that team.
+
+[00:04:38:43 - 00:04:39:17]
+Speaker 1
+ But
+
+[00:04:40:30 - 00:04:41:52]
+Speaker 1
+ yeah, like you
+
+[00:04:43:22 - 00:04:47:13]
+Speaker 1
+ basically should be building your team with fundamentals in mind, but you are like
+
+[00:04:48:28 - 00:04:50:23]
+Speaker 1
+ every fundamental you have to break at some point.
+
+[00:04:51:25 - 00:05:28:12]
+Speaker 1
+ That's probably a little confusing, let's just jump into it. So basically the number one thing that I recommend prior... there are two things actually that I recommend prioritizing when you are starting to build a team. The first is speed and speed control, which is basically a way of saying you want to be moving before your opponent moves on average. You don't want it to be 50, 50, you don't want it to be 60% of the time they move faster than you, 40% of the time you move faster than them. You want to be as often as you can moving before your opponent. So there are a number of different ways to do that, and actually this is kind of cool because half of this team is the same as my players cup 2 team, which also prioritized very heavily moving before the opponent.
+
+[00:05:29:56 - 00:05:49:22]
+Speaker 1
+ And yeah, a lot of the same Pokemon give a lot of the same tools. So first and foremost, let's go from fastest to slowest. So first of all we have speed, booster, energy, flutter, main. Oh yeah, this is 18 attack IV, so if you use the rental code be aware that it's not perfectly optimal, that's because the only shiny and marked one I had left had 18 attack IV, which I guess I valued over
+
+[00:05:50:30 - 00:06:37:53]
+Speaker 1
+ a 0 attack IV because I thought I have a really low attack IV one that's also shiny and marked, but I didn't want to retrain it, so I just used the other one that I had, which is not optimal, but yeah there's no foul play in the meta right now and I figured confusion damage is probably comparable, anyway it doesn't really matter. First of all, in my opinion you always want at least one Pokemon that's going to outspeed the 205 speed stat, which is the Chenpao, flutter, main, max speed stat right now, and ideally you want at least one, ideally you want multiple above the speed stat, so that is really important to have Pokemon that are naturally fast, Pokemon that are just above the fastest normal Pokemon in the game, because what that means is that in a situation with no speed control you're moving first.
+
+[00:06:38:56 - 00:06:51:16]
+Speaker 1
+ And so flutter, main, we can talk a lot about this flutter, main, because it's very unique, but what you need to keep in mind from a speed perspective is the fact that it's super fast, it's 180 speed with booster energy, which makes it effectively 270 speed unless you switch out.
+
+[00:06:53:19 - 00:07:20:13]
+Speaker 1
+ Another thing I want you to keep in mind is that it's really valuable to spread out the speeds on your team, this isn't a universal rule, I did this with my players cup 2 team as well, everything was really spread out. For context it was fast dragapult, which is above most of the Pokemon, then it was max speed multrace which was base 90, so I think it's like 156 if I'm not much mistaken. Then you had Urshifu, max speed jolly, which was
+
+[00:07:21:26 - 00:09:12:50]
+Speaker 1
+ slightly above 90, a little faster than multrace, then you had Colossal who was relatively slow but could be really fast after activating steam engine and then Incinero and Rillaboom. So it had more speed than my current one does, so it was probably 110 so then Incinero was around the 80 speed stat. So this team is similar in that the speeds are really well spread out, this is something that I don't ever think anybody else talked about, but I really like it, because let's say you had all Pokemon around this 178 stat, which means in trick room anything slower than your 160 range is going to outspeed your whole team, and out of trick room anything faster than your 180 range is going to outspeed your whole team. And that's bad, and by spreading out your speed stats you basically put yourself in positions where you often have speed tools regardless of what's going on, whether trick room is up, whether tailwind is up, and it makes it a lot harder. The types of Pokemon that are going to outspeed your team have to be a lot more varied because your team isn't clustered. So if your team is all in a narrow range, you get what I'm saying, when your team is clustered around a narrow range it's a lot easier for a Pokemon to outspeed your whole team or 5 year Mons or 4 year Mons, whereas on this team, in order for a Pokemon to be able to outspeed this Fluttermane, nothing's going to do it naturally. And there's some Pokemon that are going to faster score. Urshifu might outspeed Urshifu, but it won't outspeed Fluttermane. And Tornadus might outspeed Ogarpon, but it won't outspeed both Ogarpon and Urshifu and Fluttermane. And in trick room maybe there's an Urshifu with Thash that's faster than Ogarpon, but it's not going to be faster than Rillaboom and Farrigarath. And okay, maybe there's a fast Incinero that's faster in trick room than Rillaboom, but it's faster than Incinero and Farrigarath. So basically by spreading out your speed stats you just put yourself in a position where
+
+[00:09:14:34 - 00:09:49:25]
+Speaker 1
+ you're always going to have, not always, but you will often have tools to outspeed your opponent. So this team I think that's one of the biggest factors in it doing well, is that by outspeeding your opponent with having a lot of tools to outspeed your opponent you often have the ability to kind of like make plays, kind of regardless of what is going on. And so it's not just raw speed stats. We can talk about the speeds of this team, which are good, 270 with the booster energy, this is like 2, hang on math, plus 82, 226 stat I think? If I'm not much mistaken this is slightly faster than Scarf, Adam, and Landorus, maybe 1 point faster, maybe 2.
+
+[00:09:50:32 - 00:10:01:04]
+Speaker 1
+ Then you have a Pokemon that's at 178, which is faster than every Ogarpon I played against and maybe every Tornadus I played against, even though max speed tornadus is technically faster, people weren't running it at Charlotte.
+
+[00:10:02:54 - 00:10:07:26]
+Speaker 1
+ At least not the ones I played against. And if they were I guess I never noticed because they were tailwinding first anyway.
+
+[00:10:09:30 - 00:10:10:01]
+Speaker 1
+ So
+
+[00:10:11:45 - 00:11:22:35]
+Speaker 1
+ you have this, which is really fast, we're going to talk about other things later, and then you also have speed control in the form of trick room. So against opposing tailwind, this team doesn't have a dedicated tailwind or icywind mon, so that's one way that you can outspeed the fast pokemon, but then you run into Frugaraff who can set up trick room. The speed sets themselves and even hard speed control moves like trick room are not the only way that you can influence the speed of the battle. A really important thing is priority moves, because priority moves are just really good because regardless of what is going on with trick room or tailwind, for the most part barring Frugaraff or psychic terrain or whatever, you can use them. And so it gives you a lot of control to still influence the battle even when you are slower. I won a game in day 2 of Charlotte where I led Frugaraff and Ogarpon and they led Urshifu water tornadus. It was banned Urshifu water, it was the scythe spam team. Well it was one of the scythe spam teams. And they went tailwind with tornadus, terra water with urshifu. I switched Frugaraff to Rillaboom, terra fired with Ogarpon, and clicked grassy glide. Obviously they were faster than me and they could KO my pokemon, but because I terra fired I had the attack boost, because of grassy terrain I had priority with grassy glide, and I one shot their urshifu and then just won the game basically because yeah I took their terra and amon for free turn 1.
+
+[00:11:24:07 - 00:11:38:31]
+Speaker 1
+ So yeah, having priority moves is really important and that's one of the big things that this team does well. So you have grassy glide, you have aqua jet, you have grassy glide, you also have fakeout, which is just two fakeout users, and fakeout isn't a priority move in this traditional sense because it
+
+[00:11:39:58 - 00:12:04:53]
+Speaker 1
+ has a one turn activation condition, like you can only use the first turn of pokemon hits the field. However, I still consider fakeout to be a valuable tool in controlling the speed of the battle because often times your opponent's speed control is going to have a turn limit, tailwind, or trick room specifically, and fakeout can help you to not only stall out the turns there, but also to reposition to make sure that maybe you have a good priority attack that you can bring in, but you... Maybe
+
+[00:12:06:15 - 00:13:33:20]
+Speaker 1
+ there's a good priority move for you to bring in, but yeah you couldn't bring them in safely, but you can use fakeout to get them in safely. So fakeout is a speed control tool and also it just gives you a lot of positioning around, like it gives you a lot more, a much bigger positioning tool. So when you look at this team from the angle, let's just like if you're only looking at this team from a speed angle, you can see that you have a super fast pokemon in flutter main, a scarf pokemon, you have two pokemon that outspeed the fastest base speed pokemon in the format, except for regioleki which nobody's using, right? So given that if there's no speed control in play from the opponent, you have two pokemon that are likely going to be faster than your opponent's whole team, super helpful. You have a naturally fast pokemon in overpawn which is going to outspeed let's call it 80% in the metagame, right? Who also has a priority move which can outspeed a lot of the faster and frailer pokemon like flutter main, right? Grassy glide with terrafire and the grassy train boost will KO most flutter main, I never had one survive when I went for this. Then you also against teams that have more dedicated speed control like tailwind, you have a trick room user which you can also use to reverse opposing trick room if needed or just to function in the opponent's trick room as well. So from a speed angle, very very good. I mentioned the other thing you really want to prioritize is power, aka your damage output, and if you look at this team, even the support pokemon on this team can do meaningful damage. Like obviously flutter main can set up with calm mind and do damage, overpawn does a ton of damage with terra or with swords dance or even without them, it just does a ton of damage, ursa view one of the strongest pokemon in the format, can't slow it down with intimidate,
+
+[00:13:34:54 - 00:13:56:10]
+Speaker 1
+ I mean I don't need to convince you that these three pokemon hit hard, right? But for regaraf, a pokemon that's typically trained to be defensive, has the throat spray item here with a ton of special attack investment, allowing it to be very very offensive. And then you also have, like the weakest pokemon on this team is incineror, who still has a 120 base power stab move coming off a base 115 attack, and knockoff, which is like basically a 97 base power move, thanks to
+
+[00:13:57:19 - 00:15:06:31]
+Speaker 1
+ most of the time you're using it you're getting rid of an item, and then you have rillaboom, who also doesn't have that much attack investment, but I mean still it's a really high attack stat, with a 120 base power move boosted another 30%, I forget how much it is now, so if you look at damage output, every single pokemon on this team can do damage, and I think that was also really good, because I never got stuck with like "oh my last pokemon is Amoongus, I can't do anything" or like "oh man they have like grass type, or like 2 spore on me and pokemon and my Amoongus can't do anything" or "oh I've got dazzling lema only attack, dazzling lema trick room, helping hand in prison for regaraf, and my opponent has a low HP fire type and I can't get the kill" right, like no matter what was on the field, with a couple exceptions with Incineroar I almost always had offensive pressure and I was almost always exerting damage. As a general rule you never want to have more than 2 pokemon on your team who can't do damage in a pinch, so like Incinero plus Amoongus that's fine, Incinero goes both ways, but I would consider it like a non damaging pokemon in general, like you don't want Incineroar and Porygon 2 and like, so also it's worth noting that you can break these rules, like every rule can be broken, I broke some rules on this team,
+
+[00:15:07:43 - 00:15:17:03]
+Speaker 1
+ but as a general best practice having pokemon like if you have Incineroar and Porygon 2 and Amoongus and Tinglu on your team which was a successful team from the Liverpool regional championships,
+
+[00:15:18:12 - 00:15:35:36]
+Speaker 1
+ but that breaks one of my principles which is to have damage output. Another principle that I broke on this team is the type chart, typically you want to make sure you can hit a wide range of pokemon, and this team really struggled to hit fire types because I overlapped on both fire and grass, half of my team is a fire or grass type, or both,
+
+[00:15:37:19 - 00:16:00:23]
+Speaker 1
+ and what that meant in practice was that like against certain fire type pokemon like Entei for example, my options to hit it were really limited, I relied really heavily on Frigar, I've actually to do strong neutral damage against a lot of these fire type threats, Volcarona was another, well Volcarona was okay because I could smack it with Ogrepond, but with Terra Dragon it was hard, I really kind of relied on the fact that most fire types couldn't hit Ogrepond and on the fact that Resisted
+
+[00:16:01:51 - 00:16:06:19]
+Speaker 1
+ plus 1 IV Kudgel with a Terra still does a ton of damage, I was kind of leaning into that pretty heavily.
+
+[00:16:07:47 - 00:16:53:47]
+Speaker 1
+ So that's one rule that I broke, and actually by overlapping, it's not only offensively that I struggled, by overlapping the Ogrepond, Incin, and Reliboom type chart here, I didn't have time to stack like a Steel Pokemon or a Rock Pokemon or anything that could give me a resistance against normal, so that meant that, sorry, except for Fluttermane was my normal resistance, but against Urshufu Bloodmoon, this does not work, right? So yeah, that was another, defensively there was some Pokemon that I had a lot of trouble switching into because of the fact that I overlapped typing, so keep in mind that these rules are good general practice, but there are successful teams always that break rules, it's just about knowing when you can and can't break rules, right? On this team I chose to break the, it's not a rule, it's a best practice, but I broke the best practice for
+
+[00:16:54:53 - 00:17:16:37]
+Speaker 1
+ typing here, but I was okay with that because I felt confident that typing was less important because my neutral hits were just doing so much damage with Urshufu, Ogrepond, and F R E G R A F just do so much damage that even if you're not hitting for super effective, often they can hit for neutral on a lot of stuff, Ogrepond less than Urshufu and F R E G R A F, but yeah, hitting for neutral with these Pokemon was still so good that I was comfortable leaning on them a little bit.
+
+[00:17:18:43 - 00:18:08:54]
+Speaker 1
+ Cool, I've thrown a lot at you guys, let's see how long have I been talking for, because I have more than I could say. I haven't been that long, I feel like it's just really dense. What else can I say about this team? Oh yeah, so something that this team does really well and that I see is a mistake that a lot of newer players make is you want to make sure that your team doesn't have very much anti synergy. So anti synergy is basically a really easy example as like Torkel and Pelipper on the same team where like one Pokemon actively gets in the way of another Pokemon's like job, where like Indeedee and Cinnor is a more common example, right? Most teams will have both Indeedee and Cinnor, but Indeedee's psychic terrain stops fakeout, right? So that's a form of anti synergy. My team has a lot of hidden synergy, that's part of the reason it does really well. The thing I want to point out to you all is that I made exquisite use of fakeout, this is one of the best teams I've ever made, maybe one of the best teams I've ever even seen when it comes to maximizing fakeout's value.
+
+[00:18:12:19 - 00:19:25:09]
+Speaker 1
+ Because every Pokemon on this team could take advantage of fakeout in a unique way. For a graphic instead of trick room with fakeout, or he could go for hyper voice getting special attack boost with throne spray. Fluttermane obviously could calm mind, this is a huge benefit of having fakeout support. Urshifu could hit through protect so that you couldn't use protect to protect stall out the fakeout and was able to get guaranteed damage on targets in front of a fakeout, which is really good. And with Urshifu wellspring in the metagame, it was really nice to have a fakeout partner because that meant that you could, if you needed to, win a pinch, surging strikes regardless of the follow me threat. And then Ogarpon could go for Swords Dance. The thing is, because every Pokemon on my team was able to benefit from the fakeout support from Incinero or Rillaboom, having two fakeout users was also really great because everything benefited from fakeout. This often allowed me to just go for attacking moves and not bother setting up. A lot of the time in my top 8 stat I was able to get a huge lead on turn 1 because my opponent was in Incinero and Assaultless Raging Bolt and I lead Incinero and Fluttermane, and obviously in that position the normal player would be fakeout into one of the Pokemon and Calm Mind with the other. It was Snarl, Assaultless Raging Bolt.
+
+[00:19:26:26 - 00:19:29:41]
+Speaker 1
+ My opponent could go for Snarl plus parting shot regardless.
+
+[00:19:31:17 - 00:19:58:39]
+Speaker 1
+ And I just went fakeout and moonblast into the Raging Bolt and did a ton of damage from the get go. And I don't think my opponent was considering that play because the threat of Calm Mind was so high. If I didn't have Calm Mind they might have considered switching Raging Bolt to a Moongus and parting shotting because there's not that much of a threat. Like maybe Incinero takes some damage but then you have Spore Pressure. But yeah, if they switch Raging Bolt to a Moongus and I go fakeout into Incinero and Calm Mind and they just lose a ton of ground right away then that's really really bad.
+
+[00:20:01:15 - 00:20:37:28]
+Speaker 1
+ So basically by having fakeout pressure I was able to really put like it made opponents protecting really really scary for them and so this is the least I think anyone has ever protected in front of me for an entire tournament because I was always cycling and fakeout and I was always threatening big damage or big setup and so people felt obligated to just attack. The Wolfclik special was leading with Incineroar or Relibum Normal Incineroar and Ogrepond in front of Ogrepond Wellspring teams. I did this versus Ashton to basically win a game on the spot. It was game 2 as well so it was really impactful to win because I just closed the set out. I led Incineroar and Ogrepond in Hearthflame and Ashton led with
+
+[00:20:38:35 - 00:21:48:22]
+Speaker 1
+ gouging fire and Ogrepond Wellspring and obviously the scary play here is to fakeout the Ogrepond Wellspring in Swords Dance with my Ogrepond because gouging fire can howl to offset the intimidate but then I'm at plus 2 or it can breaking swipe which I don't know it's okay but it still forces you to breaking swipe next turn basically to even go back to neutral. So instead what I did is I fakeout of the gouging fire, terror to fire, and just one shot the Ogrepond Wellspring and then I had a KO from turn 1, I'd lost absolutely nothing but it would have been so risky for Ashton to do anything else because let's say he goes for terror water there and I go fakeout Swords Dance, well now you've lost your surging strikes immunity and your weak to grass so that's really bad. And if he had protected with one or both of his Pokemon to try and stall the fakeout then Swords Dance would have potentially lost the game right away. So I felt like I was putting my opponents in these horrible like you have to guess what I'm going to do and mixing them up a lot to make it really difficult for them to protect sorry predict where like I felt like I kept putting opponents in spots where it's like hey I've got multiple moves that I can make that would give me such a huge advantage if I if you get them wrong and you the onus is on you to guess what they are and yeah I just like got a lot of wins from this.
+
+[00:21:49:36 - 00:24:47:35]
+Speaker 1
+ Yeah so having really good fakeout synergy was really really good. Also Frigereff's ability is really broken I really value abilities that give you control over the game that's why I like Gotha tell as well I really like Frigereff and I kind of had didn't I should say figured out that that arm or tail for Frigereff was really really good. Um yeah having your trick room setter like so okay here's a small thing that I can say um oh this is this isn't like a fundamental so much as a little like wolfy tip but my wolfy tip for you is that a lot of times people feel like there needs to be like trick room setter needs to come with trick room sweeper but there are times where the trick room setter can be the trick room sweeper there are also times where you don't need an explicit trick room sweeper because you use trick room primarily against um like faster teams this is actually true of my Worlds team in 2016 where Bronzong was used it was I mean gyro ball actually did a lot of damage back in the day because a lot of things were fast and steel was a good type um but um like Kyogre was kind of the trick room sweeper but also like you didn't need to use trick room to support Kyogre like you could use other ways like Kyogre didn't require trick room right but against teams that really wanted to like um you know be faster or do stuff like that then having Kyogre in trick room was really really scary and Fergraph is a trick room sweeper here um with Hyper Voice getting the throat spray boost like it's basically it's just super super strong um keep in mind that is this really right 90 I spent this whole tournament thinking Hyper Voice was 80 base power and then I was like maybe psychic is 95 so maybe yeah no I'm stupid they're both 90 um anyway yeah after like keep in mind sometimes I think people forget that like how the stat boosts interact but keep in mind that after a throat spray Fergraph is basically choice specs right because that's plus one and specs is also plus one and if you look like this is like throat spray modest Fergraph is comparable to this is in specs but you know imagine this was an EV spread into specs Futtermain it's comparable like the special attack stats are actually really comparable um to specs Futtermain so uh yeah like to give you an idea this is basically slightly weaker than average specs Futtermain but with a an ability that is much more useful than the ability on specs Futtermain um and the abilities that trick room and the ability to protect also a lot of people weren't running protect them Fergraph I think on an active set it's super super useful protect was so so good especially the fake out being able to switch in um a couple other things that I really prioritized with this team that did me a lot of good uh I did not fall asleep a single single game in this entire tournament because my Amoongus counter play was so good and I guess my my powder move in general I did play a jump bluff but my opponent didn't bring it because you have grass type immune to powder moves grass type immune to powder moves safety goggles and terror grass uh this is partially because I just really hate falling asleep um and partially because both Fergraph and Urshifu struggle a little bit with Amoongus with Urshifu um like obviously Amoongus is super good into it like you can't really do any damage to it at all and if they have rocky helmet then it's just a death sentence Fergraph obviously does well into Amoongus but oftentimes with Fergraph you want to sit trick room up and um obviously you don't want to like Fergraph is really bad in trick room against Amoongus because of obvious reasons right so um
+
+[00:24:48:42 - 00:27:08:57]
+Speaker 1
+ yeah basically all this to say uh that like I really wanted to make sure I had to go to Amoongus matchup because number one it's a pokemon you always need to respect any kind of powder user Venusaur as well um when when when Venusaur is good and you know when Lily Cole has has play then you want to respect that as well um but also because like it happened Amoongus happened to have really strong matchups into these two and it wasn't good into flutter main but also like it did force me to Terra so if they didn't bring Amoongus I often wasn't forced to Terra flutter main in certain matchups so anything I could do to discourage it was helpful um especially like oftentimes against Arcaladon in practice uh game one they would try and like use Amoongus early on and I would just Terra to Grass use fakeout having like two fakeout immune sport type sport pokemon was really good too but yeah I would like Terra to Grass fake out the partner and then calm mind as they like wasted her with Amoongus and then I could just like ignore Amoongus and cycle between the fakeout users for the rest of the game and that just gave me such a huge advantage over um a lot of a lot of my opponents um that oftentimes I could kind of bully them out of bringing Amoongus for game two so um yeah so basically having a lot of counterplay to Amoongus is also really nice it's not mandatory you definitely don't need this much Amoongus counterplay but you're never going to be upset to have more pokemon immune to Amoongus I personally try to never go below two for immunities and I think with Terra Grass you can often mix like you should be considering two plus a Terra is something that I would like recommend at least thinking about just because Amoongus is so strong um but the nice thing is that counterplay to Amoongus can make it feel really really bad so um yeah so yeah this is a little bit long-winded and a little bit all over the place basically to recap speed and power the two things you should focus on the most um type chart is also really important but you can kind of make sacrifices if you have like if you if you have more experience um the reason I made sacrifices here is because I felt really confident in my strong neutral hits um things that give you control are good like trick room uh armor tail etc fakeout is really good but you need to make sure that if you have fakeout on your team that you are not just like losing to sorry that you're not just being invalidated by protecting both of your opponent's pokemon you do not need to have this much support for fakeout or this much not every pokemon on your team has to be able to take advantage of fakeout but it does it is nice personally but it's not something that you'll normally be able to get on most teams it's just kind of a special case for this team um yeah and then I guess the last thing I'll say is just about building in this current format I think I've mentioned this before maybe in the metagame breakdown um
+
+[00:27:10:29 - 00:28:34:34]
+Speaker 1
+ but um yeah this is a really wide format so I think having tools that are generally really useful against wide swaths of the format like that's how I prioritize building this team is I wanted to have a team that just like would give me good tools against everything or at least give me give me tools period against everything I didn't want to run into a matchup and be like oh nothing I can do guess I lose right and so having trick room having a wide range of speeds also the specific pokemon I chose like I could have used Amoongas right as a grass type I mean maybe on I could have right I could have at least considered it but the thing is that Rillaboom improves the matchup significantly against psychic terrain based teams and I kind of stomped every psychic terrain based team I played because like I had Incineroar I had Rillaboom I had Frigarath so I had like a psychic immunity a psychic resistance an anti-tricker in pokemon in case they wanted to do that and a trick room tool against the tailwind tailwind Sisemam teams and I had the weight of overriding the terrain and I had multiple fakeout users which I could use because I had multiple players and then I could also mix in Kalmyne Fluttermane or Surging Tricks Urshavu or Ogrepond who could also take advantage of the grassy terrain as well yeah so I had just like a super super good matchup against Sisemam without Rillaboom with Amoongas in that slot for example it could be a lot harder and so I chose Rillaboom in part because of its wide array of matchups this is also the reason I chose Incineroar right because I was like well if I want a pokemon that's good against everything I should probably use the best pokemon ever right whereas this could have been I don't even know what it would have been actually on this team it's kind of complicated yeah you get what I'm saying
+
+[00:28:35:50 - 00:29:01:50]
+Speaker 1
+ all this to say this is a lot but pay attention to your speed and your power that's the best thing you can do when building a team make sure you don't have too many support pokemon and also yeah make sure your pokemon work well together right I think if there's some things that you can take away from this it's the focus on speed the focus on damage and the focus on synergy right my team has amazing synergy with each other and that's you know that's intentional there's a reason for that and it was all done with a lot of yeah just intent so
+
+[00:29:03:04 - 00:29:06:15]
+Speaker 1
+ yeah that's that's what I would recommend to you oh I guess okay last thing I'll say for real
+
+[00:29:08:25 - 00:32:07:27]
+Speaker 1
+ tera types so if we look at this team this let's ignore this because this has no choice for the tera type this is the standard tera type on furograph or like at least one of the standard types and this is the standard type on urshifu none of these three are standard tera types and what I would recommend to you is that sometimes the standard tera type on a pokemon generally with Rillaboom it's fire with Incineroar's dragon and with Fluttermane it's fairy but the standard type is standard for like the the meta game as a whole something that I've really liked about team building in scarlet and violet is that by spending a lot of time with the team you can really find a lot of optimizations and some like sometimes you like like in cinema for example you're like okay well part of the reason you want tera dragon is because you want the resistance against uh over upon wellspring and you want the resistance against urshifu water but my team was super good into urshifu water because I had trick room speed booster fluttermane and two grassy glide grass types plus urshifu wellspring so in fact the only pokemon on my team who wasn't very good against urshifu water was Incineroar everything else at least had some tools against it and um four pokemon could out like were probably speeding it most of the time unless furograph hadn't set trick room up yet right um and so I didn't really need the resistance to to urshifu and like yeah over upon wellspring was kind of like annoying but I like you're intimidating in any way and like I don't know like oh didn't feel that valuable whereas because my Incineroar was so slow probably happens on the screen if I'm talking about it right because my Incineroar was so slow I was always slower well in practice I was almost always slower than than opposing fakeout users especially in cineroar and so sometimes be in a late game situation being able to buy a turn with like with tera ghost or becoming immune to urshifu single strike who was kind of a problem especially like if they had choice garth it could be like kind of spooky so being able to become immune to that was really nice um even though ghost isn't like the general type it was the I think it was the right call on this team obviously tera grass because this was my main answer to Duro or teams especially our callad on rain and you need to be able to ignore mungus to win that matchup the tera grass was necessary here and poison you know fire is I would say in general a better type for um rilla boom but because I was weak to glomora and had no way of removing toxic spikes it was really important to get a tera poison somewhere on the team and that's where rilla boom comes in so um yeah so basically I like I think that this is another thing to take away is that the more time you have to practice with the team the more time you can spend kind of finding the best tera types and eevee spreads for your team specifically um and so yeah if you're planning on attending a tournament I definitely recommend especially in this format having extra time to prepare and practice um leading up to the event because um yeah like you just like you're not gonna if you pick up a team three days two or three days before an event you're not gonna have time to figure out the best tera types for your team you might find the best tera types for the pokemon individually in a vacuum but yeah that doesn't mean you're finding the best tera types or eevee spreads for um your pokemon like specifically I think this is one of the weaknesses of our world's team is we didn't have time to optimize for stuff like this so anyway this is a long video my throat kind of hurts from talking too much I hope this is interesting to you all um if you have any feedback feel free to let me know in the comments down below and um yeah I think that's it for me thank you for watching I hope you enjoyed bye bye

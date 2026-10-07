@@ -1,0 +1,55 @@
+# PokePaste: Matthew Henry's Brisbane Regional 2027 Top 8 Team
+Author: VGCPastes
+Source: https://pokepast.es/97b4e4dba9ec080d
+
+```
+Rillaboom @ Miracle Seed  
+Ability: Grassy Surge  
+Adamant Nature  
+- Wood Hammer  
+- Grassy Glide  
+- High Horsepower  
+- Fake Out  
+
+Gengar @ Gengarite  
+Ability: Cursed Body  
+Timid Nature  
+- Protect  
+- Sludge Bomb  
+- Substitute  
+- Shadow Ball  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Sassy Nature  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+- Fake Out  
+
+Kingambit @ Life Orb  
+Ability: Defiant  
+Adamant Nature  
+- Kowtow Cleave  
+- Sucker Punch  
+- Swords Dance  
+- Protect  
+
+Sneasler @ Grassy Seed  
+Ability: Unburden  
+Adamant Nature  
+- Dire Claw  
+- Rock Slide  
+- Protect  
+- Close Combat  
+
+Floette-Eternal @ Floettite  
+Ability: Flower Veil  
+Modest Nature  
+- Calm Mind  
+- Draining Kiss  
+- Dazzling Gleam  
+- Protect  
+
+
+```

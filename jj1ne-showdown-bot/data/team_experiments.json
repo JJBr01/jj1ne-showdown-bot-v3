@@ -1,0 +1,193 @@
+{
+  "activeVariant": "lifeorb_garchomp",
+  "history": [
+    {
+      "timestamp": "2026-10-02T22:01:40.858Z",
+      "from": "clear_amulet_kingambit",
+      "to": "scarf_garchomp",
+      "reason": "Mega Dragon Dance Dragonite and +1 Extreme Speed dictated the midgame; Scarf Garchomp outspeeds +1 setup sweepers before they snowball and gives a turn-1 revenge option that Sitrus does not."
+    },
+    {
+      "timestamp": "2026-10-02T23:06:16.460Z",
+      "from": "scarf_garchomp",
+      "to": "clear_amulet_kingambit",
+      "reason": "Kingambit was neutralized by Will-O-Wisp and Parting Shot chains this game; Clear Amulet blocks the stat drops from Parting Shot/Intimidate-style pressure and keeps our slow attacker relevant against Grimmsnarl/Sableye support cores (Defiant rarely triggered anyway in these matchups since they use Parting Shot on Whimsicott instead)."
+    },
+    {
+      "timestamp": "2026-10-02T23:10:26.531Z",
+      "from": "clear_amulet_kingambit",
+      "to": "scarf_garchomp",
+      "reason": "Rain/Archaludon games need an immediate revenge-KO speed tier; Scarf Garchomp remains the only piece that can outspeed and threaten boosted sweepers before they fire."
+    },
+    {
+      "timestamp": "2026-10-03T02:37:23.756Z",
+      "from": "scarf_garchomp",
+      "to": "clear_amulet_kingambit",
+      "reason": "Kingambit keeps arriving chipped and dying with low damage contributed; Clear Amulet also blanks Rock Tomb/Icy Wind speed drops and opposing Intimidate while we test whether Defiant's +2 is actually being realized (it was not this game — the Intimidate came only after Rillaboom fainted)."
+    },
+    {
+      "timestamp": "2026-10-03T02:40:45.442Z",
+      "from": "clear_amulet_kingambit",
+      "to": "scarf_garchomp",
+      "reason": "Clear Amulet Kingambit is 1-2 and Kingambit was not even brought this game; Scarf Garchomp (33-44) remains the only loadout with a meaningful sample and gives us the natural speed insurance the playbook demands when we keep ending games with 0 Tailwind turns."
+    },
+    {
+      "timestamp": "2026-10-03T03:42:49.184Z",
+      "from": "scarf_garchomp",
+      "to": "clear_amulet_kingambit",
+      "reason": "Kingambit has now died 132 times and in this game Life Orb recoil (20 HP) is literally the difference between surviving and fainting to a 90% Heat Wave roll; Clear Amulet removes self-chip pressure and blocks Intimidate stat games, worth a short trial given scarf_garchomp sits at 46%."
+    },
+    {
+      "timestamp": "2026-10-03T03:46:38.701Z",
+      "from": "clear_amulet_kingambit",
+      "to": "scarf_garchomp",
+      "reason": "Clear Amulet Kingambit is 1-3 (25%) and died turn 1 to a Fire move that Clear Amulet does nothing about; Scarf Garchomp (45-52) gives us the Rock Slide speed answer to Volcarona/Pyroar that this loss exposed."
+    },
+    {
+      "timestamp": "2026-10-03T05:12:21.654Z",
+      "from": "scarf_garchomp",
+      "to": "dual_mega",
+      "reason": "Test dual mega core"
+    },
+    {
+      "timestamp": "2026-10-03T05:12:21.658Z",
+      "from": "dual_mega",
+      "to": "scarf_garchomp",
+      "reason": "Resetting after test"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.885Z",
+      "from": "scarf_garchomp",
+      "to": "sun_tempo",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.891Z",
+      "from": "sun_tempo",
+      "to": "antirain",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.894Z",
+      "from": "antirain",
+      "to": "antipsy",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.896Z",
+      "from": "antipsy",
+      "to": "antitr",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.897Z",
+      "from": "antitr",
+      "to": "antisand",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.900Z",
+      "from": "antisand",
+      "to": "dual_mega",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-03T05:53:45.902Z",
+      "from": "dual_mega",
+      "to": "scarf_garchomp",
+      "reason": "Testing variant loader"
+    },
+    {
+      "timestamp": "2026-10-04T18:15:30.000Z",
+      "from": "scarf_garchomp",
+      "to": "lifeorb_garchomp",
+      "reason": "Switched to Life Orb Garchomp + Chople Berry Kingambit + Rillaboom + Incineroar variant based on match review"
+    },
+    {
+      "timestamp": "2026-10-04T18:45:48.972Z",
+      "from": "lifeorb_garchomp",
+      "to": "antipsy",
+      "reason": "Test switch"
+    },
+    {
+      "timestamp": "2026-10-04T18:45:48.977Z",
+      "from": "antipsy",
+      "to": "lifeorb_garchomp",
+      "reason": "Restoring active variant"
+    },
+    {
+      "timestamp": "2026-10-04T18:52:45.323Z",
+      "from": "lifeorb_garchomp",
+      "to": "lifeorb_garchomp",
+      "reason": "Pre-battle variant selection"
+    }
+  ],
+  "variants": {
+    "standard": {
+      "name": "standard",
+      "description": "Standard: Sitrus Berry Garchomp + Life Orb Kingambit",
+      "games": 2,
+      "wins": 0
+    },
+    "scarf_garchomp": {
+      "name": "scarf_garchomp",
+      "description": "Choice Scarf Garchomp (High Speed Rock Slide / Stomping Tantrum / EQ)",
+      "games": 102,
+      "wins": 48
+    },
+    "clear_amulet_kingambit": {
+      "name": "clear_amulet_kingambit",
+      "description": "Clear Amulet Kingambit (Blocks opposing Intimidate & stat drops)",
+      "games": 4,
+      "wins": 1
+    },
+    "dual_mega": {
+      "name": "dual_mega",
+      "description": "Dual Mega Core: Mega Charizard Y + Mega Dragonite with Incineroar, Rillaboom, Gholdengo, Whimsicott",
+      "games": 0,
+      "wins": 0
+    },
+    "sun_tempo": {
+      "name": "sun_tempo",
+      "description": "Dual Mega Sun Tempo: Mega Charizard Y + Mega Dragonite, Scarf Chomp, Sash Whims, LO Gambit, Milo",
+      "games": 0,
+      "wins": 0
+    },
+    "antirain": {
+      "name": "antirain",
+      "description": "Dual Mega Anti-Rain: Mega Charizard Y (Solar Beam) + Mega Dragonite, Rillaboom, LO Gholdengo, Incineroar, Whimsicott",
+      "games": 0,
+      "wins": 0
+    },
+    "antipsy": {
+      "name": "antipsy",
+      "description": "Dual Mega Anti-PsyTerrain: Mega Charizard Y + Mega Dragonite, Kingambit, Grassy Surge Rillaboom, Incineroar, Whimsicott",
+      "games": 0,
+      "wins": 0
+    },
+    "antitr": {
+      "name": "antitr",
+      "description": "Dual Mega Anti-Trick Room: Mega Charizard Y + Mega Dragonite, 0-Spe Brave Gambit, Milotic, Incineroar, Whimsicott",
+      "games": 0,
+      "wins": 0
+    },
+    "antisand": {
+      "name": "antisand",
+      "description": "Dual Mega Anti-Sand & Garchomp-Z: Mega Charizard Y + Mega Dragonite, Scarf Chomp, Milotic, Rillaboom, Incineroar",
+      "games": 0,
+      "wins": 0
+    },
+    "t16_counter": {
+      "name": "t16_counter",
+      "description": "Dual Mega Top 16 Counter: Mega Charizard Y + Mega Dragonite, LO Gholdengo, Focus Sash Arcanine-H, Chople Kingambit, Whimsicott",
+      "games": 0,
+      "wins": 0
+    },
+    "lifeorb_garchomp": {
+      "name": "lifeorb_garchomp",
+      "description": "Life Orb Garchomp + Chople Berry Kingambit + Rillaboom + Incineroar (Dual Mega Core)",
+      "games": 10,
+      "wins": 5
+    }
+  }
+}

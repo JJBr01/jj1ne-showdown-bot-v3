@@ -1,0 +1,310 @@
+{
+ "updated": "2026-10-04T18:52:56.094Z",
+ "sheet": "Champions M-C",
+ "teams": 463,
+ "sets": 2778,
+ "usage": [
+  {
+   "species": "Rillaboom",
+   "pct": 53.3,
+   "item": "Miracle Seed"
+  },
+  {
+   "species": "Sneasler",
+   "pct": 49.9,
+   "item": "White Herb"
+  },
+  {
+   "species": "Salamence",
+   "pct": 37.1,
+   "item": "Salamencite"
+  },
+  {
+   "species": "Incineroar",
+   "pct": 36.1,
+   "item": "Sitrus Berry"
+  },
+  {
+   "species": "Kingambit",
+   "pct": 30.5,
+   "item": "Chople Berry"
+  },
+  {
+   "species": "Indeedee-F",
+   "pct": 23.5,
+   "item": "Rocky Helmet"
+  },
+  {
+   "species": "Basculegion",
+   "pct": 21.6,
+   "item": "Life Orb"
+  },
+  {
+   "species": "Gholdengo",
+   "pct": 21.4,
+   "item": "Life Orb"
+  },
+  {
+   "species": "Floette-Eternal",
+   "pct": 16.8,
+   "item": "Floettite"
+  },
+  {
+   "species": "Garchomp",
+   "pct": 14.9,
+   "item": "Garchompite Z"
+  },
+  {
+   "species": "Golisopod",
+   "pct": 14.7,
+   "item": "Golisopite"
+  },
+  {
+   "species": "Milotic",
+   "pct": 14.3,
+   "item": "Leftovers"
+  },
+  {
+   "species": "Arcanine-Hisui",
+   "pct": 12.5,
+   "item": "Focus Sash"
+  },
+  {
+   "species": "Sylveon",
+   "pct": 11.2,
+   "item": "Fairy Feather"
+  },
+  {
+   "species": "Raichu",
+   "pct": 11,
+   "item": "Raichunite Y"
+  },
+  {
+   "species": "Pelipper",
+   "pct": 11,
+   "item": "Focus Sash"
+  },
+  {
+   "species": "Farigiraf",
+   "pct": 10.8,
+   "item": "Sitrus Berry"
+  },
+  {
+   "species": "Archaludon",
+   "pct": 10.8,
+   "item": "Leftovers"
+  },
+  {
+   "species": "Charizard",
+   "pct": 10.4,
+   "item": "Charizardite Y"
+  },
+  {
+   "species": "Tyranitar",
+   "pct": 9.3,
+   "item": "Tyranitarite"
+  },
+  {
+   "species": "Armarouge",
+   "pct": 9.3,
+   "item": "Life Orb"
+  },
+  {
+   "species": "Excadrill",
+   "pct": 8,
+   "item": "Focus Sash"
+  },
+  {
+   "species": "Gardevoir",
+   "pct": 8,
+   "item": "Gardevoirite"
+  },
+  {
+   "species": "Indeedee",
+   "pct": 7.3,
+   "item": "Choice Scarf"
+  },
+  {
+   "species": "Baxcalibur",
+   "pct": 6.3,
+   "item": "Baxcalibrite"
+  },
+  {
+   "species": "Torkoal",
+   "pct": 6,
+   "item": "Charcoal"
+  },
+  {
+   "species": "Lucario",
+   "pct": 6,
+   "item": "Lucarionite Z"
+  },
+  {
+   "species": "Volcarona",
+   "pct": 5.4,
+   "item": "Rocky Helmet"
+  },
+  {
+   "species": "Gengar",
+   "pct": 5,
+   "item": "Gengarite"
+  },
+  {
+   "species": "Staraptor",
+   "pct": 5,
+   "item": "Staraptite"
+  },
+  {
+   "species": "Sinistcha",
+   "pct": 4.8,
+   "item": "Sitrus Berry"
+  },
+  {
+   "species": "Metagross",
+   "pct": 4.5,
+   "item": "Metagrossite"
+  },
+  {
+   "species": "Glimmora",
+   "pct": 4.3,
+   "item": "Glimmoranite"
+  },
+  {
+   "species": "Whimsicott",
+   "pct": 4.1,
+   "item": "Focus Sash"
+  },
+  {
+   "species": "Pawmot",
+   "pct": 4.1,
+   "item": "Focus Sash"
+  },
+  {
+   "species": "Politoed",
+   "pct": 3.9,
+   "item": "Sitrus Berry"
+  },
+  {
+   "species": "Kommo-o",
+   "pct": 3.7,
+   "item": "Leftovers"
+  },
+  {
+   "species": "Swampert",
+   "pct": 3.7,
+   "item": "Swampertite"
+  },
+  {
+   "species": "Froslass",
+   "pct": 3.5,
+   "item": "Froslassite"
+  },
+  {
+   "species": "Venusaur",
+   "pct": 3.2,
+   "item": "Focus Sash"
+  }
+ ],
+ "topPairs": [
+  {
+   "pair": "Incineroar + Rillaboom",
+   "pct": 26.3
+  },
+  {
+   "pair": "Rillaboom + Sneasler",
+   "pct": 26.3
+  },
+  {
+   "pair": "Rillaboom + Salamence",
+   "pct": 24.6
+  },
+  {
+   "pair": "Salamence + Sneasler",
+   "pct": 21.8
+  },
+  {
+   "pair": "Kingambit + Sneasler",
+   "pct": 18.8
+  },
+  {
+   "pair": "Incineroar + Sneasler",
+   "pct": 17.9
+  },
+  {
+   "pair": "Kingambit + Rillaboom",
+   "pct": 17.3
+  },
+  {
+   "pair": "Gholdengo + Rillaboom",
+   "pct": 16.6
+  },
+  {
+   "pair": "Kingambit + Salamence",
+   "pct": 15.1
+  },
+  {
+   "pair": "Floette-Eternal + Rillaboom",
+   "pct": 14
+  },
+  {
+   "pair": "Floette-Eternal + Sneasler",
+   "pct": 13.2
+  },
+  {
+   "pair": "Floette-Eternal + Incineroar",
+   "pct": 12.7
+  },
+  {
+   "pair": "Basculegion + Rillaboom",
+   "pct": 12.5
+  },
+  {
+   "pair": "Indeedee-F + Sneasler",
+   "pct": 12.5
+  },
+  {
+   "pair": "Gholdengo + Salamence",
+   "pct": 12.3
+  },
+  {
+   "pair": "Basculegion + Sneasler",
+   "pct": 11.7
+  },
+  {
+   "pair": "Incineroar + Salamence",
+   "pct": 10.6
+  },
+  {
+   "pair": "Gholdengo + Incineroar",
+   "pct": 9.7
+  },
+  {
+   "pair": "Raichu + Rillaboom",
+   "pct": 9.5
+  },
+  {
+   "pair": "Arcanine-Hisui + Rillaboom",
+   "pct": 9.5
+  },
+  {
+   "pair": "Basculegion + Salamence",
+   "pct": 9.5
+  },
+  {
+   "pair": "Gholdengo + Sneasler",
+   "pct": 9.3
+  },
+  {
+   "pair": "Milotic + Rillaboom",
+   "pct": 9.1
+  },
+  {
+   "pair": "Armarouge + Indeedee-F",
+   "pct": 8.9
+  },
+  {
+   "pair": "Floette-Eternal + Kingambit",
+   "pct": 8.2
+  }
+ ]
+}

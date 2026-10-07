@@ -1,0 +1,147 @@
+[00:00:00:37 - 00:00:07:47]
+Speaker 1
+ Hello everybody, welcome to the Patreon video for February. This is the video that was submitted by our top tier
+
+[00:00:08:50 - 00:01:26:39]
+Speaker 1
+ Patreon members and then voted on by you all. This was a very exciting video because this is the closest the voting has ever been. My intention was to make this video last night when it was tied at 216 votes, I believe. Actually let me pull it up here. There were like eight options and two of them had exactly the same amount. Let me see here, right? Yeah, 216 votes, okay? And so I was like, well, okay, I guess I'll just wait till tomorrow to make it. So I woke up this morning and I was like, great, gotta make the video today. And it was tied again with 226 votes. And so at the end of the day, I said, you know what, people want both of these equally. I'm going to do the one that I think makes a more interesting and more important video. The other one was using other trainers teams and how to adapt them. So maybe we'll do that in the future. It was a very popular one as well. I'm sure it'll be resubmitted again. So we're talking about how to tell if you have a bad matchup or a good matchup, but mostly bad. Also, this is no longer the same eye burning weight that it was before. You kind of can't tell as clearly as I think you should be able to, but it's not cool. It's like now it's like an eggshell. I don't know what that means. It's like an off white. And Scarlett made a slide deck. So now, like she's got a template for me. So yeah, now I can have my face came on screen and it won't get in like getting the way of the text. So everyone say thank you, Scarlett. Okay,
+
+[00:01:27:43 - 00:01:55:02]
+Speaker 1
+ let's talk about matchups. The first thing I want to say is that your matchups do matter. And I'm going to say this with an asterisk because we're going to come back to it later. But in theory, your matchups matter. Like, okay, your matchups definitely matter, right? Everybody would rather have good matchups than bad matchups. In fact, when you were building a team in the first place, the main thing that people are trying to do is give themselves good matchups. If your matchups didn't matter, you could just take any team and like, yeah, just play the game, right? So of course, everybody wants to have good matchups. However, like
+
+[00:01:56:22 - 00:02:05:09]
+Speaker 1
+ not every person who builds a team has the same goal of having only good matchups. In fact, some teams are built not with the goal of having good matchups in mind.
+
+[00:02:06:28 - 00:03:06:27]
+Speaker 1
+ I'll come back to that at the end of the slide. But basically, you want winning to be as easy as possible. This is the goal of building a good team. And the better your matchups are, the easier it is to win. I do want to say, like at the beginning here, that good matchups and bad matchups or good matchup and bad matchup are blanket terms that people throw around pretty loosely. And I think as blanket terms, they're like not as helpful as they are when you are specific. It's important to understand how good or how bad a matchup is. I'll talk more about this later. But I think it's like I think one piece of terminology that people use is thinking about your matchup in terms of like a summing to 100, right? So like a 45, 55 matchup and a like you like, you know, everything goes out like if you play the match of 100 times, you win 45 and they win 55 versus a like 10 90 where if you play 100 times, you win 10, they win 90. These are both bad matchups, but they're not the same type of bad matchup. So I would encourage you if you want to think about how good a bad matchup is, start start thinking about this in terms of like, yeah, this like 100 game spread is what I'd recommend.
+
+[00:03:08:44 - 00:04:00:31]
+Speaker 1
+ What I will say just going back to our first blow point about how having good matchups isn't the only goal. Oftentimes, teams with very skewed good matchups tend to also have some pretty skewed negative matchups as well. Basically, you can think of like teams with good matchups as dedicating more resources to the more popular teams. Therefore, they will have a more skewed positive matchup into the meta or popular teams. However, in doing so, they may have worse matchups into things that are not as meta or that they didn't explicitly plan for. So often when I build a team, especially for a tournament like the World Championships, I'm not trying to have all good matchups. I'm trying to have mostly neutral matchups because I believe that my prep and my play are good enough that if I have mostly neutral matchups, I don't need to rely on my team to win. But if I have a really bad matchup, that could be really difficult. So just food for thought. Anyway, it's good to assess how difficult a matchup is as like, how good or how good or more importantly, how bad a matchup is really can dictate how risky
+
+[00:04:02:11 - 00:04:12:43]
+Speaker 1
+ you need to play. Like if you just play super safe and your matchup is really bad, you're probably gonna lose. However, I do want to say that thinking about matchups in this way can be a trap. I am recording my microphone.
+
+[00:04:13:43 - 00:04:17:48]
+Speaker 1
+ I cannot see my microphone. That's great. Okay. Matchups don't matter. It
+
+[00:04:19:25 - 00:04:26:51]
+Speaker 1
+ is really, really easy to get in, get in your own head about a bad or a good matchup. And I have an anecdote for you here. So I didn't make the Worlds video this year,
+
+[00:04:28:50 - 00:04:34:32]
+Speaker 1
+ but I had an experience with assessing matchups here that I thought was quite informative.
+
+[00:04:35:33 - 00:04:38:53]
+Speaker 1
+ So at Worlds 2025, I
+
+[00:04:40:21 - 00:04:43:27]
+Speaker 1
+ worried a lot about how good or how bad my matchups were.
+
+[00:04:44:46 - 00:05:32:31]
+Speaker 1
+ I was really wigged out about playing Torapagos, even though I was able to beat it somewhat consistently in practice. I was totally worried about it. Whenever I played a player from a region who was like a region that favored Torapagos or like a player who had used Torapagos at any point in the season prior, before we got team sheets, I would get really stressed about it. And I would start thinking about what I would do against Torapagos and then they didn't have it. And I think I wasted a lot of brain power and a lot of energy worrying about whether or not I would draw my bad matchups or worried about whether my matches were bad. However, what was more destabilizing and what almost cost me the tournament on day one is when I lost a matchup that I knew was a good matchup. I was playing against like an Arabaga, I guess it's not Arabaga, like the Mirai'don Lunala team. What do we call it? The Fettie combo team, a variant of the Fettie combo team
+
+[00:05:34:10 - 00:05:56:09]
+Speaker 1
+ that won an AIC. And I played it a bunch and I knew it was a good matchup and I knew exactly what I was supposed to do. And I ended up losing. I just like super overthought it. I think because I played the matchup so much, I knew exactly what the opponent had to do to win, like in order to have a chance to win. And then I like they didn't even see it. And then I just like lost the game because I was being stupid. And I mean, this was my this is my second loss at the tournament. And
+
+[00:05:57:28 - 00:06:11:36]
+Speaker 1
+ like I was still in the tournament at this point, but because I knew it was a good matchup and because I knew I was like, quote unquote, supposed to win and then I lost, I like I mentally I like I like crumbled in a way that I haven't really done in a long time. And I was like really, really, really, really upset.
+
+[00:06:12:39 - 00:06:32:21]
+Speaker 1
+ And I was really upset because I knew it was a good matchup. I knew I was supposed to win. However, perhaps you have realized with the benefit of not being me in this situation, that whether or not a match up, like just like, yes, maybe I should have won because it was a good matchup. But ultimately, that didn't help me. And it almost like because I like let myself get so wigged out about losing a quote unquote, good matchup,
+
+[00:06:33:26 - 00:07:12:02]
+Speaker 1
+ it almost affected the rest of my tournament. I almost was eliminated right then and there because like I let it get to my head. So basically worrying too much about a bad matchup or worrying too much about a good matchup can really impact you in a negative way, even at the top level, even at the world championships. And I think for me, the real lesson that I want to take away from this is I don't want to think about whether my matchup is good or bad in tournament. I think it's useful in practice. Personally, in a tournament, I don't really want to think about it because ultimately regardless of whether I have a good matchup or a bad matchup, my goal is to win the game. And that doesn't change. It's not like I'm gonna be like, oh, matchup is bad. I guess I'll lose, right? Like I'm still going to try and win. And so stressing about it or worrying about it only takes away from the real focus, which is to win.
+
+[00:07:13:40 - 00:07:24:10]
+Speaker 1
+ We'll talk more about this in a second as well. But a matchup like people talk about matchups and absolutes, right? Like this team has good matchup into this team or vice versa. This team is a bad match. Up into our back of your eye on right.
+
+[00:07:25:31 - 00:08:00:55]
+Speaker 1
+ However, matchups are like a relation like people talk about matchups of their relationship only between the teams. Well, they're also about the relationship between the players. And I don't mean like you and your opponent are going to start dating or anything. What I do mean is that like how each each team is six Pokemon, you can only bring four Pokemon to each battle and which four Pokemon you bring and which four like the order that you bring them in and how you use them dictates how the matchup plays out. Let's say your opponent is really weak to him. Like you're really weak to a moongus and your opponent has a moongus. So you would be like, oh, my match was bad. But then the opponent doesn't bring a moongus. And so this specific matchup, the player matchup, it's like it's not actually such a big problem, right?
+
+[00:08:02:12 - 00:08:55:32]
+Speaker 1
+ OK, this is what you wanted to know. What does it mean for a matchup to be good? Well, this is part of you want to know how to tell, I guess. So this is this is the terminology which we have to define. So when we say that a matchup is good, we're really saying one of several statements. Players use these statements interchangeably. And so I recommend thinking about what you mean when you say like this is a good matchup, because any of these can apply. One of the things that players mean is it is easy for me to win the game while taking fewer slash no risks. So if you're able to win and you don't need to take any risk, you don't need to make any reason, you don't need to get a call out, right? Then you have a good matchup because your team like allowed you to march towards victory with no risks taken. When I say that my team is a good matchup, this is typically what I mean. I mean, that I was able to win the game and I didn't have to like work too hard. I didn't have to do anything off the wall. Some people, though, when they say they have a good matchup, they mean it is easy for me to win the game because I have many more options than my opponent has.
+
+[00:08:57:08 - 00:10:06:11]
+Speaker 1
+ So, for example, let's say you have a team and you've got like five different modes and your opponent is like like they can't cover all of them and you're able to use any of them to win. Like even if if you guess wrong, you're still able to win. So like your opponent is too much to handle. And so if you're a player who really likes making like hard reads or feels really good about making predictions, this might be what you mean. When you say that you have a good matchup, like you just had so many options. And so like because you had so many options, you had so many aggressive prediction opportunities because you just had so many tools your opponent couldn't cover for all of them. And so it was easy for you to win. Another example is it is easy for me to win the game because I am allowed to make many mistakes without losing. Well, my opponent cannot afford to make any. This is I think especially the hallmark of a very skewed matchup where your Pokemon are so much better and your tools are so much better, at least in this in the context of this matchup, that even when you make mistakes or things don't go your way, you're still able, you're still in the game. Whereas if your opponent makes any mistakes, they just like lose the game on the spot. I would think about this in terms of like if you've really bad didn't dozo matchup, right? Like if you have a really bad than does a matchup, it's like, oh, I need really specific tools to be this dendoso. Whereas with the like if the even if the opponent loses all of their Pokemon and has Tatsugiri at one HP, like if if they have to dozo left, they can still win.
+
+[00:10:07:17 - 00:10:18:14]
+Speaker 1
+ There's other things as well like there are other people mean for a match would be good. That can mean other things to people. These are some examples that that I think are worth thinking about because it's important to know what you look for in a good matchup.
+
+[00:10:19:48 - 00:11:07:40]
+Speaker 1
+ I would say that for the most part, which which one of these statements resonates the most depends mostly on play style, although it can also be personal preference or other reasons as well. Okay, on the flip side, what's the main for magic to be bad? It's basically the opposite of the previous slide. You may be you have fewer options. You need to take risks to even like be in the game in the first place. You have really small margin for error, etc. However, the constant across all bad matchups is the feeling afterwards when you lose that there just wasn't anything that you could do. That's how I feel at least just like, oh, my god, like I tried so many things and nothing worked and I still lost. So that's what I that's what I when I when I say that was really bad matchup. But I mean, it felt like, oh, there was nothing I could do or I had to work really, really, really hard in order to win or I won. But if they played optimally, I don't think that that I could have won all of those things or statements that that I use when I say I have a bad matchup. OK,
+
+[00:11:08:47 - 00:11:13:39]
+Speaker 1
+ so now that we know that like what it means for me to be good or bad, we can sort every match that we've ever played ever, right?
+
+[00:11:14:47 - 00:11:36:43]
+Speaker 1
+ Wrong. I've already mentioned this before, but a team is only as good as the pilot. And what I mean by that is is that when you're assessing how bad a difficult matchup is or how good a good matchup is, we need to consider what the strongest possible opponent can do with the other side. Let's say you're like, oh, I really want to like it's regulation G and I really want to be our mega Mira on our mega Mira, which I've referenced a few times that the team that won the twenty twenty four World Championships by Luca,
+
+[00:11:38:19 - 00:11:58:10]
+Speaker 1
+ originally built by a Japanese player named Arbega, it's Arbega wins a caught or she threw rapid strike Mira. There's a Mira on Ogarpont, hard flame, iron hands and for a graph. You if you're on the picture and you've probably seen it before, but it was like the best team of Scarlett and Violet. And let's say you're like, OK, like it's regulation G. I know this team is really good. I really want to I really want to do all against the net worlds. So you call up your friend Bob and you're like, hey, Bob,
+
+[00:11:59:17 - 00:13:02:45]
+Speaker 1
+ yeah, like can you help me play our big on Mira? And Bob hasn't played a Pokemon game since generation three and Bob's like, yeah, yeah, sure, sure, sure. And you beat Bob every time and you're like, I have a great our big and Mira in a matchup. And then you roll up to the tournament and you play in a round one versus Luca and Luca, you know, to owes you and shakes your hand and says like, well, that was fine. And then that goes off to win the tournament. Right? Like the you might be sitting there thinking like what happened? I thought I had a good our mega Mira like I thought I had a good our mega matchup, right? Like how did Luca just whip the floor with me? But the thing is that when you play against somebody who has 500 games on a team and more importantly than just having the games like playing as if he's going to win the tournament or like wants to win the tournament. That's very different than when you give the team to your friend, even your friend who plays VGC, right? Like you could give me our mega Mira item back in regulation G and I'm sure I could do some things with it that would make it difficult because like I've played VGC for a long time and I'm a half decent player, but it's not it's even with me. It's not going to be the same as somebody who like actually is using the team with the intent to win the tournament because they're thinking about things like in a higher level, on a higher plane, and they're trying to win the tournament. They've probably thought through some of your counter play, especially of itself that like other players have done to them before or your team is somewhat standard.
+
+[00:13:04:17 - 00:14:27:57]
+Speaker 1
+ As an example for my personal life, well, not my personal, but my VGC life back in twenty twenty two, the best team was called Rania Sun. It was a team builder on Groudon, Zoshin, Gashorn and Sinoror, Grimmsnarl and Charizard. Charizard was really important. And it like was built by a Japanese player, won three regional events in a row and like going into EUIC, which was shortly after these three regional events, was clearly the team to beat. And I sat down and I said, OK, I want to build a team that beats Rania Sun. That's my goal. And my friends and I worked on this team and we were like, yep, we beat it in practice. We're super good. Show up to the tournament, beat all the Rania Sun. And then we played against Eric Rios, one of the strongest players in the world from Spain. And I played Eric once and Marcus, who also had a variant of the team that effectively functioned the same in the matchup, played Eric twice and we went 0 and 3. And this was not only a team that we prepared against, it was the team that we had built our team to beat. But because we were playing against each other, like again, we are good players, like we thought that we could handle it. But the problem is that Eric was like one of the best players in the world at the time and had like exclusively used this team and was doing stuff that we hadn't like prepared for. And also, I think had some techs maybe that we hadn't prepared for at the time. I don't remember exactly, but he was definitely doing stuff that it didn't look like our practice. You know what I mean? So, yeah, I think it's really important to play against people who are actually using the team and want to win with the team, especially for standard teams. And we're also very good. Although honestly, at the time, there weren't very many people who would give us Eric Rios level of practice. So that was kind of just like a player diff, I think.
+
+[00:14:29:00 - 00:15:03:51]
+Speaker 1
+ Yeah. Okay, how do we tell the matchup is bad? This is what you came here to learn. How do we tell the matchup is bad? I will say that it is easier to spot a bad matchup than a good one in my experience. But even if you find it easier to spot good matchups than bad matchups, it's better and more important to spot if your matchup is bad. Because if your matchup is good, you don't really need to change your play in order to win. Like, of course, sometimes you have a really good matchup and you're like, oh, like my matchup is so good. I can actually afford to play aggressively. And if I get any call right, then I win the game. So like some people will lean into a good matchup to make it like, you know, maybe if you play safe, it feels like a 70 30. But if you play risky and you get it right, it's like a 95 five. Right.
+
+[00:15:05:19 - 00:16:57:26]
+Speaker 1
+ But for the most part, you don't need to figure out if a matchup is good. If you just play normally, you can win the game if you have better tools in your opponent. However, for bad matchups, you will sometimes happen. Sometimes happen. You will often or sometimes have to change your play. Often sometimes I wrote it that way. That's that's why I said it like that. Often sometimes you bad matchups, often sometimes you to change your play to win. I'm so sorry. I'm so sorry. Bad. Yeah, as I was obviously bad matchups often sometimes you to change your play to win. You go what I'm saying, right? One way to spot a bad matchup is if it has Pokemon that you know are problematic for your team. So, for example, a moon, this is a Pokemon that you like players will frequently have issues with. And they don't support immunity is trick or maybe you're like, oh, I know that trick or team. Excuse me, regardless, I heard my team because I have a tailwind hyper offense team. Right. Dendozo. It's like an archetype that you know is problematic for you. Rain, Sun, like anything can be a bad matchup if you if you build poorly enough. There's also like unstoppable offensive threats is one thing to look at. Like, for example, like let's say your team is entirely slower than Flutterman and they have something like Torquell plus Fluttermane or your team is like one Pokemon faster, but it dies. And then in the Sun, they're faster than you or they're just like specs and they kill everything. Right. And they have like some support for it. Right. As well as unbreakable defensive threats. Pokemon like a softball, Tinglu, Iron Defense, Regis, Steel. This can also be true of like Pokemon like Grimmsnarl bulking up an assault this Pokemon making it really difficult. So, yeah, like basically Pokemon that will either destroy your whole team offensively or that you're not able to break through defensively. These are hallmarks of difficult matchups. Okay. Part two. Beyond individual threats, certain pairings can cause problems. This is often the case for bad matchups as your opponent may have paired Pokemon together that you didn't have experience in practice. Like maybe you could handle Urshifu on your own or like without any support and you can handle tornadoes on its own. But then when they have like, you know, raindance tailwind tornadoes, you're like, oh, wait, I can't, I can't stop Urshifu parentheses in tailwind and rain. Right.
+
+[00:16:59:07 - 00:16:59:25]
+Speaker 1
+ Yeah.
+
+[00:17:00:57 - 00:17:15:44]
+Speaker 1
+ And if we're trying to talk about how to figure out if the matchup is bad, the best place to figure that out is in practice. Ideally, you would know what your bad matchups are, at least your bad common matchups are before the tournament. So you could have a chance to number one, adjust your team because once the tournament starts, you're stuck. You're not changing anything. And number two,
+
+[00:17:17:57 - 00:17:23:37]
+Speaker 1
+ you would know in advance that you wouldn't be finding out in the tournament itself. So even if you don't want to change anything, it's still good to know which matchups are difficult for you.
+
+[00:17:24:53 - 00:17:32:34]
+Speaker 1
+ It's worth noting that almost all bad matchups come from team building that does not give enough attention to the fundamentals. And when I say the fundamentals, I mean the fundamentals of team building.
+
+[00:17:33:44 - 00:17:47:08]
+Speaker 1
+ If you're practicing for an event and you haven't locked in your team yet, you can still make changes and you're trying to change your team to fix a bad matchup. Rather than just being like, oh yeah, torn plus Urshifu is really scary. I'm going to add, what are you saying? You're going to do that? Ogarpon Wellspring, for example, or like, I don't know, like Gastronon, right?
+
+[00:17:48:49 - 00:18:16:04]
+Speaker 1
+ It's important to understand what team building fundamentals your team is lacking, which is leading to the bad matchup in the first place. So for torn plus Urshifu, maybe you don't have a good speed control. Maybe you have, I don't know, a really strong Pokemon who could one shot Urshifu, but you don't have any speed control. So maybe instead of that, in Gastronon, you have like tornadus of your own or whimsicot or something, right? Or maybe you don't have damage. Maybe you have the speed control, but you can't one shot Urshifu inside like a, inside, into tailwinds. So they just get to kill you anyway, right? So maybe you think about that.
+
+[00:18:17:12 - 00:21:17:34]
+Speaker 1
+ This is really one of the more useful ways to like, to think about if a matchup is bad or not, or like what to do when your matchup is bad. But here's the truth. None of this matters. And I've already touched on this earlier, but I'm going to really drive it home here, which I believe this is the last slide. Yeah, it is. Okay. Regardless of whether or not your matchup is good, you're still trying to win. Like your goal doesn't change, right? Um, like if you have a bad matchup, you're going to be like, well, match it with that. Like shake my hand before I even play the game. Like just give up. Of course not. Right. Um, and if you are going to try extra hard if your matchup is good, I mean, maybe, but like if your match up is good, you should be like, you know what I mean? Like you're not going to, you should still, you're trying to win regardless. And I think rather than spending time and energy assessing whether or not you have a good match, I'm stressing about whether or not you have a bad matchup. You should just be asking yourself, how can I win this game? What do I have to do to win this game? Um, maybe you have a terrible matchup, but you can win by doing something really unorthodox and bringing Pokemon together that your opponent would never expect and would never play against. Right. Maybe you can win by taking a, like by taking a huge risk to eliminate the key threat. Assessing your matchup is only useful in order to figure out the risks you have to take to win. And I guess just to close out, I think that people talk about match ups a lot more than is helpful for them. Um, it is useful in a way to know whether or not you have a good matchup, but I think honestly, if I can speak bluntly and plainly, I think that people mostly use matchup discussion to make themselves feel better when they lose. Right. I think it's easy to say, well, it's not my fault. My matchup was bad. Even though, you know, my brother in Christ, you chose the, like you picked the Pokemon, you just, you were half of the matchup. You determined it right. Um, and I'm guilty of this as well. Right. I mean, it's, it's frustrating. It's frustrating to lose a set when you feel like there's nothing you can do. Um, or it's especially frustrating when you feel like you played really well, but you still lost because your matchup is just that bad. But I think that like, even though it's, you know, helps, helps, you know, uh, soothe the ego, I think that, that for the most part, talking about match ups and thinking about whether talking about match ups is good. Talking about whether or not you have a good or bad matchup, I think is mostly a waste of time. Um, and especially at a certain point, you will start skipping the level where you assess whether or not the matchup is good or bad. And you will just start going immediately to the step of what do I have to do to win? And I think at that point, it's no longer helpful to think about good or bad match ups, at least in, in, in tournament in practice. I think it is worth it because you want to figure out which teams are going to be difficult. Um, but in tournament, I think people do it. I think people discuss it too much. That's my take. So anyway, that's it for this video. A, the polls for the February reaction video after EYC, as I imagine there will be some sets that people want to watch. Um, yeah. Uh, also there's going to be some changes in the Patreon moving forward. And we we've taken all the feedback, thank you to everybody filled out the feedback form and we have, um, yeah, summarized it and, and are looking to make things better. One of the things that hopefully be better is, is, uh, my face cam not getting in the way of the text. So hopefully that's, that's, you know, first step. Um, but yeah, uh, I'll probably do an update video or something. I'll have some kind of update. Maybe I'll maybe I'll just make the changes, but I'll, I'll, I'll think about it. Yeah. But anyway, I'm going to start starting in March. I'm going to try and start implementing, um, more of this, more of the changes to make the Patreon even better. So thanks for your support. Good luck to everybody who's playing at EYC and I will see you all sometime next week for the reaction video for the month. Bye bye.

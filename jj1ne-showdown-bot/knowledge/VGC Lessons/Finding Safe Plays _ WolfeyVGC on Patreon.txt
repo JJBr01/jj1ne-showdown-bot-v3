@@ -1,0 +1,187 @@
+[00:00:00:34 - 00:00:11:38]
+Speaker 1
+ Okay, hello everybody. Um very exciting Situation for the patreon at my small What on earth it might look really am I really small on the screen?
+
+[00:00:11:38 - 00:00:19:22]
+Speaker 1
+ There we go Hold on a second. Hang on a second here. No, no No, no
+
+[00:00:20:40 - 00:00:25:51]
+Speaker 1
+ No Okay. Hello everybody Okay, I'll go back to normal
+
+[00:00:25:51 - 00:01:25:26]
+Speaker 1
+ So we had an interesting situation on this month's patreon video because it was extremely close um all three there were three suggestions that were all within like 10 ish votes of each other and That doesn't normally happen. So that was exciting for me I wanted to wait actually to let people vote who hadn't maybe initially voted. Um To see if it would change and actually did initially the winning replay the winning vote when I was going to make this video initially was Replay review instead of finding safe plays and I was like, oh like oh, yeah, I can do that like no problem And then I was like, you know, it's so close. Maybe I'll give it a couple more days. And so yeah change So today we're talking about finding safe plays which was a very interesting Thing for me to think about explaining because this is something that I think in many ways is just intuitive to me because I've played for so long and so it was kind of fun to Be faced with a challenge where I had to put things that are more into based and intuition into words And I think I've done a decent job here This might be shorter than some of the other Patreon videos that I've done, but I actually don't even know it's probably still gonna be a decent length.
+
+[00:01:27:02 - 00:01:29:53]
+Speaker 1
+ I Think I skipped on hello. What?
+
+[00:01:31:09 - 00:01:34:52]
+Speaker 1
+ What I'm only hitting okay, whatever who cares. This is what I wanted
+
+[00:01:37:55 - 00:01:59:22]
+Speaker 1
+ Jarvis explain a safe play So let's start by talking about what a safe play is because I think whenever we talk about things like this It's good to have a definition. Um in theory a safe play is actually quite simple It's a play that you make that your opponent has absolutely no way of punishing However, in practice, it's actually never almost never this simple. I have to sneeze again. It's cuz I turned my gamer lights on
+
+[00:02:01:35 - 00:02:09:23]
+Speaker 1
+ It's no one gonna say bless you hello, what am I chopped liver? Anyway, um, I think there's gonna be three no, please No, please I've been so good. Okay
+
+[00:02:10:28 - 00:02:32:30]
+Speaker 1
+ In practice, it's extremely difficult It's not it's not simple at all because Like the concept of the safe play is you make a play and it's you say no matter what my opponent does This is good for me Like this advances my position in some way this went to the game this gets me ground this can't the threat this preserves One of my Pokemon, etc However, because like there are many many many options that people have in most situations, um
+
+[00:02:33:34 - 00:02:45:32]
+Speaker 1
+ Like it's not actually easy to find these because if you think about it If you were to tell your opponent, this is the plan making and you were to give them unlimited time Most of the time they could find it some punish. So a truly safe play is actually somewhat rare
+
+[00:02:46:41 - 00:03:01:46]
+Speaker 1
+ Which is why more like a lot more common and like we talk about safe plays in theory because they're useful to understand Like when they do come up and they're also useful to apply to the almost safe plays Which is the thing that is far more common, which I will get to in a second. So we're not gonna talk about it just yet
+
+[00:03:03:31 - 00:04:06:51]
+Speaker 1
+ When can you find a safe play? So I think a good first thing to start when you are trying to make safe plays is understanding when they tend to come up For me, this is kind of just intuition that I have where like if a game state looks a certain way I'm like, oh, there's probably a guaranteed win here. Oh, I probably have a guaranteed move like here Um, the the simplest explanation is that when you have a lead when you will lead you are far more likely to find plays that are Safe which is intuitive in many ways because like a safe play Requires you to cover all of your opponent's options and the fewer Options or resources your opponent has relative to you the easier it is to kind of cover for everything, right? You can think about this like I don't know like a game of risk, right? Where you all you all played risk because am I dating myself? Surely they still play risk I used to play on my phone in high school physics class Anyway, um, like you have an army of 50 and they have an army of 50, right? And if you try and challenge their army, it's kind of randomness which is gonna come up on top, right? You have 50 resources of something they have 50 resources is the same thing, right? But if you have 50 and they have 10 then maybe there's a way that you can guarantee the win risk Wasn't a good analogy here, but it makes some sense where you guys get what I'm saying
+
+[00:04:08:02 - 00:05:25:50]
+Speaker 1
+ It is worth noting that sometimes you will not have the lead and still have a safe play You can even like you so you could of course find these in Quote-unquote neutral positions or like neutral resource remaining like on the first turn of the battle Both players have all their Pokemon with all their HP, but sometimes you'll have a big lead I mean we've all experienced that and sometimes with that lead it's possible to yeah find plays that are like Yeah, super super safe, right? Um, and sometimes as well You will be in a position where you have a safe play despite being behind in the battle However, I think it's worth noting that just because you found a safe play that covers all their options It doesn't mean you're gonna win the game off of that play Um, and sometimes taking a safe play that gets you ground is not gonna be enough to win you the game and in those situations Especially when behind what you need is not a safe play that covers every option You need to call out your opponent specific option in order to gain some ground I think it's worth noting that in order for a play to be truly safe It needs to work regardless of what your opponent does during the turn, right? Because if you say okay, like this play is safe unless they do this then it's not safe But as an extension of that if you use a move and your move misses and your plan was contingent on that move connecting Then your play also isn't safe. So by using moves below 100% accuracy You're you you eliminate the option for those moves to lead into safe plays Now this is another case where we well, we'll talk about that in a second actually So I won't get ahead of myself the disciplined speaker
+
+[00:05:27:31 - 00:06:16:16]
+Speaker 1
+ Okay Okay, there are this is just like terminology that I'm making up on the spot here But I think it helps you to I think it will help you all to spot safe plays and to understand like the Instances where they come up and also to have the language to talk about them So I'm basically my terminology here is is that there are three common types of safe plays that often come up in Pokemon battles So safe plays aren't just like binary where you have them or not instead It's it's a spectrum and there are three leading types of safe plays that I think come up more often than others I'm sure there are other ones as well. These are relatively straightforward You have offensive safe plays where you're able to cover you were basically you're able to guarantee a KO regardless of what the opponent does I wrote this in the sense that Like you're able to cover both the Pokemon on the field and any Pokemon switching in and it doesn't necessarily need to be about A KO can just be to get the crucial damage down that you need for later But often oftentimes it will result in the KO
+
+[00:06:20:30 - 00:06:30:33]
+Speaker 1
+ However, this should also include trassel ization So if they have ghost terror and sinner or and you think okay Well, should I close combat them or should I you know moon guys beam them? Well, maybe you have a view of both, right? and therefore
+
+[00:06:31:34 - 00:07:48:33]
+Speaker 1
+ Yeah, like it's it's a way to cover both your opponents Pokemon on the field and any switches a defensive safe play is exactly what it Sounds like you're able to switch one of your Pokemon into another that that then it doesn't take meaningful damage It can take some damage, right? But it doesn't it doesn't get knocked out It doesn't get hit with like a spore on the switch, right that gets put to sleep. Whatever It allows you to reposition your board safely without losing without losing meaningful ground you can take some damage, etc We'll talk more about all three of these in a second And the last one is macro safe plays which often don't appear to be safe plays But if you actually think about the board state then they are these are by far the most complicated And they are the least easy to find we'll talk about them more in a second. Basically with a macro safe play They cover your opponent's options But they do so in a way that advances you towards your final end goal, which might not be the most obvious thing so for example, there was some situation back in I think it was 2019 where like One of the there was a Pokemon or maybe it's 20 22 I don't remember there I think it was 2019 where it was like Lunala primal ground on and you needed a little bit of chip on in center or For press this place to K off or intend to intimidate and so oftentimes players would go for a moon guy's beam into in center or Understanding that it wasn't about doing a lot of damage, but that little bit of chip put them a range of people I think that's what it was. It might be something else I forgoire. Anyway, let's talk through these
+
+[00:07:50:43 - 00:09:42:27]
+Speaker 1
+ Offences safe play so I would say that more often than not these will these will happen when you have two Pokemon that are faster Than your targets and I say target not targets because offensive safe plays are rarely about killing both your opponent's Pokemon Like of course, sometimes you're in a position where you know, tell when water spout, you know Shake my hand nothing your opponent can do but more often than not they're about threatening one of the Pokemon on the field and one Of the Pokemon in the back as well These are most threatening I think when they're when you are threatening a KO on the Pokemon on the field the Pokemon on the back and the partner Pokemon On the field isn't indeed like it can't do much. Maybe you are using a spread move and you're threatening a KO on that slot Anyway, maybe it's a supporting piece without much support offered at the moment like in center out of position or I don't know Maybe a moon gusts in front of two spore immune Pokemon stuff like that. So, um Yeah, normally this isn't about K and both your opponents Pokemon, but it's saying okay I can I KOU if you tear I KOU and also if you switch I KOU so it's not actually as easy as you might think Here's an example that came up in my practice before and I see um, and I've just like recreated the game state So it's not like super it's not like this is like just what I remember of the game state but basically here's the situation to turn one and sinner alone all of versus in sinner or and Mira on and on the first turn I make a good play here. I switch my incident or a saloon This is not the safe play yet. I'm just showing you the context and I eat the volt switch I've gotten I've gotten a really really big lead here as it doesn't use parting shot instead uses knockoff Resume in a little bit probably you all can see this great. So here's the situation. This is turned to some you're riding this choice specs You can't see but it's choice specs. Um, and it's locked into volt switch You're riding comes or Ursa Luna is burnt and sinner were stuck on the field Um, the speed dynamic is that their incident or is faster than my Ursa Luna my new luna all is faster than their center So, you know, maybe pause the video think about this in the back given the context We assume they have Ursa Luna and Lunala electric seed Lunala
+
+[00:09:43:44 - 00:09:52:56]
+Speaker 1
+ So maybe think about this see if you can spot the safe play here, this is an offensive safe place So we're trying to find a way of k-owing or I would say near k-owing
+
+[00:09:54:32 - 00:10:16:43]
+Speaker 1
+ Either picking up a ko or not picking up a ko but gaining enough ground that we are in just great position, right? And see if you can spot that I'm gonna start keep going Okay You shift if you want to pause last chance So the play that I found here is to go for moon guys beam into into Mira on and headlong rush into Mira on me riding is forced to switch here it has to go for a volt switch or it has to go it has to go for volt switch
+
+[00:10:17:45 - 00:10:18:33]
+Speaker 1
+ and
+
+[00:10:20:25 - 00:11:41:28]
+Speaker 1
+ Because it has to go for volt switch that means it has to expose either Lunala or Ursa Luna in the back or they could switch And cinema out and and bring it back in here By going for moon guys beam and headlong rush into the slot It means that if Incinero comes back in here It will determine will be in cinnamous which is volt which hits Lunala Incinero comes back in on this side and then moon guys beam and headlong rush ko and cinnamor regardless of the EV spread If it doesn't or it doesn't switch then if Lunala comes in it takes super effective quad super effective moon guys beam Which puts it in range of headlong rush and if Ursa Luna comes in I don't get the ko but I do enough damage from headlong rush that I Like it's super low HP stuck on the field and it's like it's no longer a threat So it's still like it doesn't and it's awkward to have Ursa Luna on the field because in this situation We I'd already confirmed that their Ursa Luna was minimum speed and my Ursa Luna was not minimum speed. So at the time so Yeah, so that's how that's that's what happened. Basically is is they volt which into Lunala they eat the moon guys beam This is AV Incinero so it goes for u-turn. They bring back in they were gonna learn safely in this slot However, they then lose Lunala and so in this position basically there was nothing they could do to get around this their best option to not lose them on here was to Sacrifice most of Ursa Luna's HP But in this matchup Ursa Luna was kind of important and so it was it wasn't even that good of a it wouldn't even have Been that good of a trade. Um Offensive safe play nothing they could do there because of the positioning and I was in that position spite us both having for Pokemon left Because I made an aggressive play on the first turn and ended up getting it, right?
+
+[00:11:42:32 - 00:11:46:05]
+Speaker 1
+ I'm gonna go back to PowerPoint mode. Yay. Cool defensive safe plays
+
+[00:11:47:20 - 00:11:59:02]
+Speaker 1
+ defensive plays are often used to punish passive board states or board states where your opponents options are limited This is often due to stuff like choice items or wide guard or fake out or encore disable or immunities all the disruptive stuff, right?
+
+[00:12:00:25 - 00:13:30:45]
+Speaker 1
+ A defensive safe plays easier when you only have to worry about taking one attack on your switch in Pokemon rather than two I would also say that did similar to offensive safe plays defensive safe players are more valuable with the lead Just because the fewer a Pokemon your opponent is remaining the fewer options They have to call out your defensive play and make an aggressive switch So let's say they have I don't know in sin or a moongus in the field and there is an or I don't know Like like like they've it's no more moongus in the field and you have Like I don't know in sin or And it's grass Tara av and and no, it's I don't know like they don't have knockoff, right? So you can safely go go bring it in Snorl But then they just like parting shot and bring in I don't know like me ride on right and then you have it's not On the field. It's not like doing that great. So or they bring it like meteor beam, Luna and then you're forced to scramble, right? so The fewer Pokemon your opponent has left the easier it is to say Okay I can actually cover all of their options because if they have nothing to switch into then I only have to worry about the Pokemon The field I think it's worth noting that um a defensive safe play while it sounds like it would be about switching in your Pokemon safely And it is it's not only about not taking damage. It's also about like it's not about not taking damage It's about advancing your board state towards victory in a way that your opponent can't punish So it's more similar to an offensive safe play than a defensive play in general because or maybe that's not true but basically like Your if you switch into Pokemon that doesn't take any damage, but then doesn't contribute anything to you winning the battle That's actually not good Like you've brought in your Pokemon safely But you brought a Pokemon of the field that can't do anything And unless you're using it as like a pivot or a reposition or a sack which isn't you know I don't think those were really fall into defensive safe plays mostly
+
+[00:13:32:33 - 00:13:36:34]
+Speaker 1
+ Then it's not actually good. So in order to for a defensive safe play to actually work
+
+[00:13:37:45 - 00:14:16:41]
+Speaker 1
+ You need to be able to not only mitigate the damage that's coming in but you also need to Make sure that your opponent like yeah can't punish it or sorry Not only mitigate damage coming in not only make sure that it that it like isn't able to be called out with a hard switch But also make sure that it's actually doing something for you when your defensive Pokemon hits the field or when you're switched in Pokemon hits the field So let's go through this. So this is from my match versus Luca This is the middle of game three for context. Karadin is down. Mira and Karadin are both dead. Um, There are what turn is this? There's three turns left of trick room. I just I Hang
+
+[00:14:19:00 - 00:14:20:15]
+Speaker 1
+ on we gotta go back. I forgot what happened
+
+[00:14:22:39 - 00:14:31:37]
+Speaker 1
+ Okay, turn one Turn one Karadin dies tricker goes up Mira on to take some damage turn to parting shot into scream tail and psychic So this is turn three
+
+[00:14:33:20 - 00:16:33:28]
+Speaker 1
+ And we have screamed out gotha tell against over upon a free graph and my goal is to win with a paris trap So the opponent can switch here because shadow tag is active Sun is active helping hand is active and the play that I find here is a Relatively safe defensive play of protects scream tail and switch gotha tell to incinerator my particular scream to I make sure I don't Take any damage and because my incinerator is Has intimidated and as a fire type it resists IV cudgel and I think I will be able to win if I bring it in safely So I switch gotha till in and if you think about it for graphs only moves are psychic foul play and helping hand So it doesn't really help here. It could reverse trick room, but it doesn't really help against scream tail So it doesn't really want to so for us best option is to go for like helping hand here um Luca actually calls out that I might make a weird play here and like like protect disabled for example and tries to Go for follow me to stall a turns. We didn't even go for this But even if you gone for helping hand terrify our IV cudgel I still would have incident around the field and be able to parting shot Paris trout Paris long next turn and Then as long as I don't get crit, I'm probably able to win from there So it doesn't look very flashy, but this is like a totally safe play and you see I take foul play and even though I protected kind of for no reason it was still worth it to have the safety because if I lose Screamtail here who would go down to helping hand terrify our IV cudgel then yeah, that's just it for me So not a very flashy play, but it's important to notice when you do have these like safe plays I think defensive safe plays should rarely look very flashy is kind of my opinion Um the hardest of the three to find is macro safe plays macro safe play is being These plays that are going to get you closer to winning the game, but they're not super intuitive um I would say that in general macro safe players that least reliant on finding a lead because rather than to using the advantage of having More resources than your opponent you more try to take advantage of the fact that you have more game knowledge or matchup knowledge than your opponent Not game knowledge matchup specific knowledge you say oh and this matchup It's important that I get this damage on this Pokemon or it's important that you know Oh, you can Tara here, but if you Tara here, then you don't have Tara for this Pokemon later And that's actually good for me stuff like that um These are the hardest to spot by far these are by by far the hardest to spot do I have my recording? If I audio on okay good um
+
+[00:16:35:16 - 00:18:48:52]
+Speaker 1
+ In my in my opinion basically you unless you're rarely gonna stumble into these by like through luck um And so instead you need to find them I mean manually but also you need to you it's easier to find them when you really understand your team inside and out so These are this is the type of safe plays all safe plays are more reliant on having experience with your team So you can do you know pattern recognition spot? Patterns that come up and situations where you're like oh, I can just do you know this and cover everything These are by far the most difficult you can have hundreds of games of the team and not find macro safe plays consistently They're really really hard. It's like not just about having games. It's about having mastery if that makes sense I don't have I don't make macro safe plays with every team personally Um because it's really hard, but they're they're the best type of play in the game in my opinion So yeah, they're like really good to know about um Part of what makes these plays so hard to spot is that they're often really unintuitive they can often feel like oh like what like Oh, what if I just like they just do this don't you lose and it's like well actually no Um, yeah, like it's actually Actually, no I covered for that but like a couple turns down the line These are the ones that require the most foresight to say okay, even if this happens that i'm still okay Um, I use this phrase here of uh, either or like these these normally follow the pattern format of either or um But it's not uh, just about the trade It's also about the trade being favorable for you what this probably is very cryptic what I mean by this is that These plays in my head often go. Okay, either I I use this move and I get the ko or They terror and then the terror is gone for later Um, but the thing about this is that even though you get something either way You have to make sure that that something is still good because macro safe plays are also the least if you do them wrong They're not safe. They're only safe if you really truly understand down the line how Your opponent's defensive play is going to favor you. This is most obvious with trastalization But it was also seen often with dynamax z moves even not really mega evolution. Um, but yeah, they're they're always present It's just that they're very difficult to find I couldn't think of a great example off the top of my head I'm a little bit fried to be honest just from um all my travel and so i'm not at my Most brain power but I have an example of like a simpler to understand macro safe play Which I think for this kind of example is actually pretty good This is from the finals of north american internationals in 2019, which was the last ici one before euic This is game two. It was the same legion game one. Um, let me see if I can find a shot of the pokemon on the field
+
+[00:18:50:22 - 00:18:52:55]
+Speaker 1
+ Is there is it gonna show it to me show it to me?
+
+[00:18:53:56 - 00:18:54:28]
+Speaker 1
+ please
+
+[00:18:55:42 - 00:18:56:47]
+Speaker 1
+ Yeah, meti chams in this one
+
+[00:18:56:47 - 00:18:58:49]
+Speaker 1
+ I can't find it okay anyway, whatever
+
+[00:18:58:49 - 00:19:00:34]
+Speaker 1
+ let's wait for the hang on
+
+[00:19:02:58 - 00:21:28:28]
+Speaker 1
+ Whatever, okay. So here's the situation. It's lunala meti cham against celesteela and requaza. Can you all see my mouth? I hope so. Um, this is a weird lead in theory from from me. Um, this is probably what my opponent expected this is game two so the same leads to game one and um, the dynamic here is that meti cham wants to go for fakeout and Lunala wants to go for tailwind And the thing about lunala going for tailwind is that this is a saltless requaza and this is ice punch mega meti cham And there's also primal coyoga in the back as well. Um What it means basically is that if meti cham gets tailwind up and it's you know able to attack it can do tons of damage You can also hit for tons of damage with like high jump kick. I think it had maybe it was close combat It had some kind of fighting move. Um, and if it gets if it's able to attack it's pretty bad for me however The thing here and the reason why i've led both requaza and celesteela is because this mega meti cham does not have protect And lunala is not able to ko either of my pokemon even after a special defense drop because i'm assaultless requaza and celesteela is very tanky and so The play here is I can go for both dragon ascent and heavy slam into mega meti cham Because while heavy slam won't ko mega meti cham can only fake out one of my pokemon And even though won't ko it does put mega meti cham in extreme speed range because celesteela is so heavy And this is an offensive celesteela And so if i'm able to put mega meti cham in extreme speed range Then um, maybe we'll release the second turn of tailwind as they're forced to switch or faint I'm able to get lead seed up on the londinola or maybe heavy slam to cover a switch Um, yeah And if mega meti cham can only fake out one regardless of which one I fake out So either dies this turn or it puts itself in range of extreme speed down the line And if it switches out the pokemon in the back are primal kyoga and tapu koko Neither of whom can easily take dragon ascent plus heavy slam In fact, I guess primal kyoga probably survives But it takes so much damage and ends up in extreme speed range, which is actually in a way worse And so no matter what move my opponent makes they're always going to be in a position where even though they might survive this turn It's actually not necessarily good because they only get four turns of tailwind and they need to take advantage of those four turns The important context here and the reason why this is like game two rather than game one is that in game one they went for Fake out into meti cham I didn't mega evolve and I drag and ascended meti jam to get the ko and then yeah Like they said tailwind up and I just got a ko for free in the first turn And there's some weird dynamics of speed here. But basically mega meti cham is slower than regular a quasi sorry meti cham is slower than requaza mega requaza is also faster than mega meti cham But in game one, I didn't mega evolve and so You'll see I think i've shown this play before this game. I do mega evolve
+
+[00:21:29:56 - 00:21:55:35]
+Speaker 1
+ Mega meti cham also mega evolves And I just ripped dragon ascent because they went for ice punch hoping that I would not mega evolve again Get a cheeky k on requaza win the game Um, but this play was also covered for which is why I mega evolved in game two Because in game one I didn't think I needed to because it was an almost safe play I didn't think they would just go for raw ice punch here So it was a small optimization, but basically no matter what move they clicked here I think that from the leads I had a pretty major advantage. Um because I was able to yeah just
+
+[00:21:56:44 - 00:21:57:54]
+Speaker 1
+ cover for basically everything
+
+[00:21:59:22 - 00:22:23:56]
+Speaker 1
+ And then the I think the last slide here is talking about almost safe plays So we've talked we've walked through the three different types of common safe plays that come up And it's worth noting that Again, safe plays rely on you shutting down all of your opponent's options and in pokemon. That's just extremely difficult Like i've tried to find examples that shut down all my opponent's options, but like They're not Maybe if you really looked at it with a fine tooth comb you could find something that would beat it. I don't know. Um
+
+[00:22:25:14 - 00:24:05:19]
+Speaker 1
+ Yeah, like I don't know so basically Um, it's actually really difficult in practice to cover for all of your opponent's options. It's just it's hard There's so much you can do on every turn in a pokemon battle um, and even if you cover for like 90 or 95 percent that doesn't mean you'll literally cover everything and so in practice Safe plays normally rely on making a couple assumptions and these assumptions are more about What your opponent's going to do? Although they can occasionally be about e.v spreads, you know, maybe you say, okay I think that this pokemon k is this pokemon? I don't know for sure It depends maybe if they're you know, got a weird e.v spread they can survive but I know most of them will go down here so it can mean like that where you make an assumption about the Um the damage roll, but it can also be about your opponent's plays Um, basically the way that this works is that by ruling out certain options you can actually cover for everything within the remaining space So if you say, okay, this move like my play doesn't beat these moves, but I don't think they're gonna go for these moves then Given that i'm correct about that assumption this play covers everything else Um almost safe plays can also apply to accuracy like I like I mentioned earlier where you can say, okay I've got icy wind on my flutter main This play covers everything assuming icy wind connects. So 95 of the time it covers for everything. So In practice you're actually putting these situations much more often than not where you have to Make certain assumptions make take certain gambles, etc And I don't think that like it's necessarily A bad thing like you should be able to identify when a play is almost safe and you should also identify the conditions in which it fails Um, as long as you're also looking for the guaranteed wins I think it's good to look for the guaranteed wins, but also to take the reality of the situation, which is that Most of the time your wins not going to be guaranteed. So I have one final example for you here to close out this video, which is Turn one of the world championships in 2016. So this is game one turn one
+
+[00:24:07:21 - 00:25:21:02]
+Speaker 1
+ The context here is that when I played my opponent in swiss they kept trying to go for The thing that was scary is mega gengar on the field next to primal grout on with my primal Kyogre trapped on the field and no way to switch in. Um, and The problem is that my normal lead against this type of team of rick wasa plus um Kyogre doesn't necessarily work because they have the option of doing some fancy stuff with mega gengar and primal grout On to ensure that they get the weather control. Um, and like to deny volt switch basically And there's it it puts me in a guessing game from the get go. It can be really awkward Like it's just it's not good. Um And so the solution I came up to was by was to lead rick wasa and kyogre because what I needed was a turn where gengar Didn't protect and grout on wasn't on the field. Um, and that could either be the first turn or the second turn Sorry, I think i've explained this badly. This is a somewhat comp. This is a pretty complicated situation I need to make sure that the this turn one is not gengar go for mega evolve and protect And grout on switch in for kyogre. That's the play that i'm worried about. I have a play that I think I have like a pathing through this battle that I think covers everything except for Switching to grout on and go for a mega evolve with mega gengar and and Let's say protect it doesn't really matter. But I just need them I need to make sure grout on does not come in on the first turn. That's the important thing here. Um
+
+[00:25:22:59 - 00:26:10:37]
+Speaker 1
+ And So the problem was that by leading rick and kyogre I couldn't guarantee that grout on didn't come in on the first turn if grout on comes in the first turn in this example Simplifying it let's say I lose So the solution I came up with was to lead rick wasa kyogre and to immediately switch rick wasa into rick you Because my thought process was I need to make sure that grout on doesn't come in on the first turn And there is no way he's going to switch grout on in Assuming that I have rick wasa already on the field because if he switches in Airlock is up. He can't cancel out the water. He'll lose on the spot So by leading rick wasa it was a conditioning attempt psychologically to say you know what I don't I don't I don't think he's gonna go for it I don't think he's gonna go for Um, yeah, switch to grout on turn one and you can see the turn play out here, which is sludge mom into my primal kyogre Uh, I go for water spout. Was I faster? Yeah, I was good job. Kyogre. I don't get poisoned. I don't get the kyo here
+
+[00:26:12:11 - 00:26:14:31]
+Speaker 1
+ But I do a lot and then he goes for thunder
+
+[00:26:16:53 - 00:26:17:19]
+Speaker 1
+ Boink
+
+[00:26:18:49 - 00:26:34:43]
+Speaker 1
+ But importantly grout on doesn't switch in and now if you look at this match you could say wow wolf If he went for switch primal kyogre to primal grout on and sludge bomb and shadow tag you Game is over immediately. You lose on the spot But I knew that it was like that play only covered one of my options it would lose to everything else that I could do
+
+[00:26:35:53 - 00:27:14:15]
+Speaker 1
+ And so I was comfortable saying he wasn't gonna go for it and in the end I was right I did this play even again on game two even after he'd already seen it because it was still too risky for him to bring Primal grout on on the first turn and so This is not a safe play this play that I made it's not a safe play But it is an almost safe play because I I calculated that the odds of him Switching grout on in against the lead that I was confident He had never seen before in a lead that I did not show on our first set on day one I was confident he wouldn't bring in grout on there. Um, and and I was right and by by making that assumption I was able to limit the scope of options I was considering and find a very good solid first first turn play that would advance me towards victory, which you know, I eventually got so Anyway, um, that's pretty much all I have to say about
+
+[00:27:16:03 - 00:27:35:28]
+Speaker 1
+ Safe plays I hope that this is interesting. I'm actually Pretty happy with the length of this. So yeah, thank you all for the support Thank you to everyone who submitted topics. We had a lot of good ones this month and Um, yeah, i'll see you all next month for some more more patreon content Thanks for watching. This shirt has jolty on it out of its bootleg so I can never wear it out, um at tournaments Okay. Bye. Bye

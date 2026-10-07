@@ -1,0 +1,355 @@
+[00:00:00:39 - 00:00:20:13]
+Speaker 1
+ Real youtube is so god I got a new mic stand but they haven't set it up honestly given this vertical mouse. This is the best I've done. I guess this is not cursive and normally do I normally try to do cursive? Maybe that's the reason it always looks terrible. Anyway, hello every gamer, welcome to gaming,
+
+[00:00:21:55 - 00:01:30:08]
+Speaker 1
+ this is the November Patreon video, it's a little later than normal because I have been swamped working on the worlds video and what you might think is that the worlds video must be nearly done because I've been swamped working on it. But that's not the case, it's a big video, I'm excited for you all to see it, I think the quality is going to be incredible, I'm hoping that it's going to be some of the best video we've put out, but it's slow going and it's a lot of work and I'm not that good of a writer so it takes me a while to get the quality that I need. Anyway I'm rambling, you didn't come here for this, maybe you did actually, maybe you actually did. Today I went to the Bond Me shop that I have mentioned before and I had a solution for my Bond Me problem, the short version of this story is that I have this Bond Me shop that I really like to go to, my friend Yuki was visiting so he came with me, or like he was visiting so I was like "oh we gotta go get Bond Me's" and the issue with my Bond Me shop is that there's a mosquito that lives there and always eats me while I wait for my Bond Me to be ready and it takes like 15 minutes so I get eaten quite a bit, but since it's been cold outside I've been wearing long pants and long jackets so I haven't been being bitten, but this time I bit my hand so I thought I was a genius by going there in the winter but it turns out I wasn't.
+
+[00:01:31:20 - 00:02:58:52]
+Speaker 1
+ Okay anyway this is the November Patreon decided video and the video that was decided is How to Build Around Bad Pokemon and as you can see, you're all very smart and you can probably read, probably 70% of you can read, How to Win Sometimes with Your Favorites, this is an article that I wrote on vgcguide.com which you should check out if you're interested, you don't have to. Full disclosure, we lose money on vgcguide and that's, I wouldn't say by design, I guess it would be nice if we broke even, but it's not like "oh I'm a YouTuber and you should do this thing because it helps us" because frankly the overall viewership of this is low enough and it doesn't really matter, but this is basically a project that I took on with my friends Aaron, Aaron and Marisa where basically we spent over a year writing very in depth articles on different things. I handled most of the team building section, but basically it was important to me to have a resource that existed that was number one free and number two could be timeless and always relevant basically. So that somebody who wanted to learn to play Pokemon but didn't have a big friend group or didn't have a lot of money to hire a coach or whatever that they could still have resources from top players, I don't know, just because I feel like that's important. So anyway I wrote a lot, there's a lot of articles here, I wrote all of this. I think my section alone was 50,000 words, I did a lot of team building stuff. There's also the battling section which Aaron Zeng handled more of. There's a lot of stuff here like pressure, prediction, protect, switching, these are all
+
+[00:03:00:06 - 00:03:32:11]
+Speaker 1
+ infinite things. I think actually I might have written this one. Yeah I wrote this one. So there's some crossover and then there's also some stuff about the circuit. In-game guide's a little outdated, some of the resources might be a little outdated, but everything like the information here is all good. So anyway, somewhere around here is this article that I wrote which is something that I think people are curious about for me specifically which is how to win with your favorite, which is also how to use bad Pokemon. I think is the way that I phrased it. I said how to build around bad Pokemon. So I wanted to show this here because I'm going to be echoing a lot of things in here. I'm not just going to read you this,
+
+[00:03:33:16 - 00:03:38:42]
+Speaker 1
+ I'm not just going to read you this article because that doesn't feel like a good use of your time because you can read it on your own. But
+
+[00:03:40:26 - 00:03:44:46]
+Speaker 1
+ yeah, actually you know what, I will keep this open because I want to be able to pull up a thing. So
+
+[00:03:46:03 - 00:04:44:30]
+Speaker 1
+ how do you build around bad Pokemon? Let's go back to full screen for a little bit. The first thing that I want to say is a disclaimer is that while you can build around your favorites and while you can certainly build around Pokemon that are bad and I do do this, it's not the way that I recommend starting out to newer players. If you were looking at it in the VGC and you want, you're like, "Wow, it's so cool that Wolf used Yawn Mega. I want to use my bad Pokemon too." Slurpuff pre-evolution. Swirlix or Slurpuff, that's also bad. How do I do it, Wolf? The short version is that I recommend to players who are not advanced team builders or at least intermediate team builders to not use unstandard Pokemon. The reason for that is it's going to be much easier to team build in general once you learn the fundamentals of the game and then you can start to deviate compared to if you start by trying to use bad Pokemon in the first place. You won't really understand as easily what a good team should look like.
+
+[00:04:47:22 - 00:05:29:40]
+Speaker 1
+ That's my advice. If you're looking to start out, you should do what I do. I had to do this for myself and I think I improved a lot because of it. I forced myself to only use standard Pokemon for a whole year and I didn't really want to do that. I wanted to do kooky crazy stuff, but I chose to do that because I thought that was what I needed. So even someone who's been playing for 11 or 12 years still needs reminders like that sometimes. I encourage you if you are starting out or if you aren't so confident in your team building to start by using standard Pokemon, learning how they work, learning the fundamentals of team building, and then from there you can start to deviate. I think that will lead to more success. On that topic though, it's not all about success. I play Pokemon, for me, my goal is to win. I want to win tournaments.
+
+[00:05:30:42 - 00:06:48:34]
+Speaker 1
+ For you, that might not be your goal. You might be playing VGC for fun, which is totally valid. I also have fun for what it's worth, but my fun is also directly tied to the goal, but that is a component of it. You might just be playing because you want to be a part of a community or make new friends or travel like it or you just love Pokemon. If those are your goals, then it's not so much about the winning component or even the doing well component. That's totally fine. There is absolutely nothing wrong with having different goals and different success metrics than what I have. I want to preface all this by saying what I'm going to do, what I assume you all wanted to ask me here, wanted me to talk about was how do you approach building around a bad Pokemon with the parentheses being how do you make it work? How do I take this to garbage Pokemon and make it work? That's where I'm coming from, but this might not apply to you. If you don't care about doing well, if you aren't entering tournaments, if your goal is to troll some people online or get a win every now and then, you don't need to listen to all this. That's a valid way of playing the game and I'm not trying to discount it. It's just not how I play the game and I suspect that this is not what people wanted me to talk about. Here are the things that I would think about as someone who uses bad Pokemon. That's my switch. This is what I want. Cool.
+
+[00:06:49:53 - 00:06:58:35]
+Speaker 1
+ Let's go to Picolytics just as a starting point. What I'm going to do here is I'm going to scroll down and I'm going to pick a random Pokemon with very low usage. I'm going to click one. Pachirisu.
+
+[00:07:01:26 - 00:07:01:54]
+Speaker 1
+ Did that really?
+
+[00:07:03:16 - 00:07:14:13]
+Speaker 1
+ You know how to use Pachirisu. I'm going to scroll up, scroll down, scroll down, scroll a little bit. You can see I'm closing my eyes. I'm all looking. Did I click one?
+
+[00:07:15:15 - 00:07:21:13]
+Speaker 1
+ Salazzle. Great. This is great. Salazzle. Because this Pokemon is not what I would consider good. So
+
+[00:07:24:07 - 00:07:49:38]
+Speaker 1
+ before we start building around a Pokemon, okay, we will use Salazzle as an example because we've not picked it. But before we start building around a Pokemon, it's important to understand why. Like, why are we using the Pokemon that is bad? So the right way, in my opinion, to use a Pokemon that is bad or the right motivation is because it does something that other Pokemon can't do. So what I'm going to do here is I can't open Shodan because you will see what I'm working on and I don't want that to happen just yet. So let's go to Serebii, right? Okay.
+
+[00:07:51:32 - 00:08:27:16]
+Speaker 1
+ And let's talk about Yannmega because this is the most recent bad Pokemon that I built around. I'll zoom in so you can see better. And this is a resource that I really do use. So I went to Serebii. Actually, I might have genuinely done this in Serebii. So I wanted to use Tailwind. I had kind of started with a concept. I knew that I wanted to build around Ursa Luna and I wanted to use Ursa Luna that was flexible on both Tailwind and Trick Room. I thought that would add more success. But the caveat was that in order for Tailwind to be valuable, I wanted it to be able to be set up before a Pokemon like Dragapult, who was the fastest Pokemon that was common in the format at the time, is the fastest Pokemon in the format that was common at the time,
+
+[00:08:28:25 - 00:09:40:05]
+Speaker 1
+ could attack me. So I was looking for some kind of Tailwind setter that could move before Dragapult with Tailwind. And so if we look through this list, we see Pokemon like Articuno, Articuno, Suicune, none of these work. Pelipper doesn't work. Latias Latias doesn't work. Driflim, this can work, but it needs a way of activating its item, which would require Indeedee or Rillaboom or some other terrain setter. And that didn't really make sense in the context of what I was doing. Whimsicott was an option, so that's one. Tornadus wasn't legal. Talonflame was another option. Braviaries don't work. Noivern's too slow. Frostmoth's too slow. Basically, I don't need to go through all of these, but basically the only Pokemon that can work were support Pokemon or Pokemon that required another third piece to work. Jumpluff can also be Dragapult, but Sun has to be up. Driflim can also be Dragapult, but it needs to already have used its held item to activate some burden. The other options were support Pokemon like Talonflame, Volbeat, Lumise, Whimsicott, Pokemon that can set Tailwind up, yes, but they're really not good at doing damage. So I was scrolling through this whole list over and over again, trying to find some way of doing it, and nothing was standing out. Nothing could do it. There was no Pokemon that could both set Tailwind and outspeed Dragapult. I scrolled through the whole list, I didn't see it. There are fast Pokemon here, but they're not faster than Dragapult because Dragapult's the fastest Pokemon around.
+
+[00:09:42:20 - 00:10:53:30]
+Speaker 1
+ Then I came across Yarnmega, and I was like, wait a second, Yarnmega's not fast enough, but it is strong. It has base 116, Special Attack, which we compare this to Talonflame, who has base 81 attack. That's 30 more points, 35 more points than Talonflame. And it's a Special Attack, which means it doesn't have to worry so much about Intimidate, so it doesn't care about that at all. And Yarnmega also gets Speed Boost. And so when I look at the combination of Pokemon that number one hits hard, because I already had both in Cinderhorn and Porygon too at the time, on my team, so I didn't want more support Pokemon because I was worried about running out of damage. So I wanted a Pokemon that hit hard, that outsped Dragapult, and could use Tailwind. And Yarnmega after a Speed Boost met all three criteria. In fact, it's the only Pokemon, as far as I'm aware, that meets all three criteria. Yeah, you could do something like Life Orb Whimsicott, but like, come on, no. Right. We're not doing Life Orb Whimsicott here. Like, yeah, it was the only Pokemon that met all three criteria. So you can see that via this process, I didn't go in looking for, I wasn't like, I want to make Yarnmega work. How do I make Yarnmega work? Thumbs up. Instead, I was saying, what do I need this Pokemon to do? And I narrowed it down to three very specific things or three very
+
+[00:10:55:19 - 00:11:12:34]
+Speaker 1
+ clear things. Does it have Tailwind? Does it have outsped Dragapult? Can it hit hard? Hard is a bit more subjective, but let's say we're looking for a Pokemon with above base 1, 15 special, like an attack or special attack, or a Pokemon that was slightly weaker but had really strong moves. Yarnmega was the only thing that I could find that met all three criteria without needing an additional piece on the team.
+
+[00:11:14:06 - 00:12:19:14]
+Speaker 1
+ And so that's why I decided to use it. It wasn't because I was trying to be quirky. It wasn't because I was trying to like, yeah, like use my favorite Pokemon, right? It was just because it met all three of my criteria. In my opinion, this is the best way to go about finding and selecting unorthodox Pokemon. It's Pokemon that meets specific niches that you have that nothing else can fill. You're using them because they're the only thing that does what you need it to do rather than because you want to use them. That's in my experience the best way of making these unorthodox Pokemon work because they're going in with a goal already. And this is part of the reason why I recommend learning how to team build the flick fundamentally first because if I were to give the core of Incineroar, Porygon 2, and her Saluna to even a like, not necessarily a beginner player, but maybe even an intermediate player, I don't understand that a logical next step there is to add an offensive tailwind user. I think many people would add a Pokemon like Amoongas, right? Another support Pokemon that can heal Porygon 2 and her Saluna, but that doesn't meet my team building criteria. That doesn't meet my team building philosophy. I was actually very adamant about not adding Amoongas. I didn't think that it was going to work on this team concept.
+
+[00:12:21:11 - 00:13:13:10]
+Speaker 1
+ But in order to kind of learn what those roles need to do, you need to have experience with the good Pokemon so you can see what a good team looks like. If you're always using bad Pokemon for the sake of it, you're going to be shooting yourself on the foot. So let's say we went through and we actually, you know, let's go with this a different way. So let's say you don't like that advice. You're like, Wolf, I don't care. I really want to build around Salazzle. Salazzle is my favorite Pokemon. I don't care what you, I don't care if that's like not optimal. I want to build around Salazzle and I'm going to do it regardless of whether or not you think I should. Well, then let's make Salazzle work, right? Let's say you're doing this in a way that is less, in my opinion, less optimal, but you really want, you have a Pokemon, it's your favorite, you really want to make it work. And for some reason it's Salazzle, who I don't like at all for the record, but let's say Salazzle is my favorite Pokemon. Okay. Well, there's a couple things that we need to do. First of all, we need to identify what the Pokemon strengths are. Actually, you can see that's here. I realize the same thing I
+
+[00:13:14:13 - 00:13:31:32]
+Speaker 1
+ recommend here. So a Pokemon's strengths come from a couple different areas. Number one, the typing. So is the typing doing something unique and are there Pokemon that this Pokemon matches up well against? You can actually have a decent sense of this by going to the most used Pokemon in the format. This actually got updated. That's interesting. Um,
+
+[00:13:32:40 - 00:13:43:27]
+Speaker 1
+ so the Pokemon's typing. The first thing we can say is, okay, how does this match up against the format? Well, Dragonite doesn't really match up super well against, but there's stuff it can do. We'll get to that later. Goldengo, I would say it has an advantage against.
+
+[00:13:44:31 - 00:14:46:58]
+Speaker 1
+ We should do everything at once. Sorry. Typing is the first thing. The other thing is the abilities. So in this case, Salazzle has oblivious and corrosion. The third thing is the move pool. So does it have any useful moves that it can use that either unique to it or are good in combination with the other things about it or just are in a good place? And the last thing are the stats. What is good about the stats? How are we going to make this Pokemon? Like you don't want to have when you're building a team, a Pokemon be deadweight that you have to carry. You want every Pokemon to be able to contribute, even if not in every battle in some battles. Right? The stats are typically the first place that I look. What are the stats like? Right? Because stats really determine if a Pokemon is bad stats, it's going to need a really, really broken ability like Wonderguard or, you know, have some kind of signature gimmick like Smeargle in order to keep up. So that was a really low base stat total, but it's actually slightly better than it looks here because of a couple of things. So we see first of all, it's a lot of the base attack is pretty low. And so that's contributing like less to the base that total than it would otherwise is effective base that total is for 16, which is the base that total minus the stat that doesn't use.
+
+[00:14:48:48 - 00:15:42:43]
+Speaker 1
+ And so lastly, actually has good distribution in the sense that it's kind of efficient because for a Pokemon with base that total this low, the worst thing that could happen is to have the stats spread kind of evenly here. So as well has good speed with base 117 and it also has good special attack with OK, good might be a stretch, but it's not bad special attack. It's like totally, I would say average to slightly above average is usable. We can work with this right. And although both the defenses in the HP are bad, that's actually okay because it's a really good makes it a good holder of the focus stash because it was never living two hits or it was never going to live two hits anyway. But with focus that you can always survive one. So already by looking at the stats, we can say, OK, so Lazl probably needs the focus stash because otherwise it's not strong enough to really make use of an item like life or choice specs. You could do it maybe, but I like I don't think so personally. That's an option that you could do like an offensive. I don't like specs or life or but we have a general idea. We want the thing to be their sash or specs or life orb and sashes looking like the best option
+
+[00:15:43:53 - 00:15:51:14]
+Speaker 1
+ in terms of typing. We see it's a fire and a poison type. So we already know we're going to be strong against steel and fairy type Pokemon. So Goldengo is good. We also have a double resistance against Sneezer
+
+[00:15:52:49 - 00:16:06:28]
+Speaker 1
+ and Rillaboom. It's like obviously really good against Rillaboom. Both types are grass that we have to watch out for high horsepower because double weeks to ground. We can hit can gamma for super effective damage. Fire and poison is decent offensive typing. When we look at the abilities, we can see that it can poison steel and poison types, which
+
+[00:16:07:39 - 00:16:29:09]
+Speaker 1
+ doesn't have a ton of use here because like Goldengo can't be poisoned because it's immune to status moves, even though like and it's also immune to poison. But corrosion won't really work in Goldengo because we have no way of sludge bombing it and we can't hit it with toxic or anything or poison gas. Sneezer, we don't really need to poison. We can hit Amoongos, but we'd probably rather be hitting it with a fire move. So corrosion probably isn't going to be great here. Oblivious, on the other hand, can be useful.
+
+[00:16:32:42 - 00:17:00:19]
+Speaker 1
+ I definitely thought this was unaware. I got my Jindosus confused. Okay, neither of these abilities are great, basically. I thought this was unaware, but no, it's oblivious. So can't be taunted, can't be attracted, can't be intimidated. None of that really matters. Maybe both of these abilities are worthless is what I'm saying. Okay, so we have useful typing, we have stats that we can optimize around, and then we have useless abilities. So the question then is the move. So the first thing you want to do if you're building around a Pokémon and you're not trying to fill a role that already exists. Does that already say that I got a new mikestand but I haven't built it yet? I think I forgot. Anyway,
+
+[00:17:01:53 - 00:17:19:42]
+Speaker 1
+ the first thing that I like to do is I like to… I'm old school, so I do this in Paste Bin because this is what we used to use before like I don't know, Google Docs or whatever. So what I would do, like back in the day when I was trying to make weird mods work for no reason, is I would go through and I would look at all the moves that I think could have some use. So Fire Lash. You can say Fire Lash lowers defense,
+
+[00:17:20:54 - 00:17:23:45]
+Speaker 1
+ breaks sash. Cool. That's something that's useful. Endeavor.
+
+[00:17:26:27 - 00:17:28:20]
+Speaker 1
+ Useful with sash.
+
+[00:17:30:10 - 00:17:37:28]
+Speaker 1
+ Knockoff I wouldn't use in a Pokémon like this. Poison Gas. Poison. Poison Gas.
+
+[00:17:38:34 - 00:17:39:54]
+Speaker 1
+ Can poison.
+
+[00:17:41:42 - 00:17:53:55]
+Speaker 1
+ Arcaludon. Could be good with stall compositions like Dozo. That's actually interesting, right? Because I'm going through the different moves and the question is like how could I make this move work?
+
+[00:17:56:02 - 00:18:14:59]
+Speaker 1
+ And I'm seeing here, this could also poison Sneezler. Which Arcaludon is useful to get the poison to wear it down over time but poisoning Sneezler is useful to break the focus sash. Okay, we're like seeing some stuff. Oncorn disabled. This is a personal thing. I don't think that it's a good enough Pokémon to use these moves because you know what? Fine. Oncorn disabled.
+
+[00:18:16:24 - 00:18:22:10]
+Speaker 1
+ General disruption. Fine. It's fast. So here we're kind of considering everything. Right? General disruption.
+
+[00:18:25:17 - 00:18:27:57]
+Speaker 1
+ You don't want to overload here. I'm kind of overloading right now.
+
+[00:18:29:00 - 00:18:32:13]
+Speaker 1
+ Let's look at the other moves. Nasty Plot. That's another one. It could be used as a setup sweeper.
+
+[00:18:33:23 - 00:18:37:58]
+Speaker 1
+ Setup sweeper roll. Okay. I'm
+
+[00:18:39:37 - 00:19:02:16]
+Speaker 1
+ going to shock dragon pulse, flamethrower, toxic. Fake Tears. Sure. We'll include Fake Tears here. I wouldn't include toxic because it only poisons one Pokémon and because poison damage is only toxic poison, it's only really good on slower paced teams where you're trying to gradually wear down the opponent. And with Slazzle being so frail, I don't think it's a great toxic user, but you could consider it. Fake Tears is an option but I'm actually going to immediately erase that for Acid Spray which is just better.
+
+[00:19:03:52 - 00:19:04:46]
+Speaker 1
+ Can...
+
+[00:19:13:30 - 00:19:21:23]
+Speaker 1
+ Let's see what else here. I guess we could include Scary Face for speed control. Some of these moves I would just immediately eliminate, but we'll do this like fully. Speed control.
+
+[00:19:25:15 - 00:19:38:22]
+Speaker 1
+ Acrobatics, Thief, Trailblaze, Facade, Poison Dill, Swift, Flame Charge. It's physical, it's bad. I'm on freaking count. I'm including here. Sunny Day. I'm not going to include it here. I don't think it's good enough. Thunder Wave. I would put this here. It's not going to work I think, but it's
+
+[00:19:40:02 - 00:20:01:22]
+Speaker 1
+ a broken move or it was a broken move at one point so I always include it. Poison Jab, Rest, Taunt. Toxic Spikes, we could include it. I don't think it's great but we could include it. I don't think Toxic Spikes works with Corrosion. In fact, I'm almost positive that it doesn't but I will include it. Gunshot Sub, Will-O-Wisp. This is a move that I would consider. It's a great move. It's a fast user. Fast user.
+
+[00:20:02:50 - 00:20:04:10]
+Speaker 1
+ Great support.
+
+[00:20:06:35 - 00:20:42:03]
+Speaker 1
+ Hyper Voice Heatwave, we already talked about Encore. This is mostly non-damaging moves by the way if you haven't noticed. Or coverage moves because the damage moves we'll get to later. Helping Hand. You do the weird moves that you can build around. Encore Heatwave. Helping Hand. Nasty Plot, Fire Blast, Sludge Bomb. Gigad impact, Overheat, Hyper Beam. Flare Blitz, Terrible S, Toxic Knock Off. Burning Jealousy. It's too fast for burning Jealousy, Endeavor, Temporal Flares, Physical Unbad, Skitter Smack Bad. I would maybe include Breaking Swipe and Dragon Cheer here. Breaking Swipe, Dragon Cheer. I feel like Dragon Cheer is underplayed given how good it is.
+
+[00:20:43:19 - 00:20:47:50]
+Speaker 1
+ Yeah and the target has to be this. And then the last thing is Fake Out. So okay.
+
+[00:20:49:20 - 00:20:58:39]
+Speaker 1
+ The next thing, now we have a bunch of weird niche moves that we could build around. The next thing that we want to talk about is what are we going to do with this thing?
+
+[00:21:00:35 - 00:21:06:14]
+Speaker 1
+ So the first thing you have to decide is how many moves of your types do you want to use? We're always probably going to use Sludge Bomb here in my opinion.
+
+[00:21:07:20 - 00:21:33:51]
+Speaker 1
+ I think that we want to use one poison and one Fire Move here because there's a lot of Pokemon that we can't hit with one. For example, Goldengo we need the Fire Move. Dragonite we need Sludge Bomb. Sneezel we prefer Flamethrower. It's the first Sludge Bomb, right? Flamethrower, Flamethrower, Flamethrower, Flamethrower. Doesn't either work here but that's fine. Can I resist poison? Sludge Bomb, Flamethrower, Sludge Bomb, right? We probably want both, right? So we always want Sludge Bomb. And then here you have one of Heat Wave. Let's see, Moves.
+
+[00:21:36:15 - 00:21:37:07]
+Speaker 1
+ Flamethrower,
+
+[00:21:38:45 - 00:21:41:37]
+Speaker 1
+ Overheat. These are the three moves that I would consider personally.
+
+[00:21:47:59 - 00:21:54:24]
+Speaker 1
+ And plus one, plus two. You see this? It's too small. I'm sorry about that. Now it's too big for me.
+
+[00:22:03:49 - 00:22:07:24]
+Speaker 1
+ This is better for you, so I'll do it this way, but this is really disorienting for me. Anyway.
+
+[00:22:09:15 - 00:22:37:49]
+Speaker 1
+ So, we only have two moves lost left, right? So the next thing that I would do is go through and start eliminating things. So I'm gonna say Fire Lash, you're garbage. Get out of here, right? I don't like Onkorn Disable on Solazzle, so I would say like personally, I'll leave these here but I don't like, I don't love them. Nasty Plot would have to be its own like set. Looking at the meta again, it's like you're susceptible to Dragonite. I don't love Nasty Plot here. I don't love Thunder Wave or Scary Face. I also don't really like Toxic Spikes here. This is partially personal preference,
+
+[00:22:38:59 - 00:22:56:10]
+Speaker 1
+ but it's my personal preference. I'm gonna do this. Helping Hand, Breaking Swipe. These moves are better on Pokemon that are gonna stick around for longer rather than like one turn. So I would just immediately get rid of a lot of these moves here and I don't think that Onkorn Disable are better than two. I think I was gonna want Onkorn Disable. I'd rather use like Will-O-Wisp.
+
+[00:22:57:24 - 00:23:20:35]
+Speaker 1
+ Here another question we have to ask is like, do we want Protect? Okay. So these are tough questions to answer. So immediately things that are standing out to me is that we have, what are our options? What are our options? Right? Because we have, we always have Sludge Bomb and a Fire move and realistically this is gonna be Flamethrower for me or Heatwave, but it could be Overheat depending on the other moves. Number one, we have Focus Dash, Fake Out Set, right?
+
+[00:23:22:47 - 00:23:23:35]
+Speaker 1
+ This looks like
+
+[00:23:24:51 - 00:23:28:16]
+Speaker 1
+ Fake Out, Sludge Bomb, Flamethrower,
+
+[00:23:30:58 - 00:23:38:35]
+Speaker 1
+ Fourth move. Like fourth disruption move. Ah, fourth move. On this set I would say probably Protect
+
+[00:23:40:13 - 00:23:41:03]
+Speaker 1
+ or Endeavor
+
+[00:23:43:16 - 00:23:46:00]
+Speaker 1
+ or Acid Spray
+
+[00:23:49:31 - 00:23:50:54]
+Speaker 1
+ or Will-O-Wisp. Okay.
+
+[00:23:53:48 - 00:24:03:39]
+Speaker 1
+ This is set number one. Number two, Weird, Bulky Assault Vest. Because as we went through, we saw that there were four different moves that we could use.
+
+[00:24:04:47 - 00:24:06:55]
+Speaker 1
+ Sludge Bomb, Flamethrower,
+
+[00:24:08:57 - 00:24:10:56]
+Speaker 1
+ Flamethrower, I'm using Fire move here, Endeavor.
+
+[00:24:13:16 - 00:24:14:41]
+Speaker 1
+ And actually this could be Endeavor
+
+[00:24:16:16 - 00:24:17:10]
+Speaker 1
+ or Acid Spray.
+
+[00:24:20:26 - 00:24:23:23]
+Speaker 1
+ Depending on the team, then this could also be Acid Spray.
+
+[00:24:27:56 - 00:24:28:18]
+Speaker 1
+ Okay.
+
+[00:24:29:19 - 00:24:30:08]
+Speaker 1
+ And then
+
+[00:24:32:50 - 00:24:36:51]
+Speaker 1
+ three, Life Orb. And for this one I would probably do Protect,
+
+[00:24:38:14 - 00:24:55:45]
+Speaker 1
+ Flamethrower, Sludge Bomb, plus one depending on the team. And then we went through the moves, we didn't see that many coverage moves, so I would not say Choice Specs. I would say no Choice Specs here. These are the three sets that stand out to me. The other one is Weird Support. This could be
+
+[00:24:57:06 - 00:24:57:35]
+Speaker 1
+ Covert,
+
+[00:24:59:07 - 00:25:10:00]
+Speaker 1
+ Cloak, or Focus, Dash, probably. This would be Fake Out, Will-O-Wisp. This would probably be Fake Out, and then one of Will-O-Wisp
+
+[00:25:11:26 - 00:25:12:11]
+Speaker 1
+ or
+
+[00:25:14:57 - 00:25:21:13]
+Speaker 1
+ Poison Gas. You could also maybe do Toxic or Spikes here. And then one of,
+
+[00:25:22:24 - 00:25:24:19]
+Speaker 1
+ this would probably be Acid Spray,
+
+[00:25:25:45 - 00:25:26:28]
+Speaker 1
+ Flamethrower.
+
+[00:25:28:11 - 00:25:34:09]
+Speaker 1
+ That would be my recommendation. You could also do Dragon Cheer if you had the team for it, but that's probably bad. This is really gimmicky.
+
+[00:25:35:23 - 00:25:52:47]
+Speaker 1
+ This would be No Protect. Fake Out, Will-O-Wisp, Poison Gas, Dragon Cheer, Acid Spray, Flamethrower. Yeah, this set would be bulkier. This is like if you really want to use Salazzle and you can't use the Fake Out for some reason. So these are the four different sets that I would personally consider when building, starting with Salazzle, or when if I really wanted Salazzle to be fitting onto an existing team.
+
+[00:25:56:25 - 00:25:56:41]
+Speaker 1
+ Yeah.
+
+[00:25:57:58 - 00:26:37:15]
+Speaker 1
+ So that's basically the way that I would go about breaking down. You look at the Pokémon's strengths, you look at the things that it can do. I know I'm skipping around here a little bit because I have intuitions about what moves work, what moves don't work. This is because I've built up a really strong team building fundamental backbone. That fast and frail Pokémon aren't great Encore disabled users unless they really don't have anything better to do. But in a Pokémon like Salazzle who has so many valuable support moves, typically you're going to want to... You'd rather be burning something than disabling it for the most part if you're playing Open Team Sheets. And yeah, these are the different ways that I could see a Pokémon like this being used. The abilities don't really matter, to be honest. I guess for most of them you'd prefer
+
+[00:26:39:02 - 00:26:41:50]
+Speaker 1
+ Oblivious only because
+
+[00:26:43:38 - 00:26:54:44]
+Speaker 1
+ it stops Taunt, I guess. Like none of them are super good. The thing is that you can't... Unless you're running Poison Gas, you probably want Oblivious. That being said, you could totally use Corrosion Poison Gas if you wanted, but I just don't think it's very good.
+
+[00:26:56:50 - 00:26:58:29]
+Speaker 1
+ Personally, that's just my opinion though.
+
+[00:27:00:53 - 00:27:36:17]
+Speaker 1
+ Yeah. Anyway, I think that's actually pretty much what I wanted to say about this topic. I realized I've talked for half an hour already. But just to recap, basically, most of the time you don't want to pick a weird Pokémon just because it's weird. At least not if you're trying to have success with it. Instead you want to look for specific things that that Pokémon can do. Or like for things that you need that specific role to do and then you find a Pokémon that matches that. If that's Urshifu, that's fine. If it's Calyric Shadow, that's fine. If it's Yanmega, that's fine. It's about more what the Pokémon can do rather than how used the Pokémon is. If you were like, "Oh, I wouldn't use this Pokémon if it were really popular," then...
+
+[00:27:37:56 - 00:28:25:48]
+Speaker 1
+ Maybe you don't use it at all, is my advice. In general, I recommend when you're starting out, start by learning how to use standard Pokémon and then start being weird. It's way easier than going the other direction in my opinion. And also it will lead to more success when you do eventually build around weird Pokémon. So that's always something I recommend. But of course, you play the game in whatever way feels right to you. If you are trying to force a use of Pokémon, look at its strengths, identify different things that you can do with it, identify ways that it can be strong and contribute to the battle. Review this article. This is part of what I was talking about in a more roundabout way. Like, "Does your Pokémon have a type advantage? Will your Pokémon move first?" This is another way of saying what makes your Pokémon strong. See what your Pokémon is bad against. See if you can cover that in the set or with your partners. And then build your team around it if you really want to. So yeah, it's not that complicated, but it's also not very easy. That's my advice. Oh shoot.
+
+[00:28:27:55 - 00:28:46:10]
+Speaker 1
+ Okay, that's it for me. I hope this was helpful. Hope you all had a great Thanksgiving if you celebrated and a good day if you didn't. And I will have the reaction video up, most likely tomorrow. Thanks again for watching. Thank you for the support. I hope you all are having a good time as you go into the holidays and the winter holidays. And yeah, I think that's it for me. I hope this was helpful. Bye bye.

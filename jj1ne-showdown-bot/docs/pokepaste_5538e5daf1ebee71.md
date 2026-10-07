@@ -1,0 +1,55 @@
+# PokePaste: Aristo Wibowanto's Brisbane Regional 2027 Top 16 Team
+Author: VGCPastes
+Source: https://pokepast.es/5538e5daf1ebee71
+
+```
+Indeedee @ Choice Scarf  
+Ability: Psychic Surge  
+Modest Nature  
+- Expanding Force  
+- Trick  
+- Mystical Fire  
+- Terrain Pulse  
+
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+Jolly Nature  
+- Rock Slide  
+- Knock Off  
+- Low Kick  
+- Protect  
+
+Excadrill @ Focus Sash  
+Ability: Sand Rush  
+Jolly Nature  
+- Iron Head  
+- High Horsepower  
+- Rock Slide  
+- Protect  
+
+Salamence @ Salamencite  
+Ability: Intimidate  
+Timid Nature  
+- Hyper Voice  
+- Flamethrower  
+- Draco Meteor  
+- Protect  
+
+Corviknight @ Psychic Seed  
+Ability: Mirror Armor  
+Careful Nature  
+- Brave Bird  
+- Power Trip  
+- Bulk Up  
+- Roost  
+
+Sneasler @ White Herb  
+Ability: Unburden  
+Adamant Nature  
+- Close Combat  
+- Dire Claw  
+- Coaching  
+- Protect  
+
+
+```

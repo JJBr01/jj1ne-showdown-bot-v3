@@ -1,0 +1,191 @@
+[00:00:00:41 - 00:00:19:06]
+Speaker 1
+ Alrighty, hello everybody, I hope you all are doing well. This is the March Patreon video. It's late Sunday evening, I'm recording this because I have a very busy next period, but I'm going to make sure that I do everything for the Patreon. I think this one is really interesting, this topic that you all suggested and then chose.
+
+[00:00:20:20 - 00:00:21:23]
+Speaker 1
+ So I'm excited to talk about it.
+
+[00:00:22:31 - 00:00:58:13]
+Speaker 1
+ Basically this is the video talking about how to adjust your EV spreads as a metagame develops. And the first thing that I want to do is I want to do a little bit of an EV spread overview, because it is entirely possible that if you were a newer player, you should not be watching this video yet. But for those of you who don't know, just to give you a quick overview and make sure that everybody's up to speed, effort values or EVs for short are the term that competitive players use to talk about the stat points that you can influence on each of your Pokémon. There are between 65 and 66 plus one stat points that you are able to augment on each Pokémon. This is based on their base stats.
+
+[00:00:59:22 - 00:01:06:05]
+Speaker 1
+ And you can put a maximum of 32 in each stat. It is worth noting that in Pokémon Champions, I believe this number is set to either 67 or 68.
+
+[00:01:09:21 - 00:02:28:01]
+Speaker 1
+ I believe I'm pretty sure it's 66 plus one. And so if you're watching this when Pokémon Champions is out, then just keep in mind that this number won't be variable for you. But in Scarlet and Violet and every game prior to it, there was a slightly variable depending on where you're distributing them. It doesn't matter, it's not important. Basically, the important thing that you need to know is that the stat points and how you distribute them, they matter a lot. They actually matter a ton. And often it's these EV spreads that determine which players win tournaments. And like a crucial survival, a crucial speed, a crucial damage roll or like amount of damage done, these are often the make or break factors when players are pushed to the limits and are playing at their, you know, some of the best in the world. It's often the EV spreads that make a huge difference. There is real reason to understand this stuff and to try and get better at even your Pokémon. That being said, I have a couple other videos that talk about the basics of EV training. And if you are new to EVs and if this already feels kind of confusing or overwhelming, I definitely recommend starting with those. They will be linked in the, they are already linked in the Patreon master post. Yeah, this is not the right first video for you if you are new to the concept of EVs. So start with one of those and then, yeah, play a little bit and come back and watch this one. This video again, just to reiterate, is about how to take an existing EV spread, something you've already made, and adjust it to new developments in the format.
+
+[00:02:29:18 - 00:02:39:39]
+Speaker 1
+ First question is why do we even need to adjust our spreads? I worked hard on this EV spread, it's been working for me, like why do I need to change it? And the short answer is that there is new information that has come out. So
+
+[00:02:42:01 - 00:02:43:44]
+Speaker 1
+ have I given this example twice?
+
+[00:02:45:41 - 00:03:29:06]
+Speaker 1
+ Okay, so I think I, we might reference this example again later and I might have written it explicitly, sorry, it's a little bit late and I'm a little bit tired, but here's what you need to know. Okay, so Fluttermane. Fluttermane is a very interesting Pokémon for a number of reasons, but basically when Scarlet and Violet first came out, everybody ran max speed, max special attack, Fluttermane, and it was mostly focus ash, though maybe there was a couple of choice specs mixed in there as well. However, then the Fluttermane began getting bulkier and started using like booster special attack, whatever, whatever. Anyway, as we return to Regulation F, the main Fluttermane that people were using were like offensive choice specs occasionally boost their special attack and then a couple of booster speed energy that were running like Tim in nature and were trying to outspeed one another, trying to be the faster Fluttermane.
+
+[00:03:30:36 - 00:04:32:01]
+Speaker 1
+ However, in the early return to Regulation F, Regulation F part two, which is the current format at the time I'm recording this, there was a Fluttermane that did quite well. That was bold nature. Bold for anyone who doesn't know raises its defense stat. Fluttermane has a very low base defense stat and in nature is more effective when it raises a higher stat. So being a bold Fluttermane was completely unthinkable. This Fluttermane used many disruptive moves like Thunderwave and Icy Wind and Pain Split and Taunt, not all at once, but some of those moves, and used the speed booster energy to compensate for the fact that it wasn't really training any points in its speed to get a speed boost. And so basically this Fluttermane was incredibly tanky, incredibly hard to get rid of, and did extremely well when it first came out. And if you had told me, like back in when Regulation F part two could start again, like January, if you told me that, "Oh yeah, well, if I'm gonna EV for bold 252, 252 Fluttermane, I would have told you that that's ridiculous. Nobody runs that. Worry about specs or speed booster, right? Speed booster timid. Nobody runs bold 252, 252.
+
+[00:04:33:32 - 00:04:59:43]
+Speaker 1
+ That's max, max, sorry. But yeah, here we are. Here we are. And now the main Fluttermane, the first Fluttermane that I personally calc against is bold 236, 236 because there's been some speed creeping. But like, yeah, like if you were like using a team from Regulation F part one, this team wouldn't have accounted for bold Fluttermane. And so that's like an example of a Pokémon that you need to pay attention to. The slightly longer answer to this question that
+
+[00:05:00:57 - 00:05:07:33]
+Speaker 1
+ was already a little bit of a long explanation is that because there's rarely a best answer to any question in competitive Pokémon,
+
+[00:05:08:52 - 00:05:32:43]
+Speaker 1
+ excuse me, because there's rarely a best answer to any question in competitive Pokémon, and the answer to everything is kind of "it depends," then as the "which it depends" becomes—as some "it depends" become better, then that also means that other "it depends"—this is a terrible example. Okay, hang on a second, I can do this, I can do this, okay? What I'm trying to say is that the best Eevee spread for a Pokémon is almost always determined by what the Pokémon around it are doing.
+
+[00:05:33:45 - 00:05:36:32]
+Speaker 1
+ Like for example, this is a better example, okay?
+
+[00:05:37:47 - 00:07:07:21]
+Speaker 1
+ If you are, you know, Regulation F part one, maybe you want to use Focus Sash or Shifu Water, or Choice Scarf or Shifu Water. Maybe the dominant Fluttermane is Choice Specs and Booster Special Attack, in which case, like Choice Scarf or Shifu is really good, or maybe even Sash or Shifu is pretty good. But now the Fluttermane are running bold, and maybe in order to KO Fluttermane, even with Surging Strikes and Aqua Jet, maybe you need to run an item that boosts your attack, like Mystic Water, right? That's not something you can just get out of your Eevee spreads alone, and that also might influence how much attack you put in your Urshifu. Now, you know, earlier on when everyone had this more offensive Fluttermane, maybe you wouldn't want to run this bulk of Urshifu, maybe for a more offensive one, right? I have an example here that you can read about, like Oropon, but it's a similar concept, right? Basically, like what the best Eevee spread for any given Pokémon, in large part, is influenced by what the Pokémon around it are doing, and are almost always, if your Pokémon is even a little bit popular, then it's almost always influenced by what other people are doing with their same Pokémon. So, like, what's the best speed stat for your Raging Bolt to be at? It's exactly one point faster than every other Raging Bolt you're gonna play, assuming nobody's running max, right? Like, if everyone's in the 95 to 98 range, then you want to be 99, right? If they're tapping out in 100, you'd want to be 101. These are all subjective, right? It's not like 101 is the magic number, and that's the good stat number for Raging Bolt, because then everybody would run it, right? And then you'd have to go 102. This is a phenomenon called speed creeping, but I'm not really getting into it. You get the point, right? That when you do adjust our spreads because
+
+[00:07:08:32 - 00:07:19:21]
+Speaker 1
+ there's pretty rarely an absolute best spread. And it just happened, and there are item combinations where there become best spreads, but for the most part, for any Eevee spread that you're thinking about adjusting,
+
+[00:07:20:45 - 00:07:22:44]
+Speaker 1
+ there's gonna rarely be one best answer.
+
+[00:07:24:14 - 00:07:38:18]
+Speaker 1
+ So I think one of the things that people struggle with when it comes to adjusting Eevee spreads is, how do I even know what to consider, right? Like, okay, my Eevee spread doesn't feel as good. I can kind of tell that I'm not winning as much or my Pokemon doesn't feel as impactful, but I don't really know how I'm supposed to know what to change it to, right?
+
+[00:07:39:32 - 00:08:14:05]
+Speaker 1
+ And so in order to kind of answer this question of how we should adjust our Eevee spreads, we need to know what we should consider. And what we should consider is basically what other people are doing. Like we need to know how other people are Eevee-ing in order for us to adjust our Eevees to counter their Eevees, right? I've broken this down into four main things that you can pay attention to. There are probably others as well, but I thought these were the most easily accessible slash impactful. And I've broken them down into major tournament results. These are some of the most impactful, because in major tournaments, people will often publish their teams after they do well, especially for winners teams. It's pretty common for people to publish their teams online.
+
+[00:08:15:17 - 00:09:03:37]
+Speaker 1
+ And so you can actually take a look at their Eevee spreads and see what they were doing that led them to success. And people who, like when a team is published online, people will not only copy it because like it was successful, but they'll also account for it as kind of like the new norm in their own Eevee spreads, right? So yeah, the second thing is online tournament results, which can be indicative of a trend. I will say that these tend to be a little bit less reliable because people are often using online tournaments to practice for major events and person major events. And so like they're there, they tend to be less open with sharing their Eevee spreads. It does happen. And so it's good. And it's good to keep an eye on, right? But it's oftentimes it's more difficult to get good, high quality information from these online tournaments, at least in terms of the Eevee spreads. Though also sometimes you can get a sense for how Pokemon is trained by looking at like just the moves and item that it has, but that's not always super reliable.
+
+[00:09:04:44 - 00:09:47:23]
+Speaker 1
+ The third thing is your own experiences on the ladder. For example, maybe you're running modest landerists and you're like, wait, all of these Ershifu are out speeding me and that's only possible if they're running jolly and a bunch of speed, right? And then the fourth thing is word of mouth slash friends. I would say that this can be the most impactful, but is like, in my opinion, the hardest to rely on. This is partially for me just because I have a pretty small network and I don't really put that much weight into scouting, especially at this point in my life. When I was younger, I definitely was more interested in scouting and trying to get an edge that way. But as I've matured and gotten older, it just doesn't really interest me as much. So like, of course, occasionally I'll hear something. But for the most part, I find this I find this to be a difficult method to rely on. But some people are very well connected and can get a lot of value out of this. So it just kind of depends on your on your network and on your preferences and what you're looking for.
+
+[00:09:49:20 - 00:10:28:19]
+Speaker 1
+ To be clear, you don't use all four of these methods to get a sense for what other people are using. I personally like or the sorry, just finished the thought, the more input you have, the more likely you are to be prepared. There's a caveat here that we are going to get to in just a second. For me personally, I almost always use the like, I almost entirely use the third method, which is my own experiences on the ladder. But this can miss things, right? Like smart players may not be testing their their EV spreads on the ladder, right? Or may not be laddering at all. And so you can miss things. And then the first information that the first the first. What are they called? Bullet point method as well, I think is also super I think everyone should always consider the first bullet point, which is
+
+[00:10:30:05 - 00:11:47:19]
+Speaker 1
+ to pay attention to major tournament results. Also for major tournament results, you can also get a sense for any stream games by looking at Pokemon's HP stats, although I don't know if this will be possible in Champions, depending on if we have an actual spectator mode. And you can also like sometimes tell how a Pokemon is trained based on how it takes how much damage it takes or does to a Pokemon that tends to be pretty static. For example, Pokemon holding the choice. Nope. The focus sash item tend to be like they tend to not run any bulk and they tend to just max out their attack, respective attack or their speed stats. And so, you know, if a this isn't really possible, but if Landorus takes an icicle crash, then maybe you would say, okay, assuming this Chenpao is, you know, max speed jolly, right? Max attack, max speed jolly. How much bulk does this Landorus have? I don't think that any Landorus can survive the Chenpao, but stuff like that, right? Okay, now here's something really important that I want you to pay attention to. It is extremely important that the information that you make your decisions on is high fidelity, that it's good, nice, like high quality information. In Pokemon, and this is actually just true in life in general, but it's especially noticeable in Pokemon, having bad information is infinitely worse than having no information. The tier list is good information, no information, bad information way off the screen. It's a huge problem to get bad information. This actually cost me potentially a world championship victory where I got bad information before the world finals in 2012.
+
+[00:11:48:25 - 00:12:04:46]
+Speaker 1
+ And yeah, like having bad information can really, it can immediately cost you. So like, don't just like jump at the bit of everything you're hearing, like, you know, make sure that the information that you are getting is actually good and high quality and serious, because otherwise you may really end up doing yourself a disservice.
+
+[00:12:05:47 - 00:12:28:06]
+Speaker 1
+ And just to close out the thought, adjusting your UV spread for hypothetical scenarios that never come up will only weaken your team. You only get so many EVs and you need each of them to be doing like as much as possible and pulling as much weight as possible, so any kind of like wasted EVs will eventually come back to bite you. It's something you really want to avoid. Okay, so we've talked about some of the ground rules here, but now you're wondering how to actually do this, right? How do I actually adjust my EVs?
+
+[00:12:29:25 - 00:12:32:48]
+Speaker 1
+ And to make this simple, simpler, it's a hard thing to learn to EV spread.
+
+[00:12:34:55 - 00:12:47:07]
+Speaker 1
+ It's a hard thing to learn how to make good EV spreads, but to try and simplify it for you, basically what I would say is that making a good EV spread is a challenge that ultimately is about balancing two things. I'm calling these extremes and reality.
+
+[00:12:48:52 - 00:14:13:24]
+Speaker 1
+ And I'll explain what I mean by this, which is that basically you would always, like, in a perfect world your Pokémon would survive everything, outspeed everything, and pick up every KO, right? That's great. Your Pokémon is, you know, Pikachu and Karneta has 999 base stats and everything, right? But in reality, in the world that we live in, this is effectively impossible. Like your Pokémon simply doesn't have enough points to outspeed everything, pick up every KO, and survive everything. So the question that we ask instead, when we're talking about EV spreads at least, is which of the extremes do I think are the most important? And which of the extremes can I cut back on in order to free up more points? Basically you look at a metagame and you look at what Pokémon you expect to play against and you say, "Okay, like, I can't survive the worst case scenario for everything. I can't outspeed the worst case scenario for everything. I can't KO the bulkiest scenario for everything, but I'm not always going to run into the bulkiest or the strongest scenario, right?" So which of these can I actually afford? So for example, I mentioned Chenpao earlier. Chenpao is almost always holding the focus sash, and that means that it's almost always running max speed and max attack. So Chenpao is a Pokémon where I think that if you are EVing your Pokémon to survive or outspeed Chenpao, I think that you need to pay attention to the extremes. I think you need to assume that it has max speed and max attack, because almost all of them do. I think it's also fair to assume that they don't have any bulk, so you don't have to run for max HP Chenpao because nobody runs that, right? If we compare this to Landorus Incarnate, for example, I think that Landorus Incarnate is a Pokémon that
+
+[00:14:15:08 - 00:14:49:51]
+Speaker 1
+ frankly pretty rarely runs modest max special attack. It is possible. I've done it myself personally, in part because I thought people might not respect it, but maybe if you want your Urshuva to live life or have Earth power, maybe you don't need to EV for modest max special attack. Maybe you can even just survive modest 196, which I think is what Kari used when they won the Toronto Regionals earlier this season. Maybe you say, "OK, that's an extreme that I'm willing to cut back on because I think the realistic scenario is that people are running no more than 196 modest, and therefore they are 60 points below max and that saves you a couple points on Urshufu that you can use elsewhere."
+
+[00:14:50:54 - 00:15:24:07]
+Speaker 1
+ Mystic Water Urshufu is another example that I think was also on Kari's team, unless I'm really out of my mind, but Mystic Water Urshufu, maybe you say, "OK, I want to survive Adamant Surging Strike's Mystic Water Urshufu," and then you go into the damage calculator and type in "Max Attack Urshufu," right? Except that not many people are running Max Attack Urshufu. I think I want to say this is also 196, if I'm much mistaken. I'm either a Sivant or I just have no idea what I'm talking about. Maybe it's 188? I think it's 196. Anyway, the important thing that I'm trying to get across here is that not many people are running Max Attack Adamant Urshufu, so if you had the choice between surviving, you know,
+
+[00:15:25:23 - 00:15:33:41]
+Speaker 1
+ how do I say this? Let's say you have a Pokémon, you're trying to balance your speed and your bulk, I would always recommend that you outspeed Chenpow at its extreme,
+
+[00:15:34:41 - 00:15:59:24]
+Speaker 1
+ assuming that you can do one of the things all the time and one of the things some of the time, it would be better for the most part, assuming that these are equally impactful things or you wanted both things to happen as often as possible, it would be more important that you outspeed Chenpow because that's a Pokémon that works with extremes, compared to always surviving Max Attack Mystic Water Urshufu because that's a Pokémon that tends to run bulk and therefore almost never runs Max Attack and Adamant Nature.
+
+[00:16:00:47 - 00:16:41:10]
+Speaker 1
+ All this to say that when a new Pokémon enters the metagame, it shifts either the extreme or the standard. If a Landerous incarnate wins and it has Max Special Attack Modest, that would switch to standard and I guess therefore the extreme as well, whereas when I'm giving this example of Kerry who won in Toronto with Landerous and Urshufu, that shifts the standard. Now people are saying, "Oh, well, Kerry's team looked pretty good, he kind of beat everybody, right? So maybe I don't need to run Max Attack on my Urshufu, maybe I don't need to run Max Special Attack on my Landerous." Understanding how these different developments influence the field as a whole is really important and is a skill that you will develop as you play this game more. To talk more about it, basically, this is my Fluttermane example again, I've already gone over this
+
+[00:16:42:31 - 00:17:05:20]
+Speaker 1
+ after the VR-Paced leak where I don't really need to get into this, but basically there was teams were published with Eevee Sprint that they shouldn't have been published and it was revealed, "Oh wow, this bold Fluttermane is doing really well. It's bold, what the heck." It became the standard pretty much overnight. And these kind of developments, they influence your Eevee Spreads, right? Like bold Fluttermane in the example that I gave before, that is also listed for you here on the screen.
+
+[00:17:06:50 - 00:17:07:45]
+Speaker 1
+ Basically these
+
+[00:17:09:15 - 00:17:32:01]
+Speaker 1
+ developments influence how people think about the format as a whole and what they train their Pokémon to do. So Pokémon, I don't know exactly if this happened, but Pokémon that maybe before thought should not run Max Attack because they wanted to KO Fluttermane and Rillaboom, for example, maybe Rillaboom started running more Attack in order to try and get the KO on Fluttermane more consistently with Wood Hammer plus Grass Eglide, just as an example.
+
+[00:17:34:03 - 00:17:49:43]
+Speaker 1
+ And as the metagame develops, sometimes it's possible that Pokémon can even be pushed out. So imagine you're running Choice Specs Fluttermane and you're like, "Okay, I want my Fluttermane to beat all other Fluttermane, right? And I want it to survive big attacks. I want it to survive Sucker Punch from Adam and Chenpow, for example."
+
+[00:17:51:05 - 00:18:43:57]
+Speaker 1
+ Maybe before you're saying, "Okay, well, no Fluttermane runs more than 100 HP, so I just need to give my Fluttermane enough Special Attack to KO this medium-bulk Fluttermane, like 100 HP or like 156 HP, right?" And now all of a sudden people are running Max HP Fluttermane, and so if you want your Fluttermane to always KO them, maybe your Specs Fluttermane has to run even more Special Attack. But now your Specs Fluttermane, having more Special Attack, has lost points, and so now it can no longer always survive Chenpow Sucker Punch, or maybe it doesn't always outspeed opposing Specs Fluttermane, right? And so sometimes the Pokémon that you're trying to use just does not have enough stat points in order to cover for the new metagame development, and therefore will become weaker overall. I think the important thing is to have your finger on the pulse of what people are doing, so you can understand where you can afford to take points out of in order to get more points elsewhere, right? Maybe in this example you realize, "Oh,
+
+[00:18:45:10 - 00:19:46:35]
+Speaker 1
+ Chenpow actually aren't running Sucker Punch anymore? That's stupid." I mean, they are dropping it sometimes nowadays, actually, or maybe you're saying, "Oh, most Specs Fluttermane are modest, so I can actually drop some speed to get some Special Attack and therefore still meet all my criteria," right? But if you don't know that, then maybe your Specs Fluttermane just doesn't work anymore. Does this make sense? I hope so. This isn't live, so no one's responding to me. This is the last slide and the last thing that I'll say. There's no magic bullet, okay? There's nothing that I can tell you that will instantly fix all your problems, or all of my problems. If there was, I would hope the Patreon would have even more members, though I'm grateful for every member that I have. Thank you very much. I've gotten really into pointing at the camera for some reason. Anyway, that's not really what this is about. Okay, this is an extension of what I was saying before, but sometimes it isn't the Eevee spread that needs to be adjusted, but the Pokémon itself. Sometimes Pokémon just, whether because of explicit metagame developments, like a new set becoming popular, or because of shifting Eevee spreads, sometimes Pokémon just aren't as good in the new conditions. So if your team isn't feeling good,
+
+[00:19:48:47 - 00:20:04:14]
+Speaker 1
+ it's important to pay attention to whether or not the Pokémon isn't feeling good because of specific numerical interactions. Is it not picking up KOs that you thought it should? Is it not outspeding Pokémon you thought it would? Is it not surviving attacks you thought that it would? Or is the Pokémon just not that good anymore? This happens all the time.
+
+[00:20:05:33 - 00:20:10:34]
+Speaker 1
+ You can never get more Eevees on a Pokémon. You only have 67 stat points
+
+[00:20:11:56 - 00:20:33:36]
+Speaker 1
+ total. You can only distribute them in so many ways. Now, okay, technically you can distribute them in billions, trillions of different ways. I don't actually know the exact math on that, but you can't ever—what's the expression? You can't really draw water from a stone here. You can do some really interesting things with your Eevee spreads, but you only have so many points and there's no way to get more.
+
+[00:20:34:46 - 00:20:58:01]
+Speaker 1
+ Keep in mind that a Pokémon trying to cover for every eventuality oftentimes will end up just covering for none. You want your Pokémon to be actually good. You don't want it to—in certain scenarios, you don't want it to just be okay to mediocre or usable in all for the most part. Sometimes Pokémon that are like—a Pokémon that is slightly favored into many matchups is good, but a Pokémon that is slightly unfavored but still usable into every matchup is bad. Does that make sense?
+
+[00:20:59:19 - 00:21:24:14]
+Speaker 1
+ The best advice they have for you, especially for those of you who consider yourselves to be kind of like Eevee or like damage calculator nerds—and I say this affectionately as I consider myself to be a little bit of this—the best advice that I have for you is to not—don't get fixated on the damage calculator. I think a lot of people, they view Eevee spreads and making Eevee spreads as kind of like a puzzle. It's like, "Oh, what can I get my Pokémon to do?" And in fact, many people in the community, including people who I've worked with before,
+
+[00:21:25:19 - 00:21:27:00]
+Speaker 1
+ are like—they view
+
+[00:21:28:01 - 00:21:47:40]
+Speaker 1
+ making a good Eevee spread by how many things can they accomplish with this one Eevee spread. How much can this one Pokémon do? But what I've learned is that it's often not what a Pokémon can do, it's what a Pokémon should do. Like, Eeveeing to take an attack that you're never actually taking, that's not helpful. Eeveeing to outspeed a Pokémon where it doesn't even matter if you move first, also not helpful.
+
+[00:21:49:59 - 00:23:37:12]
+Speaker 1
+ Noticing these inefficiencies is really the secret to maximizing your Eevee's value. And the goal, by the way, is not to get this right in the first try. The goal is not to sit down, be like, "I'm going to make the perfect Eevee spread," and then you make the perfect Eevee spread and you're like, "Yes, now I win the world championship," and then you wake up and you're late for school, right? The goal here is to have some concept, right? Have a team concept, don't even think about Eevees yet. Just throw some stuff in there, wiggle the bars a little bit, just put some numbers in there, right? And then as you play more and you learn more about the team and what the team needs to do, then you should start asking yourself the question, "Okay, what positions are hard for my Pokémon that I think the Eevees could actually help me with? Like, what attacks am I fainting to that I would really like to survive?" Which Pokémon keep out speeding me and I'm like, "Oh, I actually could outspeed these," right? The best advice that I have is just to play games, like don't get too bogged down in the theory of it, and just adjust your Eevee spreads based on what's actually happening. And don't forget, like, you can always change back. You can add more speed to Pokémon, take it out of bulk, then your Pokémon starts dying and you're like, "Oh, actually this sucks and I want my Pokémon to survive," right? You don't need to feel locked in. It's good to experiment, you're in college, right? Some of you. If you want, you can mess around with your Eevees, you can try different things out, you're not locked into anything. You can always go back to what feels like go to right with your team, but it's good to kind of test the boundaries and see what's actually right for you and your team. So anyway, that's it for me. Sorry, I know this wasn't my most coherent video, just being somewhat transparent. I normally am not. I have a lot going on. I have a lot of projects, I have a lot of irons in the fire, and I'm out of town a lot. I basically have an incredible string of out of town days in a row, and I think I've mentioned this, but I'm a little bit stressed about getting everything done, so
+
+[00:23:38:51 - 00:24:34:41]
+Speaker 1
+ I've been working a lot, very much a lot, and I've been working quite hard, which I don't especially like to do, though I've been doing it more and more, which is kind of against my nature. But anyway, what I'm trying to say here is that I apologize for being a little bit less coherent. I promise that once things calm down I will be more coherent. Well, I'll be back to my normal level of coherence at the very least, hopefully. And yeah, I just, I of course take making these videos seriously, and I feel good about the product here. The delivery is perhaps not my most smooth. So anyway, all that being said, thank you for watching, thank you for the support of the Patreon. If you're new, welcome. I hope you are enjoying your time here. If you've been around for a while, thanks again for the support. I really do appreciate it. And yeah, I have one more Patreon video which will be the metagame breakdown. I'm about to leave town for many days, but when I get back I will prioritize doing the Patreon metagame breakdown. That will be for Regulation I, which unfortunately does not feature really any of the Regis, even despite being Regi, Regi.
+
+[00:24:36:38 - 00:24:53:49]
+Speaker 1
+ But yeah, basically with that being announced for the April events, I wanted to wait to do the metagame breakdown until I knew what the format was going to be for Ola and no one for any other events in April before we switch to champions. Maybe even me, who knows. So anyway, I will do the metagame breakdown and that's it from me. Okay, thanks for watching. Bye bye.

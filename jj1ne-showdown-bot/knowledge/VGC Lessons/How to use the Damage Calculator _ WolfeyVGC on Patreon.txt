@@ -1,0 +1,255 @@
+[00:00:01:22 - 00:00:59:05]
+Speaker 1
+ Real YouTube is used the damage calculator here. So to use the damage calculator, sorry. Hello everybody. What is going on? Today we're going to be talking about the damage calculator. This is by far the most winning option in the June Patreon poll. I think it makes sense because I think a lot of people are interested in using the damage calculator and not a lot of people know how to do it. So I think that what I'm going to do, and this is a bit unprecedented, but I think what I'm going to do is I'm actually going to turn my camera off because I think that it actually just gets in the way. So yeah, and also I'm going to zoom out a little bit so you can see my whole screen here. But can you see my screen now? No. How about now? Kind of. That's fine. It'll be a little bit small, but yeah, you know that I'm here. It's really me, I promise. And just to be sure, maybe I'll turn the camera on sometimes. Anyway, let's talk about the damage calculator. Actually, let me see if I can shift this over a little bit. Yeah, that's the stuff.
+
+[00:01:00:20 - 00:02:15:23]
+Speaker 1
+ Yeah. Oh boy. Okay, cool. So I'll link everything that I show today in the description in the comments section. There is no comment section. I'm too YouTube-pilled. Anyway, so let's talk about the damage calculator. So Pokemon's damage formula, the way that Pokemon calculates damage, is rather convoluted to say the least. It's quite complex, and if you were to just look at it, you'd be super overwhelmed. Some people have the damage formula memorized. These are people who are very, very good at the mechanics of the mechanical side of the game, like my friend Leonard, aka Dwabwelfet. But for the most part, most people interact with how much damage moves are going to do, either not at all or via something called a damage calculator. There are a couple different damage calculators out there. Some people use the like, let's see, showdown damage calculator, which is a different one and is useful for other things, but it's mostly primarily used for single battles. My computer's now lagging. That gives you any sense of how messed up my computer is, that I can barely load stuff. But yeah, they also have fake mods on here from the creative Pokemon, I think it is, things. But yeah, like, this is the default sets that are loaded in here, primarily for single battles, so I don't use this one personally. I find this one, the nerd of now one, to be significantly, significantly, significantly better. For my purposes.
+
+[00:02:16:53 - 00:02:34:35]
+Speaker 1
+ The damage calculator, basically, I know it looks overwhelming, it's actually relatively simple. I mean, for sure not in the backend, but to use, it's relatively simple. Basically, what a damage calculator does is it shows you how much move, how much damage each of a Pokemon's moves will do, or how much damage a Pokemon will take from different Pokemon moves, for whatever you want to know.
+
+[00:02:36:07 - 00:04:00:50]
+Speaker 1
+ The first thing you want to note here, the default here is loaded into the Aegislash set, so we'll just take a look at Aegislash here. So, the first thing we're going to want to note here is that damage is not fixed in Pokemon, unless you're using a move like Seismic Toss, which always does the same amount of damage, damage is not fixed in Pokemon. Damage is, in fact, a range of 16 possible values, 16 possible values, some of which overlap with each other, they're not all unique. You can see here, down below, that there's three different roles that land at 108 damage. So, basically, if Aegislash Sword, no, if Aegislash Shield, which is impossible, but just bear with me, if Aegislash, let's change this to Aegislash Blade, if Aegislash Blade uses Poltergeist against Aegislash Shield, this Aegislash has max attack, is Brave Nature, and is holding the spell tag, whereas this Aegislash is max HP and no defense, it will do between 118% and 140%, meaning it will get a one-hit KO, a guaranteed one-hit KO, which is a lot of damage. But you can see here that the range varies, it can do anywhere between 118 and 140. Let's give the same Aegislash instead of Poltergeist, let's give it Shadow Ball, and we can see here that it's doing between 64 and 76. So, if this Aegislash has, let's say, 120 HP left, just 71%, then Shadow Ball only has a 43% chance to KO. So, basically, the way that it works is that when you use, when a Pokemon uses a move, it will do between 100% of its maximum damage and 85%,
+
+[00:04:02:11 - 00:04:07:55]
+Speaker 1
+ and there is, I believe, one role at each of those percentages. 85, 80, 67, all the way to 100, that's
+
+[00:04:09:10 - 00:04:48:40]
+Speaker 1
+ 16 numbers, so 16 different roles that it can do. Like, the game randomly picks a number between 85%, like 0.85 and 1, basically, to multiply your damage by, and that's how much damage you'll do. And so, it creates some variance in damage roles. And so, here is a good example. It is actually possible for Aegislash to do over 50% with the first hit, they use the Shadow Sneak, and then under 50% with the second hit. So, this is why sometimes you'll use a move that's 51% or 52%, and then the next one will not KO, if you are curious. I imagine most of you are probably somewhat familiar with the concept of damage roles, but they're very important when using the damage calculator, because
+
+[00:04:49:46 - 00:04:58:16]
+Speaker 1
+ you are going to be, sometimes you are not able to optimize for perfect roles at all. So, that's the very first thing that we're going to talk about here, is damage roles and how they work.
+
+[00:04:59:16 - 00:05:39:18]
+Speaker 1
+ So, we understand now that there are different, like there's not fixed damage. And so, when you say, "Oh, my Pokemon survives this attack," what most people are going to mean by that is that a Pokemon survives an attack 15 of the 16 roles. That's what I'm personally comfortable with. Sometimes people will do 14%. Some people will go to like 70%, but for the most part, if you're trying to survive something, the ideal benchmark is at least 15 out of 16 times. More is always better. 16 out of 16 is even better, that you can always get crit. But yeah, like oftentimes when you are using the damage calculator, when you are creating an EV spread, or whatever we're calling them now, that they're no longer called EVs, you are making decisions out of
+
+[00:05:40:49 - 00:06:44:17]
+Speaker 1
+ trade-offs, right? And so, sometimes you're going to optimize to only 15 out of 16 odds of survival, because you want to use the extra points that you save elsewhere. So far so good, damage roles, basically, they affect how much damage, and if you want to survive something, you want to aim for 15 out of 16 at least. So, the next thing we're going to talk about here is how to make this an easier tool to use. So, what we're going to do here is we're going to pull up my NAIC team here, and we're going to go to the Import Export button. I'm just on Showdown, and we're going to go back to the damage calculator, and then I'm going to paste this in here. You can also just create a PokePace and paste that in, and I'm going to click Import to Left Team, okay? And now what this does is it gives me these Pokémon over here that I can click on, and it will have the steps that I've already had. Let's say I wanted to change my Charizard. Let's say I wanted to go to like no special attack Charizard, and let's put the lowest points in Defense. Then what I could do is I could hit Save, and now if I were to leave and come back, you could see that I still have this 25 in Defense and Charizard. Let's go back to the original spread, which I think was,
+
+[00:06:45:45 - 00:06:48:41]
+Speaker 1
+ was it 16? You probably know this, and 9?
+
+[00:06:49:58 - 00:07:54:38]
+Speaker 1
+ I believe that's correct. 16, 9, yes. Okay, cool. This is super helpful because oftentimes when you are running Calcs, you're going to want to be flipping between different Pokémon. I do my Calcs on the left and my enemy Calcs on the right. My friend Yuki I learned recently reverses this, so just whatever you're comfortable with makes sense. But yeah, like saving Pokémon here, you also don't have to save a final team here. You can just save Pokémon that you are interested in. And let's say you're between two Charizard spreads. Let's say you're between this one and then one that's like, I don't know, the 25 and 0 one, right, or whatever it was. You can have them both pulled up by clicking the Save button and having them in two separate spots. Can you drag them around? You can not, but that's okay. So yeah, and now I can just easily see like, oh, like how much is, I don't know, King Gambit, Sucker Punch going to do, right? From Black Colossus here, I can see that versus the original Charizard spread that I'm taking 50 to 60, but versus my new spread, I'm taking 46 to 55. And maybe then I say, okay, well, what if I like do this? Nope, that's actually worse. Can I make it any better? Ah, nope, can't make it any better. Great. And I say, okay, well, this isn't any better. Let's go back to my original one. So using the saving feature is very, very useful.
+
+[00:07:56:21 - 00:08:08:41]
+Speaker 1
+ These are some of the basics of the damage calculator. Understanding damage rolls and then also using, let's go back to the MSAine here. It'll save it as a custom set when you import it, so I can just very easily add it back. Fun fact.
+
+[00:08:09:41 - 00:08:54:37]
+Speaker 1
+ These are bases of the damage calculator, using some of the built-in tools and then also understanding how damage calculations work. The thing that I want to talk about now is when to use the damage calculator. Perhaps I should have started with this in hindsight. You'll have to forgive me. It's been quite a busy few days. So you should not always be running damage calcs. Damage calculation is a very important step before you attend a tournament or before you finalize a team. It's not often a very important first step. It's also not a step that exists in a vacuum. So basically, oftentimes when you are first starting a team, you want to know if the Pokémon feel like they work together first before you spend time with the damage calculator, because if you create the perfect VV spread for your cast form and then you go play games and you realize cast form sucks, well, that's not very good, is it?
+
+[00:08:56:02 - 00:09:20:02]
+Speaker 1
+ And so what I would say basically is that it's important to have decent enough starting spreads, but you don't need to often spend much time creating them. It's totally fine to use spreads that you've used before. It's totally fine to do something that we call wiggly bars where you kind of just approximate what you think a good spread should look like. This is a skill that comes over time. It's also fine just to do max max. If we look at some of the spreads here, you can do mamaswine. Maybe it's easier if I show you in here.
+
+[00:09:21:41 - 00:09:50:31]
+Speaker 1
+ Mamaswine, for example, is just max speed, max attack, 2 HP. Hydragone, max speed, max special attack. These are my final spreads. Sneezer has a little bit more here, but you could justify max speed, max HP even just to start. Typically when people are starting out, I recommend just maxing out 2 stats or just wiggling the bars. Because you don't want to spend an hour running damage calcs, not that you often are spending that much time, but you don't want to spend time running damage calcs when you could spend the same time playing games and realizing your idea doesn't work.
+
+[00:09:51:38 - 00:10:52:00]
+Speaker 1
+ So don't feel like you need to be running exhaustive damage calcs over and over and over and over again, is my advice basically, especially when you're first starting out. Now let's say you've played with a team for a while, and you start realizing, okay, I want to use the damage calcaler, I feel like my spreads are kind of bad, I want to improve them. The first thing you need to do before you need to understand how to use the damage calcalator really is to understand what your Pokemon needs. So let's start with Charizard, because I think this is a good example. So let's say we have no Charizard here. Let's just get rid of all these, right? Up, up, up, up. Let's say we have Charizard, okay? No nature. We got nothing. We got literally nothing, okay? And we say, okay, I have a Charizard, the one I'm using sucks, it's just max speed, max special attack, modest, I want to make it better. How do I actually use the damage calcalator to figure out what I need? The first step in my opinion is often doesn't require the damage calculator, because it's about a decision that you have to make, that you don't need the damage calculator to figure out, and that's about your speed stats. On most Pokemon, the speed stat is the
+
+[00:10:53:02 - 00:11:26:11]
+Speaker 1
+ most important stat. Not on all of them, I'm speaking in generalizations, but I think that when you're making a spread, the most important decision is often the speed stat, and the reason for that is that speed is not like the other stats. Speed is dichotomous, meaning you're either faster than an opposing Pokemon or you are not. And the reason that is relevant is that everything else in the damage calculator is a sliding scale, right? If you look at the sucker punch calculation versus my Charizard, this is 65 to 77, but if I give it a point of defense, now it's 64 to 0.7 to 76.4, right? Another one that goes down more. These are all like sliding scale, right? I'm taking about a percentage less each time.
+
+[00:11:27:40 - 00:11:38:35]
+Speaker 1
+ With speed, I'm either faster than my opponent or I'm not. And so picking a speed stat is often the most-- it's the simplest thing and it's also one of the most important things because your speed determines a lot of how you're going to match up against other Pokemon.
+
+[00:11:39:38 - 00:11:57:15]
+Speaker 1
+ So for Charizard, after a lot of internal discussion, my friends and I eventually decided that we wanted to be timid, okay? And picking a speed stat is often-- sometimes it's easy because it should be 0 or max, right? Toxapex should never run any speed. Mamoswine should always be max speed on this specific team.
+
+[00:11:58:16 - 00:12:15:24]
+Speaker 1
+ As a general rule, I'm a little bit off topic, but Pokemon that are holding the focus-asher item, there's rarely any reason to run anything other than Max Max, basically with 2 HP or like 2 somewhere else, depending on your stats. But yeah, basically Max Max is almost always optimal here for a focus-asher Pokemon. But oh man, I-- shoot, hang on.
+
+[00:12:17:35 - 00:12:18:49]
+Speaker 1
+ This is easier. Okay, so
+
+[00:12:19:57 - 00:12:33:45]
+Speaker 1
+ sometimes picking a speed stat is easy. Sometimes it should be max, like Mamoswine, sometimes it should be 0, like Toxapex. Pokemon that are never going to outspeed anything anyway, you don't need any speed. Pokemon that want to be used on Tricker, you want to be as slow as possible, so that doesn't want any speed. And then Pokemon that are Choicegarf or--
+
+[00:12:34:46 - 00:12:49:05]
+Speaker 1
+ Choicegarf actually isn't a great example. Pokemon that are holding the focus-asher. Pokemon that don't have any use for bulk, which is primarily focus-asher Pokemon, but sometimes other Pokemon as well. These Pokemon also are often run as max speed. Also, there are some Pokemon in the format that are pretty important to--
+
+[00:12:50:19 - 00:14:04:48]
+Speaker 1
+ to at least have odds of speed tying. So for example, if you're running Choicegarf Garchomp, you probably want to speed tie other Choicegarf Garchomp. If you're running Choicegarf Baski-Legion, you want to at least speed tie other Choicegarf Baski-Legion. Some Choicegarf Pokemon want to be max speed as well. So other than that, though, you're going to have to pick a speed stat often. And so for Charizard, we spent a lot of time-- initially we thought we wanted to be max speed modest. Okay, this was our starting spread. And if I go back far enough in my team builder, you can actually see-- let's go to this one. Yeah, here we go. This was the original Charizard spread. Max speed, one special attack, right? However, as we got closer to the tournament, we realized that our Charizard needed to be faster. And we decided we wanted to be faster for a couple main reasons. One was Vivillon, who is at max speed. You can go here. We put Vivillon, blank set. We see, okay, what's the max possible Vivillon, 155. If we look at Charizard max at 1 modest, this is the actual stat. It's 152. So immediately we're saying, okay, we want to be-- let's say that us beating Vivillon is really important to us. We want to at least be faster than Vivillon, which means we need at least 22 speed. Okay, but we also want to be faster than Argonon-Hissouian, which is, with a jolly nature, 156 speed. We're going to turn off the choice card, so that doesn't confuse you all. If you have a multiplier on, the
+
+[00:14:06:03 - 00:15:34:30]
+Speaker 1
+ damage calculator will show you what the true stat is with the multiplier here. So for example, if we click Tailwind, you can see that 312 is the number. But we're just looking at Focus Ash, Hissouian, Arcadine, who hits 156, which we're currently speed-tied with. So we now know that we have to be at least 157 stats here. If you're wondering, by the way, how to figure out what Pokémon are around your speed stat, what I typically do is I go to a new team here. We go to the Regulation. We go Add Pokémon. We sort by Speed on Showdown. And then we scroll into the Pokémon we're thinking about at Speeding anyway. So here, Vivillon is based at 89 speed. So I'm saying, okay, I want to speed Vivillon. And then I say, okay, let me scroll up a little bit. If I were to go one point faster, I'd get Hissouian, Arcadine, Mega Shandler, Base Kangaskhan, Base Lucario, Rosarade, Pikachu. At least I only really care about Hissouian, Arcadine. Let's say I wanted to go a little faster. Let's say I wanted to go above 92. Let's say I'm thinking about going faster. Well, Crooked Isle is not used very much. Rotom isn't used very much. Base Float is not used very much. It should almost always be mega-evolving. Tinkaton is used a little bit, but not that much. Tiflosh is not used very much. Arcanine, Mimikyu. None of these Pokémon are used very much until maybe Hydreigon, but this is now 98, right? And I'm at 90 right now, biospeding Arcanine. This is literally the process that I went through. And I said, you know what? I don't want to be putting eight more points of speed in. I'm just going to go one point faster to speed creep other Pokémon that are trying to speed creep Hissouian, Arcanine. Okay, so now I've picked a speed stat. And that was the easy part.
+
+[00:15:35:45 - 00:15:38:22]
+Speaker 1
+ That was certainly the easy part. Let's change this, please.
+
+[00:15:40:13 - 00:16:24:32]
+Speaker 1
+ And the reason that was the easy part is because now is where it gets hard, because now you have to make decisions. So you have to make decisions that are not always so clear. It's not like, okay, I want to be faster than Arcanine. I never want to be slower than Arcanine, right? Right now I'm faster than Arcanine. And by the way, I can click Save right here. I can click Save, and then if I want to come back to it later, then I can work on Talks of Books for a while, come back, and be like, okay, this is the minimum, right? This is the absolute minimum that I want to invest in. So I think the next thing, and part of the reason why I recommend that you don't start by using the damage calculator is because, and this part is important, well, it's all important, but the reason why I often don't recommend that you start by using the damage calculator is because oftentimes people get so enthralled with what a spread can do that they don't really stop to think about what a spread should do.
+
+[00:16:26:41 - 00:16:51:43]
+Speaker 1
+ And what I mean by that is that oftentimes people are like, oh yeah, I can survive this crazy combination of moves, and my spread is so good because I can look, I can live these crazy things. However, oftentimes the things that you're trying to survive are not things that will actually come up in battle, right? It's cool if you can survive things in theory, but the important thing is that you survive the attacks that you're actually taking in battle. So with some experience, let's say, okay, I want my
+
+[00:16:53:04 - 00:17:01:06]
+Speaker 1
+ charge to survive. Let's start with Jolly Garchomp Rock Slide. This seems reasonable because we can see that even without any points at all in my bulk,
+
+[00:17:02:20 - 00:17:05:50]
+Speaker 1
+ I'm already kind of close, right? Like, let's say I wanted to have a chance to survive.
+
+[00:17:06:55 - 00:17:16:53]
+Speaker 1
+ Well, already I have a chance with just four points of defense, but we're going to try and get this to 15 out of 16. So what I will do here is I will kind of just start putting in numbers. There's a couple of different methods. You can like max out one stat and then like
+
+[00:17:18:35 - 00:17:58:17]
+Speaker 1
+ start lowering it. Like, let's say I want to keep my odds at 16%, but I'm going to just kind of go down to here. What I'm doing here, by the way, is let me explain this more formally. So I'm starting at the maximum value, and I'm going to say, okay, what's the minimum number of points I can do with this, or maybe not what the minimum amount of points, but like what's a number where the numbers start to change, right? You can see that with every point, not every role changes. Here, 31 and 32 defense take the same amount of rock from rock slide, right? And actually the same amount from the 30 as well. It doesn't change here until I go down to 29. So we're just going to keep lowering this until we start seeing some things. So already we can see that if we were to put 20 points in, we could do this with 20 defense points
+
+[00:17:59:24 - 00:18:03:00]
+Speaker 1
+ and four HP. You could argue actually that we are interested in,
+
+[00:18:04:32 - 00:18:05:03]
+Speaker 1
+ in,
+
+[00:18:06:09 - 00:18:40:35]
+Speaker 1
+ sorry, totally lost my train of thought. You could argue that we're okay with 15 or 16, which we actually are. So maybe already, you know, 20 and zero is fine. So the minimum amount of points we can take is perhaps 20. But we're going to keep lowering this. We're going to see where the numbers change, right? And you can see here that even going down to 16, the numbers are still not that bad. If we go down to 17, there's a big inflection point. So what we're going to try here is we're going to do 16 defense, and we're going to start adding HP until we can get that to 6%. 16 and four already gets us to living this 15 and a 16 times. So just 20 points, we are already surviving 15 out of 16, which is pretty good.
+
+[00:18:42:33 - 00:19:24:02]
+Speaker 1
+ What I will say, and this is a general rule that is not always true, is that you don't want to invest, you don't want your defenses to be too lopsided if you can help it. Unless you were surviving, unless you were training your Pokémon to survive a very specific attack, which will sometimes come up, for the most part, you want your defense plus special defense to be equal to your HP or as close as possible. Again, this is not always possible. That's to maximize general bulk. But for the most part, and actually, sorry, we're calculating base Charizard. We should be calculating Mega Charizard because we can now see that our special events is higher. That's my fault. Let me just go ahead and save that there. So now if I were to leave and come back, you could see it would save me and Mega Charizard. And yeah, my HP and defense would be here. It didn't matter before this because Charizard and Mega Charizard have the same
+
+[00:19:25:09 - 00:19:36:58]
+Speaker 1
+ defense and HP stats. All the monkeys have the same defense and HP stats. But you can see here that it makes more sense to invest in our defense because our special events is naturally like, how many points is this? Almost 40 points higher or over, oh yeah, almost 40 points higher. So anyway,
+
+[00:19:38:15 - 00:19:49:01]
+Speaker 1
+ cool. Now let's see if we want to survive Adam and Garchomp Rock Slide, okay? Most of the time. So we can see here that actually the breakpoints seem to be pretty similar. We get this role that improves at 16.
+
+[00:19:51:24 - 00:19:58:34]
+Speaker 1
+ We don't want to just train fully in our defense, especially on a Pokemon like Charizard who does not have super high base HP. So we're going to see how many points it takes before we start getting favorable roles
+
+[00:19:59:39 - 00:20:03:15]
+Speaker 1
+ with Charizard here,
+
+[00:20:04:29 - 00:20:30:59]
+Speaker 1
+ with putting an HP. So we can get it to 13 to 16 here. If we want to go all the way up to 20, we can get it to 15 out of 16. So in theory, this is like kind of the right spread, quote unquote. You have enough HP here that you are surviving 15 out of 16 times. You're still generally pretty bulky, and you have a couple points left over for special attack. Now what we could do here is we could try raising our defense here. Let's go up to, and actually here you can see if we were to switch this to 16 and 18,
+
+[00:20:33:10 - 00:20:33:49]
+Speaker 1
+ then,
+
+[00:20:34:50 - 00:20:50:09]
+Speaker 1
+ sorry, if you're 16 and 18, we get two points back. So we can actually do this and have two more points, and we could keep trying to raise our defense until the roles change. The role doesn't change again for a while, so I suspect that, yeah, that's just worse. So we kind of have our answer, right? We go back to, what was it, 20?
+
+[00:20:52:15 - 00:21:07:49]
+Speaker 1
+ This 18 and then perfect, 16 here. Things to keep an eye on. This little number at the bottom here is how many stat points you've used. This number next to it is how many you have left. You need to make sure that you are within the bounds of 66 points. So here you can see now that I've taken a point out of HP, we have 65 and 1 here.
+
+[00:21:10:05 - 00:21:19:05]
+Speaker 1
+ Yeah, so in a vacuum, the spread is pretty decent. In practice, I found I needed a little bit more special attack, so we ended up using a spread closer to, that's not right,
+
+[00:21:20:10 - 00:21:23:54]
+Speaker 1
+ this and this, with less defense and more overall HP.
+
+[00:21:25:29 - 00:22:47:43]
+Speaker 1
+ But this is something that I learned from practice. If I were just doing this from the start, maybe I would have used the 8, 20, and then 14, is that the number right now? Would have been 18, 16, yeah, there we go, cool. Yeah, so in a vacuum, I would have used, like, maybe I would have used a spread like this, if I'd been starting with that experience, but I needed, I forgot exactly what the rules were, but I think I needed more special attack than 8, and also maybe a bit more HP, but I forget. It's also possible that this spread is just better, although I would have hoped that I would have figured that out. Yeah, other things to note, by the way, is that this whole section in the middle, when you're using the damage calculator, is you need to, well, not that stuff, but yeah, all this stuff you have to keep an eye on because it can mess up your calc. So for example, if I change this from doubles to singles, now Rock Sledge is doing a ton more damage, like a lot more damage, because single target moves do more, like, double spread moves have a damage reduction in doubles. Sometimes you'll forget to turn off the weather, so like, maybe you'll be like, "Wow, my heat waves aren't doing any damage to this Garchomp, it must be tankier," then I realized it's because you have the rain on, and it actually doesn't, oh, it does tell you, it tells you here. So just make sure you're, like, resetting between calcs. You can have stuff like Fairy Auron, you can have Protect, which means, you don't really matter for unseen fist stuff, helping Hank can trick you if you turn that on for a different calc. All the screens, make sure you turn them on the right side, like, here this will reduce Garchomp's damage up here with Rock Sledge, as you can see. If I turn Aurora Veil off, and turning it on this side, it will reduce the damage of heat wave here.
+
+[00:22:49:25 - 00:23:00:33]
+Speaker 1
+ I like to double click here to highlight whatever calc I'm interested in, locking it in, because, like, let's say I'm interested in Dragon Claw. By default, it will show the move that does the most damage, so like, if I were to unselect this, well, I guess it would just, like,
+
+[00:23:01:49 - 00:23:10:45]
+Speaker 1
+ let's just delay and go back to Garchomp. Like, by default, it auto-selects the move that does the most damage, and in Dragon Claw, you have to highlight it here. If you're interested in Rock Slide.
+
+[00:23:12:08 - 00:23:20:49]
+Speaker 1
+ Yeah, Stealth Rocks is mostly relevant for singles, but not entirely. Fringard, Tailwind, these are all things that you can run in the calc. It's a really great calc, honestly. It does a lot of good work. So,
+
+[00:23:22:07 - 00:23:35:01]
+Speaker 1
+ yes. So just to recap, it's important to understand where you, like, my general recommendation is to pick your speed stat first. This is going to eliminate some of your points and kind of let you know what you're working with afterwards. From there,
+
+[00:23:36:40 - 00:24:09:33]
+Speaker 1
+ thinking, thinking, thinking, you need to start thinking about what calcs are important, which are often determined by experience. Here, I know that Garchomp, or my charger may have to take Rock Slide from Garchomp. I also know I wanted to have good odds of KOing Sneezler offensively with Weather Ball, because Sneezler's kind of a pain. So, you can see here that against Sneezler, 8 or 9 special attack is still getting a KO until they start running some bulk, so I should always have, most Sneezlers are not investing in special events, so I should always have at least a chance to KO Sneezler in one, which is pretty good. There might be other calcs as well that you are curious about, like, maybe 0 bulk Terenitar with Solar Beam, I want to know how much I'm doing to.
+
+[00:24:12:08 - 00:24:21:11]
+Speaker 1
+ That's the sand, or Turn to Sun here, and you can see that I never KO, even against frail Terenitar, and against bulky Mega Terenitar, I'm doing, like, nothing. Well, not nothing, but not enough, right? So,
+
+[00:24:22:27 - 00:24:25:40]
+Speaker 1
+ yeah, you need to have some experience to know, with your team, to know what you should be,
+
+[00:24:26:52 - 00:24:41:33]
+Speaker 1
+ how much damage you should be doing, basically. Or I should say what calcs you should be running. Baski Legion is another one that I know, for this one I want, I'm never going to KO with this spread, but I at least want a chance to, yeah, here you can see here, I got one more favorable roll here, against Fraler, Baski Legion. So,
+
+[00:24:43:32 - 00:25:44:40]
+Speaker 1
+ yeah, lost my turn of thought. Again, sorry about that. Yeah, basically, it's important to know what you should calc against, and so, the first step when you're building a team is not to go into the damage calculator, and if you do, like, sometimes you might be like, I have no idea what spread to give this Pokemon, like, it shouldn't just be a max max 2. Like, I think it's fine to spend a couple minutes in the damage calculator just to have a general sense, but don't get too attached to it. The real secret of running damage calculations is that you should be iterating as you play, you should be adjusting to information, you should be saying, okay, wow, this game was really hard because I got outsped, let me like, rearrange my EVs, maybe change my nature so I can be faster, or, oh wow, my Charizard died to that move, I didn't think it was going to die, let me open up the damage calculator and see what the odds of that are, right? It's possible that with Charizard, for example, I might have been really upset because maybe my Charizard one time died to Mystic Water Wave Crash, and I say, oh, I'm always dying to this, actually. This isn't even the right spread, right? Yeah, like, my NAIC one always died to Wave Crash, and if I wanted to survive this, I mean, again, I could try putting all these points here, but it's not really improving that much, right? It's really hard for me to make this anything better than a 50-50 at best, right?
+
+[00:25:47:20 - 00:25:59:51]
+Speaker 1
+ Let's say this was a calc that was super important and I didn't care about a special attack, then yeah, this is slightly better, but still not really enough that I can reliably count on it, right? I can't really get the numbers much better than this. Yeah, I'm kind of always capping out at this 40-30.75.
+
+[00:26:01:31 - 00:26:12:05]
+Speaker 1
+ I feel like this is a lot of information, so I'm going to kind of wrap this up here, but I do want to show you one additional thing, which is the MultiCalc. The MultiCalc is a really useful tool that I will link you as well.
+
+[00:26:13:07 - 00:26:28:22]
+Speaker 1
+ So the MultiCalc is really great because it shows you two different moves with the odds of them are caling. So let's say I want to run the odds of Cow-Toke Leaf plus Sucker Punch from Kingamik Caling. So the first thing I'm going to do is I'm going to go into my MultiCalc here. I'm going to type in my HP stat, okay? 170.
+
+[00:26:29:35 - 00:27:06:40]
+Speaker 1
+ Then what I'm going to do is I'm going to put the roll, so there's 16 numbers down here. I'm going to copy these and paste these here. And then I'm going to go to the other move I want to Calc, copy and paste these and put these here. And what the MultiCalc will do is it will run all the different possible rolls and will tell me my odds of fainting. And here I can see that from Max's decking gamut I have basically a 68.75% chance for Cow-Toke Leaf and Sucker Punch to KO. This does not include critical hits, so given that there are two odds of critting, this is likely over 70% of my head to guess, though the actual math I'd have to do manually. So you can see here I can't count on Charizard to
+
+[00:27:08:28 - 00:27:35:06]
+Speaker 1
+ survive two hits here. This also doesn't have to be two separate attacks. For example, I can go back to this Garchomp. Let's say I have Wide Guard on my team. Let's say I want to see the odds of surviving Dragon Claw. Sorry, I was pulling too fast. I've gone to Dragon Claw here and I've overwritten Cow-Toke Leaf, which was the first set, and I've left Sucker Punch. So I'm saying, okay, if I'm sitting in front of Max's deck, Adamint Kingamik and Max's deck, Adamint Garchomp, and they go for Sucker Punch and Dragon Claw, it's like a Wide Guard and Heat Wave, and I'm dead. And I go here and I go Calculate,
+
+[00:27:37:23 - 00:29:38:17]
+Speaker 1
+ and I can see that, wow, I actually have a 21% chance of KOing. Okay, that's not so good, but I'm Tim at Charizard, so the worst case here is actually that they're Jolly. So now I'm going to copy this, go back to the KO Chance Calculator, overwrite my first set, which was Adamint Dragon Claw, and now I see that my odds of surviving are 99% effectively, not factoring critical hits. So now maybe I say, okay, this is fine for me because I'm living Jolly Garchomp, Dragon Claw plus Adamint Kingamik, Sucker Punch as long as they're not black glasses. So these are just some things that you can consider when you are running damage calculations. The KO Chance Calculator is useful often, like, later when you are running damage calculations, because it is the kind of thing where you need to be knowing what double-ups you're often taking. Like, I don't know if Sucker Punch Garchomp, Sucker Punch Kingamik and Dragon Claw Garchomp is super intuitive from the get-go, if you're, like, building a Charizard spread, but for my team specifically, it was something that I had to keep an eye on because it would come up, right? A lot of the Calcs that you run will be team-specific, like, for example, if I was pairing Charizard with Rotom Wash, then I'd be running some calculations that involve burns, right? Like, can I survive, you know, burned Mega Aerodactyl Rock Slide, right? But I don't have burn on this team, so unless I'm getting very lucky with Heatwave. So, yeah, forms, by the way, I think I briefly showed this on earlier, but if the Pokémon has multiple forms, you go to this little dropdown and change it. You can already see here. Oh, yeah, one thing is that you can put in status conditions here. So, yeah, you can change your Pokémon's abilities, like, if you were to turn it off. If the Pokémon has Intimidate, you can change the ability or you can just uncheck this box to reduce its damage. I guess you can't really see it here, but, like, let's say my Charizard had Intimidate, for example. Then here, Rock Slide's doing 40% because it's 1 and burned. Here, it's still at full power. We can turn this back to healthy. We can see here that if I Intimidate Mega Aerodactyl—let's get this tough clause again, sorry, just to make sure that nothing is messed up. If we Intimidate Mega Aerodactyl and its Jolly Nation, then my Charizard will survive a Rock Slide. So, these are all things that you can do in the damage calculator. It should be somewhat intuitive. There's a lot of, like, little menus and buttons and such. Oh, also, you can save other people's sets over here. So, if I wanted to just keep coming back to Aerodactyl and see how much it would do to, like, Sneezeler up 1 with Dual Wing Beat, for example, I would see, like, okay, yeah, I always survive this with my current spread.
+
+[00:29:39:43 - 00:29:50:58]
+Speaker 1
+ So, yeah, basically, long story short is that this is really—the damage calculator is what you make of it. Not every successful player uses the damage calculator, at least not in depth. Many people are intimidated by the damage calculator and ask their friends to
+
+[00:29:52:00 - 00:30:47:19]
+Speaker 1
+ help them make their spreads, which is totally fine. Many people just wing it. Many people take spreads from established teams that have done well before with the Pokémon that they're using. There's not, like—it's not a mandatory part of doing well at a tournament. I like it a lot. I like running my own damage calculations. It's a skill that I'm really glad that I learned because I didn't have it when I first started playing. I relied on other people to make the spreads. But I think it's a really great skill to have, and it's also just fun. It allows you to do cool stuff with your Pokémon that other people might not consider having not, like, as much experience with your team as you have. So I hope this was helpful. I know that it can seem a little bit overwhelming, but the more you use it, the easier it gets. Like, again, the big thing with running damage calculations is just make sure that you are supplementing your theory with actual practice, that you are basing your damage calculations on situations that are actually coming up in-game, and you'll be good. And you'll be good from there. I hope this made it a bit clearer for you. I will link the different resources in the post attached to this video. And yeah, I think that's it from me. Bye-bye.

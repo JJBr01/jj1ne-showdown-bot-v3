@@ -1,0 +1,14 @@
+# Battle principles (WolfeyVGC coaching + match-derived rules)
+- Macro before micro: state the whole-game win condition and resource plan before evaluating a turn; never judge a turn only by this-turn damage.
+- For future board states, identify the opponent's single most valuable win condition and play to deny it — don't bet on one exact predicted outcome.
+- Core rule: never let the opponent have BOTH a speed advantage AND power at the same time.
+- Evaluate the present board (speed order, KO threats, Protect/switch options) separately from future boards.
+- Sometimes delay a KO on a harmless support Pokémon to deny the opponent a better future board.
+- Predict only when (a) far behind and no safe line recovers, or (b) every line loses if the read is wrong. If a safe line holds regardless of their choice, take it.
+- Weigh confidence against downside: high confidence + low downside = fine; any confidence + game-losing downside = don't.
+- Team preview: decide what must/mustn't come, what they're forced to bring / clearly won't, the win condition, leads vs back — don't enumerate every combination.
+- Intimidate backfires into Defiant (Kingambit) and Competitive (Milotic): +2 for them.
+- Fairy Aura holders (Floette-Mega) with spread Dazzling Gleam threaten a two-for-one, especially after Fake Out — treat as a team-wipe risk.
+- Open Team Sheets show item/ability/nature/moves but never EVs; real investment can be heavier than assumed.
+- Mega Evolution happens at the start of the turn even if that Pokémon flinches; only one Mega per battle; multiple stones may be on a team.
+- Fake Out only works on a Pokémon's first turn out. Choice Scarf locks into the first move.

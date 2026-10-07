@@ -1,0 +1,26 @@
+[
+  {
+    "id": "core_standard",
+    "name": "Dragonite-Charizard Standard (Sitrus Garchomp + Life Orb Kingambit)",
+    "description": "Balanced dual-Mega core with Sitrus Berry bulk Garchomp, Life Orb Kingambit, Leftovers Milotic, and Tailwind Whimsicott.",
+    "teamText": "Drogon (Charizard) (M) @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 16 Def / 32 SpA / 18 Spe\nModest Nature\n- Weather Ball\n- Heat Wave\n- Ancient Power\n- Protect\n\nDragonite (M) @ Dragoninite\nAbility: Inner Focus\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dragon Pulse\n- Heat Wave\n- Tailwind\n- Protect\n\nGarchomp (M) @ Sitrus Berry\nAbility: Rough Skin\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Protect\n\nWhimsicott (F) @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Moonblast\n- Encore\n- Protect\n\nKingambit (M) @ Life Orb\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Iron Head\n- Protect\n\nMilotic (F) @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 18 Def / 16 SpD\nCalm Nature\n- Scald\n- Ice Beam\n- Recover\n- Protect"
+  },
+  {
+    "id": "core_scarf_offense",
+    "name": "Dragonite-Charizard Scarf Offense (Choice Scarf Garchomp + Black Glasses Kingambit)",
+    "description": "High-tempo variant: Choice Scarf Garchomp outspeeds Archaludon in Rain and Dragapult; Black Glasses Kingambit powers up Kowtow Cleave and Sucker Punch with zero recoil.",
+    "teamText": "Drogon (Charizard) (M) @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 16 Def / 32 SpA / 18 Spe\nModest Nature\n- Weather Ball\n- Heat Wave\n- Ancient Power\n- Protect\n\nDragonite (M) @ Dragoninite\nAbility: Inner Focus\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dragon Pulse\n- Heat Wave\n- Tailwind\n- Protect\n\nGarchomp (M) @ Choice Scarf\nAbility: Rough Skin\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Stomping Tantrum\n\nWhimsicott (F) @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Moonblast\n- Encore\n- Protect\n\nKingambit (M) @ Black Glasses\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Iron Head\n- Protect\n\nMilotic (F) @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 18 Def / 16 SpD\nCalm Nature\n- Scald\n- Ice Beam\n- Recover\n- Protect"
+  },
+  {
+    "id": "core_grassy_balance",
+    "name": "Dragonite-Charizard Grassy Balance (Rillaboom over Whimsicott)",
+    "description": "Tournament inspiration from Frankfurt Champion: Rillaboom replaces Whimsicott for Grassy Terrain recovery, priority Grassy Glide, Fake Out, and U-turn pivoting.",
+    "teamText": "Drogon (Charizard) (M) @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 16 Def / 32 SpA / 18 Spe\nModest Nature\n- Weather Ball\n- Heat Wave\n- Ancient Power\n- Protect\n\nDragonite (M) @ Dragoninite\nAbility: Inner Focus\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dragon Pulse\n- Heat Wave\n- Tailwind\n- Protect\n\nRillaboom (M) @ Miracle Seed\nAbility: Grassy Surge\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Spe\nAdamant Nature\n- Grassy Glide\n- Wood Hammer\n- Fake Out\n- U-turn\n\nGarchomp (M) @ Sitrus Berry\nAbility: Rough Skin\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Protect\n\nKingambit (M) @ Life Orb\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Iron Head\n- Protect\n\nMilotic (F) @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 18 Def / 16 SpD\nCalm Nature\n- Scald\n- Ice Beam\n- Recover\n- Protect"
+  },
+  {
+    "id": "core_lum_tank",
+    "name": "Dragonite-Charizard Lum Tank (Lum Berry Kingambit + Choice Scarf Garchomp)",
+    "description": "Anti-status build: Lum Berry Kingambit eats Will-O-Wisp, Spore, and Thunder Wave, immediately punishing status users without losing offensive momentum.",
+    "teamText": "Drogon (Charizard) (M) @ Charizardite Y\nAbility: Blaze\nLevel: 50\nEVs: 16 Def / 32 SpA / 18 Spe\nModest Nature\n- Weather Ball\n- Heat Wave\n- Ancient Power\n- Protect\n\nDragonite (M) @ Dragoninite\nAbility: Inner Focus\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dragon Pulse\n- Heat Wave\n- Tailwind\n- Protect\n\nGarchomp (M) @ Choice Scarf\nAbility: Rough Skin\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Earthquake\n- Dragon Claw\n- Rock Slide\n- Stomping Tantrum\n\nWhimsicott (F) @ Focus Sash\nAbility: Prankster\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Moonblast\n- Encore\n- Protect\n\nKingambit (M) @ Lum Berry\nAbility: Defiant\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nAdamant Nature\n- Kowtow Cleave\n- Sucker Punch\n- Iron Head\n- Protect\n\nMilotic (F) @ Leftovers\nAbility: Competitive\nLevel: 50\nEVs: 32 HP / 18 Def / 16 SpD\nCalm Nature\n- Scald\n- Ice Beam\n- Recover\n- Protect"
+  }
+]

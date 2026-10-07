@@ -1,0 +1,15 @@
+[Unit]
+Description=JJ1NE Showdown ladder bot (Claude pilot)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=azureuser
+WorkingDirectory=/home/azureuser/jj1ne-showdown-bot
+EnvironmentFile=/home/azureuser/jj1ne-showdown-bot/.env
+ExecStart=/usr/bin/node bot.js
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

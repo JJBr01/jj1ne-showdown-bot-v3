@@ -1,0 +1,3048 @@
+{
+ "rillaboom": {
+  "species": "Rillaboom",
+  "n": 247,
+  "item": "Miracle Seed",
+  "ability": "Grassy Surge",
+  "nature": "Sassy",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 4,
+   "spa": 0,
+   "spd": 30,
+   "spe": 0
+  },
+  "nEV": 233,
+  "moves": [
+   "Fake Out",
+   "Grassy Glide",
+   "Wood Hammer",
+   "U-turn"
+  ],
+  "moveFreq": {
+   "Fake Out": 246,
+   "Grassy Glide": 245,
+   "Wood Hammer": 222,
+   "U-turn": 112,
+   "High Horsepower": 110,
+   "Protect": 23,
+   "Superpower": 9,
+   "Low Kick": 7
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sneasler": {
+  "species": "Sneasler",
+  "n": 231,
+  "item": "White Herb",
+  "ability": "Unburden",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 212,
+  "moves": [
+   "Close Combat",
+   "Dire Claw",
+   "Protect",
+   "Fake Out"
+  ],
+  "moveFreq": {
+   "Close Combat": 231,
+   "Dire Claw": 203,
+   "Protect": 169,
+   "Fake Out": 107,
+   "Rock Slide": 74,
+   "Rock Tomb": 27,
+   "Coaching": 27,
+   "Throat Chop": 22
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "salamence": {
+  "species": "Salamence",
+  "n": 172,
+  "item": "Salamencite",
+  "ability": "Intimidate",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 160,
+  "moves": [
+   "Protect",
+   "Hyper Voice",
+   "Tailwind",
+   "Draco Meteor"
+  ],
+  "moveFreq": {
+   "Protect": 170,
+   "Hyper Voice": 160,
+   "Tailwind": 130,
+   "Draco Meteor": 90,
+   "Double-Edge": 48,
+   "Flamethrower": 41,
+   "Dragon Pulse": 11,
+   "Roost": 9
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "incineroar": {
+  "species": "Incineroar",
+  "n": 167,
+  "item": "Sitrus Berry",
+  "ability": "Intimidate",
+  "nature": "Careful",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 14,
+   "spa": 0,
+   "spd": 20,
+   "spe": 0
+  },
+  "nEV": 154,
+  "moves": [
+   "Fake Out",
+   "Parting Shot",
+   "Flare Blitz",
+   "Throat Chop"
+  ],
+  "moveFreq": {
+   "Fake Out": 167,
+   "Parting Shot": 163,
+   "Flare Blitz": 159,
+   "Throat Chop": 83,
+   "Darkest Lariat": 41,
+   "Protect": 16,
+   "Snarl": 14,
+   "Helping Hand": 12
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "kingambit": {
+  "species": "Kingambit",
+  "n": 141,
+  "item": "Chople Berry",
+  "ability": "Defiant",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 128,
+  "moves": [
+   "Sucker Punch",
+   "Kowtow Cleave",
+   "Iron Head",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Sucker Punch": 139,
+   "Kowtow Cleave": 137,
+   "Iron Head": 102,
+   "Protect": 75,
+   "Low Kick": 75,
+   "Swords Dance": 32,
+   "Assurance": 3,
+   "Brick Break": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "indeedeef": {
+  "species": "Indeedee-F",
+  "n": 109,
+  "item": "Rocky Helmet",
+  "ability": "Psychic Surge",
+  "nature": "Relaxed",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 32,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 99,
+  "moves": [
+   "Follow Me",
+   "Helping Hand",
+   "Trick Room",
+   "Psychic"
+  ],
+  "moveFreq": {
+   "Follow Me": 109,
+   "Helping Hand": 98,
+   "Trick Room": 88,
+   "Psychic": 62,
+   "Terrain Pulse": 26,
+   "Protect": 23,
+   "Imprison": 8,
+   "Sing": 4
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "basculegion": {
+  "species": "Basculegion",
+  "n": 100,
+  "item": "Life Orb",
+  "ability": "Adaptability",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 94,
+  "moves": [
+   "Last Respects",
+   "Aqua Jet",
+   "Wave Crash",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Last Respects": 100,
+   "Aqua Jet": 97,
+   "Wave Crash": 92,
+   "Protect": 60,
+   "Flip Turn": 36,
+   "Liquidation": 8,
+   "Soak": 4,
+   "Psychic Fangs": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "gholdengo": {
+  "species": "Gholdengo",
+  "n": 99,
+  "item": "Life Orb",
+  "ability": "Good as Gold",
+  "nature": "Modest",
+  "evs": {
+   "hp": 17,
+   "atk": 0,
+   "def": 0,
+   "spa": 17,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 93,
+  "moves": [
+   "Shadow Ball",
+   "Make It Rain",
+   "Protect",
+   "Nasty Plot"
+  ],
+  "moveFreq": {
+   "Shadow Ball": 98,
+   "Make It Rain": 98,
+   "Protect": 96,
+   "Nasty Plot": 88,
+   "Power Gem": 9,
+   "Focus Blast": 2,
+   "Trick": 2,
+   "Substitute": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "golisopod": {
+  "species": "Golisopod",
+  "n": 68,
+  "item": "Golisopite",
+  "ability": "Emergency Exit",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 66,
+  "moves": [
+   "Leech Life",
+   "Iron Head",
+   "Protect",
+   "Sucker Punch"
+  ],
+  "moveFreq": {
+   "Leech Life": 59,
+   "Iron Head": 57,
+   "Protect": 47,
+   "Sucker Punch": 25,
+   "Swords Dance": 22,
+   "Liquidation": 13,
+   "Close Combat": 12,
+   "First Impression": 11
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "floetteeternal": {
+  "species": "Floette-Eternal",
+  "n": 78,
+  "item": "Floettite",
+  "ability": "Flower Veil",
+  "nature": "Timid",
+  "evs": {
+   "hp": 4,
+   "atk": 0,
+   "def": 8,
+   "spa": 32,
+   "spd": 0,
+   "spe": 22
+  },
+  "nEV": 70,
+  "moves": [
+   "Protect",
+   "Dazzling Gleam",
+   "Calm Mind",
+   "Moonblast"
+  ],
+  "moveFreq": {
+   "Protect": 78,
+   "Dazzling Gleam": 76,
+   "Calm Mind": 59,
+   "Moonblast": 52,
+   "Draining Kiss": 26,
+   "Light of Ruin": 21
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "milotic": {
+  "species": "Milotic",
+  "n": 66,
+  "item": "Leftovers",
+  "ability": "Competitive",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 19,
+   "spa": 10,
+   "spd": 0,
+   "spe": 5
+  },
+  "nEV": 61,
+  "moves": [
+   "Protect",
+   "Scald",
+   "Ice Beam",
+   "Icy Wind"
+  ],
+  "moveFreq": {
+   "Protect": 51,
+   "Scald": 42,
+   "Ice Beam": 35,
+   "Icy Wind": 28,
+   "Coil": 24,
+   "Hypnosis": 24,
+   "Muddy Water": 23,
+   "Recover": 21
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "arcaninehisui": {
+  "species": "Arcanine-Hisui",
+  "n": 58,
+  "item": "Focus Sash",
+  "ability": "Rock Head",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 51,
+  "moves": [
+   "Flare Blitz",
+   "Protect",
+   "Head Smash",
+   "Extreme Speed"
+  ],
+  "moveFreq": {
+   "Flare Blitz": 58,
+   "Protect": 57,
+   "Head Smash": 53,
+   "Extreme Speed": 53,
+   "Rock Slide": 8,
+   "Close Combat": 1,
+   "Snarl": 1,
+   "Flame Charge": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "garchomp": {
+  "species": "Garchomp",
+  "n": 69,
+  "item": "Garchompite Z",
+  "ability": "Rough Skin",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 65,
+  "moves": [
+   "Protect",
+   "Power Gem",
+   "Flamethrower",
+   "Draco Meteor"
+  ],
+  "moveFreq": {
+   "Protect": 56,
+   "Power Gem": 34,
+   "Flamethrower": 30,
+   "Draco Meteor": 27,
+   "Dragon Claw": 24,
+   "Rock Slide": 22,
+   "Earthquake": 21,
+   "Earth Power": 20
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sylveon": {
+  "species": "Sylveon",
+  "n": 52,
+  "item": "Fairy Feather",
+  "ability": "Pixilate",
+  "nature": "Modest",
+  "evs": {
+   "hp": 9,
+   "atk": 0,
+   "def": 22,
+   "spa": 20,
+   "spd": 0,
+   "spe": 15
+  },
+  "nEV": 47,
+  "moves": [
+   "Hyper Voice",
+   "Quick Attack",
+   "Hyper Beam",
+   "Detect"
+  ],
+  "moveFreq": {
+   "Hyper Voice": 52,
+   "Quick Attack": 45,
+   "Hyper Beam": 43,
+   "Detect": 42,
+   "Yawn": 11,
+   "Protect": 10,
+   "Mystical Fire": 2,
+   "Calm Mind": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "raichu": {
+  "species": "Raichu",
+  "n": 51,
+  "item": "Raichunite Y",
+  "ability": "Lightning Rod",
+  "nature": "Timid",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 11,
+   "spa": 0,
+   "spd": 0,
+   "spe": 23
+  },
+  "nEV": 45,
+  "moves": [
+   "Zap Cannon",
+   "Focus Blast",
+   "Protect",
+   "Fake Out"
+  ],
+  "moveFreq": {
+   "Zap Cannon": 50,
+   "Focus Blast": 50,
+   "Protect": 48,
+   "Fake Out": 42,
+   "Encore": 11,
+   "Rising Voltage": 1,
+   "Reflect": 1,
+   "Light Screen": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "farigiraf": {
+  "species": "Farigiraf",
+  "n": 50,
+  "item": "Sitrus Berry",
+  "ability": "Armor Tail",
+  "nature": "Bold",
+  "evs": {
+   "hp": 29,
+   "atk": 0,
+   "def": 20,
+   "spa": 0,
+   "spd": 17,
+   "spe": 0
+  },
+  "nEV": 46,
+  "moves": [
+   "Trick Room",
+   "Protect",
+   "Psychic",
+   "Helping Hand"
+  ],
+  "moveFreq": {
+   "Trick Room": 50,
+   "Protect": 32,
+   "Psychic": 29,
+   "Helping Hand": 27,
+   "Thunderbolt": 24,
+   "Twin Beam": 11,
+   "Expanding Force": 8,
+   "Hyper Voice": 6
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "pelipper": {
+  "species": "Pelipper",
+  "n": 51,
+  "item": "Focus Sash",
+  "ability": "Drizzle",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 46,
+  "moves": [
+   "Hurricane",
+   "Weather Ball",
+   "Tailwind",
+   "Wide Guard"
+  ],
+  "moveFreq": {
+   "Hurricane": 51,
+   "Weather Ball": 47,
+   "Tailwind": 43,
+   "Wide Guard": 34,
+   "Protect": 20,
+   "Soak": 3,
+   "Helping Hand": 2,
+   "Ice Beam": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "armarouge": {
+  "species": "Armarouge",
+  "n": 43,
+  "item": "Life Orb",
+  "ability": "Flash Fire",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 38,
+  "moves": [
+   "Expanding Force",
+   "Armor Cannon",
+   "Protect",
+   "Wide Guard"
+  ],
+  "moveFreq": {
+   "Expanding Force": 42,
+   "Armor Cannon": 33,
+   "Protect": 28,
+   "Wide Guard": 17,
+   "Trick Room": 17,
+   "Heat Wave": 11,
+   "Aura Sphere": 10,
+   "Dark Pulse": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "tyranitar": {
+  "species": "Tyranitar",
+  "n": 43,
+  "item": "Tyranitarite",
+  "ability": "Sand Stream",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 17,
+   "atk": 17,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 40,
+  "moves": [
+   "Rock Slide",
+   "Knock Off",
+   "Protect",
+   "Low Kick"
+  ],
+  "moveFreq": {
+   "Rock Slide": 43,
+   "Knock Off": 42,
+   "Protect": 39,
+   "Low Kick": 35,
+   "Dragon Dance": 6,
+   "Ice Punch": 5,
+   "Crunch": 1,
+   "High Horsepower": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "archaludon": {
+  "species": "Archaludon",
+  "n": 50,
+  "item": "Leftovers",
+  "ability": "Stamina",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 0,
+   "spa": 25,
+   "spd": 0,
+   "spe": 9
+  },
+  "nEV": 44,
+  "moves": [
+   "Electro Shot",
+   "Protect",
+   "Dragon Pulse",
+   "Flash Cannon"
+  ],
+  "moveFreq": {
+   "Electro Shot": 48,
+   "Protect": 46,
+   "Dragon Pulse": 42,
+   "Flash Cannon": 39,
+   "Snarl": 9,
+   "Aura Sphere": 6,
+   "Draco Meteor": 5,
+   "Precipice Blades": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "gardevoir": {
+  "species": "Gardevoir",
+  "n": 37,
+  "item": "Gardevoirite",
+  "ability": "Trace",
+  "nature": "Modest",
+  "evs": {
+   "hp": 28,
+   "atk": 0,
+   "def": 17,
+   "spa": 10,
+   "spd": 0,
+   "spe": 11
+  },
+  "nEV": 33,
+  "moves": [
+   "Hyper Voice",
+   "Protect",
+   "Expanding Force",
+   "Trick Room"
+  ],
+  "moveFreq": {
+   "Hyper Voice": 37,
+   "Protect": 37,
+   "Expanding Force": 36,
+   "Trick Room": 18,
+   "Calm Mind": 5,
+   "Thunderbolt": 5,
+   "Psychic": 3,
+   "Encore": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "charizard": {
+  "species": "Charizard",
+  "n": 48,
+  "item": "Charizardite Y",
+  "ability": "Blaze",
+  "nature": "Timid",
+  "evs": {
+   "hp": 12,
+   "atk": 0,
+   "def": 14,
+   "spa": 8,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 42,
+  "moves": [
+   "Protect",
+   "Heat Wave",
+   "Weather Ball",
+   "Ancient Power"
+  ],
+  "moveFreq": {
+   "Protect": 48,
+   "Heat Wave": 44,
+   "Weather Ball": 41,
+   "Ancient Power": 25,
+   "Solar Beam": 11,
+   "Hurricane": 7,
+   "Dragon Dance": 3,
+   "Dragon Claw": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "excadrill": {
+  "species": "Excadrill",
+  "n": 37,
+  "item": "Focus Sash",
+  "ability": "Sand Rush",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 34,
+  "moves": [
+   "Iron Head",
+   "Protect",
+   "High Horsepower",
+   "Rock Slide"
+  ],
+  "moveFreq": {
+   "Iron Head": 37,
+   "Protect": 36,
+   "High Horsepower": 33,
+   "Rock Slide": 30,
+   "Earthquake": 10,
+   "Swords Dance": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "lucario": {
+  "species": "Lucario",
+  "n": 28,
+  "item": "Lucarionite Z",
+  "ability": "Inner Focus",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 27,
+  "moves": [
+   "Aura Sphere",
+   "Flash Cannon",
+   "Detect",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Aura Sphere": 28,
+   "Flash Cannon": 25,
+   "Detect": 15,
+   "Protect": 13,
+   "Calm Mind": 10,
+   "Steel Beam": 6,
+   "Nasty Plot": 5,
+   "Dark Pulse": 4
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "baxcalibur": {
+  "species": "Baxcalibur",
+  "n": 29,
+  "item": "Baxcalibrite",
+  "ability": "Thermal Exchange",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 21,
+   "atk": 16,
+   "def": 3,
+   "spa": 0,
+   "spd": 0,
+   "spe": 26
+  },
+  "nEV": 29,
+  "moves": [
+   "Protect",
+   "Ice Shard",
+   "Glaive Rush",
+   "Icicle Crash"
+  ],
+  "moveFreq": {
+   "Protect": 29,
+   "Ice Shard": 28,
+   "Glaive Rush": 27,
+   "Icicle Crash": 12,
+   "Swords Dance": 8,
+   "Dragon Dance": 3,
+   "High Horsepower": 3,
+   "Icicle Spear": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "torkoal": {
+  "species": "Torkoal",
+  "n": 28,
+  "item": "Charcoal",
+  "ability": "Drought",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 1,
+   "spa": 32,
+   "spd": 1,
+   "spe": 0
+  },
+  "nEV": 28,
+  "moves": [
+   "Eruption",
+   "Protect",
+   "Weather Ball",
+   "Earth Power"
+  ],
+  "moveFreq": {
+   "Eruption": 28,
+   "Protect": 26,
+   "Weather Ball": 22,
+   "Earth Power": 12,
+   "Heat Wave": 11,
+   "Helping Hand": 10,
+   "Solar Beam": 2,
+   "Overheat": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "indeedee": {
+  "species": "Indeedee",
+  "n": 34,
+  "item": "Choice Scarf",
+  "ability": "Psychic Surge",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 28,
+  "moves": [
+   "Expanding Force",
+   "Trick",
+   "Protect",
+   "Trick Room"
+  ],
+  "moveFreq": {
+   "Expanding Force": 34,
+   "Trick": 17,
+   "Protect": 17,
+   "Trick Room": 13,
+   "Imprison": 11,
+   "Mystical Fire": 11,
+   "Dazzling Gleam": 8,
+   "Hyper Voice": 6
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "staraptor": {
+  "species": "Staraptor",
+  "n": 23,
+  "item": "Staraptite",
+  "ability": "Intimidate",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 19,
+   "atk": 15,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 17,
+  "moves": [
+   "Close Combat",
+   "Protect",
+   "Brave Bird",
+   "Tailwind"
+  ],
+  "moveFreq": {
+   "Close Combat": 23,
+   "Protect": 22,
+   "Brave Bird": 20,
+   "Tailwind": 16,
+   "Roost": 6,
+   "Dual Wingbeat": 3,
+   "U-turn": 1,
+   "Final Gambit": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "metagross": {
+  "species": "Metagross",
+  "n": 21,
+  "item": "Metagrossite",
+  "ability": "Clear Body",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 24,
+   "atk": 15,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 27
+  },
+  "nEV": 19,
+  "moves": [
+   "Protect",
+   "Psychic Fangs",
+   "Body Press",
+   "Steel Roller"
+  ],
+  "moveFreq": {
+   "Protect": 21,
+   "Psychic Fangs": 20,
+   "Body Press": 12,
+   "Steel Roller": 10,
+   "Iron Head": 9,
+   "Stomping Tantrum": 6,
+   "Psych Up": 2,
+   "Bullet Punch": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sinistcha": {
+  "species": "Sinistcha",
+  "n": 22,
+  "item": "Sitrus Berry",
+  "ability": "Hospitality",
+  "nature": "Calm",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 14,
+   "spa": 0,
+   "spd": 20,
+   "spe": 0
+  },
+  "nEV": 19,
+  "moves": [
+   "Matcha Gotcha",
+   "Rage Powder",
+   "Trick Room",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Matcha Gotcha": 22,
+   "Rage Powder": 22,
+   "Trick Room": 19,
+   "Protect": 15,
+   "Life Dew": 5,
+   "Shadow Ball": 3,
+   "Scald": 1,
+   "Imprison": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "whimsicott": {
+  "species": "Whimsicott",
+  "n": 19,
+  "item": "Focus Sash",
+  "ability": "Prankster",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 15,
+  "moves": [
+   "Moonblast",
+   "Tailwind",
+   "Encore",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Moonblast": 19,
+   "Tailwind": 19,
+   "Encore": 13,
+   "Protect": 12,
+   "Charm": 3,
+   "Light Screen": 3,
+   "Sunny Day": 2,
+   "Misty Terrain": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "pawmot": {
+  "species": "Pawmot",
+  "n": 19,
+  "item": "Focus Sash",
+  "ability": "Iron Fist",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 19,
+  "moves": [
+   "Close Combat",
+   "Double Shock",
+   "Fake Out",
+   "Revival Blessing"
+  ],
+  "moveFreq": {
+   "Close Combat": 18,
+   "Double Shock": 14,
+   "Fake Out": 12,
+   "Revival Blessing": 12,
+   "Protect": 5,
+   "Double-Edge": 4,
+   "Ice Punch": 4,
+   "Coaching": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "volcarona": {
+  "species": "Volcarona",
+  "n": 25,
+  "item": "Rocky Helmet",
+  "ability": "Flame Body",
+  "nature": "Bold",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 32,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 23,
+  "moves": [
+   "Protect",
+   "Rage Powder",
+   "Quiver Dance",
+   "Struggle Bug"
+  ],
+  "moveFreq": {
+   "Protect": 22,
+   "Rage Powder": 14,
+   "Quiver Dance": 11,
+   "Struggle Bug": 10,
+   "Overheat": 9,
+   "Tailwind": 9,
+   "Heat Wave": 9,
+   "Giga Drain": 8
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "gengar": {
+  "species": "Gengar",
+  "n": 23,
+  "item": "Gengarite",
+  "ability": "Cursed Body",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 6,
+   "spa": 0,
+   "spd": 8,
+   "spe": 20
+  },
+  "nEV": 19,
+  "moves": [
+   "Shadow Ball",
+   "Protect",
+   "Sludge Bomb",
+   "Perish Song"
+  ],
+  "moveFreq": {
+   "Shadow Ball": 23,
+   "Protect": 23,
+   "Sludge Bomb": 20,
+   "Perish Song": 16,
+   "Substitute": 4,
+   "Icy Wind": 2,
+   "Disable": 2,
+   "Focus Blast": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "glimmora": {
+  "species": "Glimmora",
+  "n": 20,
+  "item": "Glimmoranite",
+  "ability": "Toxic Debris",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 19,
+  "moves": [
+   "Spiky Shield",
+   "Sludge Bomb",
+   "Power Gem",
+   "Earth Power"
+  ],
+  "moveFreq": {
+   "Spiky Shield": 20,
+   "Sludge Bomb": 20,
+   "Power Gem": 20,
+   "Earth Power": 20
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "absol": {
+  "species": "Absol",
+  "n": 14,
+  "item": "Absolite Z",
+  "ability": "Justified",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 11,
+   "atk": 19,
+   "def": 4,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 14,
+  "moves": [
+   "Night Slash",
+   "Detect",
+   "Close Combat",
+   "Shadow Claw"
+  ],
+  "moveFreq": {
+   "Night Slash": 12,
+   "Detect": 10,
+   "Close Combat": 9,
+   "Shadow Claw": 9,
+   "Will-O-Wisp": 4,
+   "Protect": 4,
+   "Focus Energy": 3,
+   "Knock Off": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "froslass": {
+  "species": "Froslass",
+  "n": 16,
+  "item": "Froslassite",
+  "ability": "Cursed Body",
+  "nature": "Timid",
+  "evs": {
+   "hp": 15,
+   "atk": 0,
+   "def": 8,
+   "spa": 9,
+   "spd": 2,
+   "spe": 32
+  },
+  "nEV": 14,
+  "moves": [
+   "Protect",
+   "Blizzard",
+   "Shadow Ball",
+   "Aurora Veil"
+  ],
+  "moveFreq": {
+   "Protect": 16,
+   "Blizzard": 16,
+   "Shadow Ball": 15,
+   "Aurora Veil": 15,
+   "Taunt": 1,
+   "Rain Dance": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "grimmsnarl": {
+  "species": "Grimmsnarl",
+  "n": 15,
+  "item": "Light Clay",
+  "ability": "Prankster",
+  "nature": "Sassy",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 19,
+   "spa": 0,
+   "spd": 15,
+   "spe": 0
+  },
+  "nEV": 13,
+  "moves": [
+   "Reflect",
+   "Light Screen",
+   "Spirit Break",
+   "Parting Shot"
+  ],
+  "moveFreq": {
+   "Reflect": 15,
+   "Light Screen": 15,
+   "Spirit Break": 14,
+   "Parting Shot": 14,
+   "Fake Out": 1,
+   "Foul Play": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "swampert": {
+  "species": "Swampert",
+  "n": 17,
+  "item": "Swampertite",
+  "ability": "Torrent",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 14,
+  "moves": [
+   "Protect",
+   "Wave Crash",
+   "Ice Punch",
+   "Earthquake"
+  ],
+  "moveFreq": {
+   "Protect": 17,
+   "Wave Crash": 17,
+   "Ice Punch": 16,
+   "Earthquake": 11,
+   "High Horsepower": 6,
+   "Yawn": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "politoed": {
+  "species": "Politoed",
+  "n": 18,
+  "item": "Sitrus Berry",
+  "ability": "Drizzle",
+  "nature": "Calm",
+  "evs": {
+   "hp": 31,
+   "atk": 0,
+   "def": 23,
+   "spa": 0,
+   "spd": 12,
+   "spe": 0
+  },
+  "nEV": 16,
+  "moves": [
+   "Weather Ball",
+   "Protect",
+   "Perish Song",
+   "Encore"
+  ],
+  "moveFreq": {
+   "Weather Ball": 18,
+   "Protect": 17,
+   "Perish Song": 11,
+   "Encore": 9,
+   "Muddy Water": 6,
+   "Ice Beam": 6,
+   "Hypnosis": 2,
+   "Icy Wind": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "aerodactyl": {
+  "species": "Aerodactyl",
+  "n": 12,
+  "item": "Aerodactylite",
+  "ability": "Unnerve",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 10,
+  "moves": [
+   "Rock Slide",
+   "Tailwind",
+   "Dual Wingbeat",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Rock Slide": 12,
+   "Tailwind": 12,
+   "Dual Wingbeat": 10,
+   "Protect": 8,
+   "Wide Guard": 3,
+   "Ice Fang": 2,
+   "Taunt": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "hatterene": {
+  "species": "Hatterene",
+  "n": 12,
+  "item": "Life Orb",
+  "ability": "Magic Bounce",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 0
+  },
+  "nEV": 11,
+  "moves": [
+   "Dazzling Gleam",
+   "Expanding Force",
+   "Trick Room",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Dazzling Gleam": 12,
+   "Expanding Force": 12,
+   "Trick Room": 12,
+   "Protect": 9,
+   "Giga Drain": 1,
+   "Psychic": 1,
+   "Magic Powder": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "ninetalesalola": {
+  "species": "Ninetales-Alola",
+  "n": 11,
+  "item": "Light Clay",
+  "ability": "Snow Warning",
+  "nature": "Timid",
+  "evs": {
+   "hp": 5,
+   "atk": 0,
+   "def": 7,
+   "spa": 22,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 11,
+  "moves": [
+   "Blizzard",
+   "Protect",
+   "Aurora Veil",
+   "Moonblast"
+  ],
+  "moveFreq": {
+   "Blizzard": 10,
+   "Protect": 9,
+   "Aurora Veil": 7,
+   "Moonblast": 5,
+   "Freeze-Dry": 4,
+   "Encore": 3,
+   "Icy Wind": 2,
+   "Psyshock": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "blastoise": {
+  "species": "Blastoise",
+  "n": 12,
+  "item": "Blastoisinite",
+  "ability": "Torrent",
+  "nature": "Modest",
+  "evs": {
+   "hp": 22,
+   "atk": 0,
+   "def": 0,
+   "spa": 25,
+   "spd": 0,
+   "spe": 19
+  },
+  "nEV": 10,
+  "moves": [
+   "Water Spout",
+   "Protect",
+   "Shell Smash",
+   "Terrain Pulse"
+  ],
+  "moveFreq": {
+   "Water Spout": 10,
+   "Protect": 10,
+   "Shell Smash": 7,
+   "Terrain Pulse": 6,
+   "Dark Pulse": 4,
+   "Fake Out": 3,
+   "Ice Beam": 3,
+   "Aura Sphere": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "kommoo": {
+  "species": "Kommo-o",
+  "n": 17,
+  "item": "Leftovers",
+  "ability": "Soundproof",
+  "nature": "Modest",
+  "evs": {
+   "hp": 10,
+   "atk": 0,
+   "def": 1,
+   "spa": 22,
+   "spd": 1,
+   "spe": 32
+  },
+  "nEV": 13,
+  "moves": [
+   "Clanging Scales",
+   "Protect",
+   "Aura Sphere",
+   "Clangorous Soul"
+  ],
+  "moveFreq": {
+   "Clanging Scales": 17,
+   "Protect": 17,
+   "Aura Sphere": 16,
+   "Clangorous Soul": 15,
+   "Flamethrower": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "delphox": {
+  "species": "Delphox",
+  "n": 12,
+  "item": "Delphoxite",
+  "ability": "Blaze",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 8,
+  "moves": [
+   "Protect",
+   "Heat Wave",
+   "Nasty Plot",
+   "Psychic"
+  ],
+  "moveFreq": {
+   "Protect": 12,
+   "Heat Wave": 11,
+   "Nasty Plot": 7,
+   "Psychic": 6,
+   "Expanding Force": 4,
+   "Focus Blast": 2,
+   "Psyshock": 2,
+   "Substitute": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "dragonite": {
+  "species": "Dragonite",
+  "n": 13,
+  "item": "Dragoninite",
+  "ability": "Inner Focus",
+  "nature": "Modest",
+  "evs": {
+   "hp": 23,
+   "atk": 0,
+   "def": 0,
+   "spa": 30,
+   "spd": 0,
+   "spe": 13
+  },
+  "nEV": 12,
+  "moves": [
+   "Protect",
+   "Dragon Pulse",
+   "Heat Wave",
+   "Tailwind"
+  ],
+  "moveFreq": {
+   "Protect": 10,
+   "Dragon Pulse": 9,
+   "Heat Wave": 9,
+   "Tailwind": 8,
+   "Extreme Speed": 5,
+   "Dragon Claw": 3,
+   "Low Kick": 3,
+   "Scale Shot": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "venusaur": {
+  "species": "Venusaur",
+  "n": 15,
+  "item": "Focus Sash",
+  "ability": "Chlorophyll",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 13,
+  "moves": [
+   "Protect",
+   "Leaf Storm",
+   "Sludge Bomb",
+   "Sleep Powder"
+  ],
+  "moveFreq": {
+   "Protect": 14,
+   "Leaf Storm": 14,
+   "Sludge Bomb": 14,
+   "Sleep Powder": 10,
+   "Earth Power": 7,
+   "Energy Ball": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "blaziken": {
+  "species": "Blaziken",
+  "n": 10,
+  "item": "Blazikenite",
+  "ability": "Speed Boost",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 10,
+  "moves": [
+   "Flare Blitz",
+   "Close Combat",
+   "Detect",
+   "Rock Slide"
+  ],
+  "moveFreq": {
+   "Flare Blitz": 8,
+   "Close Combat": 8,
+   "Detect": 8,
+   "Rock Slide": 7,
+   "Coaching": 2,
+   "Heat Wave": 2,
+   "Aura Sphere": 2,
+   "Protect": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "dragapult": {
+  "species": "Dragapult",
+  "n": 8,
+  "item": "Life Orb",
+  "ability": "Infiltrator",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 6,
+  "moves": [
+   "Shadow Ball",
+   "Will-O-Wisp",
+   "Draco Meteor",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Shadow Ball": 8,
+   "Will-O-Wisp": 8,
+   "Draco Meteor": 7,
+   "Protect": 7,
+   "Dragon Cheer": 1,
+   "Disable": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "annihilape": {
+  "species": "Annihilape",
+  "n": 10,
+  "item": "Choice Scarf",
+  "ability": "Defiant",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 5,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 29
+  },
+  "nEV": 7,
+  "moves": [
+   "Close Combat",
+   "Shadow Claw",
+   "Ice Punch",
+   "U-turn"
+  ],
+  "moveFreq": {
+   "Close Combat": 8,
+   "Shadow Claw": 7,
+   "Ice Punch": 6,
+   "U-turn": 3,
+   "Phantom Force": 3,
+   "Drain Punch": 2,
+   "Rage Fist": 2,
+   "Bulk Up": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "talonflame": {
+  "species": "Talonflame",
+  "n": 8,
+  "item": "Sharp Beak",
+  "ability": "Gale Wings",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 8,
+  "moves": [
+   "Tailwind",
+   "Protect",
+   "Flare Blitz",
+   "Brave Bird"
+  ],
+  "moveFreq": {
+   "Tailwind": 8,
+   "Protect": 6,
+   "Flare Blitz": 6,
+   "Brave Bird": 3,
+   "Dual Wingbeat": 3,
+   "Air Slash": 2,
+   "Overheat": 2,
+   "Quick Guard": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "corviknight": {
+  "species": "Corviknight",
+  "n": 10,
+  "item": "Psychic Seed",
+  "ability": "Mirror Armor",
+  "nature": "Careful",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 26,
+   "spe": 8
+  },
+  "nEV": 7,
+  "moves": [
+   "Roost",
+   "Brave Bird",
+   "Bulk Up",
+   "Power Trip"
+  ],
+  "moveFreq": {
+   "Roost": 9,
+   "Brave Bird": 8,
+   "Bulk Up": 8,
+   "Power Trip": 5,
+   "Tailwind": 3,
+   "Body Press": 3,
+   "Iron Head": 2,
+   "Taunt": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "floette": {
+  "species": "Floette",
+  "n": 7,
+  "item": "Floettite",
+  "ability": "Fairy Aura",
+  "nature": "Modest",
+  "evs": {
+   "hp": 27,
+   "atk": 0,
+   "def": 17,
+   "spa": 5,
+   "spd": 2,
+   "spe": 15
+  },
+  "nEV": 7,
+  "moves": [
+   "Protect",
+   "Calm Mind",
+   "Dazzling Gleam",
+   "Draining Kiss"
+  ],
+  "moveFreq": {
+   "Protect": 7,
+   "Calm Mind": 7,
+   "Dazzling Gleam": 6,
+   "Draining Kiss": 5,
+   "Moonblast": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "hydreigon": {
+  "species": "Hydreigon",
+  "n": 7,
+  "item": "Choice Scarf",
+  "ability": "Levitate",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 6,
+  "moves": [
+   "Draco Meteor",
+   "Dark Pulse",
+   "Snarl",
+   "U-turn"
+  ],
+  "moveFreq": {
+   "Draco Meteor": 7,
+   "Dark Pulse": 7,
+   "Snarl": 6,
+   "U-turn": 2,
+   "Heat Wave": 2,
+   "Earth Power": 1,
+   "Flash Cannon": 1,
+   "Flamethrower": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "primarina": {
+  "species": "Primarina",
+  "n": 6,
+  "item": "Leftovers",
+  "ability": "Liquid Voice",
+  "nature": "Modest",
+  "evs": {
+   "hp": 26,
+   "atk": 0,
+   "def": 3,
+   "spa": 14,
+   "spd": 0,
+   "spe": 23
+  },
+  "nEV": 6,
+  "moves": [
+   "Moonblast",
+   "Hyper Voice",
+   "Protect",
+   "Calm Mind"
+  ],
+  "moveFreq": {
+   "Moonblast": 6,
+   "Hyper Voice": 6,
+   "Protect": 6,
+   "Calm Mind": 4,
+   "Dazzling Gleam": 1,
+   "Helping Hand": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "mawile": {
+  "species": "Mawile",
+  "n": 8,
+  "item": "Mawilite",
+  "ability": "Hyper Cutter",
+  "nature": "Brave",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 7,
+  "moves": [
+   "Play Rough",
+   "Protect",
+   "Iron Head",
+   "Sucker Punch"
+  ],
+  "moveFreq": {
+   "Play Rough": 8,
+   "Protect": 8,
+   "Iron Head": 7,
+   "Sucker Punch": 7,
+   "Rock Slide": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "meowsticf": {
+  "species": "Meowstic-F",
+  "n": 10,
+  "item": "Meowsticite",
+  "ability": "Competitive",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 9,
+  "moves": [
+   "Expanding Force",
+   "Protect",
+   "Fake Out",
+   "Thunderbolt"
+  ],
+  "moveFreq": {
+   "Expanding Force": 10,
+   "Protect": 10,
+   "Fake Out": 8,
+   "Thunderbolt": 6,
+   "Alluring Voice": 4,
+   "Shadow Ball": 1,
+   "Nasty Plot": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "ceruledge": {
+  "species": "Ceruledge",
+  "n": 6,
+  "item": "Grassy Seed",
+  "ability": "Flash Fire",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 27,
+   "atk": 26,
+   "def": 4,
+   "spa": 0,
+   "spd": 0,
+   "spe": 9
+  },
+  "nEV": 6,
+  "moves": [
+   "Bitter Blade",
+   "Protect",
+   "Shadow Sneak",
+   "Swords Dance"
+  ],
+  "moveFreq": {
+   "Bitter Blade": 6,
+   "Protect": 5,
+   "Shadow Sneak": 5,
+   "Swords Dance": 4,
+   "Bulk Up": 2,
+   "Poltergeist": 1,
+   "Close Combat": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "camerupt": {
+  "species": "Camerupt",
+  "n": 5,
+  "item": "Cameruptite",
+  "ability": "Solid Rock",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 0
+  },
+  "nEV": 4,
+  "moves": [
+   "Heat Wave",
+   "Earth Power",
+   "Protect",
+   "Ancient Power"
+  ],
+  "moveFreq": {
+   "Heat Wave": 5,
+   "Earth Power": 5,
+   "Protect": 5,
+   "Ancient Power": 5
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sirfetchd": {
+  "species": "Sirfetch’d",
+  "n": 5,
+  "item": "Leek",
+  "ability": "Scrappy",
+  "nature": "Brave",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 5,
+  "moves": [
+   "Detect",
+   "Meteor Assault",
+   "Close Combat",
+   "Leaf Blade"
+  ],
+  "moveFreq": {
+   "Detect": 5,
+   "Meteor Assault": 5,
+   "Close Combat": 5,
+   "Leaf Blade": 1,
+   "Quick Guard": 1,
+   "Feint": 1,
+   "First Impression": 1,
+   "Poison Jab": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "toxtricity": {
+  "species": "Toxtricity",
+  "n": 4,
+  "item": "Life Orb",
+  "ability": "Punk Rock",
+  "nature": "Modest",
+  "evs": {
+   "hp": 19,
+   "atk": 0,
+   "def": 0,
+   "spa": 30,
+   "spd": 0,
+   "spe": 17
+  },
+  "nEV": 4,
+  "moves": [
+   "Overdrive",
+   "Sludge Bomb",
+   "Protect",
+   "Boomburst"
+  ],
+  "moveFreq": {
+   "Overdrive": 4,
+   "Sludge Bomb": 4,
+   "Protect": 3,
+   "Boomburst": 2,
+   "Thunderbolt": 1,
+   "Snarl": 1,
+   "Volt Switch": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "typhlosionhisui": {
+  "species": "Typhlosion-Hisui",
+  "n": 4,
+  "item": "Choice Scarf",
+  "ability": "Frisk",
+  "nature": "Modest",
+  "evs": {
+   "hp": 1,
+   "atk": 0,
+   "def": 1,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Eruption",
+   "Shadow Ball",
+   "Heat Wave",
+   "Overheat"
+  ],
+  "moveFreq": {
+   "Eruption": 4,
+   "Shadow Ball": 4,
+   "Heat Wave": 4,
+   "Overheat": 2,
+   "Protect": 1,
+   "Focus Blast": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "gallade": {
+  "species": "Gallade",
+  "n": 4,
+  "item": "Focus Sash",
+  "ability": "Sharpness",
+  "nature": "Brave",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 2,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "nEV": 4,
+  "moves": [
+   "Wide Guard",
+   "Sacred Sword",
+   "Psycho Cut",
+   "Trick Room"
+  ],
+  "moveFreq": {
+   "Wide Guard": 4,
+   "Sacred Sword": 4,
+   "Psycho Cut": 4,
+   "Trick Room": 3,
+   "Poison Jab": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "scrafty": {
+  "species": "Scrafty",
+  "n": 4,
+  "item": "Focus Sash",
+  "ability": "Intimidate",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 4,
+  "moves": [
+   "Knock Off",
+   "Fake Out",
+   "Close Combat",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Knock Off": 4,
+   "Fake Out": 4,
+   "Close Combat": 3,
+   "Protect": 2,
+   "Drain Punch": 1,
+   "Detect": 1,
+   "Rock Slide": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sinistchamasterpiece": {
+  "species": "Sinistcha-Masterpiece",
+  "n": 3,
+  "item": "Colbur Berry",
+  "ability": "Hospitality",
+  "nature": "Bold",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 14,
+   "spa": 0,
+   "spd": 19,
+   "spe": 1
+  },
+  "nEV": 2,
+  "moves": [
+   "Matcha Gotcha",
+   "Rage Powder",
+   "Protect",
+   "Trick Room"
+  ],
+  "moveFreq": {
+   "Matcha Gotcha": 3,
+   "Rage Powder": 3,
+   "Protect": 3,
+   "Trick Room": 2,
+   "Life Dew": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "altaria": {
+  "species": "Altaria",
+  "n": 4,
+  "item": "Haban Berry",
+  "ability": "Cloud Nine",
+  "nature": "Timid",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 5,
+   "spa": 0,
+   "spd": 0,
+   "spe": 29
+  },
+  "nEV": 4,
+  "moves": [
+   "Protect",
+   "Will-O-Wisp",
+   "Ice Beam",
+   "Tailwind"
+  ],
+  "moveFreq": {
+   "Protect": 4,
+   "Will-O-Wisp": 3,
+   "Ice Beam": 2,
+   "Tailwind": 2,
+   "Hyper Voice": 1,
+   "Draco Meteor": 1,
+   "Roost": 1,
+   "Perish Song": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "pyroar": {
+  "species": "Pyroar",
+  "n": 3,
+  "item": "Pyroarite",
+  "ability": "Moxie",
+  "nature": "Timid",
+  "evs": {
+   "hp": 30,
+   "atk": 0,
+   "def": 0,
+   "spa": 9,
+   "spd": 0,
+   "spe": 27
+  },
+  "nEV": 3,
+  "moves": [
+   "Heat Wave",
+   "Protect",
+   "Snarl",
+   "Yawn"
+  ],
+  "moveFreq": {
+   "Heat Wave": 3,
+   "Protect": 3,
+   "Snarl": 2,
+   "Yawn": 2,
+   "Overheat": 1,
+   "Scorching Sands": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "aegislash": {
+  "species": "Aegislash",
+  "n": 3,
+  "item": "Focus Sash",
+  "ability": "Stance Change",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Poltergeist",
+   "Wide Guard",
+   "Iron Head",
+   "Close Combat"
+  ],
+  "moveFreq": {
+   "Poltergeist": 3,
+   "Wide Guard": 3,
+   "Iron Head": 2,
+   "Close Combat": 2,
+   "Sacred Sword": 1,
+   "Shadow Sneak": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "vanilluxe": {
+  "species": "Vanilluxe",
+  "n": 3,
+  "item": "Choice Scarf",
+  "ability": "Snow Warning",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Blizzard",
+   "Freeze-Dry",
+   "Icy Wind",
+   "Sheer Cold"
+  ],
+  "moveFreq": {
+   "Blizzard": 3,
+   "Freeze-Dry": 3,
+   "Icy Wind": 2,
+   "Sheer Cold": 1,
+   "Aurora Veil": 1,
+   "Ice Shard": 1,
+   "Protect": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "alakazam": {
+  "species": "Alakazam",
+  "n": 3,
+  "item": "Alakazite",
+  "ability": "Inner Focus",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 3,
+   "spe": 31
+  },
+  "nEV": 3,
+  "moves": [
+   "Protect",
+   "Expanding Force",
+   "Focus Blast",
+   "Calm Mind"
+  ],
+  "moveFreq": {
+   "Protect": 3,
+   "Expanding Force": 3,
+   "Focus Blast": 2,
+   "Calm Mind": 2,
+   "Encore": 1,
+   "Dazzling Gleam": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "lycanrocdusk": {
+  "species": "Lycanroc-Dusk",
+  "n": 3,
+  "item": "Focus Sash",
+  "ability": "Tough Claws",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 1,
+   "atk": 32,
+   "def": 1,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Protect",
+   "Rock Slide",
+   "Close Combat",
+   "Accelerock"
+  ],
+  "moveFreq": {
+   "Protect": 3,
+   "Rock Slide": 3,
+   "Close Combat": 3,
+   "Accelerock": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "mausholdfour": {
+  "species": "Maushold-Four",
+  "n": 3,
+  "item": "Wide Lens",
+  "ability": "Technician",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Follow Me",
+   "Protect",
+   "Population Bomb",
+   "Bite"
+  ],
+  "moveFreq": {
+   "Follow Me": 3,
+   "Protect": 3,
+   "Population Bomb": 2,
+   "Bite": 1,
+   "Super Fang": 1,
+   "Feint": 1,
+   "Beat Up": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "tsareena": {
+  "species": "Tsareena",
+  "n": 3,
+  "item": "Wide Lens",
+  "ability": "Queenly Majesty",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 10,
+   "atk": 23,
+   "def": 7,
+   "spa": 0,
+   "spd": 0,
+   "spe": 26
+  },
+  "nEV": 3,
+  "moves": [
+   "Power Whip",
+   "Triple Axel",
+   "Low Kick",
+   "Helping Hand"
+  ],
+  "moveFreq": {
+   "Power Whip": 3,
+   "Triple Axel": 3,
+   "Low Kick": 3,
+   "Helping Hand": 2,
+   "Protect": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "pincurchin": {
+  "species": "Pincurchin",
+  "n": 3,
+  "item": "Electric Seed",
+  "ability": "Electric Surge",
+  "nature": "Brave",
+  "evs": {
+   "hp": 32,
+   "atk": 29,
+   "def": 5,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "nEV": 3,
+  "moves": [
+   "Sucker Punch",
+   "Rising Voltage",
+   "Acupressure",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Sucker Punch": 2,
+   "Rising Voltage": 2,
+   "Acupressure": 2,
+   "Protect": 2,
+   "Zing Zap": 1,
+   "Liquidation": 1,
+   "Poison Jab": 1,
+   "Scald": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "zoroarkhisui": {
+  "species": "Zoroark-Hisui",
+  "n": 3,
+  "item": "Focus Sash",
+  "ability": "Illusion",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 3,
+  "moves": [
+   "Flamethrower",
+   "Icy Wind",
+   "Shadow Ball",
+   "Psychic"
+  ],
+  "moveFreq": {
+   "Flamethrower": 2,
+   "Icy Wind": 2,
+   "Shadow Ball": 1,
+   "Psychic": 1,
+   "Trick": 1,
+   "Bitter Malice": 1,
+   "Fake Tears": 1,
+   "Memento": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "snorlax": {
+  "species": "Snorlax",
+  "n": 3,
+  "item": "Leftovers",
+  "ability": "Thick Fat",
+  "nature": "Relaxed",
+  "evs": {
+   "hp": 21,
+   "atk": 0,
+   "def": 31,
+   "spa": 0,
+   "spd": 14,
+   "spe": 0
+  },
+  "nEV": 2,
+  "moves": [
+   "Fissure",
+   "Protect",
+   "Yawn",
+   "Encore"
+  ],
+  "moveFreq": {
+   "Fissure": 3,
+   "Protect": 3,
+   "Yawn": 2,
+   "Encore": 2,
+   "Smack Down": 1,
+   "Stockpile": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "scizor": {
+  "species": "Scizor",
+  "n": 3,
+  "item": "Scizorite",
+  "ability": "Technician",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 3,
+  "moves": [
+   "Bug Bite",
+   "Bullet Punch",
+   "Protect",
+   "Swords Dance"
+  ],
+  "moveFreq": {
+   "Bug Bite": 3,
+   "Bullet Punch": 3,
+   "Protect": 3,
+   "Swords Dance": 2,
+   "Assurance": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "noivern": {
+  "species": "Noivern",
+  "n": 2,
+  "item": "Focus Sash",
+  "ability": "Infiltrator",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Draco Meteor",
+   "Tailwind",
+   "Protect",
+   "Super Fang"
+  ],
+  "moveFreq": {
+   "Draco Meteor": 2,
+   "Tailwind": 2,
+   "Protect": 2,
+   "Super Fang": 1,
+   "Boomburst": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "hippowdon": {
+  "species": "Hippowdon",
+  "n": 2,
+  "item": "Leftovers",
+  "ability": "Sand Stream",
+  "nature": "Brave",
+  "evs": {
+   "hp": 25,
+   "atk": 8,
+   "def": 1,
+   "spa": 0,
+   "spd": 32,
+   "spe": 0
+  },
+  "nEV": 2,
+  "moves": [
+   "Protect",
+   "High Horsepower",
+   "Yawn",
+   "Ice Fang"
+  ],
+  "moveFreq": {
+   "Protect": 2,
+   "High Horsepower": 2,
+   "Yawn": 2,
+   "Ice Fang": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "gyarados": {
+  "species": "Gyarados",
+  "n": 2,
+  "item": "Choice Scarf",
+  "ability": "Intimidate",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 5,
+   "atk": 31,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 30
+  },
+  "nEV": 2,
+  "moves": [
+   "Waterfall",
+   "Power Whip",
+   "Stone Edge",
+   "Ice Fang"
+  ],
+  "moveFreq": {
+   "Waterfall": 2,
+   "Power Whip": 1,
+   "Stone Edge": 1,
+   "Ice Fang": 1,
+   "Dragon Dance": 1,
+   "Temper Flare": 1,
+   "Earthquake": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "meganium": {
+  "species": "Meganium",
+  "n": 2,
+  "item": "Meganiumite",
+  "ability": "Overgrow",
+  "nature": "Modest",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Weather Ball",
+   "Protect",
+   "Earth Power",
+   "Solar Beam"
+  ],
+  "moveFreq": {
+   "Weather Ball": 2,
+   "Protect": 2,
+   "Earth Power": 2,
+   "Solar Beam": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "toxapex": {
+  "species": "Toxapex",
+  "n": 5,
+  "item": "Leftovers",
+  "ability": "Regenerator",
+  "nature": "Bold",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 18,
+   "spa": 0,
+   "spd": 16,
+   "spe": 0
+  },
+  "nEV": 4,
+  "moves": [
+   "Baneful Bunker",
+   "Wide Guard",
+   "Toxic",
+   "Infestation"
+  ],
+  "moveFreq": {
+   "Baneful Bunker": 5,
+   "Wide Guard": 5,
+   "Toxic": 5,
+   "Infestation": 5
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "sableye": {
+  "species": "Sableye",
+  "n": 3,
+  "item": "Roseli Berry",
+  "ability": "Prankster",
+  "nature": "Calm",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 13,
+   "spa": 0,
+   "spd": 21,
+   "spe": 0
+  },
+  "nEV": 2,
+  "moves": [
+   "Fake Out",
+   "Rain Dance",
+   "Will-O-Wisp",
+   "Light Screen"
+  ],
+  "moveFreq": {
+   "Fake Out": 2,
+   "Rain Dance": 2,
+   "Will-O-Wisp": 2,
+   "Light Screen": 2,
+   "Reflect": 2,
+   "Encore": 1,
+   "Quash": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "empoleon": {
+  "species": "Empoleon",
+  "n": 2,
+  "item": "Life Orb",
+  "ability": "Competitive",
+  "nature": "Modest",
+  "evs": {
+   "hp": 30,
+   "atk": 0,
+   "def": 0,
+   "spa": 31,
+   "spd": 0,
+   "spe": 5
+  },
+  "nEV": 2,
+  "moves": [
+   "Hydro Pump",
+   "Flash Cannon",
+   "Ice Beam",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Hydro Pump": 2,
+   "Flash Cannon": 2,
+   "Ice Beam": 2,
+   "Protect": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "cinderace": {
+  "species": "Cinderace",
+  "n": 2,
+  "item": "White Herb",
+  "ability": "Libero",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Pyro Ball",
+   "High Jump Kick",
+   "Snarl",
+   "Sucker Punch"
+  ],
+  "moveFreq": {
+   "Pyro Ball": 2,
+   "High Jump Kick": 2,
+   "Snarl": 2,
+   "Sucker Punch": 1,
+   "Taunt": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "klefki": {
+  "species": "Klefki",
+  "n": 2,
+  "item": "Sitrus Berry",
+  "ability": "Prankster",
+  "nature": "Calm",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 21,
+   "spa": 0,
+   "spd": 13,
+   "spe": 0
+  },
+  "nEV": 2,
+  "moves": [
+   "Draining Kiss",
+   "Psych Up",
+   "Substitute",
+   "Calm Mind"
+  ],
+  "moveFreq": {
+   "Draining Kiss": 1,
+   "Psych Up": 1,
+   "Substitute": 1,
+   "Calm Mind": 1,
+   "Dazzling Gleam": 1,
+   "Light Screen": 1,
+   "Rain Dance": 1,
+   "Trick Room": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "raichualola": {
+  "species": "Raichu-Alola",
+  "n": 2,
+  "item": "Life Orb",
+  "ability": "Surge Surfer",
+  "nature": "Modest",
+  "evs": {
+   "hp": 12,
+   "atk": 0,
+   "def": 1,
+   "spa": 32,
+   "spd": 0,
+   "spe": 21
+  },
+  "nEV": 2,
+  "moves": [
+   "Rising Voltage",
+   "Expanding Force",
+   "Protect",
+   "Alluring Voice"
+  ],
+  "moveFreq": {
+   "Rising Voltage": 2,
+   "Expanding Force": 2,
+   "Protect": 2,
+   "Alluring Voice": 1,
+   "Fake Out": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "dragalge": {
+  "species": "Dragalge",
+  "n": 2,
+  "item": "Dragalgite",
+  "ability": "Adaptability",
+  "nature": "Modest",
+  "evs": {
+   "hp": 23,
+   "atk": 0,
+   "def": 0,
+   "spa": 24,
+   "spd": 0,
+   "spe": 19
+  },
+  "nEV": 2,
+  "moves": [
+   "Sludge Bomb",
+   "Protect",
+   "Flip Turn",
+   "Draco Meteor"
+  ],
+  "moveFreq": {
+   "Sludge Bomb": 2,
+   "Protect": 2,
+   "Flip Turn": 2,
+   "Draco Meteor": 1,
+   "Dragon Pulse": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "mimikyu": {
+  "species": "Mimikyu",
+  "n": 2,
+  "item": "Fairy Feather",
+  "ability": "Disguise",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 1,
+   "atk": 32,
+   "def": 1,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Play Rough",
+   "Trick Room",
+   "Phantom Force",
+   "Shadow Sneak"
+  ],
+  "moveFreq": {
+   "Play Rough": 2,
+   "Trick Room": 2,
+   "Phantom Force": 1,
+   "Shadow Sneak": 1,
+   "Shadow Claw": 1,
+   "Protect": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "torterra": {
+  "species": "Torterra",
+  "n": 2,
+  "item": "Life Orb",
+  "ability": "Shell Armor",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 11,
+   "def": 15,
+   "spa": 0,
+   "spd": 0,
+   "spe": 8
+  },
+  "nEV": 2,
+  "moves": [
+   "Earthquake",
+   "Wood Hammer",
+   "Headlong Rush",
+   "Wide Guard"
+  ],
+  "moveFreq": {
+   "Earthquake": 2,
+   "Wood Hammer": 2,
+   "Headlong Rush": 2,
+   "Wide Guard": 2
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "bellibolt": {
+  "species": "Bellibolt",
+  "n": 3,
+  "item": "Leftovers",
+  "ability": "Electromorphosis",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 1,
+   "spa": 32,
+   "spd": 1,
+   "spe": 0
+  },
+  "nEV": 3,
+  "moves": [
+   "Protect",
+   "Parabolic Charge",
+   "Thunderbolt",
+   "Muddy Water"
+  ],
+  "moveFreq": {
+   "Protect": 3,
+   "Parabolic Charge": 3,
+   "Thunderbolt": 3,
+   "Muddy Water": 2,
+   "Soak": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "vivillon": {
+  "species": "Vivillon",
+  "n": 3,
+  "item": "Focus Sash",
+  "ability": "Compound Eyes",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 9,
+   "spa": 25,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Sleep Powder",
+   "Rage Powder",
+   "Hurricane",
+   "Protect"
+  ],
+  "moveFreq": {
+   "Sleep Powder": 3,
+   "Rage Powder": 3,
+   "Hurricane": 3,
+   "Protect": 3
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "lopunny": {
+  "species": "Lopunny",
+  "item": "Lopunnite",
+  "ability": "Limber",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Close Combat",
+   "Triple Axel",
+   "Thunder Punch",
+   "Fake Out"
+  ],
+  "n": 1,
+  "moveFreq": {},
+  "nEV": 0,
+  "source": "Limitless/VGCPastes top-40"
+ },
+ "grapploct": {
+  "species": "Grapploct",
+  "n": 2,
+  "item": "Life Orb",
+  "ability": "Technician",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "nEV": 2,
+  "moves": [
+   "Storm Throw",
+   "Stomping Tantrum",
+   "Mach Punch",
+   "Detect"
+  ],
+  "moveFreq": {
+   "Storm Throw": 2,
+   "Stomping Tantrum": 1,
+   "Mach Punch": 1,
+   "Detect": 1,
+   "Sucker Punch": 1,
+   "Bulk Up": 1,
+   "Protect": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ },
+ "rotomheat": {
+  "species": "Rotom-Heat",
+  "n": 2,
+  "item": "Choice Scarf",
+  "ability": "Levitate",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "nEV": 2,
+  "moves": [
+   "Overheat",
+   "Electroweb",
+   "Discharge",
+   "Trick"
+  ],
+  "moveFreq": {
+   "Overheat": 2,
+   "Electroweb": 2,
+   "Discharge": 1,
+   "Trick": 1,
+   "Thunderbolt": 1,
+   "Will-O-Wisp": 1
+  },
+  "source": "VGCPastes live (Champions M-C)"
+ }
+}

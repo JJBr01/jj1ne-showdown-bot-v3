@@ -1,0 +1,251 @@
+[00:00:00:41 - 00:00:13:13]
+Speaker 1
+ Hello everybody, for the final Patreon video this month, we are doing Wolf's Guide to Speed Control, which is a topic that I think has been suggested a fair few times, but this is the first time it's won. So that's exciting. Congratulations to Wolf's
+
+[00:00:14:20 - 00:00:53:47]
+Speaker 1
+ Guide to Speed Control, we're very happy for you. I have some notes here on my screen, you aren't able to see them, but if I'm looking at the screen, then now you know why. So let's talk about speed control. The first thing I want to say when it comes to speed control is that speed control is arguably one of the two most important things that it comes to when building a good team. In fact, as any of you in the champion tier have probably noted, the first two things that I look for when I am looking at how good a team is, or notes to improve a team, is number one, how much speed control it has, and number two, how much damage it's able to deal. We're not talking about the second one here, we're talking about speed control here,
+
+[00:00:55:07 - 00:01:03:52]
+Speaker 1
+ but it's arguably the basest in my mind of team building in many ways. It's not the only thing that matters, but it's one of the most important factors.
+
+[00:01:04:55 - 00:01:18:16]
+Speaker 1
+ I think that people in general misunderstand what speed control means. I think that a lot of people tend to think of speed control almost exclusively as moves like Tailwind and Trick Room, and they don't really consider other avenues of speed control, other more
+
+[00:01:19:19 - 00:01:37:31]
+Speaker 1
+ niche things or other more specific things. In general, I think that it's not that well understood. I think that people are like, "Oh, I have Tailwind on my team, therefore I have speed control." But actually, just having Tailwind might not be enough, or it actually might not be helpful, it might not even count as speed control really all that much. So, yeah.
+
+[00:01:39:18 - 00:02:01:08]
+Speaker 1
+ Let's set a definition here. What do I mean when I say you need to have good speed control on your team? What I mean effectively is that you need ways for your Pokémon to be moving before your opponent can move. That to me is the basis of speed control. It's what I mean when I say speed control. Speed control is a way of making your team move before your opponent's. And when you think about it in that context, it becomes a bit more broad.
+
+[00:02:02:38 - 00:02:55:44]
+Speaker 1
+ Moves that you might not have considered before, attributes you might not have considered before, are still factored into speed control because ultimately, what is the goal of a move like Tailwind or Trick Room, right? The goal is for your Pokémon to be moving before your opponent's. That might bring up a question, which is why? Who cares? Who cares who moves first? And this is something that I think is not so obvious, but I learned myself and I think it's really useful to know. The player who moves first in Pokémon has an enormous advantage. You can think about this pretty simply. Imagine you're facing off against a Pelipper and you have an Amoongus, right? If the Pelipper goes for Hurricane and you survive, then that's great. You get to go for a Spore, right? But if the Pelipper moves first, let's say Trick Room isn't up and the Pelipper goes for Hurricane, you could get confused. And then if you get confused, you could fail to attack and that could cost you the game. Or you could get critical hit, right? Now imagine that Trick Room was up and your Amoongus gets to go first. Well, now you can Spore. And so by moving first,
+
+[00:02:57:07 - 00:03:07:13]
+Speaker 1
+ you're able to basically eliminate some of the luck. Now, let's say it's not Amoongus, it's Rillaboom and you want to get a Wood Hammer off, right? Their Pelipper is faster, you're in Trick Room, whatever.
+
+[00:03:08:24 - 00:03:11:33]
+Speaker 1
+ And yeah, like you really want to get a Wood Hammer off.
+
+[00:03:12:35 - 00:04:19:15]
+Speaker 1
+ And let's say the Hurricane is going to create you no matter what, the Pelipper is at Focus Ash. Then you might think, okay, well, it doesn't really matter, right? Like, you know, it doesn't really matter if I'm moving first, they're moving first. But the other reason why speed control is important is because if Trick Room is up in this situation and you go for Wood Hammer, you're able to get your attack off before you get hit, before you get crit, meaning your Rillaboom still contributed something on this turn. Whereas if the Pelipper moves first outside of Trick Room and Hurricane critical hits you or you know, it's confusion to self hit, then you don't get any damage off for this turn. So if your Pokémon is going to go down anyway, then you would rather attack for the turn first, right? This can also matter in situations where like, you know, you have Draco Meteor Mira Eydon, they have Draco Meteor Mira Eydon as well, nobody can Tara, right? In this situation, often the Pokémon who moves first is the one who just wins because each Pokémon is capable of KOing the other one. And so yeah, like moving first is a really, really big deal. So by focusing on speed control, when it comes to building your team, you're able to eliminate a lot of the negative variants when it comes to Pokémon. Even an even easier way to understand this is like, okay, the move Rock Slide, which hasn't been as prevalent in recent years, but those of us who played back in the day are probably have some some trauma from that move.
+
+[00:04:20:47 - 00:04:30:55]
+Speaker 1
+ But if you think about it, you know, Rock Slide is a move that says, hey, it has a chance to flinch, you can think about this with like Iron Head or any any move that can flinch, right? If you've already attacked for the turn, then you can't get flinched. Otherwise, you're rolling the dice.
+
+[00:04:32:04 - 00:04:38:27]
+Speaker 1
+ So for all these reasons, and several more, it's really, really important to try and move before your opponents can attack it only helps you.
+
+[00:04:40:06 - 00:05:24:25]
+Speaker 1
+ Like being faster can hurt you inside of trick room, but moving before your opponents can attack very, very, very, very valuable tool. And a really good, it's a really good thing to focus on when you're building your team. I actually think this is one of the main ways that I've been able to really be consistent over the last couple of years is that I've just started prioritizing speed control from the start, like it's something that I really think is important. And so it just means that I have a little bit of insurance against bad luck, because yeah, my Pokemon are attacking in situations when otherwise they wouldn't be often, right? Or where bad luck could prevent them from attacking often. So let's talk about good forms of speed control, right? Let's talk about what good forms of speed control do, like just generally, right? Good forms of speed control allow your Pokemon to move before your opponent Pokemon.
+
+[00:05:25:30 - 00:05:35:52]
+Speaker 1
+ That's the first condition. And the second condition is that they're consistent, they're easy to apply in a battle. So what's an example? Like what's a bad speed control move? I wish I had pulled up that actually.
+
+[00:05:37:06 - 00:06:14:43]
+Speaker 1
+ Let's say you have a swamp, you have a pledge team, right? Then, and you're like, okay, like, yeah, like I have the swamp, the swamp is really strong, I get it up, and then I have speed control, right? Well maybe it's like a format where Premierina isn't very good, and Premierina is your only water pledge user, and your only grass pledge user is Rillaboom. Then in this kind of format, it would be kind of difficult to set up the swamp, because if anything happens to either Premierina or Rillaboom, and that's your only form of speed control, then like you just have no speed control, right? Whereas if you think about a Pokémon like Whimsicott, who has the prankster tailwind, the prankster ability to move tailwind, it's really difficult to stop Whimsicott from setting up tailwind. It's like borderline impossible without a prankster-tomp Pokémon of your own.
+
+[00:06:15:45 - 00:06:22:06]
+Speaker 1
+ And so that's part of the reason why Whimsicott is the most used tailwind setter right now, is because it's really consistent at getting it up.
+
+[00:06:23:45 - 00:06:44:22]
+Speaker 1
+ Okay, let's talk about some different moves that can apply speed control. There's obviously the most common ones like tailwind and trickeroom. These are some of the most famous forms of speed control, because number one, they only require one move. Number two, they last for multiple turns, tailwind lasting for four turns, trigger lasting for five. They effectively both last for four, because tailwind applies its benefit immediately, whereas trickeroom you wait till the next turn.
+
+[00:06:45:46 - 00:07:21:30]
+Speaker 1
+ But in general, like yeah, they each last for effectively four turns. You can say three and a half for tailwind, because one of your Pokémon has actually set tailwind up. So these are long lasting effects that last for multiple turns in the battle, that you only need to commit one move to getting up. So they're very, very good forms of speed control. Another thing that people don't consider though, is priority moves. Priority moves are a really good form of speed control. These are moves like extreme speed, aquajet, grassy glide, mock punch. And I personally count fakeout as a half point, because even though it's not always active, when it is active, it's very helpful, and it can help you reposition, and it can move before faster Pokémon as well. So these priority moves are actually very valuable,
+
+[00:07:22:40 - 00:08:31:00]
+Speaker 1
+ because the thing that you have to keep in mind is that in Pokémon, your Pokémon don't get weaker as they lose HP, unless it's our Kops, right? Like a Pokémon with 100% HP and a Pokémon with 1% HP are going to be doing the same amount of damage, all other factors being equal, right? And because of that, like a Pokémon with low HP that's really strong, such as like a low HP Choridon or Calyrex Shadow Ramioridon, these Pokémon are still capable of running away with the game, even if they only have a sliver of HP left, right? And with priority moves, you give yourself a tool to not only finish off these low HP Pokémon, but also in other circumstances to combo with one of your faster Pokémon. Like maybe you need to take out a Focus-Pokomon, or maybe you need to take out a really bulky Pokémon that you need both attacks to commit to. By having priority moves, you have another way of moving before your opponent, which is what speed control is all about. So I really like priority moves, and I think they're a really underrated form of speed control. There are also moves that are like, affecting the speed of the battle, but perhaps they are a little bit less impactful to moves like Trick'em or Tailwind. I'm talking mostly about moves like Icy Wind, Thunder Wave, Electro-Web, kind of these category of moves, which I think are quite strong. The reason why we don't see more of these is that really for them to be effective, they need to be used in
+
+[00:08:32:00 - 00:08:33:38]
+Speaker 1
+ specific circumstances.
+
+[00:08:35:28 - 00:09:19:10]
+Speaker 1
+ Using a move like Icy Wind or Thunder Wave or Electro-Web, you really want your partner to immediately benefit, right? You want to be able to use Thunder Wave, the partner is now slower, or whatever your hit is now slower, then your partner can immediately take advantage of that. So for moves like Thunder Wave, you're pretty much only seeing this kind of move on a prankster Pokemon, and this is part of the reason why if you were to use like, I don't know, Cling Clang, it wouldn't be a great Thunder Wave user because it's too slow to really make use of it, right? And this is also part of the reason why we almost exclusively see the move Icy Wind or Electro-Web on very fast Pokemon, or very tanky Pokemon. Back in the day, Cresselia was a really good user of Icy Wind because you could protect your partner, Icy Wind, and because Cresselia was so tanky, as long as you didn't hit into a protect, it was still very valuable. Nowadays, we don't have Cresselia really used
+
+[00:09:20:49 - 00:10:08:47]
+Speaker 1
+ much anymore, but what we do have is Raging Bolt, who will occasionally run moves like Electro-Web, which function in a similar vein. I don't think this is as effective though as the main way that Icy Wind and Electro-Web are used, which is on very fast Pokemon. Pokemon like Raging, nope, Fluttermane, Iron Bundle, and Regialucky can all use these fast speed control moves that do damage to not only break focus ashes, but immediately apply the benefits so that the partner can take advantage. These moves in general, in my opinion, are a little bit weaker than moves like Tailwind and Trick Room. Icy Wind in particular, like if the opponent touches out, they remove all their stat drops, so it's nullified. Thunderwave is not 100% accurate, and actually if you're using Prankster, which most Thunderwave users are, it's immune. Electro-types can't be paralyzed, ground types can't be paralyzed, and dark types are immune to Prankster, so it's not as effective as it used to be when only ground types were immune back in the day.
+
+[00:10:11:15 - 00:10:28:12]
+Speaker 1
+ Anyway, these moves are still valuable, they shouldn't ever be your only form of speed control, but they can be really useful. I just used Icy Wind this past weekend to win a tournament with Fluttermane, in which case it was really good in that specific circumstance, but it also wasn't my only type of speed control. But yeah, I think these moves are good, I think you should consider them, but they're
+
+[00:10:29:28 - 00:11:10:45]
+Speaker 1
+ definitely a tier below moves like Tailwind and Trick Room, and personally, I would put Tailwind, Trick Room, and Priority moves. Tailwind, Trick Room are definitely S tier of speed control, A tier, Priority moves, B tier speed control moves, I'm also putting setup moves in this category as well. These are moves like Quiver Dance, Agility isn't really used, Dragon Dance, any move that boosts your stats and specifically your speed, these moves can be good as well, you're often using them because they also raise one of your offensive stats, like the examples that I just gave, but they also raise your speed stat oftentimes as well, and that can be really helpful too. So I think setup moves are also pretty decent as well. I put them about as good as Icy Wind and Thunder Wave in terms of how impactfully are speed control moves, but yeah, still very good.
+
+[00:11:12:36 - 00:11:27:27]
+Speaker 1
+ Similar problems to moves like Icy Wind and Thunder Wave in the sense that you're setting up one Pokémon and so if that Pokémon is to switch or if it faints you lose all your speed control, unlike moves like Tailwind or Trick Room, and you also need to attack before pulling them off, whereas Priority moves you can just set up the Pokémon and have access to it immediately.
+
+[00:11:28:47 - 00:11:28:49]
+Speaker 1
+ When
+
+[00:11:30:20 - 00:12:22:34]
+Speaker 1
+ it comes to Priority moves, something that I should mention by the way is that not all forms of Priority moves are offense moves, but that doesn't mean they still kind of count even if they're not offensive moves, like moves like Follow Me and Rage Powder are still ways of moving before your opponent even though they're not doing damage and those still are useful. The last thing that I want to say before we go into some examples, because I thought that would be helpful for this type of video, is that one thing that I always prioritize and I think is personally very, very important is speed control when there's no speed control, by which I mostly mean Pokémon that are naturally extremely fast, because oftentimes, especially towards the end of the battle, early on in the battle players will be focusing really heavily around their speed control to gain an advantage, but at the end of the battle you're often in a position where neither player has speed control left, the Tailwinds expire, the Trick Room's expire, like Icy Wind User's dead because it's frail, right?
+
+[00:12:23:44 - 00:12:40:21]
+Speaker 1
+ And so for me personally I always try to have at least one if not two Pokémon with very high base speed on my teams and so that if it gets to the end of the battle I have a Pokémon that I can rely on to outspeed my opponent's Pokémon, assuming that we all have stalled out our speed control. So even though it's not a
+
+[00:12:41:46 - 00:13:00:43]
+Speaker 1
+ move or whatever, having a Pokémon that's naturally very fast that can naturally outspeed your opponent is another really good form of speed control. Cool, I would have to pause for questions, but I'm not going to because I can't. So what I want to talk about now is a couple examples. What order do I want to go through these in?
+
+[00:13:02:28 - 00:13:10:10]
+Speaker 1
+ Let's start with the Player's Cup 2 team. So this is a team from Sword and Shield that I think is really interesting because this team meets my principles without having many
+
+[00:13:11:22 - 00:13:27:31]
+Speaker 1
+ real forms of explicit speed control. So here are the six Pokémon, it's Galarian, Maltrace, Incineroar, Dragapult, Urshifu Water, Colossal, and Rillaboom. And if you look at this team, the first thing you notice is that there's no Tailwind, Galarian, Maltrace is a nasty plot, it doesn't have Tailwind, and there's no Trick Room. Dragapult doesn't learn Trick Room.
+
+[00:13:29:01 - 00:13:51:09]
+Speaker 1
+ So you might think, wow, this team has no speed control if you hadn't just been watching this video, but in actuality this team was really effective because it was great at moving before the opponent, and as you look deeper, you will see some things that kind of emphasize that. So Maltrace had some soft speed control by being able to go max flying, which turned Air Slash into max Airstream, which raises the speed of both Pokémon. Maltrace was also in a nice middling speed
+
+[00:13:52:53 - 00:14:24:02]
+Speaker 1
+ tier, where it was faster than a lot of Pokémon, but it was also slow enough that it could work inside of Trick Room against faster Pokémon if they had a really wide range of speeds in their team. Incineroar gets a half point for having Fake Out, that's a priority move. Dragapult naturally extremely fast with a tied base speed, so that was really effective at moving before the opponent. Urshifu had the access to Aqua Jet, a priority move. Colossal had the Steam Engine ability, which would allow it to become the fastest Pokémon in the game, by multiplying its speed by 4, being at plus 6.
+
+[00:14:25:21 - 00:14:46:43]
+Speaker 1
+ So that was actually really effective out of speeding Pokémon, and then the Rillaboom also had Grassy Glide and Fake Out. So in Vacuumoo you might say, "Wow, there's no speed control," but as you look a little bit deeper, you see that there's a lot. And one thing that I really liked about this team, and one thing that I try to prioritize, it's relevant in this video, it's not explicitly a form of speed control, but you don't want Pokémon speed stats to be clustered.
+
+[00:14:48:02 - 00:14:56:30]
+Speaker 1
+ I wish I had this team still, I lost all my teams, so I don't have this one with the stats pulled up easily, but if you look at this team, I think it's around 55-60 speed, around 80 speed,
+
+[00:14:58:03 - 00:14:58:19]
+Speaker 1
+ 149,
+
+[00:14:59:37 - 00:15:28:50]
+Speaker 1
+ 142 maybe, and then 213 or 204, whatever, like fast dragapult, right? And basically the reason that probably was very unintelligible, what I'm trying to say is that all of the Pokémon on this team are spaced out well from each other, which is a really nice thing you can do on your team. It's something that I try to do when I can, it's not always possible. Basically, you don't want your Pokémon all clustered around one speed stat. Like if you showed me a team with a bunch of Pokémon that were all like 205 speed stat, I'd be like, "Oh, that makes me really nervous," because it means that in Trick Room your team is kind of hosed.
+
+[00:15:29:58 - 00:16:06:04]
+Speaker 1
+ And it also means that if, let's pretend that all these Pokémon were like 150 speed stat, right? And that meant that if my opponent had a single Pokémon faster than like 151 or whatever, they would outspeed my entire team. And so I would just be really limited in my tools. Whereas by spacing out your Pokémon, you're able to have different Pokémon be good in a variety of different speed situations. And so I think this team actually, despite not having really any explicit speed control, I was part of the reason I was able to win is because it was actually really effective at moving before the opponent with all the priority moves, the steam engine ability, the naturally high base speed, and then the max air stream as an option as well.
+
+[00:16:08:31 - 00:16:42:00]
+Speaker 1
+ Yes, cool. So moving on, let's talk about Scarlet and Violet, which is something that y'all are more familiar with. Let's talk about this Parash Trap team. And let's just go through the Pokémon and look at the different principles. So first of all, we have Screamtail Booster Energy. This is Booster Energy Speed, which allowed it to basically outspeed every Pokémon in the game, including many Pokémon holding Choice Scarf items, and move before them. So this was kind of my like, if there's no speed control, my Screamtail is the fastest thing in the game, very effective. Then we have Jet Punch Palafin, one of the strongest priority users at the time, especially with the Mystic Water and the Terra Water. I can't believe they don't show the Terra Types here. That's really stupid, in my opinion.
+
+[00:16:43:10 - 00:17:12:05]
+Speaker 1
+ So yeah, we have Mystic Water Palafin, which has the ability to do huge damage and outspeed majority of the other Pokémon, or like, yeah, with Jet Punch outspeed to everything else that isn't using a priority move. We also have Extreme Student Arcanine, who was also decently fast, so it was like in that nice mid-link speed tier. I think this was around 156-ish, if I remember correctly. It might have been a little bit slower, maybe 140-something, but yeah, like still pretty fast and also had access to a priority move. Then we have Fluttermane, who at the time was the fastest Pokémon out of anything not using an item to boost its speed.
+
+[00:17:13:48 - 00:17:57:23]
+Speaker 1
+ Also with the Focus Hash for a little bit of survivability, but yeah, pretty fast. Then we have Amoongas, who had Rage Powder for another form of priority, and Gothitel with Fake Out is another form of priority as well. This team had a couple fast Pokémon in Screamtail, Arcanine, and Fluttermane, but it also had some really good Pokémon against Trick Room teams in Amoongas and Gothitel here, and so it was actually really effective at moving before the opponent. I hope that this is helpful in seeing the different ways that these different concepts like conceptually apply to actual teams that I used to win. The next tournament I won, I believe, was this one, Charlotte Regionals, unless I'm forgetting. That's probably it. This team was really great when it came to speed control. This is one of the ones that just every Pokémon was just so threatening and so fast. Again,
+
+[00:17:58:34 - 00:18:01:57]
+Speaker 1
+ it could be interesting to compare one of these teams to maybe a team that you felt that
+
+[00:18:03:00 - 00:18:16:51]
+Speaker 1
+ wasn't holding up as well and see how the different types of speed control vary. See if you have more or less speed control than these teams that I'm showing you. Let's talk about this Charlotte team. This is Regulation F, which
+
+[00:18:18:03 - 00:18:19:06]
+Speaker 1
+ is the first one post.
+
+[00:18:20:55 - 00:18:45:35]
+Speaker 1
+ This is Regulation E, this is the first one post world. Basically, this added the first DLC set up Pokémon, mostly just added Ursulina Blood Moon and then Ogre Pond. On this team, we have Choice Scarf Urshifu, very, very effective. Outsped everything in the game, basically. We have Fakout and Incineroar. We have Fluttermane with a speed booster energy, outspeding even other Choice Scarf Urshifu. We have Trick Room for a graph with the Armortail ability to help like...
+
+[00:18:47:24 - 00:18:57:08]
+Speaker 1
+ Armortail is kind of a form of speed control because, again, speed control is about moving before your opponent and Armortail stops your opponent's priority moves, stopping one of their ways of moving before you.
+
+[00:18:58:10 - 00:19:34:28]
+Speaker 1
+ Then we have Grassy Glide Ogre Pond as the second priority attack and Grassy Glide Fakout on Rillaboom. So if we look at this team, we see that every single Pokémon has some tool when it comes to moving before the opponent, whether it's a held item boosting at speed, priority move, an explicit speed control move, a fast-paced speed, and a bind of that boosted speed, or priority moves. Everything on this team is a way of moving before the opponent. Here as well, every single Pokémon on this team, and I think every single Pokémon on this team, has some tool that allows it to move before opponents, every single one of them. Which is pretty crazy, right? I would guess that that's not the norm for most players, but this is a big part of why I've been able to have so much success.
+
+[00:19:35:36 - 00:20:13:37]
+Speaker 1
+ Now we can talk about... Wait, what's this? Yeah, I had these in the wrong order. Now we can look at the Toronto team. This team is a little bit less explicit speed control because it's a different type of team that breaks some of the rules, but even on a team like this that's breaking the rules, there's still decent amounts of speed control. Polytoad, no speed control. Bad. But it's not like every Pokémon on your team needs to have some kind of speed control. It's just that I tend to really favor teams with heavy investment in speed control. But then we have Kingdra, whose Swift Swim ability lets it outspeed everything. It was super fast, it outsped basically everything, and Polytoad enabled that. So that's one form of speed control. This was Timid Archaledon. So it was outspeeding actually a huge portion of the field because
+
+[00:20:15:39 - 00:20:25:24]
+Speaker 1
+ a lot of Pokémon in Regulation H, where this team was built and we're at one, were really slow. So even though Archaledon isn't naturally having any speed control and it also isn't
+
+[00:20:26:25 - 00:20:40:17]
+Speaker 1
+ naturally that fast, in this specific format it was actually pretty decent and outsped a lot of Pokémon. We have Fakeout and Incinero once again. We have Ragepowder and Amoogus once again. And this Golfetal has not only Fakeout but also Trickerum to turn the battle on its head and take advantage of
+
+[00:20:42:16 - 00:21:03:30]
+Speaker 1
+ faster Pokémon and enable the slower Pokémon on this team even more. So even on a Parastrap team, a team that traditionally breaks a lot of the rules of teambuilding, we are still following these principles. Which just leads us to my most recent win, the win in EUIC from this past weekend. And once again, we can see a lot of these principles at work. We have Icy Win on Speed Booster Energy Fluttermain.
+
+[00:21:04:41 - 00:21:19:33]
+Speaker 1
+ Pretty fast Pokémon that's able to control the speed of the battle. Golfetals Fakeout, half a point for that. Screamtail with Booster Energy once again, super, super fast outspeeds any Pokémon in the format not holding an item that boosted speed. Very, very, very effective at outspeeding that.
+
+[00:21:20:54 - 00:21:38:54]
+Speaker 1
+ And yeah, like is super, super fast, has moves that can punish the opponent and disrupt them because it's able to move first. And Cinnuror once again has Fakeout, Amoogus once again has Ragepowder, and Coridon is not only extremely fast, being that magical 205 number, but can actually manually boost its speed with a setup move and flame charge. So
+
+[00:21:40:17 - 00:22:02:58]
+Speaker 1
+ as you can see on this team once again, every Pokémon has some way of moving before the opponent, like moving out of turn order or just being naturally very, very fast. And I think that if you look at more of my successful teams and if you like, you would see more of this trend. And if you were look at, you know, teams of mine that were less successful, perhaps you would find that they follow this trend less well. And it's not like just having good speed control will win you the it'll just like automatically win you
+
+[00:22:04:04 - 00:22:14:05]
+Speaker 1
+ the tournament. I'm not saying that by any means, like, for example, a team that I think actually had pretty decent speed control that didn't end up working for me or didn't end up working as well as I wanted was let me pull it up here.
+
+[00:22:16:49 - 00:22:30:48]
+Speaker 1
+ One second, my world's team, actually, we can look at my world's team, which in many ways had good speed control. You can see Tim and Max speed Shadow Rider. You can see Aqua Jet Urshafoo. You can see Thunderclap Raging Bolt. You can see this isn't my team. Hang on.
+
+[00:22:31:49 - 00:22:33:17]
+Speaker 1
+ These are my Pokémon, but this isn't my team.
+
+[00:22:34:35 - 00:22:37:39]
+Speaker 1
+ I don't know. It must be some recreation we were using to test.
+
+[00:22:38:49 - 00:22:46:10]
+Speaker 1
+ Where's my world's team? Wait, I don't even have one on this computer. I lost all my teams. Oh, wait, hang on. Where where is it?
+
+[00:22:47:41 - 00:22:48:03]
+Speaker 1
+ Well,
+
+[00:22:49:40 - 00:23:09:37]
+Speaker 1
+ oh, wait, where's Frigarath? I didn't have a Moongus. Oh, whatever. Well, OK, we can just talk about it anyway. Like I had Shadow Rider Max speed. I had Raging Bolt with Thunderclap. I had Rillaboom with Grassy Glide and Fake Out. I had Instant Roast, Fake Out and Helping Hand. I had Aqua Jet Urshafoo and I had Frigarath with Trick Room. So again, I prioritized speed control pretty heavily there, but I wasn't able to win me the tournament, though the team itself was still strong.
+
+[00:23:11:34 - 00:23:12:30]
+Speaker 1
+ So
+
+[00:23:14:41 - 00:24:08:53]
+Speaker 1
+ yeah, so basically just prioritizing speed control isn't enough. It's not the only thing that will win you the game, but it makes it a lot easier to win. And I would guess that like oftentimes I really prioritized speed control. I prioritize speed control more than most of the players I know. And so that's part of the reason why I'm always, for those of you who are in the champion tier, I'm always kind of, you know, pushing y'all to make sure that you're moving first to be fast. But I really believe it's like it's a fundamental and a foundational part of the game. I think it's really, really important. And I think people don't understand just how important it is. I don't want to like go through a specific, I don't want to like dog on anybody's team. So I'm not going to go through specific examples, but I mean, I don't have any team in mind, but I'm sure if you look through EUIC, especially as you get lower down, you'll see teams that prioritize speed a little bit less. And I think that ultimately can cause problems. So anyway, that's all I wanted to say about speed control. I hope that this was helpful. Let me know if you have any feedback. And yeah, thank you for the support. And I will see you next month for more Patreon videos.Bye bye.

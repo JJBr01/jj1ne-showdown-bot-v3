@@ -1,0 +1,55 @@
+# PokePaste: Il Mule's Frankfurt Regional 2027 Top 16 Team
+Author: VGCPastes
+Source: https://pokepast.es/6ac165bfa08f50a5
+
+```
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+Jolly Nature  
+- Rock Slide  
+- Knock Off  
+- Low Kick  
+- Protect  
+
+Sneasler @ White Herb  
+Ability: Unburden  
+Adamant Nature  
+- Close Combat  
+- Coaching  
+- Dire Claw  
+- Protect  
+
+Indeedee @ Choice Scarf  
+Ability: Psychic Surge  
+Modest Nature  
+- Expanding Force  
+- Mystical Fire  
+- Trick  
+- Protect  
+
+Excadrill @ Focus Sash  
+Ability: Sand Rush  
+Adamant Nature  
+- Iron Head  
+- High Horsepower  
+- Rock Slide  
+- Protect  
+
+Salamence @ Salamencite  
+Ability: Intimidate  
+Timid Nature  
+- Draco Meteor  
+- Flamethrower  
+- Hyper Voice  
+- Protect  
+
+Corviknight @ Occa Berry  
+Ability: Mirror Armor  
+Impish Nature  
+- Brave Bird  
+- Taunt  
+- Tailwind  
+- Roost  
+
+
+```

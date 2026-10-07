@@ -1,0 +1,362 @@
+[00:00:01:08 - 00:00:11:19]
+Speaker 1
+ Ok, hello, so this is the monthly Patreon video for February, and the topic that you all voted on was how to spot the optimal move.
+
+[00:00:14:35 - 00:00:25:14]
+Speaker 1
+ You have picked the hardest topic to talk about, so thank you, thank you very much. Also let me know, it seems like this is a more popular type of monthly video than the battle video,
+
+[00:00:26:30 - 00:00:32:35]
+Speaker 1
+ so let me know if people have feedback, etc etc. Anyway,
+
+[00:00:33:49 - 00:00:57:58]
+Speaker 1
+ talking about the optimal move, this is going to be kind of difficult because number one this isn't something that doesn't really exist a lot of current dialogue about this, and just to be completely honest with you all, I think that very very very very few players play the game in a way where they are looking for and playing to the optimal move.
+
+[00:00:59:24 - 00:01:06:18]
+Speaker 1
+ I'm going to try to speak about this in a way that I think is going to make sense, and I think the first thing that we want to talk about is that
+
+[00:01:08:22 - 00:01:39:30]
+Speaker 1
+ there are kind of two predominant strategies that are the main way that people play Pokemon, and when you play Pokemon you use both of them, but most people prefer to lean into one rather than the other. To use more general terms, we're talking about here micro vs macro. Micro is what is going to happen this turn, what do I think my opponent is going to do this turn, and given that, what is the best play I can make?
+
+[00:01:40:45 - 00:01:47:43]
+Speaker 1
+ And macro is what needs to happen in this battle for me to win overall.
+
+[00:01:51:59 - 00:01:52:56]
+Speaker 1
+ Macro is
+
+[00:01:54:05 - 00:02:13:42]
+Speaker 1
+ in my opinion significantly harder. When I started out I was heavily focused on micro, this is stuff like hard reads in particular, like calling up protects, switches, calling out bad targets, all that stuff falls into the micro category in my opinion. Macro is a lot harder to conceptualize, but you get the picture, big picture stuff.
+
+[00:02:15:30 - 00:02:29:31]
+Speaker 1
+ There's actually a video somewhere else, see if I can track it down, of Nationals 2013 and the senior division I think, and it's a game where one player gets every prediction right and the other player gets every- hang on, give me a second, I'm going to try and find this, one second,
+
+[00:02:30:39 - 00:02:33:03]
+Speaker 1
+ because I think I wrote about it in VGC Guide actually.
+
+[00:02:34:49 - 00:02:36:28]
+Speaker 1
+ Battling? Where is it?
+
+[00:02:37:35 - 00:02:43:30]
+Speaker 1
+ Wait, I can probably, I don't know why I switched out, you can see this. Oh, I did it in the wrong tab, hang on, one sec. Open it up here.
+
+[00:02:45:37 - 00:02:48:41]
+Speaker 1
+ Battling? Umm...
+
+[00:02:49:51 - 00:02:53:50]
+Speaker 1
+ Game plan? Predictions maybe? Oops, that's all I wanted. Predictions?
+
+[00:02:58:44 - 00:03:00:16]
+Speaker 1
+ Ah, who wrote this? This is it.
+
+[00:03:01:58 - 00:03:04:11]
+Speaker 1
+ Aaron, I definitely wrote about this somewhere.
+
+[00:03:10:28 - 00:03:11:09]
+Speaker 1
+ No.
+
+[00:03:12:25 - 00:03:15:25]
+Speaker 1
+ Hang on. I definitely wrote about this.
+
+[00:03:18:09 - 00:03:21:01]
+Speaker 1
+ Team building? I'm only going to be in team building.
+
+[00:03:23:22 - 00:03:26:43]
+Speaker 1
+ Still the most you control items. I'm not sure I can find it folks, sorry.
+
+[00:03:28:09 - 00:03:29:23]
+Speaker 1
+ Consistency? No.
+
+[00:03:30:26 - 00:03:31:01]
+Speaker 1
+ No.
+
+[00:03:32:04 - 00:03:33:04]
+Speaker 1
+ Rise factor, metagame.
+
+[00:03:37:46 - 00:03:39:55]
+Speaker 1
+ I don't think I can find it, sorry. Umm...
+
+[00:03:42:34 - 00:03:53:58]
+Speaker 1
+ Yeah, okay. I don't think I can find it, sorry. Anyway, this has happened a couple times, it's happened to me as well, where you get every single turn wrong, like your opponent predicts you every single turn, and then you win the battle.
+
+[00:03:55:04 - 00:05:46:17]
+Speaker 1
+ One kind of easy way to conceptualize this is let's say I'm playing a team where I have Ferrothorn and my opponent has only grass moves and one Incineroar, right? And my goal is basically to say, okay, if you get to the end of the game and I've gotten rid of your Ferrothorn, it doesn't matter what else happens, like I always win. And in that situation it's kind of easy to understand the macro game plan of like, kill Incineroar, then win with Ferrothorn, right? If Incineroar goes down, I win the game, or like, it's easier for me to win the game. Umm, you probably have some experience, even if you haven't played a lot, with macro game plans, like, umm, oh, I'm using Groudon or Kyogre, I need to get rid of the opponent's Groudon slash Kyogre, whichever one I don't have, right? So you have some experience, like most people have some experience with this, the problem where it gets complicated is that, in my opinion, the way that you need to think about micro game plans, what is happening this turn, directly gets in the way of macro game plans, and vice versa. Umm, I actually used to be a prediction demon, I used to be really, really good at predictions when I first started playing, I was like, king of calling out protects and doubling the other slot, that's like where I got a lot of success in my early years. Umm, but I've actually gotten a lot worse at predictions, where nowadays I think that if you look in an average tournament at my like, prediction success rate, I think I'm below 50%, I think I miss over half of my predictions, even simple stuff, like, is this pokemon going to protect? It's an obvious protect, and I attack into it anyway. And the reason is that the way that you need to think about the game for micro, and the way that you need to think about the game for macro, are in some ways opposites, right? Where, in the micro, you're weighing what are the dynamics going on this specific turn, and how do I like, navigate those to put myself, like how do I navigate this specific turn to put myself in the, like in a winning position, whereas with macro, if you're like, oh man, this protect is so obvious, but doing like, not attacking into it, like risks my pokemon that I really need for later, I better attack into it just to be safe, right? Umm, it's kind of an easier way of understanding it. So,
+
+[00:05:47:20 - 00:06:21:07]
+Speaker 1
+ anyway, in terms of how to spot the optimal move, it's very difficult, especially because oftentimes you're working with imperfect information. The match that you see on here on your screen is the finals versus Nicholas Donnelly in Charlotte Regionals, and I want to actually, there's a match that I want to start with talking about, because I think that like, this is gonna be more useful as a focused exercise rather than as me just kind of turning on the camera and like rambling. So, let's go through game two here. So, let's just, this is a relatively short game, but I make a ton of mistakes, so I think it's actually really, um, illustrative to talk about here. So, the leads here,
+
+[00:06:22:37 - 00:06:30:21]
+Speaker 1
+ for context, the Charlotte Regionals, I am playing a micro based style. I still have my macro skills, but I'm leaning more into micro than I normally do.
+
+[00:06:31:31 - 00:07:00:30]
+Speaker 1
+ So, I'm making more aggressive predictions, and I'm getting them right more often as well, and my overall big picture understanding of the game is extremely lower than normal, because I've compensated for it by thinking about the game in a more micro way. In this turn, let's talk about the dynamics. Nick has Ogripond or Soluna Bloodmoon against Mifregrath and Ogripond. Ursula Bloodmoon can KO either Pokémon with Terra Normal Bloodmoon, it doesn't need to Terra if it wants to kill Ogripond. Nick's Ogripond can KO either Pokémon with Terra Fire Ivy Cudgel.
+
+[00:07:01:45 - 00:07:18:08]
+Speaker 1
+ Nick can protect both Pokémon to scout for a Terra or a Switch. Nick can Switch, but it doesn't make that much sense here, unless, yeah, he probably doesn't want to Switch here. Okay, so, those are kind of the dynamics from Nick's end. He can KO other Pokémon, he has the option of attacking with either, he can attack with one and protect the other. He can
+
+[00:07:19:40 - 00:07:21:38]
+Speaker 1
+ attack with one and protect the other. He can
+
+[00:07:23:50 - 00:07:59:01]
+Speaker 1
+ follow me and attack with Ursula Bloodmoon. Those are probably his best options, or he can protect one, attack with the other, and follow me, attack with Ursula Bloodmoon. But the thing about follow me is he can also go for Terra Fire follow me, because in that position, there is no way that I can take the KO if he does that. But he would be giving up his Terra, but then he would also be able to kill my, he could still kill my Ogripond. All this to say, you do not need to keep track of all that, right? I understand that that's probably a lot, maybe a little overwhelming. Don't worry about all that. What you need to know is that the more options that there are, the less likely it is that you can find one
+
+[00:08:01:12 - 00:09:43:42]
+Speaker 1
+ optimal play. Okay? I think what we say that people fall into is thinking that there's always an optimal play. And although there is always an optimal play, given you know what your opponent's going to do, you're never in that position. So, first of all, when you're thinking about spotting the optimal play, or even just a good play, one of the first things that I like to do is think about the game in the context of, the set, right? So this is game two, and in game one, we had the exact same leads, and I switched Furograph into Incineroar, and protected. Spiky Shielded, technically. So, if you're Nick, then that is the play that is the most fresh on your mind, is the switch and protect play. Spiky Shield, I'm gonna call it protect for everyone's sake. You all know what I mean. And if that's the case, then okay, something like Terrafire Follow Me suddenly looks a lot worse, right? Because if you terrify or follow me, you lose out the damage from Terranormal, and you're not getting a KO here, right? Like, because, I mean, unless you want to Earth Power the Furograph, which is way too risky, because you'd be committing to that one play. Basically, Nick has to cover the play that I made for, but he doesn't want to overcommit to it, because it wasn't that good a play, but I've shown it's an option, right? And if I just do the same thing again, then he is going to, like, yeah, he needs to keep that in mind. So, with that in mind, because I have the threat of switching into Incineroar, I don't think that Ogarpon wants to terrify her. So, if we rule out Ogarpon Terrafiring, this is just an assumption that I've made, right? And it could be wrong, but I'm going to play the rest of this turn, make my move, based on that assumption that Ogarpon is not going to Terrafire. So, remember kind of the three scenarios that we had earlier? There's Terrafire Follow Me, there's four scenarios. Terrafire Follow Me, non-terrafire Follow Me, and attack, both cases attack with Ursuluna. Terranormal attack with Ursuluna, spiky shield with Ogarpon, protect Ursuluna.
+
+[00:09:45:34 - 00:12:29:53]
+Speaker 1
+ I've been cudgel, terrafire, I've been cudgel with Ogarpon. Two of those are now ruled out, and that is the terrafire attack and the terrafire spiky shield. If terrafire attack with Ogarpon, protect Ursuluna, terrafire follow me, attack with Ursuluna. Those options, if we think that it's not going to terrafire because the Incineroar are now ruled out. So, now instead of covering for four very different game plans where either Pokemon can protect, now we only have to cover for two, which is Ursuluna attack, Ogarpon follow me, Ursuluna attack, and Ogarpon spiky shield. Does this all make sense so far? This is an assumption, so this is not safe by any means, but I'm making the soft prediction that Nick isn't going to terrafire Ogarpon because of the context of game one. So, with that in mind, if we think that Nick's two plays here are, and he doesn't want a spiky shield and protect because if Incineroar switches in that, that puts him on the back foot because it eliminates the play that he can do go for the next turn, right? And take out terrafire follow, because you're going to Ogarpon becomes super safe even with Fourier F-switch in. So, Nick is either going to, I think that in this position Nick either has to go for follow me and attack with Ursuluna and terra, or attack with Ursuluna spiky shield with Ogarpon. So, with that in mind, you can probably see that on my end, the best micro play given that is to go after the Ursuluna with terrafire IV cudgel. It is the biggest, macro wise, here's why. It is the biggest overall threat to my team, and it's doing the most damage. So, I need to get rid of because I have no resistances. So, from a macro angle, the optimal, not the optimal play, but the thing that I need to do, big picture is get rid of the stupid Ursuluna, right? So, I want to go for terrafire IV cudgel here, right? And attack into the Ursuluna. Now, the only way that this goes badly is if Ursuluna protects basically, or if it's terrafire follow me, we are assuming that it's not going to do either of those things. With FURIGERAF, I could protect, but I think that it's somewhat likely that the Ursuluna just bloodmoons into the Ogarpon, and if I'm terrifying here, and I think that I'm going to either KO the Ursuluna or KO the Ogarpon, then I can actually use this opportunity to push even more damage forward, where the, like, basically, if I KO, let's say they go for follow me and attack here, and I go for terrafire IV cudgel and hyper voice or psychic, then if they KO my FURIGERAF, then, like, with terranormal bloodmoon, then, okay, that's not great, and I would have rather protected, but that's kind of risky from next end, number one. And number two, I've still, like, gained the speed advantage, because now I can go into Urshifu in the back, and there's no real good counterplay to my close combat into the Ursuluna bloodmoon. Like, there's not really anything that they can do in that spot to avoid the close combat. So, I decide, basically, with that in mind, that although, like, I could need a hyper voice, I think that that's actually fine, because I need damage on the Ursuluna bloodmoon, because that's, again, the goal. And even if they take out the FURIGERAF in a worst case scenario, like, it's not so bad for me, because I still have this, like, now I've gotten rid of the follow me user, and I have the speed advantage, because my Pokémon are faster than their Pokémon.
+
+[00:12:32:01 - 00:13:09:18]
+Speaker 1
+ Cool. So, this is all what's going on in turn one. So, let's just recap here. First, I identified the plays that the opponent could go for that would be the most threatening to me, which are Protect with both to scout for Terra, follow me attack, Terra Fire follow me attack, Spiky Shield and Attack with Ursuluna, Protect and Terrify I V Kudgel. We ruled out three of those, because we knew the threat of Incinero was switching in, was on my opponent's mind. Then we decided what the best play was, given that assumption, which was to go after the Ursuluna, because it is not likely to protect here, given our assumptions, and because it's the biggest overall threat to the team. And then with Frigraff, we said, okay, well, like, in a worst case scenario, where Frigraff goes down, it's actually not that bad for us. And,
+
+[00:13:10:30 - 00:14:56:38]
+Speaker 1
+ yeah, like, we have the opportunity to gain it to the ground here. So, now that we've covered all that, let's see how the turn plays out. First of all, I Terra, I'm going to skip the Terra animations. Second of all, Nick Terras is Ursuluna to normal. So, at this point, we know that the play is, like, not bad, because we attacked into that slot. Follow me comes out, and this actually isn't so bad, because Ogripond is actually one of the more threatening Pokémon, because it's follow me, prevents us from just running away with the game. With Ursuluna's close combat. So, Ogripond goes down on one hit, knowing this calc helps, knowing that I one shot the Ogripond, and that I do 90% to the Ursuluna is very helpful here. Ursuluna goes for Hyper Voice. So, Protect would have been okay, because we would have kept Frigraff healthy, but, like, it's not that necessary here, I think. We tanked a hit here, and, as you'll see, Hyper Voice comes out and does a critical hit, leaving Ursuluna with about one HP left. So, in many ways, this turn went about as well as it could have. Right? Like, we took out a Pokémon, we still have all four of our Pokémon, we've nearly knocked out a second Pokémon, as Urjuku comes out. So, this is the point in the battle where I'm going to start playing extremely, extremely badly. Um, I wanted to highlight this battle because I think that there is now optimal moves from this point forward to guaranteed win the game. Probably. Okay? Maybe not guaranteed, but, like, realistically win the game. So, and the reason I miss them, by the way, is because I'm in Micro Mode. I also am curious to see how quickly it took me to lock in here, because I just completely missed the optimal moves here. So, in this position, you can see all the HP bars. Ursuluna, Urjuku, Ograpon, Frigraff, they can't use Sucker Punch because Armor Tail's on the field, neither is Kintara. In this position, my opponent is quickly running out of health, right? Like, they've got the Ursuluna with one HP, they've got the Urjuku with full HP, but they're already down a Mon. Ograpon is the fastest thing on the field, which means it's threatening either a KO into the Ursuluna, or to bring Urjuku down to Sash, which would be extremely devastating.
+
+[00:14:57:56 - 00:16:21:35]
+Speaker 1
+ What complicates... So, basically, my initial play here is to go for Ivy Kudjil into the Urjuku, because it can't... It's the only single target, right? And Hyper Voice into the both, right? Because in that situation, if they protect... Sorry, because that way, if Urjuku attacks, they bring it to the Sash, and in theory, if Ursuluna attacks, then it feints to Life Orb Recoil. That's my first instinct. Then I get ahead of myself, and I think, well, like, what if the Urjuku... What if I go for Ivy Kudjil into Urjuku, it detects, and then Hyper Voice kills both, and I lose both Pokemon. And now I think to myself, "Oh, it's a read. I'm gonna call that they're gonna go for Detect and Hyper Voice here, making the wrong play." Now, I want you to think about this position and see if you can spot the optimal play here. We're gonna assume that their last Pokemon is F R E G R A F, by the way. Assume that they have Citrus Berry Dazzling Lane F R E G R A F in the back, and I have Urjuku and Incineroar in the back, Scarf Urjuku, etc. So, pause the video if you want to think about it, because I've thought about this, and I think I see the optimal play here. Finding the optimal play here, we have to think about the big picture, right? Which is that once Ursa Luna knocks itself out with Life Orb, their only remaining offense is Urjuku and F R E G R A F who can't do any damage. Both of whom are really terrible against Incineroar. Well, Incineroar, it's not terrible against, but like, it's like Urjuku water's really good there since they only have Dazzling Lane, and Incineroar's Intimidate is actually kind of valuable because you can turn off, like, you force a helping hand to get the KO with Close Combat. So, basically once Ursa Luna goes down, then the remaining offense is basically non-existent.
+
+[00:16:23:26 - 00:16:43:13]
+Speaker 1
+ But you don't want to give up Pokemon too quickly, because then you can open yourself up to losing to helping hand Close Combat KO the Incineroar, like, if I lose both Pokemon this turn, right? Then their Urjuku could still be kind of dangerous. Like, if I attack with both, they detect Urjuku when they kill both, then I'm actually in kind of a losing position, even though it's 2-2, because it just gets kind of messy, because they can KO Incineroar in one hit, and I can't use Fake Out because of Armor Tail.
+
+[00:16:44:16 - 00:16:52:00]
+Speaker 1
+ That being said, we need to think about the big picture. The goals here are Knock Out Ursaluna and bring Urjuku to focus hash, if those two conditions happen, we win the game.
+
+[00:16:53:35 - 00:17:01:20]
+Speaker 1
+ So, the threat here is that it feels like a 50-50, they can protect one and attack with the other, and getting it wrong means I lose a lot of ground. Spoiler alert, that's what happens.
+
+[00:17:02:21 - 00:17:25:05]
+Speaker 1
+ Here, the optimal play is to protect Ferrigoraph and Ivy Cudgel the Urshifu. This probably seems like a strange play, because protecting in front of an Urshifu who is most likely going to get a wicked lip blow that spot feels very bad. However, let's think through the options here. Remember, the goal is to bring Ursaluna down to focus hash, or to bring Urshifu down to focus hash and to KO the Ursaluna in some way, right?
+
+[00:17:26:19 - 00:17:43:31]
+Speaker 1
+ There are kind of three, I don't know how many players think that they go for. They can protect Ursaluna, they can attack with Urshifu, or they can protect Urshifu and attack with Ursaluna, or they can protect both. Or they can switch, but it becomes very risky, in my opinion. But they could switch as well, but it's very, very risky to switch here. It doesn't really gain them that much ground, actually.
+
+[00:17:44:43 - 00:17:44:55]
+Speaker 1
+ So,
+
+[00:17:46:52 - 00:18:06:31]
+Speaker 1
+ the optimal play on my end is to protect Ferrigoraph and attack Urshifu with Ogre Pawn. Why did I reach this conclusion? Well, it's a 50-50, if you want to attack one and protect one, or if you want to guess which one's going to protect, then it's a 50-50. That's not good. However, what we can do here is say, "Hey, the only way that you're going to get a KO this turn is to lose a Pokémon
+
+[00:18:07:57 - 00:18:19:00]
+Speaker 1
+ here." So, if we decide to go for... how does this work? If we go for protect an Ivy Kudjil into Urshifu, let's go through the three scenarios. Protect one attack with the other, protect the other attack with the one,
+
+[00:18:20:10 - 00:18:58:03]
+Speaker 1
+ attack with both. If they go for protect Urshaluna and attack with Urshifu, then Ivy Kudjil brings Urshifu down to focus hash, Urshifu, KOs, Ferrigoraph. Our Urshifu comes in, game over, Surging Strikes wins the game from that point. There's nothing they can do because they can't protect. GG, like, well played. If they protect Urshifu and attack with Urshaluna, which is what I was afraid of, then Ferrigoraph protects itself, Ogre Pawn, Ivy Kudjils into their protect. Urshaluna knocks out Ogre Pawn, Urshaluna faints to the life orb recoil. We're up 3-2, they need to dedicate multiple attacks to get rid of... they need to dedicate an attack to get rid of Ferrigoraph, so we can go for Surging Strikes Hyper Voice. Their best option is
+
+[00:18:59:37 - 00:19:11:40]
+Speaker 1
+ Wicked Blow, Ferrigoraph, Trick Room is an option, but then you, instant work comes in, Flare Blitz plus Surging Strikes damage from the turn before wins the game. We can Flare Blitz, Surging Strikes, even cover for the protect, so that doesn't work. They can go for a
+
+[00:19:13:08 - 00:20:13:17]
+Speaker 1
+ Helping Hand, Close Combat to try and KO Urshifu, but then they die to Hyper Voice. It's game over from that point, basically. And if they attack with both Pokemon here, Ferrigoraph protects, Urshifu goes down to sash, Urshifu, KOs, Ferrigoraph faints, or Saluno KO's Ogre Pawn knocks itself out to the life orb recoil. So in this spot, going for protect and attack, even though it's in front of an Urshifu, is the optimal play, because no matter what, I think one thing about looking for optimality is figuring out how to take smart trades when you're ahead, and I have a huge lead here in terms of health. So yeah, by going for Ivy Kudgel and Hyper Voice here, or Ivy Kudgel and Hyper Voice here, I lose to one of the three options, and that's the one that Nick chooses, so I lose, or lose this turn at least, and by going for protect, I cover for every option. So here you want to think about the big picture, right? Which again, knock out the Urshifu and Saluno. I think in terms of like, "Oh, how would I spot this position?" If you have a Pokemon that's doing a ton of damage, and you're really low-ish Pokemon on the field, and it can knock itself out to life orb, I just think that this is the kind of thing where you like, "That's too complicated, isn't it?" "Oh,
+
+[00:20:14:49 - 00:20:16:23]
+Speaker 1
+ how do I make this easier?"
+
+[00:20:17:30 - 00:20:33:50]
+Speaker 1
+ There's normally a trade-off to attacking, right? And if you think, "Oh, if my opponent attacks, then I can guarantee that X happens," and thinking about what the value is of that X is a generally good thing to ask yourself. In this position, if Urshifu attacks, I can bring it down to Sash, or...
+
+[00:20:35:20 - 00:20:40:07]
+Speaker 1
+ Yeah, if Urshifu attacks by Ivy Cudgeling it, I can always bring it down to Sash. And if Urshifu or Saluno attacks, as long as
+
+[00:20:44:22 - 00:21:20:55]
+Speaker 1
+ it hits something, then it knocks itself out, right? So that's the cost of attacking, and just being aware of those costs on your opponent's end, I think is a really key move to spotting the optimal move. So again, we have an optimal move here, and we don't see it. And I think if I make this move, I win the game 100% of the time, because Urshifu just cleans up. Also, keeping in mind what your back Pokemon need to succeed is really important, right? Where for Urshifu, I think, "Okay, well, I need to get this...there Urshifu down to Sash, so I can just KO out with U-Turner's surging strikes." That's the goal here, right? And just keeping those kind of conditions in mind, and what your back Pokemon need is really valuable. So let's see how quickly I lock in here. We are on...I'm gonna back out of this. Yep, back out.
+
+[00:21:22:35 - 00:21:30:16]
+Speaker 1
+ Here's a tip. Don't lock into the game-losing move. Oh, okay, I backed out again. I'm thinking about it. How long is it gonna take? Because you have 45 seconds total.
+
+[00:21:33:07 - 00:21:51:50]
+Speaker 1
+ I used about 15 seconds, it looks like. Am I gonna back out again? I'm thinking about it. I had more time here. I didn't need to make this play. Yeah, and here's exactly what happens. Ursuluna protects. I covered one of the three options...two of the three options here. The one of them my opponent was likely...like, unlikely to ever go for, I think, but it was an option. So I really covered one of two options. Get it wrong, and then Wicked Blow comes out.
+
+[00:21:53:17 - 00:22:16:32]
+Speaker 1
+ Knocking out for a graph. So instead of being in a position where I'm up 3-2, or like, 3-1.5, basically game over, I've now put myself in a position where I got nothing out of this turn. I had a lead, I was in a position to gain something for sure, and I got nothing by trying to make a read, right? Ursuluna comes out here, and in this spot I'm gonna make the wrong play again, I think. What is the right play here? Alright, let's go back.
+
+[00:22:17:54 - 00:22:21:53]
+Speaker 1
+ What is the right play here? Because this is another case where I definitely make the wrong play.
+
+[00:22:25:04 - 00:22:49:13]
+Speaker 1
+ So in this position I'm kind of worried about Incineroar switching in and taking a close combat as a prediction. But...okay. I don't know what the right play is here, so let's do this in real time. Urshivu is going to attack here. It can use Surging Strikes, it can use close combat, and it can use U-turn. Let's rule out close combat because we don't want to lower our defenses, and like, because the Urshivu is sashed, like, we don't really...like, doing that extra damage isn't really worth it. So we're looking at either Surging Strikes or U-turn here.
+
+[00:22:50:21 - 00:22:56:50]
+Speaker 1
+ If Urshifu does not attack into Ursuluna Blood Moon, then there is, like, there is a chance that...
+
+[00:22:59:55 - 00:23:01:18]
+Speaker 1
+ There is a chance that...
+
+[00:23:04:16 - 00:23:38:09]
+Speaker 1
+ That the Ursuluna Blood Moon gets another attack off. We cannot allow Ursuluna Blood Moon to get another attack off because even though it would knock itself out with recoil, it has the ability always to hit a full HP Pokemon rather than a low HP Pokemon, that it would actually trade very much in its favor. Like, if it hits in Cenor with a Blood Moon or Urshifu with a Blood Moon, or even a Hyper Voice, I'm going to take too much damage that's not worth it. So here, I'm always using...we've ruled out close combat, I'm either Surging Strikes or U-turning into the Ursuluna. Now, I think the optimal move here is Surging Strikes because U-turn, like, the main advantage of U-turn is it allows me to bring in Cenor in this turn to weaken close combat's damage, but
+
+[00:23:39:10 - 00:23:43:13]
+Speaker 1
+ I don't think that Urshifu is very likely to go for close combat in this spot personally.
+
+[00:23:44:59 - 00:24:50:27]
+Speaker 1
+ So, yeah, I think the other thing here is that we need to keep in mind that the last Pokemon is probably for a graph, we're going to keep with that assumption, it ends up being right. And so we need to make sure that Incineroar doesn't hit the field at the wrong time because helping it in close combat will KO through Intimidate. So, looking at this again, I think that the best move here is to switch Ogerpond into Incineroar and Surging Strikes into the Ursuluna. What this does is it says, "Okay, if you Sucker Punch, you lose the turn. You don't lose the game, but you lose the turn. It's now more in my favor." It says, "Hey, if I'm ever in a position where I can't stop helping hand close combat, I now have the threat of switching back into Ogerpond and sacrificing it." That's the second thing it does. It says, "If you stay in with Ursuluna, I get the KO and we're doing at worst a 3 vs 2 and at best even more. And to even do meaningful damage to Incineroar, you need to go for close combat and drop your defenses, which could end up being valuable for me. And if you switch to Frigarath, then you take more damage than you would with U-turn and I'm not forced into an awkward position. So I think the best play here for me is to switch into Incineroar and go for Surging Strikes because the only way it really gets punished is close combat critical hit. Even if they predict it and go for close combat on the switch-in, Incineroar probably wasn't taking two hits this game anyway, so it's not actually that bad in my opinion.
+
+[00:24:51:48 - 00:25:16:20]
+Speaker 1
+ Yeah, so we've identified that the best play is most likely Surging Strikes into the Ursuluna to guarantee that we either get a KO or we do damage to whatever's in the back, none of which wants to take a Surging Strikes no matter what. And we save Ogrepond by, number one, not making it easy food for Sucker Punch, and number two, bringing in Incineroar now, which in a worst case scenario is going to result in them dropping their defenses, not caving Incineroar, and yeah, like it's not that bad even in a worst case scenario, right? So
+
+[00:25:17:43 - 00:25:20:10]
+Speaker 1
+ yeah, so that's what I'm thinking right now in terms of
+
+[00:25:21:43 - 00:25:31:50]
+Speaker 1
+ this spot. So we want to switch out Ogrepond to Incineroar and attack with Urshafu with Surging Strikes into Ursuluna. Again, spoiler alert, that's not what happened. I once again make a microplay saying, "Oh, well,
+
+[00:25:33:27 - 00:25:56:19]
+Speaker 1
+ the switch-out is so obvious here. Let me just IV cudgel and see if I can get you trying to get greedy," right? I think this is another term where I'm going to lock in too quickly if I had to guess. There's no reason to U-turn here. As you can see here, I lock in right away. Ursuluna switches out a play that I hadn't considered in the moment because I didn't fully think it through. U-turn does nothing for us here, right? Like, we always want to be locked into Surging Strikes in the long run. This also meant that if it was Tornadus in the back or Ironhand, that this was just strictly worse.
+
+[00:25:57:54 - 00:26:30:52]
+Speaker 1
+ Yeah, and now look at this. Ogrepond has knocked out a Sucker Punch. I gave them something for free. I got no use out of my Ogrepond the last two turns when I could have switched to Incineroar for free, right? And I do a little damage with U-turn, but Surging Strikes would have done probably meaningfully more, right? It would have done at least 50%, I think. And yeah, maybe even 60% could end up actually mattering a lot. And now I didn't think things through, right? I didn't think, "Hey, if they just Sucker Punch me here, and even if I--" Let's take a second here. Let's say they went first. Let's say I say, "Okay, well, I know that Sucker Punch is an option, so let's think this through. If they Sucker Punch, and in a best-case scenario, I knock out the--
+
+[00:26:32:13 - 00:26:40:55]
+Speaker 1
+ Like, they Sucker Punch, Ogrepond, I make the play I want, and I U-turn into the Ursulina Bloodmoon to get the KO, and then they send out Phrygrap, and now it's a 2 versus 2 because I've actually killed the Ursulina.
+
+[00:26:42:24 - 00:27:04:41]
+Speaker 1
+ Even then, it's not a good position for me because they get Helping Hand, Close Combat, KO, Incineroar, and now it's a 2 against 1, and it just becomes much messier, right? So if I'd really thought this through, I would have had the foresight to realize, "Hey, even--" Like, I can't stand with Ogrepond here because if they go for Sucker Punch, which is a play that I need to cover here, right? I need to accept the possibility that they could go for Sucker Punch rather than, like, making a hard read that they're just not gonna do it based on nothing,
+
+[00:27:05:44 - 00:27:13:58]
+Speaker 1
+ then, yeah, then I'm in a losing position anywhere. At least I'm not in as good position as I could be. So, why is the camera like that? Anyway, yeah, so from here...
+
+[00:27:16:45 - 00:27:23:19]
+Speaker 1
+ What do I even do? The lack of Surging Strikes damage actually ends up playing a big role here because if this Furograph were a little lower... Aww, I'm watching that.
+
+[00:27:24:47 - 00:27:31:31]
+Speaker 1
+ If this Furograph were a little bit lower, like, let's say I'd hit it with Surging Strikes and it was in range of, like, one more... eh...
+
+[00:27:32:37 - 00:27:34:13]
+Speaker 1
+ It probably wasn't gonna be in range of one more, right?
+
+[00:27:37:29 - 00:27:37:40]
+Speaker 1
+ Hmm...
+
+[00:27:39:58 - 00:27:55:24]
+Speaker 1
+ Yeah, this spot, I think that's-- Like, I always have to-- I do make the optimal play here, I think. I go for Surging Strikes into the Furograph and I think it's technically better to knock off the Furograph or flameless the Furograph, but I think I flameless the Urshu. It doesn't end up mattering. I have to attack the Furograph this turn because
+
+[00:27:56:47 - 00:28:01:17]
+Speaker 1
+ if Trichrom goes up, then I lose-- like, Hyper Moist just kills my team, right? So I need to go for--
+
+[00:28:02:18 - 00:28:32:20]
+Speaker 1
+ Actually, it doesn't really matter because if it's the Furograph, then Trichrom is whatever. So, yeah, here, I mean, I need to go after the Furograph with Urshu here because at least once the Furograph goes down, I need to make sure that Furograph is gonna go down too. And I go for Surging Strikes here. Let's see how much it does. They had, like, 60-ish percent. It looked like it did about 20 to me, so... You know, I don't think it's likely, but it is possible that two Surging Strikes would have gotten the KO. Let's see here. How much are they gonna be left with? Surging Strikes again. I don't think two Surging Strikes would get the KO, but we at least might have had a chance, right? Because that's U-turn plus Surging Strikes, which is very-- I don't know. Probably not.
+
+[00:28:35:02 - 00:28:49:40]
+Speaker 1
+ Yeah, and then Cinder goes down on one hit helping end Close Combat. I had no counterplay to that because I didn't switch out my Ogrepond to save it for later. And if I'd had Full HP and Cinderware on this spot, my play would-- or, Full HP and Cinderware with Ogrepond on the back is a threat. I would have been probably, like, just infinitely better physician.
+
+[00:28:50:54 - 00:28:52:51]
+Speaker 1
+ So here, my thought process is...
+
+[00:28:56:38 - 00:29:42:11]
+Speaker 1
+ It is, believe it or not, possible to win this game. And the way that I would need to win is I would need to either get this turn correct-- I'd need to get this turn correct. Which is, there's two ways that I can win. The first is that they go for Close Combat without helping hand this turn. I KO for a grab with Surging Strikes. They go into her Saloona. They close combat again. I Surging Strikes to her Saloona for the KO. I survive both Close Combats. Then they sucker punch. I survive in Surging Strikes because of the KO thanks to the defense drops. I didn't know my calcs in this moment. I didn't know if I lived 1 Close Combat plus Close Combat plus 1 Sucker Punch. So I decided that the best play here was to hope that 1 Surging Strikes KO to Urshifu and they go for helping hand this turn to cover for that. Basically, because I thought I was going to go down to the other play, I thought-- and they have three chances to crit me as well, even if I was surviving. I thought that there were actually higher odds that my opponent went for-- made a mistake here.
+
+[00:29:43:41 - 00:30:06:13]
+Speaker 1
+ Knowing calcs in this instance would have been really helpful because it turns out that the odds of me KOing here are not very good anyway. So yeah, there's not really an optimal play here. This is a play where I made the-- if I knew for sure that the opponent-- that Close Combat plus Close Combat plus Sucker Punch was going to kill, then I think this is always the correct play. I only wonder if they make a mistake because they have guaranteed win conditions. It actually comes from very close, as you can see here.
+
+[00:30:07:46 - 00:30:32:14]
+Speaker 1
+ But yeah, they make the correct play, which is just go for Sucker and Close Combat. Based on how much this does, it does like-- it might have-- it did 76, right? So I think it actually might have been possible. I would have had like 29 HP. I might have lived a Sucker Punch, but I didn't know that at the moment. And Sucker comes out and then this game is over because helping hand Close Combat just wins the game. So yeah, here I think this is a really good opportunity to look back and say, where are the optimal moves that I missed? And the really crucial one was actually on--
+
+[00:30:34:42 - 00:30:34:43]
+ (Singing)
+
+[00:30:34:43 - 00:30:36:04]
+Speaker 1
+ You know what? Why don't I just drag this?
+
+[00:30:37:05 - 00:30:39:10]
+Speaker 1
+ It was this turn. It was this turn.
+
+[00:30:42:47 - 00:31:30:12]
+Speaker 1
+ Here. Like this was the turn where if I'd had big picture awareness, I could have found a play that always worked. And instead I just like made a read again, which is how I had been playing and yeah, lost the game. So in terms of spotting the optimal move, I think that being experienced with your team is a really important thing. Like understanding what your team's win condition is. Like in game three, I'm not going to go into this because it's already been quite a long video, but like in game three, for example, the leads are similar. I have Incin plus Ogrepond. I make the wrong play again here. We don't need to get into it. But basically I go for IV Terrifier, Avi Kudgel, La Terra, whatever. Then I go for Avi Kudgel and I KO their Ogrepond turn one. And even though I then immediately lose Ogrepond to Bloodmoon, I understood that this is a good trade for me because I have Urshifu in the back. And because I know that like they can't really do anything to stop Urshifu,
+
+[00:31:31:59 - 00:31:40:07]
+Speaker 1
+ I understand that like this play actually ends up being very, very like this trade, even though it looks bad because I gave it my Terra Pokémon and only took up the Follow Me Pokémon, ends up being in my favor. So
+
+[00:31:41:09 - 00:32:18:29]
+Speaker 1
+ I think a big part of this is understanding that and then parting shot Urshifu comes out and then the position is significantly better for me from the spot because as you can see here, even though the turn one went badly, my big picture has been better here because I got Urshifu in properly. So yeah, in terms of finding the optimal move, the truth is it's hard. It's really hard and like it's also really unintuitive because it's oftentimes thinking about like regardless of what my opponent does, what move do I need to make to come out on top here, which is again, very it's unintuitive. Right. You're often thinking, what is my opponent going to do? So thinking I don't care what my opponent does, what can I do that will cover their options regardless of what they do is really difficult.
+
+[00:32:19:45 - 00:32:32:12]
+Speaker 1
+ So I feel like I've given a lot of information here. I don't know how clear this is. I think this is a really difficult topic to talk about just because it's so opaque and there's not really again, there's not really like research or like like writings on this. Right. Like, I don't know. So
+
+[00:32:33:22 - 00:33:30:02]
+Speaker 1
+ if you're interested in like looking for the most optimal move, I think one of the best things you can do is review your vods or think about your like losses like trying going back and saying, what was the optimal move every turn or like, I guess, was there an optimal move this turn? Was there a safe way that I could either win the game or gain a bunch of ground, no matter what the opponent does? Those are the questions you need to ask yourself if you want to like think about the big picture. It's not like again, lost most people. I don't think think about the big picture that much, to be honest. So you don't need to do that in order to win. But you have to ask about optimality voted for optimality. So, yeah, it's a topic that I've thought quite a bit about. And the way I typically try to play, though, as you saw in this game in this set, not always the way I do play. Anyway, I hope this is interesting. I hope that this made some sense. It's really hard to talk about. Yeah. Let me know if you have any feedback on comments on the Patreon or better, because I get emails about those. Whereas on if you comment on the video itself, I don't like I have to go manually check it, which I do sometimes. But yeah, anyway, I'm rambling. Thanks for watching. Thanks for the support. Hope you found this interesting. Bye bye.

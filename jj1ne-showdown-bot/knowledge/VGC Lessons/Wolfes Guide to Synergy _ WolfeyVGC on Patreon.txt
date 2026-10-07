@@ -1,0 +1,307 @@
+[00:00:00:48 - 00:01:17:09]
+Speaker 1
+ Okay, hello everybody. This is the August monthly video. I know it's September, but that's okay. I'm a little behind. I actually am, I think that for a while I'm not gonna be behind, knock on wood, but I think I'm ready to be caught up again. So yeah, I'm good on DMs. I've even done some of the DMs for September already, which is good. And yeah, like I'm getting back into my rhythm. This summer was really, really hectic for me. Like I was gone for huge chunks of it at a time. I'm very lucky that I was able to do that, but it also made the work that I had to do a lot harder. So even though I'm gone like every weekend for the next, I have this weekend free and then I'm gone for the next like six weekends. Like being here for the week is gonna make things a lot easier for me. Anyway, that's just a little behind the scenes look into my life. Let's talk about the August video. The video that y'all voted on that was submitted from our Elite Foreign Champion to your members was how to identify team building synergies. This was the most popular one. And actually by a good bit, the second one was how to balance aggression versus safety in your gameplay. And then introduction to damage calculus was third, tied with how to prepare for a tournament. I have to say that I am terrible at predicting which of these options is gonna win. Like I'm the worst at it. I don't think I've ever gotten it right. Like normally I'm like, oh, this is the one that's gonna win. Like this is the one that people are gonna want to see. I'm never right. Which probably it means that there's still room for me to improve at understanding my audience, which is great.
+
+[00:01:18:46 - 00:01:24:21]
+Speaker 1
+ Anyway, the topic that won today was how to identify team building synergies. Let me just finish getting...
+
+[00:01:25:56 - 00:02:16:11]
+Speaker 1
+ Let's see here. I was using peakolytics last time, but then I was like, oh, people don't actually like peakolytics. Anyway, let's take a look at this site instead. Cool. Awesome. So today we're gonna talk about team building synergies. And the first thing you have to understand when talking about team building synergies is that, first of all, there's multiple different types of synergy. Like when people say, oh, these Pokemon have synergy, that doesn't tell you that much because there's a bunch of different ways that Pokemon can have synergy together. I've got names for some of them, and then I'm gonna give you examples of others. Maybe I will come up with names as we go on this journey together. But yeah, basically synergy, it's not like an official thing. It's like a community term used for ways that we talk about Pokemon. These Pokemon have good synergy together. That means that these Pokemon are good together. These Pokemon have bad synergy together. That means they're bad together.
+
+[00:02:17:31 - 00:02:27:03]
+Speaker 1
+ So, okay, let's just start talking about it because this is too high level to talk about without examples. So I've showed them pulled up here. I also have lab mouse, which people recommended. I'm also gonna pull up peakolytics.
+
+[00:02:28:26 - 00:03:27:37]
+Speaker 1
+ So what does synergy mean? What does it mean to be synergistic with another... What does it mean for two Pokemon to be synergistic with each other? We'll come back to full screen because I'm not actually ready to talk about that. Oops. There we go. I'm not muted. Nice. When people say that two Pokemon have synergy together, it basically means that the Pokemon work well together in some capacity. Now, there's kind of three obvious types of synergy. There is offensive synergy, there is defensive synergy, and then there is anti synergy. These are the three main things that the three main types of synergy in my experience. The thing that makes Pokemon kind of difficult is that when people say synergy, a lot of the time they're talking about typing. So like fire water grass as a concept has good synergy because water types resist the water moves that grass type that fire types are weak to. They are threatening ground and rock types. Yeah, like with their water type moves, which means they're good against fire. I don't need to explain why fire water grass is good synergy, right? Like, well, maybe I should like basically like, OK, let's talk about examples.
+
+[00:03:31:42 - 00:03:33:52]
+Speaker 1
+ Let's also go and just pull up
+
+[00:03:35:04 - 00:03:35:36]
+Speaker 1
+ this.
+
+[00:03:36:57 - 00:03:49:01]
+Speaker 1
+ OK, cool. So this is a type calculator. So just let's look at some types. So one of my favorite examples of Pokemon with good synergy. This is from like X and Y are Hydreigon and Aegislash.
+
+[00:03:50:11 - 00:03:53:34]
+Speaker 1
+ Aegislash isn't in the game. I got to go back to like Gen 6. OK,
+
+[00:03:54:36 - 00:04:12:18]
+Speaker 1
+ Aegislash. Cool. Hydreigon, Aegislash. These are some of my favorite my favorite synergies in the game because they're incredible. Aegislash is a ghost and steel type Pokemon. Hydreigon is a dark and dragon type Pokemon. So if we look at Hydreigon, for example, actually, what we really want here is the Maryland. Sorry, I know that I'm pulling up a lot of stuff. Type calculator.
+
+[00:04:15:01 - 00:04:15:13]
+Speaker 1
+ Cool.
+
+[00:04:16:32 - 00:04:23:23]
+Speaker 1
+ So if we put in Hydreigon, it's going to be easier to see. We put in Aegislash, give it Levitate. And
+
+[00:04:24:53 - 00:04:27:39]
+Speaker 1
+ we scroll down. What we can see is.
+
+[00:04:30:10 - 00:05:01:46]
+Speaker 1
+ OK, you can see this. Yes. OK, cool. So Aegislash week to fire, Hydreigon resist fire. OK, a dragon week to ice, Aegislash resist ice. Hydreigon week to fighting, Aegislash immune to fighting. Aegislash week to ground, Hydreigon immune to ground. Hydreigon week to bug, Aegislash resist bug quadruple. Aegislash week to ghost, Hydreigon resist ghost. Hydreigon week to dragon, Aegislash resist dragon. Aegislash week to dark, Hydreigon resist dark. Hydreigon week to fairy, Aegislash resist fairy. These Pokemon have, I don't like these ads.
+
+[00:05:02:57 - 00:05:06:22]
+Speaker 1
+ These Pokemon have perfect defensive synergy with each other, legitimately perfect.
+
+[00:05:07:25 - 00:05:35:14]
+Speaker 1
+ In that any any type that one of the Pokemon is weak to, the other one is either either resists or is immune to. Super, super, super useful. So to me, this is the clearest case of defensive synergy. And what that means is that if you have Hydreigon on the field and Aegislash in the back or Aegislash in the field and Hydreigon in the back and one of the Pokemon on the field is threatened by a super effective move, you can switch another Pokemon in and have it take the damage like better. Right. It can resist the attack that you're weak to.
+
+[00:05:36:51 - 00:05:57:58]
+Speaker 1
+ That's an example of defensive synergy. It's not as simple as typing. It's not just as simple as typing, but let's we'll come back to all these concepts in more depth later. Another way that Pokemon can have synergy is offensive synergy. So, for example, gosh, let's look at some of the top teams here. So this is lab mouse and I've never used it before, but I know that people really like it and I think it's good.
+
+[00:06:00:06 - 00:06:02:30]
+Speaker 1
+ So these are some of the top teams right now.
+
+[00:06:03:58 - 00:06:08:03]
+Speaker 1
+ So this is let's look at Volcarona and Toros. Is that going to make sense?
+
+[00:06:08:03 - 00:06:09:46]
+Speaker 2
+ Hang on. Sorry.
+
+[00:06:16:29 - 00:06:18:24]
+Speaker 1
+ Let's see here. Sorry.
+
+[00:06:21:01 - 00:06:23:10]
+Speaker 1
+ There's there's examples. I'm just having trouble seeing them.
+
+[00:06:31:06 - 00:06:38:45]
+Speaker 1
+ OK, indeed, and Hatterini, right? No, that's that's actually still a little bit more. I'm trying to do like the most base level composite
+
+[00:06:39:55 - 00:06:52:36]
+Speaker 1
+ like examples. OK, let's look at the Firewater Grass court because it has decent offensive synergy as well. Right. So let's look at this team, which is Meowth, Skorata, Primarina and Typhlosion, Hisui. Let's look at these just as a start.
+
+[00:06:54:40 - 00:07:08:28]
+Speaker 1
+ So let's say you have a Pokemon that's like water type. You have a Pokemon. Your opponent is a Pokemon that's water type on the field and you have Meowth Skorata on the field. And you're like, oh, I can kill this is flower trick. Well, maybe they want to switch into a grass type Pokemon or switch into a
+
+[00:07:10:11 - 00:07:23:12]
+Speaker 1
+ steel type Pokemon to resist the grass type move that you're threatening them with. Right. Like let's say they have Primarina on the field and they're threatening to switch into like a Moongus or they're switching to threatened switching to Goldengo. Right. And your choice band and you're locked into flower trick.
+
+[00:07:24:21 - 00:07:40:12]
+Speaker 1
+ Well, if you have Typhlosion on the field next to Meowth Skorata, then they don't have that option anymore because the grass Pokemon or just bug resist grass. It does, right? It should. I'm totally blanking. Does Volcaron and Scissor both? But that's because they're secondary typings.
+
+[00:07:41:30 - 00:08:10:46]
+Speaker 1
+ Does it Galvangela? I'm pretty sure Bug resist grass. Anyway, like if they want to do a bug type or a steel type or a grass type or I guess dragon would work. Is there any other type that I'm missing? Like all these types that would resist grass, then you can hit them with a fire move from Typhlosion and that doesn't work anymore. So I would say Typhlosion and Meowth Skorata have really good offensive synergy where like they like there are there's grass and fire has good defensive relationships as well because the water and ground resist and the
+
+[00:08:12:46 - 00:08:38:15]
+Speaker 1
+ what's the other way? Fire and bug resists. So, yeah, they have good synergy defensively as well. But offensively, these are offensive Pokemon. If you put them together, then, yeah, they're pretty scary offensively, in my opinion. So that's an example of offensive synergy and then anti synergy. I'm not going to be able to pull up any any examples here, but like anti synergies when two Pokemon get in the way of each other. So obviously, I typed in S. H. So I'm going to type in showdown. Pelipper with Drizzle.
+
+[00:08:39:52 - 00:09:27:32]
+Speaker 1
+ And Torkel with Drought. These Pokemon have anti synergy together. Now, there are varying degrees of anti synergy. There's also just like there's varying degrees of all types of synergy. You can have like slight defensive synergy. You can have incredible defensive synergy, right? Like Hydreigon and Aegislash have incredible defensive synergy. There's other examples of Pokemon that have partial defensive synergy, but not not incredible. There's not incredible overlap, right? Pelipper and Torkel is a pretty intense example of anti synergy. This is a high level example because or not high level, but it's a high intensity example because these Pokemon really don't love working together, right? They're the complete opposites. Like they don't work together at all. Another example, though, that we saw some play of in regulation G was Indeedee, who has the psychic surge ability, which shuts in all priority moves being paired with Incineroar and with Fakeout.
+
+[00:09:31:32 - 00:10:38:17]
+Speaker 1
+ And even sometimes Rillaboom as well. There was a team that used with Grassy Surge. So Grassy Surge and Psychic Surge also have anti synergy and then Fakeout has bad synergy with Indeedee. This was used in the team with Calyric Shadow, who was using the move Expanding Force, which is a single target move when used in not psychic terrain. And so it would use something like Protect Astra Barrage, Expanding Force and Nasty Plot. And the idea was if the opponent had Wide Guard, you didn't have to be fighting in psychic terrain or if you want to Rillaboom for support. But if you want to rely on Indeedee Psychic Surge or Indeedee is like follow me or helping hands, you basically had multiple ways of like you basically gave Calyric the third move, depending on if you wanted Expanding Force to be spread or a single target. So these Pokemon have anti synergy. Indeedee and Snorrileboom like Indeedee has anti synergy with both Incineroar and especially Rillaboom. However, on this team, it was actually quite strong. So something like anti synergy is like something to watch out for, but it's not necessarily the end of the world in the current format. I know that there are teams that have both Rillaboom and Garchomp on them. And sometimes the Garchomp has like Protect, Dragon Claw, Earthquake and Stomping Tantrum.
+
+[00:10:39:40 - 00:10:45:31]
+Speaker 1
+ And basically you can say, OK, if I don't have Rillaboom, I can click Earthquake because Earthquake is just power halved in Grassy terrain.
+
+[00:10:46:35 - 00:11:04:26]
+Speaker 1
+ That's like it's one of the few ground moves that is affected by Grassy terrain. Doesn't even explain what it does. But then Stomping Tantrum isn't cut in half. So you have the strong option in Grassy terrain and then you have the spread option of Grassy terrain is enough. So some anti synergy isn't necessarily bad, but you don't want like you typically want to avoid it if possible.
+
+[00:11:05:35 - 00:13:01:16]
+Speaker 1
+ So that's the that's an introduction to the three main types of synergies. You have offensive synergy, you have defensive synergy. How do I make this go away? I'm so smart. And then you have anti synergy. Now, like I said, typing is a big part of whether Pokemon have synergy together is not the only part. But the thing is that like to really understand synergy, you need to be understanding it at a higher level than just typing. So what I mean by that is let's say, oh, God, OK, let's sort by Pokemon with low defense. Right. Let's scroll for a little bit. We're not in like the worst Pokemon of all time list. Um, actually, you know what a good example of this is. Let's go. Let's talk about meow. Skorata and Typhlosion again, right? Because Typhlosion and not meow Skorata actually have pretty interesting synergy together. Typhlosion is weak to and let's pull up our little thing here. Look at a fire and ghost type. Typhlosion is weak to ground, rock, ghost, water and dark. Right off the gates, meow Skorata resists ground. It resists ghosts. It resists water and resists dark and it threatens offensively every single one of these types, except for dark offensively. So basically it resists four out of the types defensively and it's super effective against four of the types offensively. Four out of five. On the other hand, let's look at the other one. Let's do grass and dark. Meow Skorata is weak to bug, fighting, flying, poison, fire, ice, fairy. So these are more weaknesses. But first of all, Typhlosion resists bug, is immune to fighting, doesn't have a relationship with flying, resist poison, resist fire, resist ice, and resist fairy. So already you can see these Pokemon have quote unquote, incredible defensive synergy with each other. Look at how, look at how good their synergy is, everybody. Look at how they like can switch into each other's attacks. Well, the thing is they can't and they don't have good defensive synergy with each other because of the Pokemon themselves. If this were like, I don't know, a really bulky Chandelure and like, was there other grass dark types? I know there are. What is there grass dark types? Totally blanking. Are there other grass dark types?
+
+[00:13:03:32 - 00:13:11:17]
+Speaker 1
+ Oh, I guess there are, but they suck. Okay. Well, oh, okay. If it was like Wo-Chan and like, Fire Ghost, Chandelure, there's more.
+
+[00:13:13:17 - 00:13:20:05]
+Speaker 1
+ If it were like Wo-Chan and like, Cerroledge or Skeletorge, then it would be different, right? But the thing is, let's look at these Pokemon stats.
+
+[00:13:21:16 - 00:14:05:45]
+Speaker 1
+ Mios Groga, 76, 70, 70. It's not awful, but you're never training it in any of these like stats. So like, while it's not going to be one shot necessarily, it's also not gonna like, it can't switch into a strong water type move. Like it can take wave crash in the rain. You know what I mean? And Typhlosion is, I think even worse. It's 73, 78. Okay. It's actually slightly bulkier, but still like, it's not that bulky, right? Like you can switch into a fire attack from Mios Groga. Like it's a nice bonus, but you're not going to be able to switch into like, Torkle eruption in the sun, right? Like you're not, that's just not happening. So even though these Pokemon have the typing to imply that they have good defensive synergy, typing is just part of the, part of the answer. Similarly, a Pokemon can have good offensive synergy with each other. We can actually use the exact same example. Let's talk about Wouchen.
+
+[00:14:06:47 - 00:14:12:08]
+Speaker 1
+ And I know this isn't the goal in this format, but you'll have to bear with me. Skeletorge, right? These are Pokemon that,
+
+[00:14:13:26 - 00:14:16:11]
+Speaker 1
+ a Skeletorge is kind of strong. Is there a weaker Fire Ghost I can talk about?
+
+[00:14:19:44 - 00:14:20:04]
+Speaker 2
+ Eh,
+
+[00:14:21:22 - 00:14:22:42]
+Speaker 2
+ there's actually not. They're all good.
+
+[00:14:22:42 - 00:14:23:45]
+Speaker 1
+ Bearledge?
+
+[00:14:24:53 - 00:14:27:26]
+Speaker 1
+ It's even stronger. Alright, let's just talk about Skeletorge, just fine.
+
+[00:14:29:02 - 00:15:19:29]
+Speaker 1
+ Wouchen and Skeletorge, you might think, oh, these Pokemon have good offensive synergy with each other, right? For the exact same reasons that we talked about Typhlosion and Meowskirata having good offensive synergy with one another. The thing is though, that they're both not strong enough. This isn't a great example because they're both decently strong, but like, whereas with Typhlosion, you're using Eruption and Meowskirata using Flower Trick, two moves with really high base power. Flower Trick is 105 with the critical hit and Eruption is 150 times 75%. So like one, oh god, I'm doing math on the fly. Let's, I think it's like around 120 or 130. 150, let's see, 150. No, I keep hitting, missing the wrong button. Times 0.75. It's 112. So basically, this is a 105 and a 107 base power move, whereas Wouchen is using like Giga Drain or like maybe Fowl Play. Like these aren't super strong moves and then Skeletorge is probably using Torch Song, which is 80. So you can, they're, they're like, you know, noticeably weaker than their counterparts moves.
+
+[00:15:20:35 - 00:15:36:22]
+Speaker 1
+ Another thing about offensive synergy is that the speed is really important because like having a really strong, like, okay, Torquell has good offensive synergy with a lot of Pokemon, but only if Trickerm is up, right? Only if Trickerm is up because Torquell is so slow. Like Torquell is threatening because it has, hello?
+
+[00:15:38:47 - 00:15:45:49]
+Speaker 1
+ Torquell is threatening because it has Sun Boosted with its Drownability, Eruption normally being boosted by another item or a Terra Type even, like Terra Fire and charcoal.
+
+[00:15:46:50 - 00:16:10:38]
+Speaker 1
+ The thing is though that Eruption is only scary when Torquell is at full HP, otherwise not such a threatening move. And so in Trickerm, Torquell and Hatterini, for example, have incredible offensive synergy under the right condition because you can use Expanding Force if Psychic Train is up to hit both, Eruption to hit both. And because these moves are actually so strong, the fact that like Fire and Psychic don't have like that much relation to each other and there are Pokemon that resist both, but because, let's get this Dazzling Leap as well.
+
+[00:16:12:20 - 00:16:57:29]
+Speaker 1
+ But because they're both such powerful Pokemon with such high base Special Attack stats that are also being boosted often by like the weather and the terrain, Eruption and the Sun, Expanding Force and the terrain, and then High Natural Special Attack stat, not a super strong Special Attack stat, but like Eruption is so strong and the Sun is so strong that it doesn't even matter. Yeah, these Pokemon have really good offensive synergy because they're so, so powerful. That actually wasn't the point I was going to make. So there's two points here. Number one is that Torquell and Hatterini have incredible offensive synergy, but only if Trickerm is up. If they're attacking second, then they're in huge, huge trouble. So when it comes to the offensive typing, it's not only the typing and it's not only the typing, it's also like the stats in a sense that like they both have to be strong enough and they also have to be fast moving before the opponent's Pokemon in some way.
+
+[00:16:58:30 - 00:18:41:53]
+Speaker 1
+ On the other hand, if your moves are so strong, you could have good offensive synergy just because of the raw power, not like not like kind of typing agnostic because even Pokemon that resist Torquell are not going to appreciate taking Terrifier, Charcoal, Boosted, Sun Boosted eruption, right? Same with Hatterini, like even Pokemon that resist Expanding Force are not going to be super happy to take it. And there's very few Pokemon apart from like Incinero and a couple others that can really take that can resist both eruption and Expanding Force and even still resisting both doesn't necessarily even mean you'll survive. Because it's such a powerful combination. So yeah, so to recap, talking about talking about synergies, it's not just the typing. The typing will kind of give you some idea, but it also can be about raw power when it comes to offensive synergy. It can also it also like the speed stats matter when it comes to offensive synergy. And then again, both the like when it comes to defensive synergy, the defensive stats matter a lot, right? Having two Pokemon that are really frail, like defensive synergy is about taking defensive synergy is about taking hits. Offensive synergies about getting KOs. And if you think about them in terms of that, I think it's going to be more helpful for you to understand synergy compared to like, yeah, just looking at it from a typing perspective. Because if the question is about if you're like, do these Pokemon have defensive synergy and you say, okay, well, like the way that I checked that is still go the typing is that's going to be misleading. But if you say, okay, these Pokemon have defensive synergy, could I switch me out, Scrott in to an attack intended for his Sui and Typhlosion? That becomes a bit clearer, right? Or can I use Wochen to cover a switch out? Like, can I use Wochen to punish an opponent trying to switch into Skeletor's attack? Well, not that well, right? And like, yeah, oh, can like, you know, can can I, you know, put a fire type such as in Haterini can't hit it for super effective damage, but it also just kills it because it has, you know, expanding force and it's so strong. So,
+
+[00:18:43:34 - 00:19:35:53]
+Speaker 1
+ yeah, I think that's a good starting point for those concepts. Another thing to think about when we're not like when it comes to synergy is that there's like, I don't have a name for this. Like, inherent synergy, I guess we can call it. I guess it depends on the thing. But if we look at like Pelipper, right? We can look at Pelipper with our Kaladin, where these Pokemon have synergy because it's actually not super obvious, right? Like you typically run into our Grass on our Kaladin and you have the move Lecture Shot, but basically, Lecture Shot is a really, really good move. Our Kaladin is a really good Pokemon and Lecture Shot really needs to reign to be really strong because the move isn't, I didn't realize it was 130. That move is incredibly powerful. It gives our Kaladin a special attack boost. Kaladin already has really good special attacks stat and then also gets the boost, but it only works in the reign because in the reign it only takes one turn as opposed to two. So basically, our Kaladin needs the reign to be up. These Pokemon have like not bad synergy though. If we look at this, we can look at Pelipper.
+
+[00:19:38:28 - 00:19:39:00]
+Speaker 1
+ Can I look at this?
+
+[00:19:40:04 - 00:19:40:39]
+Speaker 1
+ Alipper.
+
+[00:19:42:24 - 00:19:42:36]
+Speaker 2
+ Cool.
+
+[00:19:44:07 - 00:19:46:32]
+Speaker 2
+ And our Kaladin. Still not wrong.
+
+[00:19:48:04 - 00:19:49:41]
+Speaker 2
+ Our Kaladin, nice. It's a thing.
+
+[00:19:51:50 - 00:20:18:40]
+Speaker 1
+ They don't have bad synergy. Pelipper is super weak to Electric. Our Kaladin is, you know, resist Electric, fighting, resist is weak to ground, weak to resist. They actually have pretty good synergy. In fact, every one of their weaknesses is covered by the other, right? So actually, they have good defensive synergy in that context. However, Pelipper is not that bulky. So it can't take like, even if it's like it often relies on the focus item to keep it alive. So I wouldn't say that they have incredible defensive synergy by any means
+
+[00:20:19:50 - 00:20:35:30]
+Speaker 1
+ because while they do resist all of each other's weaknesses, like Pelipper can't switch in that easily for our Kaladin. Yeah, so it's like I would say that they have good offensive synergy, but it's not like a prime example in my opinion. Offensively, let's take a look at this.
+
+[00:20:36:36 - 00:21:12:04]
+Speaker 1
+ Let's look at this. Our Kaladin uses Steel, Electric, and Dragon moves. So it hits everything in the game. Let's look at just the Electric. So Electric is resisted by Grass, Electric, Dragon, and Ground. Pelipper hits two of these for super effective. Dragon is resisted by Steel and Fairy. Pelipper can hit these for neutral damage. And then did I already put Steel on? I did not. Steel is just by Steel, Fire, Water, Electric. Pelipper is fired for super effective and it hits everything else for neutral. So that's good. If you look at Pelipper, Pelipper struggles to deal with Water, Grass, and Dragon types. Our Kaladin can hit Water and Dragons for super effective. And then Flying struggles to hit Rock, Steel, and Electric.
+
+[00:21:13:23 - 00:21:19:26]
+Speaker 1
+ Eh, their Kaladin is okay versus this, but not great. Electric is the hardest. So pretty good defensive synergy.
+
+[00:21:20:31 - 00:22:23:58]
+Speaker 1
+ Okay, offensive synergy, not great, right? And also neither Pelipper or our Kaladin are very fast. We have 85 and 65 base speeds. So these are like middling speed Pokemon. So they have more defensive synergy than they have offensive synergy. However, what really makes these Pokemon strong as a pair is the fact that like Pelipper is able to provide the rain to set up our Kaladin. And yeah, like it's basically here almost as like a supporting piece for our Kaladin because it's so strong. Pelipper can also build its kit in a way that allows it to be better support for our Kaladin. What I mean by that is primarily using the move Tailwind to double our Kaladin on speed. So these Pokemon have good synergy even though like just because our Kaladin is so strong and because Electroshot is so broken and Electroshot really needs the rain to be up. So yeah, basically even though this isn't like such a clear case of like defensive synergy or offensive synergy, they definitely have defensive synergy. But like yeah, it's not like it's not like a prime example in my opinion. Yeah, just the combination like they just have regular synergy like inherent synergy with each other. Another example of offensive synergy that isn't so clear is Basculegion. This is an interesting one. Is it a good one? This is a good one, right?
+
+[00:22:25:43 - 00:22:31:14]
+Speaker 1
+ Basculegion and Pelipper. These Pokemon have if you look at just their typings not great synergy, right? They're both water types.
+
+[00:22:32:31 - 00:23:08:56]
+Speaker 1
+ But because of the fact that Pelipper says that the rain it ends up having weird synergies with other Pokemon because Basculegion wants the rain to be up for Swift Swim ability. And so it and it also uses Wavecrash, its strongest move until Pokemon start fainting, which it's really good at using because the move is really strong and never misses and its main drawback is its recoil, but Basculegion has really high base HP, meaning basically that like it doesn't care that much about the recoil and Wavecrash gets stronger in the rain because rain powers up a water type moves. And so this is kind of like Torquell how like even or like Hatterini where even Pokemon that resist the moves because it's such a powerful attack, especially if you're doing something like I don't know choice ban Basculegion.
+
+[00:23:10:48 - 00:23:11:39]
+Speaker 1
+ Yeah, like
+
+[00:23:12:45 - 00:23:40:08]
+Speaker 1
+ it just becomes really really powerful. So obviously Pelipper and Basculegion don't have good defensive synergy with each other like at all like really really bad, right? They're both weak to electric. They the move is intended for a Basculegion that will do super effective damage like dark grass and ghost. Pelipper doesn't resist them. So yeah, and then here it's weak to rock, it's weak to I think it's just rock and electric. But yeah, like Basculegion doesn't resist rock either. So they don't have good defensive synergy and if you were to look at just at the typing, where was I here? Offense, water,
+
+[00:23:41:29 - 00:23:47:55]
+Speaker 1
+ flying. Okay, water and flying already had everything for neutral, but like a Pokemon that like Rotom wash, for example, like
+
+[00:23:49:10 - 00:24:38:58]
+Speaker 1
+ or really honestly any water type that also resists flying or like doesn't care about hurricane like maybe especially bulky water type. Like Primarina is actually a pretty good example like Primarina who's pretty specially bulky and resist water like until Basculegion starts losing its teammates. It can't really like last respects isn't that strong. So on paper these Pokemon don't have great synergy with each other because they're they start to get walled by similar things right or Pokemon that tend to be one are also obvious like often going to be good against another one of them. However, Basculegion wavecrash is so strong in the rain specifically and Basculegion is so fast in the rain specifically that it doesn't even really matter if a Pokemon resist it because we're talking about Primarina. I mean, it's gonna lose so much health to a wavecrash like it's getting a 2-hit KO by choice band wavecrash because its base defense is kind of low in the rain that it doesn't even really matter that yeah, like it's not
+
+[00:24:40:50 - 00:24:51:30]
+Speaker 1
+ that it's that it resists it right because rain boosted Basculegion is so strong on that note you you're definitely it's definitely okay for you to overlap typings, but you need to be careful with it. This is something I see a lot in
+
+[00:24:52:38 - 00:25:01:36]
+Speaker 1
+ like team submissions where like people will just like really really really overlap typings. It is okay and it also depends on the typing in the meta game. For example, like Furograph and
+
+[00:25:03:16 - 00:25:31:56]
+Speaker 1
+ Ursaluna. This is a pairing that we know works well together in part because Ursaluna's only weakness is fighting. Sorry, that's not true. It's just always terra normal. So I'm like, oh, yeah, it's only weak to fighting. But yeah, basically even though these Pokemon overlap in terms of their types, they don't overlap in terms of their weaknesses. Ursaluna is weak to let's just pull this up completely normal ground. It's weak to fighting water, grass and ice, none of which Furograph is weak to and then Furograph gains weaknesses to bug and dark, neither of which Ursaluna is weak to. So even though they have the same typing
+
+[00:25:33:01 - 00:26:28:13]
+Speaker 1
+ or even though they share a type, they're typing overlaps with normal. They end up like actually not having any overlapping weaknesses. They also differing resistances. Obviously, they're both immune to ghost, but Furograph resist psychic and doesn't have any other resistances. And then Ursaluna resists like poison rock and electric and is immune to electric. So yeah, they don't have that many overlapping defensive things. So they provide something unique is what I'm trying to say from one another and on the other hand, offensively, Furograph mainly works as a supporting piece. Like it doesn't, Furograph with Ursaluna is often used as a like helping hand trick room and then like maybe psychic dazzling gleam is the more common set or like foul play can be on there or sometimes it will even drop a second attacking move and just run like in prison. Like it doesn't normally run that many offensive moves. And so like you're not overlapping that much in terms of defense or offense. That being said, if you have Furograph or Sulluna and like, I don't know, Incineroar, Hydreigon,
+
+[00:26:30:46 - 00:27:48:42]
+Speaker 1
+ I don't know, like Meowth, I guess Meowth's Grotto would be not here, but like another fire type. I don't know, like maybe you have Typhlosion on the team, right? Like all of a sudden you don't want to overlap too much, right? If you have a team like this, it's like, oh, I only have like, I have two fire, two dark, two normal, right? It can be very quickly for like, it very quickly thinks it out of hand, right? So when you overlap typing, you just need to keep in mind that like you, when you're building a team, you're trying to like have as many tools as possible, right? At least most people are trying to have as many tools as possible. That's what I'd recommend and to do that, you want the most diverse spread of, like in theory, the more you don't want the most diverse spread of types as possible. It's not how this works. There's so many other factors than just typing, but each typing that you have, like, is going to do something unique in the type chart. And so you don't want to overlap too much. Like you don't want all your Pokemon to be fire, water, or grass, right? You want to have things in different dimensions so that when you run into weird things that aren't like necessarily within your normal scope, that you have a way to resist them or to threaten them in some way. So some overlap is okay. I would say typing is a good example of anti synergy, like having two normal types. That's an example of anti synergy, but some anti synergy is okay. You just have to decide how much on my teams this year. I had some overlaps right on my tournament winning teams. For example, on my Charlotte team, I had over upon hearth flame.
+
+[00:27:50:00 - 00:28:09:28]
+Speaker 1
+ And Rilla boom. These Pokemon had anti synergy because they both were grass type Pokemon. And this actually got me into trouble. Sometimes actually I had a lot of anti synergy because I had over upon Rilla boom. Oh, sorry, but they also they also regular natural like inherent synergy because I could use grassy glide with overpond being and I needed the grassy train for that. I also had Incinero on this team,
+
+[00:28:11:16 - 00:28:17:55]
+Speaker 1
+ meaning I had two grass and two fire types. So and there were certain like I really had trouble with dragon type Pokemon because I also had like Urshifu here.
+
+[00:28:19:28 - 00:29:09:06]
+Speaker 1
+ Urshifu water. Sorry, Urshifu. Well, every Pokemon on the team is illegal. Yeah, literally everything except for for re-arph is illegal. This is the full team. Yeah, and basically because I have like four of my Pokemon were fire water or grass like in this little quadrant at the opponent of dragon type. It was actually pretty hard for me. Like I was relying on just my remaining Pokemon to deal with it. So yeah, like that like this team has some anti synergy, but it was okay. But yeah, that was a weakness of it and then on my Orlando winning team. I had Landorus incarnate and tornadis who were both flying types. This was less offensive though, because this is the only typing overlap and Pro Landorus didn't use its flying typing offensively. Like it didn't run a flying move that was running protect Earth power sludge bomb and substitute and tornadus. The only attacking move was bleak windstorm. So, um,
+
+[00:29:10:20 - 00:29:42:51]
+Speaker 1
+ yeah, basically here, even though they're both flying types like it's we're not as because it's a flying table. He's rocking electric Landris wasn't weak to those and then there was no offensive overlap as well. So even though they were both flying types, like it actually was this was a lot less of a problem because Landorus didn't use its flying typing offensively and they didn't overlap weaknesses with tornadus because of its ground typing making it like resistor immune to the moves that tornadus was weak to and so yeah, even though these are both flying types. There was a lot less offensive. Basically what I'm trying to say is that like a lot of synergy, especially a lot of managing anti synergy is
+
+[00:29:44:53 - 00:30:31:19]
+Speaker 1
+ it's about understanding what what is okay to get away with and what sacrifices you can make. It's not about how like it's not about avoiding it entirely right and even you know Pelopon and Bescalision for example, like I was saying like like lots of Pokemon anti synergy Pelopon Bescalision is an example of some something you need. You it's okay to have a little anti synergy is what I'm trying to say, but you need to be careful with how much you're leaning into because the less the more anti synergy you have the more awkward the easier it is for you to get in an awkward position where your Pokemon are working against each other, not together. Cinder's really about having your Pokemon work together well and so yeah, like like the easy the better your Pokemon work together in the team builder, the easier it's going to be in battle for you to find positions where your Pokemon are working together on the field if that makes sense.
+
+[00:30:33:01 - 00:30:53:15]
+Speaker 1
+ I've already talked a lot about this, so I'm going to cut this one here. I feel like I've given you all a lot of information. I also feel like I talked really really fast for this. So I hope this is interesting. I hope this is a I feel like I was able to cover a fair bit of depth here. So yeah, I hope that this makes sense. I hope you enjoy the content. Thank you for all the support. I really appreciate it and yeah, okay. I'm all caught up on August now. Let's go. See you all in September. Bye bye.

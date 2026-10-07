@@ -1,0 +1,92 @@
+Rillaboom|225|Miracle Seed|Grassy Surge|Adamant|24/15/0/0/14/13|Adamant|215|Fake Out:224/Grassy Glide:223/Wood Hammer:203/U-turn:103/High Horsepower:98/Protect:20
+Sneasler|201|Grassy Seed|Unburden|Adamant|2/32/0/0/0/32|Adamant|188|Close Combat:201/Dire Claw:177/Protect:145/Fake Out:96/Rock Slide:65/Coaching:22
+Salamence|163|Salamencite|Intimidate|Timid|2/0/0/32/0/32|Timid|155|Protect:162/Hyper Voice:153/Tailwind:124/Draco Meteor:83/Double-Edge:47/Flamethrower:36
+Incineroar|143|Sitrus Berry|Intimidate|Careful|32/0/14/0/20/0|Careful|135|Fake Out:143/Parting Shot:139/Flare Blitz:135/Throat Chop:76/Darkest Lariat:34/Protect:13
+Kingambit|121|Chople Berry|Defiant|Adamant|2/32/0/0/0/32|Adamant|111|Sucker Punch:119/Kowtow Cleave:117/Iron Head:87/Low Kick:66/Protect:63/Swords Dance:28
+Indeedee-F|105|Rocky Helmet|Psychic Surge|Relaxed|32/0/32/0/2/0|Relaxed|96|Follow Me:105/Helping Hand:95/Trick Room:86/Psychic:59/Terrain Pulse:26/Protect:21
+Basculegion|93|Life Orb|Adaptability|Adamant|2/32/0/0/0/32|Jolly|89|Last Respects:93/Aqua Jet:90/Wave Crash:85/Protect:59/Flip Turn:31/Liquidation:8
+Gholdengo|90|Life Orb|Good as Gold|Modest|17/0/0/17/0/32|Modest|85|Make It Rain:90/Shadow Ball:89/Protect:87/Nasty Plot:80/Power Gem:8/Trick:2
+Golisopod|66|Golisopite|Emergency Exit|Adamant|32/32/0/0/2/0|Adamant|64|Leech Life:57/Iron Head:55/Protect:45/Sucker Punch:25/Swords Dance:22/Liquidation:13
+Floette-Eternal|66|Floettite|Flower Veil|Modest|4/0/8/32/0/22|Timid|61|Protect:66/Dazzling Gleam:64/Calm Mind:47/Moonblast:47/Light of Ruin:21/Draining Kiss:19
+Milotic|64|Leftovers|Competitive|Calm|32/0/19/10/0/5|Modest|59|Protect:50/Scald:41/Ice Beam:34/Icy Wind:28/Coil:23/Hypnosis:23
+Arcanine-Hisui|55|Focus Sash|Rock Head|Jolly|2/32/0/0/0/32|Jolly|48|Flare Blitz:55/Protect:54/Head Smash:50/Extreme Speed:50/Rock Slide:8/Close Combat:1
+Garchomp|55|Garchompite Z|Rough Skin|Modest|2/0/0/32/0/32|Modest|52|Protect:45/Power Gem:26/Flamethrower:25/Draco Meteor:21/Dragon Claw:20/Earthquake:17
+Sylveon|45|Fairy Feather|Pixilate|Modest|9/0/22/20/0/15|Modest|41|Hyper Voice:45/Quick Attack:41/Hyper Beam:39/Detect:35/Protect:10/Yawn:5
+Raichu|43|Raichunite Y|Lightning Rod|Timid|32/0/11/0/0/23|Timid|38|Zap Cannon:43/Focus Blast:43/Protect:41/Fake Out:34/Encore:11
+Farigiraf|42|Sitrus Berry|Armor Tail|Bold|32/0/20/0/14/0|Bold|38|Trick Room:42/Protect:26/Psychic:23/Thunderbolt:23/Helping Hand:19/Twin Beam:9
+Pelipper|42|Focus Sash|Drizzle|Modest|2/0/0/32/0/32|Timid|39|Hurricane:42/Weather Ball:39/Tailwind:34/Wide Guard:29/Protect:16/Helping Hand:2
+Armarouge|40|Life Orb|Flash Fire|Modest|2/0/0/32/0/32|Modest|36|Expanding Force:39/Armor Cannon:31/Protect:26/Trick Room:17/Wide Guard:15/Heat Wave:10
+Tyranitar|39|Tyranitarite|Sand Stream|Adamant|17/17/0/0/0/32|Adamant|38|Rock Slide:39/Knock Off:38/Protect:35/Low Kick:32/Dragon Dance:5/Ice Punch:5
+Archaludon|37|Leftovers|Stamina|Modest|32/0/0/1/29/4|Modest|33|Electro Shot:35/Protect:33/Flash Cannon:30/Dragon Pulse:29/Snarl:6/Aura Sphere:5
+Gardevoir|36|Gardevoirite|Trace|Modest|28/0/17/10/0/11|Modest|32|Hyper Voice:36/Protect:36/Expanding Force:35/Trick Room:18/Calm Mind:5/Thunderbolt:5
+Charizard|35|Charizardite Y|Blaze|Modest|12/0/14/8/0/32|Timid|31|Protect:35/Heat Wave:31/Weather Ball:28/Ancient Power:18/Solar Beam:10/Hurricane:3
+Excadrill|32|Focus Sash|Sand Rush|Adamant|2/32/0/0/0/32|Adamant|31|Iron Head:32/Protect:32/High Horsepower:28/Rock Slide:26/Earthquake:8/Swords Dance:2
+Lucario|28|Lucarionite Z|Inner Focus|Modest|2/0/0/32/0/32|Modest|27|Aura Sphere:28/Flash Cannon:25/Detect:15/Protect:13/Calm Mind:10/Steel Beam:6
+Baxcalibur|27|Baxcalibrite|Thermal Exchange|Adamant|21/16/3/0/0/26|Adamant|27|Protect:27/Ice Shard:26/Glaive Rush:25/Icicle Crash:11/Swords Dance:7/Dragon Dance:3
+Torkoal|26|Charcoal|Drought|Quiet|32/0/0/32/2/0|Quiet|26|Eruption:26/Protect:24/Weather Ball:20/Heat Wave:11/Earth Power:10/Helping Hand:10
+Indeedee|25|Choice Scarf|Psychic Surge|Timid|2/0/0/32/0/32|Timid|21|Expanding Force:25/Trick:14/Protect:13/Mystical Fire:8/Dazzling Gleam:8/Trick Room:7
+Staraptor|21|Staraptite|Intimidate|Jolly|19/15/0/0/0/32|Jolly|15|Close Combat:21/Protect:20/Brave Bird:18/Tailwind:14/Roost:6/Dual Wingbeat:3
+Metagross|20|Metagrossite|Clear Body|Adamant|24/15/0/0/0/27|Adamant|18|Protect:20/Psychic Fangs:19/Body Press:12/Steel Roller:9/Iron Head:9/Stomping Tantrum:5
+Sinistcha|19|Sitrus Berry|Hospitality|Bold|32/0/14/0/20/0|Calm|18|Matcha Gotcha:19/Rage Powder:19/Trick Room:16/Protect:13/Life Dew:5/Shadow Ball:2
+Whimsicott|19|Focus Sash|Prankster|Timid|2/0/0/32/0/32|Timid|15|Moonblast:19/Tailwind:19/Encore:13/Protect:12/Charm:3/Light Screen:3
+Pawmot|19|Focus Sash|Iron Fist|Jolly|2/32/0/0/0/32|Jolly|19|Close Combat:18/Double Shock:14/Fake Out:12/Revival Blessing:12/Protect:5/Double-Edge:4
+Volcarona|19|Grassy Seed|Flame Body|Bold|32/0/32/0/2/0|Bold|18|Protect:18/Rage Powder:10/Quiver Dance:9/Struggle Bug:8/Heat Wave:6/Giga Drain:6
+Gengar|18|Gengarite|Cursed Body|Modest|32/0/6/0/8/20|Modest|15|Shadow Ball:18/Protect:18/Sludge Bomb:15/Perish Song:13/Substitute:3/Disable:2
+Glimmora|18|Glimmoranite|Toxic Debris|Timid|2/0/0/32/0/32|Timid|18|Spiky Shield:18/Sludge Bomb:18/Power Gem:18/Earth Power:18
+Absol|14|Absolite Z|Justified|Jolly|11/19/4/0/0/32|Jolly|14|Night Slash:12/Detect:10/Close Combat:9/Shadow Claw:9/Will-O-Wisp:4/Protect:4
+Froslass|14|Froslassite|Cursed Body|Timid|15/0/8/9/2/32|Timid|13|Blizzard:14/Protect:14/Shadow Ball:13/Aurora Veil:13/Taunt:1/Rain Dance:1
+Grimmsnarl|13|Light Clay|Prankster|Careful|32/0/19/0/15/0|Sassy|12|Reflect:13/Light Screen:13/Spirit Break:12/Parting Shot:12/Fake Out:1/Foul Play:1
+Swampert|13|Swampertite|Torrent|Adamant|2/32/0/0/0/32|Adamant|12|Wave Crash:13/Protect:13/Ice Punch:12/Earthquake:8/High Horsepower:5/Yawn:1
+Politoed|12|Sitrus Berry|Drizzle|Calm|31/0/23/0/12/0|Calm|11|Weather Ball:12/Protect:12/Perish Song:8/Encore:6/Ice Beam:4/Muddy Water:3
+Aerodactyl|12|Aerodactylite|Unnerve|Jolly|2/32/0/0/0/32|Jolly|10|Rock Slide:12/Tailwind:12/Dual Wingbeat:10/Protect:8/Wide Guard:3/Ice Fang:2
+Hatterene|12|Life Orb|Magic Bounce|Quiet|32/0/2/32/0/0|Quiet|11|Dazzling Gleam:12/Expanding Force:12/Trick Room:12/Protect:9/Giga Drain:1/Psychic:1
+Ninetales-Alola|11|Light Clay|Snow Warning|Timid|5/0/7/22/0/32|Timid|11|Blizzard:10/Protect:9/Aurora Veil:7/Moonblast:5/Freeze-Dry:4/Encore:3
+Blastoise|11|Blastoisinite|Torrent|Modest|22/0/0/25/0/19|Modest|9|Protect:9/Water Spout:9/Shell Smash:7/Terrain Pulse:6/Dark Pulse:3/Fake Out:3
+Kommo-o|10|Leftovers|Soundproof|Modest|2/0/0/32/0/32|Modest|8|Clanging Scales:10/Protect:10/Aura Sphere:9/Clangorous Soul:8/Flamethrower:3
+Delphox|10|Delphoxite|Blaze|Timid|2/0/0/32/0/32|Timid|7|Protect:10/Heat Wave:9/Nasty Plot:5/Psychic:4/Expanding Force:4/Focus Blast:2
+Dragonite|9|Dragoninite|Inner Focus|Adamant|2/0/0/32/0/32|Modest|9|Protect:6/Dragon Pulse:5/Heat Wave:5/Extreme Speed:5/Tailwind:4/Dragon Claw:3
+Venusaur|9|Focus Sash|Chlorophyll|Modest|2/0/0/32/0/32|Modest|9|Leaf Storm:8/Sludge Bomb:8/Protect:8/Sleep Powder:7/Earth Power:4/Energy Ball:1
+Blaziken|9|Blazikenite|Speed Boost|Adamant|2/32/0/0/0/32|Jolly|9|Flare Blitz:7/Close Combat:7/Detect:7/Rock Slide:6/Coaching:2/Heat Wave:2
+Dragapult|8|Life Orb|Infiltrator|Modest|2/0/0/32/0/32|Modest|6|Shadow Ball:8/Will-O-Wisp:8/Draco Meteor:7/Protect:7/Dragon Cheer:1/Disable:1
+Annihilape|8|Choice Scarf|Defiant|Jolly|2/32/0/0/0/32|Adamant|5|Close Combat:6/Shadow Claw:6/Ice Punch:4/U-turn:2/Phantom Force:2/Drain Punch:2
+Talonflame|8|Sharp Beak|Gale Wings|Jolly|2/32/0/0/0/32|Jolly|8|Tailwind:8/Protect:6/Flare Blitz:6/Brave Bird:3/Dual Wingbeat:3/Air Slash:2
+Corviknight|7|Psychic Seed|Mirror Armor|Careful|32/18/2/0/5/9|Careful|6|Bulk Up:6/Roost:6/Brave Bird:5/Power Trip:3/Body Press:3/Tailwind:2
+Floette|7|Floettite|Fairy Aura|Modest|27/0/17/5/2/15|Modest|7|Protect:7/Calm Mind:7/Dazzling Gleam:6/Draining Kiss:5/Moonblast:3
+Hydreigon|7|Choice Scarf|Levitate|Modest|2/0/0/32/0/32|Modest|6|Draco Meteor:7/Dark Pulse:7/Snarl:6/U-turn:2/Heat Wave:2/Flash Cannon:1
+Primarina|6|Leftovers|Liquid Voice|Modest|26/0/3/14/0/23|Modest|6|Moonblast:6/Hyper Voice:6/Protect:6/Calm Mind:4/Dazzling Gleam:1/Helping Hand:1
+Mawile|6|Mawilite|Hyper Cutter|Brave|32/32/0/0/2/0|Brave|6|Protect:6/Play Rough:6/Iron Head:5/Sucker Punch:5/Rock Slide:2
+Meowstic-F|6|Meowsticite|Competitive|Timid|16/0/4/17/0/29|Timid|5|Expanding Force:6/Protect:6/Fake Out:4/Alluring Voice:4/Thunderbolt:2/Shadow Ball:1
+Ceruledge|5|Grassy Seed|Flash Fire|Adamant|31/7/24/0/3/1|Adamant|5|Bitter Blade:5/Shadow Sneak:4/Protect:4/Swords Dance:3/Bulk Up:2/Poltergeist:1
+Camerupt|5|Cameruptite|Solid Rock|Quiet|32/0/2/32/0/0|Quiet|4|Heat Wave:5/Earth Power:5/Protect:5/Ancient Power:5
+Sirfetch'd|5|Leek|Scrappy|Adamant|32/32/0/0/2/0|Brave|5|Detect:5/Meteor Assault:5/Close Combat:5/Leaf Blade:1/Quick Guard:1/Feint:1
+Toxtricity|4|Life Orb|Punk Rock|Modest|19/0/0/30/0/17|Modest|4|Overdrive:4/Sludge Bomb:4/Protect:3/Boomburst:2/Thunderbolt:1/Snarl:1
+Typhlosion-Hisui|4|Choice Scarf|Frisk|Modest|1/0/1/32/0/32|Modest|3|Eruption:4/Shadow Ball:4/Heat Wave:4/Overheat:2/Protect:1/Focus Blast:1
+Gallade|4|Focus Sash|Sharpness|Brave|32/32/2/0/0/0|Brave|4|Wide Guard:4/Sacred Sword:4/Psycho Cut:4/Trick Room:3/Poison Jab:1
+Scrafty|4|Focus Sash|Intimidate|Impish|32/32/0/0/2/0|Adamant|4|Knock Off:4/Fake Out:4/Close Combat:3/Protect:2/Drain Punch:1/Detect:1
+Sinistcha-Masterpiece|3|Colbur Berry|Hospitality|Bold|32/0/14/0/19/1|Bold|2|Matcha Gotcha:3/Rage Powder:3/Protect:3/Trick Room:2/Life Dew:1
+Altaria|3|Haban Berry|Cloud Nine|Timid|32/0/5/0/0/29|Timid|3|Will-O-Wisp:3/Protect:3/Ice Beam:2/Tailwind:2/Perish Song:1/Fire Spin:1
+Pyroar|3|Pyroarite|Moxie|Timid|30/0/0/9/0/27|Timid|3|Heat Wave:3/Protect:3/Snarl:2/Yawn:2/Overheat:1/Scorching Sands:1
+Aegislash|3|Focus Sash|Stance Change|Adamant|2/32/0/0/0/32|Adamant|3|Poltergeist:3/Wide Guard:3/Iron Head:2/Close Combat:2/Sacred Sword:1/Shadow Sneak:1
+Vanilluxe|3|Choice Scarf|Snow Warning|Timid|2/0/0/32/0/32|Timid|3|Blizzard:3/Freeze-Dry:3/Icy Wind:2/Sheer Cold:1/Aurora Veil:1/Ice Shard:1
+Alakazam|3|Alakazite|Inner Focus|Timid|0/0/0/32/3/31|Modest|3|Protect:3/Expanding Force:3/Focus Blast:2/Calm Mind:2/Encore:1/Dazzling Gleam:1
+Lycanroc-Dusk|3|Focus Sash|Tough Claws|Adamant|1/32/1/0/0/32|Adamant|3|Protect:3/Rock Slide:3/Close Combat:3/Accelerock:3
+Maushold-Four|3|Wide Lens|Technician|Jolly|0/32/0/0/2/32|Jolly|3|Follow Me:3/Protect:3/Population Bomb:2/Bite:1/Super Fang:1/Feint:1
+Tsareena|3|Wide Lens|Queenly Majesty|Adamant|10/23/7/0/0/26|Adamant|3|Power Whip:3/Triple Axel:3/Low Kick:3/Helping Hand:2/Protect:1
+Pincurchin|3|Electric Seed|Electric Surge|Quiet|32/29/5/0/0/0|Brave|3|Sucker Punch:2/Rising Voltage:2/Acupressure:2/Protect:2/Zing Zap:1/Liquidation:1
+Zoroark-Hisui|3|Focus Sash|Illusion|Timid|2/0/0/32/0/32|Timid|3|Flamethrower:2/Icy Wind:2/Shadow Ball:1/Psychic:1/Trick:1/Bitter Malice:1
+Snorlax|3|Leftovers|Thick Fat|Relaxed|21/0/31/0/14/0|Relaxed|2|Fissure:3/Protect:3/Yawn:2/Encore:2/Smack Down:1/Stockpile:1
+Scizor|3|Scizorite|Technician|Adamant|32/32/0/0/2/0|Adamant|3|Bug Bite:3/Bullet Punch:3/Protect:3/Swords Dance:2/Assurance:1
+Noivern|2|Focus Sash|Infiltrator|Timid|2/0/0/32/0/32|Timid|2|Draco Meteor:2/Tailwind:2/Protect:2/Super Fang:1/Boomburst:1
+Hippowdon|2|Leftovers|Sand Stream|Brave|25/8/1/0/32/0|Brave|2|Protect:2/High Horsepower:2/Yawn:2/Ice Fang:2
+Gyarados|2|Choice Scarf|Intimidate|Jolly|5/31/0/0/0/30|Jolly|2|Waterfall:2/Power Whip:1/Stone Edge:1/Ice Fang:1/Dragon Dance:1/Temper Flare:1
+Meganium|2|Meganiumite|Overgrow|Modest|2/0/0/32/0/32|Modest|2|Weather Ball:2/Protect:2/Earth Power:2/Solar Beam:2
+Toxapex|2|Sitrus Berry|Regenerator|Bold|32/0/18/0/16/0|Bold|2|Baneful Bunker:2/Toxic:2/Infestation:2/Wide Guard:2
+Sableye|2|Roseli Berry|Prankster|Calm|32/0/13/0/21/0|Calm|2|Reflect:2/Fake Out:1/Will-O-Wisp:1/Encore:1/Quash:1/Light Screen:1
+Empoleon|2|Life Orb|Competitive|Modest|30/0/0/31/0/5|Modest|2|Hydro Pump:2/Flash Cannon:2/Ice Beam:2/Protect:2
+Cinderace|2|White Herb|Libero|Adamant|2/32/0/0/0/32|Adamant|2|Pyro Ball:2/High Jump Kick:2/Snarl:2/Sucker Punch:1/Taunt:1
+Klefki|2|Sitrus Berry|Prankster|Calm|32/0/21/0/13/0|Calm|2|Draining Kiss:1/Psych Up:1/Substitute:1/Calm Mind:1/Dazzling Gleam:1/Light Screen:1
+Raichu-Alola|2|Life Orb|Surge Surfer|Modest|12/0/1/32/0/21|Modest|2|Rising Voltage:2/Expanding Force:2/Protect:2/Alluring Voice:1/Fake Out:1
+Dragalge|2|Dragalgite|Adaptability|Modest|23/0/0/24/0/19|Modest|2|Sludge Bomb:2/Protect:2/Flip Turn:2/Draco Meteor:1/Dragon Pulse:1
+Mimikyu|2|Fairy Feather|Disguise|Adamant|1/32/1/0/0/32|Adamant|2|Play Rough:2/Trick Room:2/Phantom Force:1/Shadow Sneak:1/Shadow Claw:1/Protect:1
+Torterra|2|Life Orb|Shell Armor|Adamant|32/11/15/0/0/8|Adamant|2|Earthquake:2/Wood Hammer:2/Headlong Rush:2/Wide Guard:2
+Bellibolt|2|Leftovers|Electromorphosis|Modest|32/0/0/7/27/0|Modest|2|Parabolic Charge:2/Thunderbolt:2/Protect:2/Soak:1/Muddy Water:1
