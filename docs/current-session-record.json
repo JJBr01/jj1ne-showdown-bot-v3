@@ -1,0 +1,10 @@
+{
+  "team": "sun_dragonite_gholdengo",
+  "scheduledGames": 20,
+  "processId": 21108,
+  "initialRecord": {"wins": 0, "losses": 0},
+  "resultsFile": "results.csv",
+  "baselineLastBattle": "battle-gen9championsvgc2026regmc-2694589169",
+  "baselineLastResultTime": "2026-10-07T16-06-17-EDT",
+  "countingRule": "Count only completed result rows appended after baselineLastBattle for this session. Preserve historical results. Initial record is not a live tally."
+}

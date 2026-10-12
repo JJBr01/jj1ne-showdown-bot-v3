@@ -1,0 +1,162 @@
+{
+ "standard": {
+  "Charizard|zw": {
+   "w": 20,
+   "l": 14
+  },
+  "Dragonite|zw": {
+   "w": 20,
+   "l": 16
+  },
+  "Charizard|zk": {
+   "w": 5,
+   "l": 9
+  },
+  "Dragonite|zg": {
+   "w": 1,
+   "l": 1
+  },
+  "Dragonite|zk": {
+   "w": 3,
+   "l": 4
+  }
+ },
+ "trickroom": {
+  "Dragonite|zf": {
+   "w": 2,
+   "l": 0
+  },
+  "Charizard|zw": {
+   "w": 9,
+   "l": 8
+  },
+  "Charizard|zf": {
+   "w": 0,
+   "l": 1
+  },
+  "Dragonite|zw": {
+   "w": 7,
+   "l": 14
+  },
+  "resumed": {
+   "w": 0,
+   "l": 1
+  },
+  "Charizard|zk": {
+   "w": 8,
+   "l": 9
+  },
+  "Dragonite|zk": {
+   "w": 6,
+   "l": 4
+  }
+ },
+ "snow": {
+  "Charizard|zw": {
+   "w": 4,
+   "l": 4
+  },
+  "Dragonite|zw": {
+   "w": 1,
+   "l": 0
+  }
+ },
+ "sand": {
+  "Charizard|zw": {
+   "w": 5,
+   "l": 4
+  },
+  "Charizard|zf": {
+   "w": 0,
+   "l": 1
+  },
+  "Dragonite|zw": {
+   "w": 0,
+   "l": 3
+  },
+  "resumed": {
+   "w": 0,
+   "l": 1
+  }
+ },
+ "rain": {
+  "Charizard|zw": {
+   "w": 4,
+   "l": 12
+  },
+  "Dragonite|zw": {
+   "w": 7,
+   "l": 11
+  },
+  "resumed": {
+   "w": 0,
+   "l": 1
+  },
+  "Charizard|zg": {
+   "w": 0,
+   "l": 2
+  },
+  "Charizard|zk": {
+   "w": 2,
+   "l": 2
+  },
+  "Dragonite|zk": {
+   "w": 1,
+   "l": 1
+  }
+ },
+ "sun": {
+  "Charizard|zw": {
+   "w": 18,
+   "l": 6
+  },
+  "Charizard|zg": {
+   "w": 0,
+   "l": 1
+  },
+  "Charizard|zk": {
+   "w": 0,
+   "l": 1
+  },
+  "Dragonite|zk": {
+   "w": 1,
+   "l": 0
+  }
+ },
+ "psyterrain": {
+  "Charizard|zw": {
+   "w": 10,
+   "l": 12
+  },
+  "Dragonite|zw": {
+   "w": 2,
+   "l": 7
+  },
+  "Charizard|zk": {
+   "w": 14,
+   "l": 11
+  },
+  "Dragonite|zk": {
+   "w": 0,
+   "l": 3
+  }
+ },
+ "raichu-staraptor": {
+  "Charizard|zw": {
+   "w": 1,
+   "l": 4
+  },
+  "Dragonite|zw": {
+   "w": 1,
+   "l": 0
+  },
+  "Charizard|zg": {
+   "w": 1,
+   "l": 0
+  },
+  "Dragonite|zk": {
+   "w": 1,
+   "l": 0
+  }
+ }
+}

@@ -1,0 +1,8286 @@
+{
+ "salamence": {
+  "species": "Salamence",
+  "item": "Salamencite",
+  "ability": "Intimidate",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Hyper Voice",
+   "Draco Meteor",
+   "Flamethrower",
+   "Tailwind"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC556"
+  ],
+  "n": 71,
+  "teamCount": 21,
+  "variants": [
+   {
+    "species": "Salamence",
+    "item": "Salamencite",
+    "ability": "Intimidate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Hyper Voice",
+     "Draco Meteor",
+     "Flamethrower",
+     "Tailwind"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Salamence",
+    "item": "Salamencite",
+    "ability": "Intimidate",
+    "nature": "Timid",
+    "evs": {
+     "hp": 10,
+     "atk": 0,
+     "def": 0,
+     "spa": 24,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Protect",
+     "Hyper Voice",
+     "Tailwind",
+     "Flamethrower"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC527"
+    ]
+   },
+   {
+    "species": "Salamence",
+    "item": "Salamencite",
+    "ability": "Intimidate",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Heat Wave",
+     "Draco Meteor",
+     "Hyper Voice",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC406"
+    ]
+   },
+   {
+    "species": "Salamence",
+    "item": "Salamencite",
+    "ability": "Intimidate",
+    "nature": "Timid",
+    "evs": {
+     "hp": 13,
+     "atk": 0,
+     "def": 2,
+     "spa": 16,
+     "spd": 3,
+     "spe": 32
+    },
+    "moves": [
+     "Hyper Voice",
+     "Fire Blast",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC329"
+    ]
+   },
+   {
+    "species": "Salamence",
+    "item": "Salamencite",
+    "ability": "Intimidate",
+    "nature": "Timid",
+    "evs": {
+     "hp": 5,
+     "atk": 0,
+     "def": 0,
+     "spa": 15,
+     "spd": 14,
+     "spe": 32
+    },
+    "moves": [
+     "Draco Meteor",
+     "Hyper Voice",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC306"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Hyper Voice": 68,
+   "Protect": 63,
+   "Draco Meteor": 48,
+   "Tailwind": 48,
+   "Flamethrower": 20,
+   "Double-Edge": 10,
+   "Heat Wave": 8,
+   "Fire Blast": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "basculegion": {
+  "species": "Basculegion",
+  "item": "Life Orb",
+  "ability": "Adaptability",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Wave Crash",
+   "Last Respects",
+   "Aqua Jet",
+   "Protect"
+  ],
+  "weight": 7,
+  "count": 3,
+  "teamIds": [
+   "MC547",
+   "MC348",
+   "MC346"
+  ],
+  "n": 51,
+  "teamCount": 16,
+  "variants": [
+   {
+    "species": "Basculegion",
+    "item": "Life Orb",
+    "ability": "Adaptability",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wave Crash",
+     "Last Respects",
+     "Aqua Jet",
+     "Protect"
+    ],
+    "weight": 7,
+    "count": 3,
+    "teamIds": [
+     "MC547",
+     "MC348",
+     "MC346"
+    ]
+   },
+   {
+    "species": "Basculegion",
+    "item": "Colbur Berry",
+    "ability": "Adaptability",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wave Crash",
+     "Last Respects",
+     "Aqua Jet",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Basculegion",
+    "item": "Choice Scarf",
+    "ability": "Adaptability",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 1,
+     "atk": 32,
+     "def": 1,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Wave Crash",
+     "Last Respects",
+     "Aqua Jet",
+     "Flip Turn"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC442"
+    ]
+   },
+   {
+    "species": "Basculegion",
+    "item": "Mystic Water",
+    "ability": "Adaptability",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wave Crash",
+     "Last Respects",
+     "Aqua Jet",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Basculegion",
+    "item": "Life Orb",
+    "ability": "Adaptability",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 4,
+     "atk": 24,
+     "def": 10,
+     "spa": 0,
+     "spd": 0,
+     "spe": 28
+    },
+    "moves": [
+     "Wave Crash",
+     "Last Respects",
+     "Aqua Jet",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC219"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Last Respects": 51,
+   "Aqua Jet": 49,
+   "Wave Crash": 46,
+   "Protect": 35,
+   "Flip Turn": 16,
+   "Liquidation": 5,
+   "Soak": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "kingambit": {
+  "species": "Kingambit",
+  "item": "Life Orb",
+  "ability": "Defiant",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Kowtow Cleave",
+   "Sucker Punch",
+   "Swords Dance",
+   "Protect"
+  ],
+  "weight": 15,
+  "count": 6,
+  "teamIds": [
+   "MC549",
+   "MC536",
+   "MC441",
+   "MC436",
+   "MC404"
+  ],
+  "n": 109,
+  "teamCount": 36,
+  "variants": [
+   {
+    "species": "Kingambit",
+    "item": "Life Orb",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Kowtow Cleave",
+     "Sucker Punch",
+     "Swords Dance",
+     "Protect"
+    ],
+    "weight": 15,
+    "count": 6,
+    "teamIds": [
+     "MC549",
+     "MC536",
+     "MC441",
+     "MC436",
+     "MC404"
+    ]
+   },
+   {
+    "species": "Kingambit",
+    "item": "Chople Berry",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Kowtow Cleave",
+     "Iron Head",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Kingambit",
+    "item": "Focus Sash",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Kowtow Cleave",
+     "Iron Head",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC527"
+    ]
+   },
+   {
+    "species": "Kingambit",
+    "item": "Chople Berry",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 5,
+     "def": 16,
+     "spa": 0,
+     "spd": 13,
+     "spe": 0
+    },
+    "moves": [
+     "Iron Head",
+     "Kowtow Cleave",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   },
+   {
+    "species": "Kingambit",
+    "item": "Life Orb",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "def": 1,
+     "spa": 0,
+     "spd": 0,
+     "spe": 1
+    },
+    "moves": [
+     "Kowtow Cleave",
+     "Swords Dance",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC443"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Kowtow Cleave": 109,
+   "Sucker Punch": 109,
+   "Iron Head": 78,
+   "Protect": 65,
+   "Low Kick": 47,
+   "Swords Dance": 28
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "sneasler": {
+  "species": "Sneasler",
+  "item": "Focus Sash",
+  "ability": "Poison Touch",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Fake Out",
+   "Close Combat",
+   "Poison Jab",
+   "Quick Guard"
+  ],
+  "weight": 7,
+  "count": 2,
+  "teamIds": [
+   "MC436",
+   "MC351"
+  ],
+  "n": 142,
+  "teamCount": 42,
+  "variants": [
+   {
+    "species": "Sneasler",
+    "item": "Focus Sash",
+    "ability": "Poison Touch",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Fake Out",
+     "Close Combat",
+     "Poison Jab",
+     "Quick Guard"
+    ],
+    "weight": 7,
+    "count": 2,
+    "teamIds": [
+     "MC436",
+     "MC351"
+    ]
+   },
+   {
+    "species": "Sneasler",
+    "item": "White Herb",
+    "ability": "Unburden",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Gunk Shot",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 6,
+    "count": 2,
+    "teamIds": [
+     "MC554",
+     "MC541"
+    ]
+   },
+   {
+    "species": "Sneasler",
+    "item": "Focus Sash",
+    "ability": "Poison Touch",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Fake Out",
+     "Close Combat",
+     "Protect",
+     "Dire Claw"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Sneasler",
+    "item": "White Herb",
+    "ability": "Unburden",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Dire Claw",
+     "Rock Tomb",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC542"
+    ]
+   },
+   {
+    "species": "Sneasler",
+    "item": "Psychic Seed",
+    "ability": "Unburden",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Close Combat",
+     "Dire Claw",
+     "Rock Slide",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Close Combat": 142,
+   "Dire Claw": 109,
+   "Protect": 108,
+   "Fake Out": 63,
+   "Rock Slide": 50,
+   "Rock Tomb": 25,
+   "Quick Guard": 17,
+   "Poison Jab": 14
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "rillaboom": {
+  "species": "Rillaboom",
+  "item": "Miracle Seed",
+  "ability": "Grassy Surge",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Wood Hammer",
+   "Grassy Glide",
+   "High Horsepower",
+   "Fake Out"
+  ],
+  "weight": 20,
+  "count": 7,
+  "teamIds": [
+   "MC542",
+   "MC539",
+   "MC537",
+   "MC456",
+   "MC441"
+  ],
+  "n": 137,
+  "teamCount": 43,
+  "variants": [
+   {
+    "species": "Rillaboom",
+    "item": "Miracle Seed",
+    "ability": "Grassy Surge",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wood Hammer",
+     "Grassy Glide",
+     "High Horsepower",
+     "Fake Out"
+    ],
+    "weight": 20,
+    "count": 7,
+    "teamIds": [
+     "MC542",
+     "MC539",
+     "MC537",
+     "MC456",
+     "MC441"
+    ]
+   },
+   {
+    "species": "Rillaboom",
+    "item": "Miracle Seed",
+    "ability": "Grassy Surge",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wood Hammer",
+     "High Horsepower",
+     "Grassy Glide",
+     "Fake Out"
+    ],
+    "weight": 6,
+    "count": 2,
+    "teamIds": [
+     "MC552",
+     "MC551"
+    ]
+   },
+   {
+    "species": "Rillaboom",
+    "item": "Life Orb",
+    "ability": "Grassy Surge",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Grassy Glide",
+     "Wood Hammer",
+     "Fake Out",
+     "High Horsepower"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Rillaboom",
+    "item": "Miracle Seed",
+    "ability": "Grassy Surge",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 26,
+     "atk": 25,
+     "def": 0,
+     "spa": 0,
+     "spd": 12,
+     "spe": 3
+    },
+    "moves": [
+     "Grassy Glide",
+     "Wood Hammer",
+     "High Horsepower",
+     "Fake Out"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC460"
+    ]
+   },
+   {
+    "species": "Rillaboom",
+    "item": "Miracle Seed",
+    "ability": "Grassy Surge",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 17,
+     "atk": 31,
+     "def": 0,
+     "spa": 0,
+     "spd": 10,
+     "spe": 8
+    },
+    "moves": [
+     "Wood Hammer",
+     "High Horsepower",
+     "Fake Out",
+     "Grassy Glide"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC443"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Grassy Glide": 137,
+   "Fake Out": 137,
+   "Wood Hammer": 113,
+   "High Horsepower": 81,
+   "U-turn": 46,
+   "Protect": 24,
+   "Superpower": 5,
+   "U-Turn": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "floetteeternal": {
+  "species": "Floette-Eternal",
+  "item": "Floettite",
+  "ability": "Flower Veil",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Dazzling Gleam",
+   "Draining Kiss",
+   "Calm Mind",
+   "Protect"
+  ],
+  "weight": 11,
+  "count": 3,
+  "teamIds": [
+   "MC542",
+   "MC456",
+   "MC402"
+  ],
+  "n": 74,
+  "teamCount": 22,
+  "variants": [
+   {
+    "species": "Floette-Eternal",
+    "item": "Floettite",
+    "ability": "Flower Veil",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Dazzling Gleam",
+     "Draining Kiss",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 11,
+    "count": 3,
+    "teamIds": [
+     "MC542",
+     "MC456",
+     "MC402"
+    ]
+   },
+   {
+    "species": "Floette-Eternal",
+    "item": "Floettite",
+    "ability": "Flower Veil",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Dazzling Gleam",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 6,
+    "count": 3,
+    "teamIds": [
+     "MC549",
+     "MC547",
+     "MC436"
+    ]
+   },
+   {
+    "species": "Floette-Eternal",
+    "item": "Floettite",
+    "ability": "Flower Veil",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Dazzling Gleam",
+     "Moonblast",
+     "Protect",
+     "Calm Mind"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC556"
+    ]
+   },
+   {
+    "species": "Floette-Eternal",
+    "item": "Floettite",
+    "ability": "Flower Veil",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Draining Kiss",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC543"
+    ]
+   },
+   {
+    "species": "Floette-Eternal",
+    "item": "Floettite",
+    "ability": "Flower Veil",
+    "nature": "Bold",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 32,
+     "spa": 1,
+     "spd": 1,
+     "spe": 0
+    },
+    "moves": [
+     "Draining Kiss",
+     "Dazzling Gleam",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC460"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 74,
+   "Dazzling Gleam": 69,
+   "Calm Mind": 65,
+   "Moonblast": 48,
+   "Draining Kiss": 31,
+   "Light of Ruin": 9
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "swampert": {
+  "species": "Swampert",
+  "item": "Swampertite",
+  "ability": "Torrent",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Wave Crash",
+   "Earthquake",
+   "Ice Punch",
+   "Protect"
+  ],
+  "weight": 7,
+  "count": 2,
+  "teamIds": [
+   "MC555",
+   "MC437"
+  ],
+  "n": 21,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Swampert",
+    "item": "Swampertite",
+    "ability": "Torrent",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wave Crash",
+     "Earthquake",
+     "Ice Punch",
+     "Protect"
+    ],
+    "weight": 7,
+    "count": 2,
+    "teamIds": [
+     "MC555",
+     "MC437"
+    ]
+   },
+   {
+    "species": "Swampert",
+    "item": "Swampertite",
+    "ability": "Swift Swim",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 7,
+     "atk": 30,
+     "def": 2,
+     "spa": 0,
+     "spd": 3,
+     "spe": 24
+    },
+    "moves": [
+     "Wave Crash",
+     "Earthquake",
+     "Ice Punch",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC279"
+    ]
+   },
+   {
+    "species": "Swampert",
+    "item": "Swampertite",
+    "ability": "Torrent",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Ice Punch",
+     "Wave Crash",
+     "Earthquake"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC438"
+    ]
+   },
+   {
+    "species": "Swampert",
+    "item": "Swampertite",
+    "ability": "Torrent",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Wave Crash",
+     "High Horsepower",
+     "Yawn",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC349"
+    ]
+   },
+   {
+    "species": "Swampert",
+    "item": "Swampertite",
+    "ability": "Damp",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 14,
+     "atk": 30,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 22
+    },
+    "moves": [
+     "Wave Crash",
+     "Ice Punch",
+     "Earthquake",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC115"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Wave Crash": 21,
+   "Protect": 21,
+   "Earthquake": 18,
+   "Ice Punch": 18,
+   "High Horsepower": 3,
+   "Yawn": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "pelipper": {
+  "species": "Pelipper",
+  "item": "Sitrus Berry",
+  "ability": "Drizzle",
+  "nature": "Bold",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Hurricane",
+   "Weather Ball",
+   "Tailwind",
+   "Wide Guard"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC555"
+  ],
+  "n": 47,
+  "teamCount": 15,
+  "variants": [
+   {
+    "species": "Pelipper",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Hurricane",
+     "Weather Ball",
+     "Tailwind",
+     "Wide Guard"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC555"
+    ]
+   },
+   {
+    "species": "Pelipper",
+    "item": "Focus Sash",
+    "ability": "Drizzle",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Weather Ball",
+     "Hurricane",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC442"
+    ]
+   },
+   {
+    "species": "Pelipper",
+    "item": "Focus Sash",
+    "ability": "Drizzle",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 1,
+     "spa": 30,
+     "spd": 1,
+     "spe": 32
+    },
+    "moves": [
+     "Weather Ball",
+     "Hurricane",
+     "Wide Guard",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC279"
+    ]
+   },
+   {
+    "species": "Pelipper",
+    "item": "Damp Rock",
+    "ability": "Drizzle",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Weather Ball",
+     "Hurricane",
+     "Helping Hand",
+     "Wide Guard"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC540"
+    ]
+   },
+   {
+    "species": "Pelipper",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Weather Ball",
+     "Hurricane",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC538"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Hurricane": 47,
+   "Weather Ball": 43,
+   "Tailwind": 33,
+   "Wide Guard": 29,
+   "Protect": 27,
+   "Helping Hand": 5,
+   "Muddy Water": 2,
+   "Soak": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "venusaur": {
+  "species": "Venusaur",
+  "item": "Life Orb",
+  "ability": "Chlorophyll",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Protect",
+   "Leaf Storm",
+   "Sludge Bomb",
+   "Earth Power"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC535",
+   "MC458"
+  ],
+  "n": 18,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Venusaur",
+    "item": "Life Orb",
+    "ability": "Chlorophyll",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Leaf Storm",
+     "Sludge Bomb",
+     "Earth Power"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Venusaur",
+    "item": "Focus Sash",
+    "ability": "Chlorophyll",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Leaf Storm",
+     "Sludge Bomb",
+     "Sleep Powder",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC555"
+    ]
+   },
+   {
+    "species": "Venusaur",
+    "item": "Focus Sash",
+    "ability": "Chlorophyll",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Sludge Bomb",
+     "Leaf Storm",
+     "Sleep Powder",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC538"
+    ]
+   },
+   {
+    "species": "Venusaur",
+    "item": "Focus Sash",
+    "ability": "Chlorophyll",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Sleep Powder",
+     "Sludge Bomb",
+     "Leaf Storm",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC438"
+    ]
+   },
+   {
+    "species": "Venusaur",
+    "item": "Focus Sash",
+    "ability": "Chlorophyll",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Protect",
+     "Sludge Bomb",
+     "Leaf Storm",
+     "Sleep Powder"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC67"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Leaf Storm": 18,
+   "Sludge Bomb": 18,
+   "Protect": 18,
+   "Sleep Powder": 13,
+   "Earth Power": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "charizard": {
+  "species": "Charizard",
+  "item": "Charizardite Y",
+  "ability": "Blaze",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Heat Wave",
+   "Weather Ball",
+   "Hurricane",
+   "Protect"
+  ],
+  "weight": 6,
+  "count": 2,
+  "teamIds": [
+   "MC538",
+   "MC438"
+  ],
+  "n": 45,
+  "teamCount": 14,
+  "variants": [
+   {
+    "species": "Charizard",
+    "item": "Charizardite Y",
+    "ability": "Blaze",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Heat Wave",
+     "Weather Ball",
+     "Hurricane",
+     "Protect"
+    ],
+    "weight": 6,
+    "count": 2,
+    "teamIds": [
+     "MC538",
+     "MC438"
+    ]
+   },
+   {
+    "species": "Charizard",
+    "item": "Charizardite Y",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Heat Wave",
+     "Weather Ball",
+     "Ancient Power"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Charizard",
+    "item": "Charizardite Y",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Heat Wave",
+     "Hurricane",
+     "Weather Ball",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC555"
+    ]
+   },
+   {
+    "species": "Charizard",
+    "item": "Charizardite Y",
+    "ability": "Blaze",
+    "nature": "Modest",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 0,
+     "spa": 11,
+     "spd": 0,
+     "spe": 24
+    },
+    "moves": [
+     "Heat Wave",
+     "Protect",
+     "Ancient Power",
+     "Weather Ball"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC527"
+    ]
+   },
+   {
+    "species": "Charizard",
+    "item": "Charizardite Y",
+    "ability": "Blaze",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 9,
+     "spa": 1,
+     "spd": 13,
+     "spe": 11
+    },
+    "moves": [
+     "Weather Ball",
+     "Heat Wave",
+     "Ancient Power",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Heat Wave": 45,
+   "Weather Ball": 45,
+   "Protect": 45,
+   "Ancient Power": 27,
+   "Hurricane": 11,
+   "Solar Beam": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "grimmsnarl": {
+  "species": "Grimmsnarl",
+  "item": "Light Clay",
+  "ability": "Prankster",
+  "nature": "Careful",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Spirit Break",
+   "Parting Shot",
+   "Reflect",
+   "Light Screen"
+  ],
+  "weight": 8,
+  "count": 2,
+  "teamIds": [
+   "MC543",
+   "MC438"
+  ],
+  "n": 23,
+  "teamCount": 7,
+  "variants": [
+   {
+    "species": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "nature": "Careful",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Spirit Break",
+     "Parting Shot",
+     "Reflect",
+     "Light Screen"
+    ],
+    "weight": 8,
+    "count": 2,
+    "teamIds": [
+     "MC543",
+     "MC438"
+    ]
+   },
+   {
+    "species": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "nature": "Careful",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Spirit Break",
+     "Reflect",
+     "Light Screen",
+     "Parting Shot"
+    ],
+    "weight": 7,
+    "count": 2,
+    "teamIds": [
+     "MC555",
+     "MC242"
+    ]
+   },
+   {
+    "species": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "nature": "Impish",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Spirit Break",
+     "Reflect",
+     "Light Screen",
+     "Parting Shot"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC538"
+    ]
+   },
+   {
+    "species": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 20,
+     "spa": 0,
+     "spd": 14,
+     "spe": 0
+    },
+    "moves": [
+     "Parting Shot",
+     "Spirit Break",
+     "Reflect",
+     "Light Screen"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC115"
+    ]
+   },
+   {
+    "species": "Grimmsnarl",
+    "item": "Light Clay",
+    "ability": "Prankster",
+    "nature": "Impish",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 20,
+     "spa": 0,
+     "spd": 14,
+     "spe": 1
+    },
+    "moves": [
+     "Reflect",
+     "Spirit Break",
+     "Light Screen",
+     "Parting Shot"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC524"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Spirit Break": 23,
+   "Reflect": 23,
+   "Light Screen": 23,
+   "Parting Shot": 23
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "archaludon": {
+  "species": "Archaludon",
+  "item": "Leftovers",
+  "ability": "Stamina",
+  "nature": "Bold",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 1,
+   "spa": 1,
+   "spd": 32,
+   "spe": 0
+  },
+  "moves": [
+   "Dragon Pulse",
+   "Flash Cannon",
+   "Electro Shot",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 2,
+  "teamIds": [
+   "MC407",
+   "MC250"
+  ],
+  "n": 56,
+  "teamCount": 18,
+  "variants": [
+   {
+    "species": "Archaludon",
+    "item": "Leftovers",
+    "ability": "Stamina",
+    "nature": "Bold",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 1,
+     "spa": 1,
+     "spd": 32,
+     "spe": 0
+    },
+    "moves": [
+     "Dragon Pulse",
+     "Flash Cannon",
+     "Electro Shot",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 2,
+    "teamIds": [
+     "MC407",
+     "MC250"
+    ]
+   },
+   {
+    "species": "Archaludon",
+    "item": "Leftovers",
+    "ability": "Stamina",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flash Cannon",
+     "Dragon Pulse",
+     "Electro Shot",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC555"
+    ]
+   },
+   {
+    "species": "Archaludon",
+    "item": "Leftovers",
+    "ability": "Stamina",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 1,
+     "spa": 5,
+     "spd": 25,
+     "spe": 3
+    },
+    "moves": [
+     "Flash Cannon",
+     "Dragon Pulse",
+     "Electro Shot",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC442"
+    ]
+   },
+   {
+    "species": "Archaludon",
+    "item": "Leftovers",
+    "ability": "Stamina",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 1,
+     "spa": 1,
+     "spd": 32,
+     "spe": 0
+    },
+    "moves": [
+     "Dragon Pulse",
+     "Flash Cannon",
+     "Electro Shot",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC279"
+    ]
+   },
+   {
+    "species": "Archaludon",
+    "item": "Leftovers",
+    "ability": "Stamina",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Electro Shot",
+     "Dragon Pulse",
+     "Aura Sphere",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC540"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 56,
+   "Electro Shot": 54,
+   "Dragon Pulse": 51,
+   "Flash Cannon": 41,
+   "Snarl": 10,
+   "Aura Sphere": 7,
+   "Draco Meteor": 3,
+   "Thunderbolt": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "torkoal": {
+  "species": "Torkoal",
+  "item": "Charcoal",
+  "ability": "Drought",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Eruption",
+   "Earth Power",
+   "Heat Wave",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 1,
+  "teamIds": [
+   "MC360"
+  ],
+  "n": 19,
+  "teamCount": 4,
+  "variants": [
+   {
+    "species": "Torkoal",
+    "item": "Charcoal",
+    "ability": "Drought",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 2,
+     "spa": 32,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Eruption",
+     "Earth Power",
+     "Heat Wave",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 1,
+    "teamIds": [
+     "MC360"
+    ]
+   },
+   {
+    "species": "Torkoal",
+    "item": "Charcoal",
+    "ability": "Drought",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Eruption",
+     "Heat Wave",
+     "Earth Power",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC305"
+    ]
+   },
+   {
+    "species": "Torkoal",
+    "item": "Charcoal",
+    "ability": "Drought",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Eruption",
+     "Heat Wave",
+     "Earth Power",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC554"
+    ]
+   },
+   {
+    "species": "Torkoal",
+    "item": "Charcoal",
+    "ability": "Drought",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Eruption",
+     "Earth Power",
+     "Weather Ball",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC541"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Eruption": 19,
+   "Earth Power": 19,
+   "Protect": 19,
+   "Heat Wave": 16,
+   "Weather Ball": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "incineroar": {
+  "species": "Incineroar",
+  "item": "Sitrus Berry",
+  "ability": "Intimidate",
+  "nature": "Impish",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Fake Out",
+   "Parting Shot",
+   "Flare Blitz",
+   "Throat Chop"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC535",
+   "MC458"
+  ],
+  "n": 121,
+  "teamCount": 39,
+  "variants": [
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "nature": "Impish",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Fake Out",
+     "Parting Shot",
+     "Flare Blitz",
+     "Throat Chop"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "nature": "Careful",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flare Blitz",
+     "Will-O-Wisp",
+     "Fake Out",
+     "Parting Shot"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC543"
+    ]
+   },
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "nature": "Impish",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flare Blitz",
+     "Fake Out",
+     "Taunt",
+     "Parting Shot"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC542"
+    ]
+   },
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "nature": "Impish",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 21,
+     "spa": 0,
+     "spd": 8,
+     "spe": 5
+    },
+    "moves": [
+     "Flare Blitz",
+     "Throat Chop",
+     "Parting Shot",
+     "Fake Out"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC460"
+    ]
+   },
+   {
+    "species": "Incineroar",
+    "item": "Sitrus Berry",
+    "ability": "Intimidate",
+    "nature": "Sassy",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 4,
+     "spa": 0,
+     "spd": 30,
+     "spe": 0
+    },
+    "moves": [
+     "Flare Blitz",
+     "Fake Out",
+     "Parting Shot",
+     "Helping Hand"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC443"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Fake Out": 121,
+   "Parting Shot": 117,
+   "Flare Blitz": 107,
+   "Throat Chop": 48,
+   "Darkest Lariat": 26,
+   "Protect": 24,
+   "Snarl": 13,
+   "Helping Hand": 11
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "farigiraf": {
+  "species": "Farigiraf",
+  "item": "Sitrus Berry",
+  "ability": "Armor Tail",
+  "nature": "Bold",
+  "evs": {
+   "hp": 25,
+   "atk": 0,
+   "def": 20,
+   "spa": 0,
+   "spd": 16,
+   "spe": 5
+  },
+  "moves": [
+   "Expanding Force",
+   "Trick Room",
+   "Thunderbolt",
+   "Imprison"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC527"
+  ],
+  "n": 36,
+  "teamCount": 12,
+  "variants": [
+   {
+    "species": "Farigiraf",
+    "item": "Sitrus Berry",
+    "ability": "Armor Tail",
+    "nature": "Bold",
+    "evs": {
+     "hp": 25,
+     "atk": 0,
+     "def": 20,
+     "spa": 0,
+     "spd": 16,
+     "spe": 5
+    },
+    "moves": [
+     "Expanding Force",
+     "Trick Room",
+     "Thunderbolt",
+     "Imprison"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC527"
+    ]
+   },
+   {
+    "species": "Farigiraf",
+    "item": "Grassy Seed",
+    "ability": "Armor Tail",
+    "nature": "Calm",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 11,
+     "spa": 1,
+     "spd": 23,
+     "spe": 0
+    },
+    "moves": [
+     "Psychic",
+     "Trick Room",
+     "Helping Hand",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC251"
+    ]
+   },
+   {
+    "species": "Farigiraf",
+    "item": "Sitrus Berry",
+    "ability": "Armor Tail",
+    "nature": "Sassy",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Psychic",
+     "Helping Hand",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC554"
+    ]
+   },
+   {
+    "species": "Farigiraf",
+    "item": "Sitrus Berry",
+    "ability": "Armor Tail",
+    "nature": "Sassy",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Psychic",
+     "Trick Room",
+     "Helping Hand",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC541"
+    ]
+   },
+   {
+    "species": "Farigiraf",
+    "item": "Sitrus Berry",
+    "ability": "Armor Tail",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Twin Beam",
+     "Trick Room",
+     "Shadow Ball",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC347"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Trick Room": 36,
+   "Protect": 31,
+   "Thunderbolt": 17,
+   "Psychic": 16,
+   "Helping Hand": 16,
+   "Twin Beam": 11,
+   "Expanding Force": 9,
+   "Imprison": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "sylveon": {
+  "species": "Sylveon",
+  "item": "Fairy Feather",
+  "ability": "Pixilate",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Hyper Voice",
+   "Hyper Beam",
+   "Yawn",
+   "Detect"
+  ],
+  "weight": 6,
+  "count": 2,
+  "teamIds": [
+   "MC554",
+   "MC541"
+  ],
+  "n": 30,
+  "teamCount": 11,
+  "variants": [
+   {
+    "species": "Sylveon",
+    "item": "Fairy Feather",
+    "ability": "Pixilate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Hyper Voice",
+     "Hyper Beam",
+     "Yawn",
+     "Detect"
+    ],
+    "weight": 6,
+    "count": 2,
+    "teamIds": [
+     "MC554",
+     "MC541"
+    ]
+   },
+   {
+    "species": "Sylveon",
+    "item": "Fairy Feather",
+    "ability": "Pixilate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Detect",
+     "Yawn",
+     "Hyper Voice",
+     "Quick Attack"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Sylveon",
+    "item": "Fairy Feather",
+    "ability": "Pixilate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 29,
+     "atk": 0,
+     "def": 1,
+     "spa": 30,
+     "spd": 0,
+     "spe": 6
+    },
+    "moves": [
+     "Hyper Voice",
+     "Hyper Beam",
+     "Quick Attack",
+     "Detect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC188"
+    ]
+   },
+   {
+    "species": "Sylveon",
+    "item": "Fairy Feather",
+    "ability": "Pixilate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 21,
+     "atk": 0,
+     "def": 2,
+     "spa": 20,
+     "spd": 0,
+     "spe": 23
+    },
+    "moves": [
+     "Hyper Voice",
+     "Hyper Beam",
+     "Quick Attack",
+     "Detect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC403"
+    ]
+   },
+   {
+    "species": "Sylveon",
+    "item": "Fairy Feather",
+    "ability": "Pixilate",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Detect",
+     "Hyper Voice",
+     "Hyper Beam",
+     "Quick Attack"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC247"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Hyper Voice": 30,
+   "Detect": 26,
+   "Hyper Beam": 25,
+   "Quick Attack": 24,
+   "Yawn": 11,
+   "Protect": 4
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "garchomp": {
+  "species": "Garchomp",
+  "item": "Garchompite Z",
+  "ability": "Rough Skin",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Draco Meteor",
+   "Flamethrower",
+   "Power Gem",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 3,
+  "teamIds": [
+   "MC554",
+   "MC547",
+   "MC541"
+  ],
+  "n": 55,
+  "teamCount": 19,
+  "variants": [
+   {
+    "species": "Garchomp",
+    "item": "Garchompite Z",
+    "ability": "Rough Skin",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Draco Meteor",
+     "Flamethrower",
+     "Power Gem",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 3,
+    "teamIds": [
+     "MC554",
+     "MC547",
+     "MC541"
+    ]
+   },
+   {
+    "species": "Garchomp",
+    "item": "Choice Scarf",
+    "ability": "Rough Skin",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Dragon Claw",
+     "Earthquake",
+     "Stomping Tantrum",
+     "Rock Slide"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Garchomp",
+    "item": "Choice Scarf",
+    "ability": "Rough Skin",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Dragon Claw",
+     "Stomping Tantrum",
+     "Earthquake",
+     "Rock Slide"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC543"
+    ]
+   },
+   {
+    "species": "Garchomp",
+    "item": "Garchompite",
+    "ability": "Rough Skin",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 9,
+     "atk": 20,
+     "def": 0,
+     "spa": 0,
+     "spd": 22,
+     "spe": 15
+    },
+    "moves": [
+     "Stomping Tantrum",
+     "Scale Shot",
+     "Protect",
+     "Rock Slide"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC443"
+    ]
+   },
+   {
+    "species": "Garchomp",
+    "item": "Garchompite Z",
+    "ability": "Rough Skin",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 31
+    },
+    "moves": [
+     "Dragon Pulse",
+     "Power Gem",
+     "Protect",
+     "Flamethrower"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC251"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 41,
+   "Power Gem": 26,
+   "Stomping Tantrum": 26,
+   "Dragon Claw": 22,
+   "Earthquake": 22,
+   "Rock Slide": 17,
+   "Draco Meteor": 16,
+   "Flamethrower": 15
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "dragonite": {
+  "species": "Dragonite",
+  "item": "Dragoninite",
+  "ability": "Inner Focus",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Dragon Pulse",
+   "Heat Wave",
+   "Tailwind",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 2,
+  "teamIds": [
+   "MC542",
+   "MC456"
+  ],
+  "n": 23,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Dragonite",
+    "item": "Dragoninite",
+    "ability": "Inner Focus",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Dragon Pulse",
+     "Heat Wave",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 2,
+    "teamIds": [
+     "MC542",
+     "MC456"
+    ]
+   },
+   {
+    "species": "Dragonite",
+    "item": "Dragoninite",
+    "ability": "Inner Focus",
+    "nature": "Modest",
+    "evs": {
+     "hp": 9,
+     "atk": 0,
+     "def": 0,
+     "spa": 25,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Dragon Pulse",
+     "Heat Wave",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC460"
+    ]
+   },
+   {
+    "species": "Dragonite",
+    "item": "Dragoninite",
+    "ability": "Inner Focus",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Tailwind",
+     "Dragon Pulse",
+     "Heat Wave",
+     "Extreme Speed"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC305"
+    ]
+   },
+   {
+    "species": "Dragonite",
+    "item": "Dragoninite",
+    "ability": "Multiscale",
+    "nature": "Modest",
+    "evs": {
+     "hp": 7,
+     "atk": 0,
+     "def": 0,
+     "spa": 25,
+     "spd": 2,
+     "spe": 32
+    },
+    "moves": [
+     "Protect",
+     "Dragon Pulse",
+     "Heat Wave",
+     "Tailwind"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC553"
+    ]
+   },
+   {
+    "species": "Dragonite",
+    "item": "Life Orb",
+    "ability": "Inner Focus",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 7,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 27
+    },
+    "moves": [
+     "Scale Shot",
+     "Stomping Tantrum",
+     "Rock Slide",
+     "Dragon Dance"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC397"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Dragon Pulse": 21,
+   "Heat Wave": 21,
+   "Tailwind": 21,
+   "Protect": 16,
+   "Extreme Speed": 5,
+   "Scale Shot": 2,
+   "Stomping Tantrum": 2,
+   "Rock Slide": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "delphox": {
+  "species": "Delphox",
+  "item": "Delphoxite",
+  "ability": "Blaze",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Heat Wave",
+   "Psychic",
+   "Nasty Plot",
+   "Protect"
+  ],
+  "weight": 9,
+  "count": 4,
+  "teamIds": [
+   "MC549",
+   "MC454",
+   "MC436",
+   "MC402"
+  ],
+  "n": 19,
+  "teamCount": 7,
+  "variants": [
+   {
+    "species": "Delphox",
+    "item": "Delphoxite",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Heat Wave",
+     "Psychic",
+     "Nasty Plot",
+     "Protect"
+    ],
+    "weight": 9,
+    "count": 4,
+    "teamIds": [
+     "MC549",
+     "MC454",
+     "MC436",
+     "MC402"
+    ]
+   },
+   {
+    "species": "Delphox",
+    "item": "Delphoxite",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Heat Wave",
+     "Psyshock",
+     "Nasty Plot"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC351"
+    ]
+   },
+   {
+    "species": "Delphox",
+    "item": "Delphoxite",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 15,
+     "atk": 0,
+     "def": 11,
+     "spa": 8,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Protect",
+     "Psyshock",
+     "Heat Wave",
+     "Nasty Plot"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC553"
+    ]
+   },
+   {
+    "species": "Delphox",
+    "item": "Delphoxite",
+    "ability": "Blaze",
+    "nature": "Timid",
+    "evs": {
+     "hp": 9,
+     "atk": 0,
+     "def": 14,
+     "spa": 11,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Heat Wave",
+     "Psychic",
+     "Nasty Plot",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC398"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 19,
+   "Heat Wave": 19,
+   "Nasty Plot": 19,
+   "Psychic": 11,
+   "Psyshock": 8
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "raichu": {
+  "species": "Raichu",
+  "item": "Raichunite Y",
+  "ability": "Lightning Rod",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Zap Cannon",
+   "Focus Blast",
+   "Fake Out",
+   "Protect"
+  ],
+  "weight": 6,
+  "count": 3,
+  "teamIds": [
+   "MC454",
+   "MC346",
+   "MC342"
+  ],
+  "n": 41,
+  "teamCount": 17,
+  "variants": [
+   {
+    "species": "Raichu",
+    "item": "Raichunite Y",
+    "ability": "Lightning Rod",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Zap Cannon",
+     "Focus Blast",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 6,
+    "count": 3,
+    "teamIds": [
+     "MC454",
+     "MC346",
+     "MC342"
+    ]
+   },
+   {
+    "species": "Raichu",
+    "item": "Raichunite Y",
+    "ability": "Lightning Rod",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Zap Cannon",
+     "Focus Blast",
+     "Protect",
+     "Fake Out"
+    ],
+    "weight": 6,
+    "count": 2,
+    "teamIds": [
+     "MC539",
+     "MC350"
+    ]
+   },
+   {
+    "species": "Raichu",
+    "item": "Raichunite Y",
+    "ability": "Lightning Rod",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Zap Cannon",
+     "Focus Blast",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC537",
+     "MC404"
+    ]
+   },
+   {
+    "species": "Raichu",
+    "item": "Raichunite Y",
+    "ability": "Lightning Rod",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Zap Cannon",
+     "Focus Blast",
+     "Encore"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC552"
+    ]
+   },
+   {
+    "species": "Raichu",
+    "item": "Raichunite Y",
+    "ability": "Lightning Rod",
+    "nature": "Timid",
+    "evs": {
+     "hp": 29,
+     "atk": 0,
+     "def": 5,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Zap Cannon",
+     "Focus Blast",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC405"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 41,
+   "Zap Cannon": 41,
+   "Focus Blast": 39,
+   "Fake Out": 30,
+   "Encore": 13
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "volcarona": {
+  "species": "Volcarona",
+  "item": "Rocky Helmet",
+  "ability": "Flame Body",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Overheat",
+   "Struggle Bug",
+   "Rage Powder",
+   "Tailwind"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC543"
+  ],
+  "n": 25,
+  "teamCount": 9,
+  "variants": [
+   {
+    "species": "Volcarona",
+    "item": "Rocky Helmet",
+    "ability": "Flame Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Overheat",
+     "Struggle Bug",
+     "Rage Powder",
+     "Tailwind"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC543"
+    ]
+   },
+   {
+    "species": "Volcarona",
+    "item": "Grassy Seed",
+    "ability": "Flame Body",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Heat Wave",
+     "Giga Drain",
+     "Quiver Dance",
+     "Protect"
+    ],
+    "weight": 4,
+    "count": 2,
+    "teamIds": [
+     "MC537",
+     "MC346"
+    ]
+   },
+   {
+    "species": "Volcarona",
+    "item": "Sitrus Berry",
+    "ability": "Flame Body",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Struggle Bug",
+     "Overheat",
+     "Rage Powder"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC552"
+    ]
+   },
+   {
+    "species": "Volcarona",
+    "item": "Grassy Seed",
+    "ability": "Flame Body",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Heat Wave",
+     "Giga Drain",
+     "Quiver Dance"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC551"
+    ]
+   },
+   {
+    "species": "Volcarona",
+    "item": "Grassy Seed",
+    "ability": "Flame Body",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Heat Wave",
+     "Giga Drain",
+     "Quiver Dance"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC457"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 20,
+   "Quiver Dance": 14,
+   "Giga Drain": 12,
+   "Overheat": 11,
+   "Rage Powder": 11,
+   "Heat Wave": 10,
+   "Struggle Bug": 8,
+   "Tailwind": 8
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "arcaninehisui": {
+  "species": "Arcanine-Hisui",
+  "item": "Focus Sash",
+  "ability": "Rock Head",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Flare Blitz",
+   "Head Smash",
+   "Extreme Speed",
+   "Protect"
+  ],
+  "weight": 17,
+  "count": 5,
+  "teamIds": [
+   "MC539",
+   "MC406",
+   "MC404",
+   "MC350",
+   "MC249"
+  ],
+  "n": 41,
+  "teamCount": 13,
+  "variants": [
+   {
+    "species": "Arcanine-Hisui",
+    "item": "Focus Sash",
+    "ability": "Rock Head",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flare Blitz",
+     "Head Smash",
+     "Extreme Speed",
+     "Protect"
+    ],
+    "weight": 17,
+    "count": 5,
+    "teamIds": [
+     "MC539",
+     "MC406",
+     "MC404",
+     "MC350",
+     "MC249"
+    ]
+   },
+   {
+    "species": "Arcanine-Hisui",
+    "item": "Focus Sash",
+    "ability": "Rock Head",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flare Blitz",
+     "Head Smash",
+     "Extreme Speed",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Arcanine-Hisui",
+    "item": "Focus Sash",
+    "ability": "Rock Head",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Flare Blitz",
+     "Head Smash",
+     "Extreme Speed",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC219"
+    ]
+   },
+   {
+    "species": "Arcanine-Hisui",
+    "item": "Focus Sash",
+    "ability": "Rock Head",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Flare Blitz",
+     "Head Smash",
+     "Extreme Speed"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC552"
+    ]
+   },
+   {
+    "species": "Arcanine-Hisui",
+    "item": "Focus Sash",
+    "ability": "Rock Head",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 32,
+     "def": 1,
+     "spa": 0,
+     "spd": 1,
+     "spe": 32
+    },
+    "moves": [
+     "Head Smash",
+     "Flare Blitz",
+     "Extreme Speed",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC403"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 41,
+   "Flare Blitz": 41,
+   "Head Smash": 41,
+   "Extreme Speed": 39,
+   "Rock Slide": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "gholdengo": {
+  "species": "Gholdengo",
+  "item": "Life Orb",
+  "ability": "Good as Gold",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Make It Rain",
+   "Shadow Ball",
+   "Nasty Plot",
+   "Protect"
+  ],
+  "weight": 11,
+  "count": 3,
+  "teamIds": [
+   "MC542",
+   "MC539",
+   "MC456"
+  ],
+  "n": 55,
+  "teamCount": 16,
+  "variants": [
+   {
+    "species": "Gholdengo",
+    "item": "Life Orb",
+    "ability": "Good as Gold",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Make It Rain",
+     "Shadow Ball",
+     "Nasty Plot",
+     "Protect"
+    ],
+    "weight": 11,
+    "count": 3,
+    "teamIds": [
+     "MC542",
+     "MC539",
+     "MC456"
+    ]
+   },
+   {
+    "species": "Gholdengo",
+    "item": "Life Orb",
+    "ability": "Good as Gold",
+    "nature": "Modest",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 6,
+     "spa": 18,
+     "spd": 1,
+     "spe": 10
+    },
+    "moves": [
+     "Make It Rain",
+     "Shadow Ball",
+     "Power Gem",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 1,
+    "teamIds": [
+     "MC360"
+    ]
+   },
+   {
+    "species": "Gholdengo",
+    "item": "Life Orb",
+    "ability": "Good as Gold",
+    "nature": "Modest",
+    "evs": {
+     "hp": 14,
+     "atk": 0,
+     "def": 0,
+     "spa": 7,
+     "spd": 31,
+     "spe": 14
+    },
+    "moves": [
+     "Make It Rain",
+     "Shadow Ball",
+     "Nasty Plot",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC460"
+    ]
+   },
+   {
+    "species": "Gholdengo",
+    "item": "Life Orb",
+    "ability": "Good as Gold",
+    "nature": "Timid",
+    "evs": {
+     "hp": 7,
+     "atk": 0,
+     "def": 0,
+     "spa": 27,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Make It Rain",
+     "Shadow Ball",
+     "Nasty Plot",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC306"
+    ]
+   },
+   {
+    "species": "Gholdengo",
+    "item": "Life Orb",
+    "ability": "Good as Gold",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Make It Rain",
+     "Shadow Ball",
+     "Nasty Plot"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC551"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 55,
+   "Make It Rain": 55,
+   "Shadow Ball": 55,
+   "Nasty Plot": 47,
+   "Power Gem": 8
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "armarouge": {
+  "species": "Armarouge",
+  "item": "Leftovers",
+  "ability": "Flash Fire",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 11,
+   "spa": 20,
+   "spd": 3,
+   "spe": 0
+  },
+  "moves": [
+   "Psychic",
+   "Heat Wave",
+   "Calm Mind",
+   "Trick Room"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC305"
+  ],
+  "n": 31,
+  "teamCount": 10,
+  "variants": [
+   {
+    "species": "Armarouge",
+    "item": "Leftovers",
+    "ability": "Flash Fire",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 11,
+     "spa": 20,
+     "spd": 3,
+     "spe": 0
+    },
+    "moves": [
+     "Psychic",
+     "Heat Wave",
+     "Calm Mind",
+     "Trick Room"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC305"
+    ]
+   },
+   {
+    "species": "Armarouge",
+    "item": "Life Orb",
+    "ability": "Flash Fire",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 29,
+     "atk": 0,
+     "def": 5,
+     "spa": 32,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Armor Cannon",
+     "Expanding Force",
+     "Heat Wave",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC188"
+    ]
+   },
+   {
+    "species": "Armarouge",
+    "item": "Life Orb",
+    "ability": "Flash Fire",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 29,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 5,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Heat Wave",
+     "Wide Guard",
+     "Trick Room"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC54"
+    ]
+   },
+   {
+    "species": "Armarouge",
+    "item": "Focus Sash",
+    "ability": "Weak Armor",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Armor Cannon",
+     "Expanding Force",
+     "Wide Guard",
+     "Sunny Day"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC440"
+    ]
+   },
+   {
+    "species": "Armarouge",
+    "item": "Twisted Spoon",
+    "ability": "Flash Fire",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Armor Cannon",
+     "Expanding Force",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC248"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Expanding Force": 26,
+   "Armor Cannon": 21,
+   "Protect": 18,
+   "Wide Guard": 16,
+   "Trick Room": 15,
+   "Heat Wave": 15,
+   "Psychic": 5,
+   "Calm Mind": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "gardevoir": {
+  "species": "Gardevoir",
+  "item": "Gardevoirite",
+  "ability": "Trace",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Hyper Voice",
+   "Expanding Force",
+   "Trick Room",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC252"
+  ],
+  "n": 16,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Gardevoir",
+    "item": "Gardevoirite",
+    "ability": "Trace",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Hyper Voice",
+     "Expanding Force",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Gardevoir",
+    "item": "Gardevoirite",
+    "ability": "Trace",
+    "nature": "Modest",
+    "evs": {
+     "hp": 29,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 5
+    },
+    "moves": [
+     "Protect",
+     "Expanding Force",
+     "Hyper Voice",
+     "Trick Room"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC69"
+    ]
+   },
+   {
+    "species": "Gardevoir",
+    "item": "Gardevoirite",
+    "ability": "Trace",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Shadow Ball",
+     "Hyper Voice",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC550"
+    ]
+   },
+   {
+    "species": "Gardevoir",
+    "item": "Gardevoirite",
+    "ability": "Trace",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 0,
+     "spa": 26,
+     "spd": 3,
+     "spe": 5
+    },
+    "moves": [
+     "Expanding Force",
+     "Hyper Voice",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC397"
+    ]
+   },
+   {
+    "species": "Gardevoir",
+    "item": "Gardevoirite",
+    "ability": "Trace",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Hyper Voice",
+     "Expanding Force",
+     "Thunderbolt",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC344"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Expanding Force": 16,
+   "Hyper Voice": 16,
+   "Protect": 16,
+   "Trick Room": 8,
+   "Thunderbolt": 4,
+   "Shadow Ball": 2,
+   "Calm Mind": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "indeedeef": {
+  "species": "Indeedee-F",
+  "item": "Colbur Berry",
+  "ability": "Psychic Surge",
+  "nature": "Sassy",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 32,
+   "spa": 0,
+   "spd": 2,
+   "spe": 0
+  },
+  "moves": [
+   "Dazzling Gleam",
+   "Follow Me",
+   "Helping Hand",
+   "Trick Room"
+  ],
+  "weight": 8,
+  "count": 1,
+  "teamIds": [
+   "MC360"
+  ],
+  "n": 61,
+  "teamCount": 18,
+  "variants": [
+   {
+    "species": "Indeedee-F",
+    "item": "Colbur Berry",
+    "ability": "Psychic Surge",
+    "nature": "Sassy",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 32,
+     "spa": 0,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Dazzling Gleam",
+     "Follow Me",
+     "Helping Hand",
+     "Trick Room"
+    ],
+    "weight": 8,
+    "count": 1,
+    "teamIds": [
+     "MC360"
+    ]
+   },
+   {
+    "species": "Indeedee-F",
+    "item": "Rocky Helmet",
+    "ability": "Psychic Surge",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Psychic",
+     "Helping Hand",
+     "Skill Swap",
+     "Follow Me"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC351"
+    ]
+   },
+   {
+    "species": "Indeedee-F",
+    "item": "Rocky Helmet",
+    "ability": "Psychic Surge",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Follow Me",
+     "Helping Hand",
+     "Trick Room",
+     "Psychic"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Indeedee-F",
+    "item": "Rocky Helmet",
+    "ability": "Psychic Surge",
+    "nature": "Bold",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 32,
+     "spa": 0,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Follow Me",
+     "Psychic",
+     "Helping Hand",
+     "Trick Room"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC210"
+    ]
+   },
+   {
+    "species": "Indeedee-F",
+    "item": "Colbur Berry",
+    "ability": "Psychic Surge",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 32,
+     "spa": 0,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Follow Me",
+     "Terrain Pulse",
+     "Helping Hand",
+     "Trick Room"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC188"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Follow Me": 61,
+   "Helping Hand": 56,
+   "Trick Room": 45,
+   "Psychic": 36,
+   "Protect": 11,
+   "Terrain Pulse": 10,
+   "Dazzling Gleam": 8,
+   "Psyshock": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "kommoo": {
+  "species": "Kommo-o",
+  "item": "Leftovers",
+  "ability": "Soundproof",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Clanging Scales",
+   "Aura Sphere",
+   "Clangorous Soul",
+   "Protect"
+  ],
+  "weight": 9,
+  "count": 3,
+  "teamIds": [
+   "MC536",
+   "MC454",
+   "MC352"
+  ],
+  "n": 26,
+  "teamCount": 8,
+  "variants": [
+   {
+    "species": "Kommo-o",
+    "item": "Leftovers",
+    "ability": "Soundproof",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Clanging Scales",
+     "Aura Sphere",
+     "Clangorous Soul",
+     "Protect"
+    ],
+    "weight": 9,
+    "count": 3,
+    "teamIds": [
+     "MC536",
+     "MC454",
+     "MC352"
+    ]
+   },
+   {
+    "species": "Kommo-o",
+    "item": "Leftovers",
+    "ability": "Soundproof",
+    "nature": "Modest",
+    "evs": {
+     "hp": 11,
+     "atk": 0,
+     "def": 1,
+     "spa": 20,
+     "spd": 2,
+     "spe": 32
+    },
+    "moves": [
+     "Clanging Scales",
+     "Aura Sphere",
+     "Clangorous Soul",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   },
+   {
+    "species": "Kommo-o",
+    "item": "Life Orb",
+    "ability": "Soundproof",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flamethrower",
+     "Clanging Scales",
+     "Aura Sphere",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Kommo-o",
+    "item": "Leftovers",
+    "ability": "Soundproof",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Clanging Scales",
+     "Clangorous Soul",
+     "Aura Sphere",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC459"
+    ]
+   },
+   {
+    "species": "Kommo-o",
+    "item": "Life Orb",
+    "ability": "Bulletproof",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Clanging Scales",
+     "Aura Sphere",
+     "Flamethrower",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC550"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Clanging Scales": 26,
+   "Aura Sphere": 26,
+   "Protect": 26,
+   "Clangorous Soul": 19,
+   "Flamethrower": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "talonflame": {
+  "species": "Talonflame",
+  "item": "Sharp Beak",
+  "ability": "Gale Wings",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 7,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 27
+  },
+  "moves": [
+   "Feint",
+   "Tailwind",
+   "Brave Bird",
+   "Flare Blitz"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC68"
+  ],
+  "n": 5,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Talonflame",
+    "item": "Sharp Beak",
+    "ability": "Gale Wings",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 7,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 27
+    },
+    "moves": [
+     "Feint",
+     "Tailwind",
+     "Brave Bird",
+     "Flare Blitz"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC68"
+    ]
+   },
+   {
+    "species": "Talonflame",
+    "item": "Expert Belt",
+    "ability": "Gale Wings",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Brave Bird",
+     "Protect",
+     "Flare Blitz",
+     "Tailwind"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC550"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Brave Bird": 5,
+   "Flare Blitz": 5,
+   "Tailwind": 5,
+   "Feint": 3,
+   "Protect": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "sinistcha": {
+  "species": "Sinistcha",
+  "item": "Coba Berry",
+  "ability": "Hospitality",
+  "nature": "Bold",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Protect",
+   "Matcha Gotcha",
+   "Rage Powder",
+   "Life Dew"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC351"
+  ],
+  "n": 23,
+  "teamCount": 8,
+  "variants": [
+   {
+    "species": "Sinistcha",
+    "item": "Coba Berry",
+    "ability": "Hospitality",
+    "nature": "Bold",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Matcha Gotcha",
+     "Rage Powder",
+     "Life Dew"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC351"
+    ]
+   },
+   {
+    "species": "Sinistcha",
+    "item": "Colbur Berry",
+    "ability": "Hospitality",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 4,
+     "spa": 1,
+     "spd": 30,
+     "spe": 0
+    },
+    "moves": [
+     "Matcha Gotcha",
+     "Rage Powder",
+     "Life Dew",
+     "Trick Room"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC54"
+    ]
+   },
+   {
+    "species": "Sinistcha",
+    "item": "Sitrus Berry",
+    "ability": "Hospitality",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 4,
+     "spa": 0,
+     "spd": 30,
+     "spe": 0
+    },
+    "moves": [
+     "Matcha Gotcha",
+     "Rage Powder",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC115"
+    ]
+   },
+   {
+    "species": "Sinistcha",
+    "item": "Colbur Berry",
+    "ability": "Hospitality",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Matcha Gotcha",
+     "Rage Powder",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC549"
+    ]
+   },
+   {
+    "species": "Sinistcha",
+    "item": "Eject Button",
+    "ability": "Hospitality",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Night Shade",
+     "Rage Powder",
+     "Strength Sap",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC525"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Rage Powder": 23,
+   "Matcha Gotcha": 21,
+   "Trick Room": 16,
+   "Protect": 16,
+   "Life Dew": 10,
+   "Night Shade": 2,
+   "Strength Sap": 2,
+   "Shadow Ball": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "aerodactyl": {
+  "species": "Aerodactyl",
+  "item": "Aerodactylite",
+  "ability": "Unnerve",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Rock Slide",
+   "Ice Fang",
+   "Dual Wingbeat",
+   "Tailwind"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC247"
+  ],
+  "n": 7,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Aerodactyl",
+    "item": "Aerodactylite",
+    "ability": "Unnerve",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Rock Slide",
+     "Ice Fang",
+     "Dual Wingbeat",
+     "Tailwind"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC247"
+    ]
+   },
+   {
+    "species": "Aerodactyl",
+    "item": "Aerodactylite",
+    "ability": "Unnerve",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Rock Slide",
+     "Dual Wingbeat",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC548"
+    ]
+   },
+   {
+    "species": "Aerodactyl",
+    "item": "Aerodactylite",
+    "ability": "Unnerve",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Rock Slide",
+     "Dual Wingbeat",
+     "Tailwind",
+     "Wide Guard"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC399"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Rock Slide": 7,
+   "Dual Wingbeat": 7,
+   "Tailwind": 7,
+   "Ice Fang": 3,
+   "Protect": 2,
+   "Wide Guard": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "whimsicott": {
+  "species": "Whimsicott",
+  "item": "Focus Sash",
+  "ability": "Prankster",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Moonblast",
+   "Tailwind",
+   "Encore",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC547",
+   "MC348"
+  ],
+  "n": 19,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Whimsicott",
+    "item": "Focus Sash",
+    "ability": "Prankster",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Tailwind",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC547",
+     "MC348"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Occa Berry",
+    "ability": "Prankster",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Tailwind",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC252"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Focus Sash",
+    "ability": "Prankster",
+    "nature": "Timid",
+    "evs": {
+     "hp": 1,
+     "atk": 0,
+     "def": 1,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Moonblast",
+     "Tailwind",
+     "Misty Terrain",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC331"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Focus Sash",
+    "ability": "Prankster",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Tailwind",
+     "Charm",
+     "Light Screen"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC248"
+    ]
+   },
+   {
+    "species": "Whimsicott",
+    "item": "Focus Sash",
+    "ability": "Prankster",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Moonblast",
+     "Encore",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC238"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Moonblast": 19,
+   "Tailwind": 19,
+   "Protect": 16,
+   "Encore": 13,
+   "Misty Terrain": 3,
+   "Charm": 3,
+   "Light Screen": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "staraptor": {
+  "species": "Staraptor",
+  "item": "Staraptite",
+  "ability": "Intimidate",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Brave Bird",
+   "Close Combat",
+   "Tailwind",
+   "Protect"
+  ],
+  "weight": 4,
+  "count": 2,
+  "teamIds": [
+   "MC346",
+   "MC342"
+  ],
+  "n": 25,
+  "teamCount": 10,
+  "variants": [
+   {
+    "species": "Staraptor",
+    "item": "Staraptite",
+    "ability": "Intimidate",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Brave Bird",
+     "Close Combat",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 4,
+    "count": 2,
+    "teamIds": [
+     "MC346",
+     "MC342"
+    ]
+   },
+   {
+    "species": "Staraptor",
+    "item": "Staraptite",
+    "ability": "Intimidate",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Brave Bird",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC539"
+    ]
+   },
+   {
+    "species": "Staraptor",
+    "item": "Staraptite",
+    "ability": "Intimidate",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Dual Wingbeat",
+     "Roost",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC538"
+    ]
+   },
+   {
+    "species": "Staraptor",
+    "item": "Staraptite",
+    "ability": "Intimidate",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 2,
+     "spe": 32
+    },
+    "moves": [
+     "Brave Bird",
+     "Close Combat",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC405"
+    ]
+   },
+   {
+    "species": "Staraptor",
+    "item": "Staraptite",
+    "ability": "Intimidate",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 25,
+     "atk": 9,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Brave Bird",
+     "Close Combat",
+     "Tailwind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC403"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 25,
+   "Close Combat": 25,
+   "Brave Bird": 22,
+   "Tailwind": 15,
+   "Roost": 10,
+   "Dual Wingbeat": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "primarina": {
+  "species": "Primarina",
+  "item": "Grassy Seed",
+  "ability": "Liquid Voice",
+  "nature": "Modest",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 14,
+   "spa": 5,
+   "spd": 0,
+   "spe": 15
+  },
+  "moves": [
+   "Hyper Voice",
+   "Moonblast",
+   "Calm Mind",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC329"
+  ],
+  "n": 10,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Primarina",
+    "item": "Grassy Seed",
+    "ability": "Liquid Voice",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 14,
+     "spa": 5,
+     "spd": 0,
+     "spe": 15
+    },
+    "moves": [
+     "Hyper Voice",
+     "Moonblast",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC329"
+    ]
+   },
+   {
+    "species": "Primarina",
+    "item": "Leftovers",
+    "ability": "Liquid Voice",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Moonblast",
+     "Hyper Voice",
+     "Calm Mind",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC539"
+    ]
+   },
+   {
+    "species": "Primarina",
+    "item": "Leftovers",
+    "ability": "Liquid Voice",
+    "nature": "Modest",
+    "evs": {
+     "hp": 21,
+     "atk": 0,
+     "def": 18,
+     "spa": 4,
+     "spd": 0,
+     "spe": 23
+    },
+    "moves": [
+     "Protect",
+     "Hyper Voice",
+     "Moonblast",
+     "Calm Mind"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC546"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 10,
+   "Hyper Voice": 10,
+   "Moonblast": 10,
+   "Calm Mind": 10
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "milotic": {
+  "species": "Milotic",
+  "item": "Psychic Seed",
+  "ability": "Competitive",
+  "nature": "Calm",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Muddy Water",
+   "Coil",
+   "Hypnosis",
+   "Recover"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC401",
+   "MC248"
+  ],
+  "n": 36,
+  "teamCount": 11,
+  "variants": [
+   {
+    "species": "Milotic",
+    "item": "Psychic Seed",
+    "ability": "Competitive",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Muddy Water",
+     "Coil",
+     "Hypnosis",
+     "Recover"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC401",
+     "MC248"
+    ]
+   },
+   {
+    "species": "Milotic",
+    "item": "Leftovers",
+    "ability": "Competitive",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Muddy Water",
+     "Coil",
+     "Hypnosis",
+     "Life Dew"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC543"
+    ]
+   },
+   {
+    "species": "Milotic",
+    "item": "Leftovers",
+    "ability": "Competitive",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Scald",
+     "Ice Beam",
+     "Icy Wind",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC406"
+    ]
+   },
+   {
+    "species": "Milotic",
+    "item": "Leftovers",
+    "ability": "Competitive",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 28,
+     "spa": 0,
+     "spd": 5,
+     "spe": 1
+    },
+    "moves": [
+     "Muddy Water",
+     "Coil",
+     "Hypnosis",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC251"
+    ]
+   },
+   {
+    "species": "Milotic",
+    "item": "Sitrus Berry",
+    "ability": "Competitive",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 29,
+     "spa": 0,
+     "spd": 5,
+     "spe": 0
+    },
+    "moves": [
+     "Muddy Water",
+     "Coil",
+     "Ice Beam",
+     "Hypnosis"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC405"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Coil": 25,
+   "Hypnosis": 25,
+   "Muddy Water": 22,
+   "Protect": 21,
+   "Ice Beam": 14,
+   "Scald": 11,
+   "Icy Wind": 8,
+   "Recover": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "golisopod": {
+  "species": "Golisopod",
+  "item": "Golisopite",
+  "ability": "Emergency Exit",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 32,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 1,
+   "spe": 1
+  },
+  "moves": [
+   "Leech Life",
+   "Sucker Punch",
+   "Protect",
+   "Swords Dance"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC251"
+  ],
+  "n": 33,
+  "teamCount": 12,
+  "variants": [
+   {
+    "species": "Golisopod",
+    "item": "Golisopite",
+    "ability": "Emergency Exit",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 1,
+     "spe": 1
+    },
+    "moves": [
+     "Leech Life",
+     "Sucker Punch",
+     "Protect",
+     "Swords Dance"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC251"
+    ]
+   },
+   {
+    "species": "Golisopod",
+    "item": "Golisopite",
+    "ability": "Emergency Exit",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Leech Life",
+     "Iron Head",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC540"
+    ]
+   },
+   {
+    "species": "Golisopod",
+    "item": "Golisopite",
+    "ability": "Emergency Exit",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Iron Head",
+     "Leech Life",
+     "Liquidation",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC347"
+    ]
+   },
+   {
+    "species": "Golisopod",
+    "item": "Golisopite",
+    "ability": "Emergency Exit",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 30,
+     "def": 0,
+     "spa": 0,
+     "spd": 4,
+     "spe": 0
+    },
+    "moves": [
+     "Leech Life",
+     "Iron Head",
+     "Sucker Punch",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC238"
+    ]
+   },
+   {
+    "species": "Golisopod",
+    "item": "Golisopite",
+    "ability": "Emergency Exit",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "First Impression",
+     "Leech Life",
+     "Liquidation",
+     "Iron Head"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC195"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Leech Life": 33,
+   "Iron Head": 26,
+   "Protect": 26,
+   "Sucker Punch": 17,
+   "Swords Dance": 14,
+   "Liquidation": 8,
+   "First Impression": 3,
+   "Close Combat": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "basculegionf": {
+  "species": "Basculegion-F",
+  "item": "Focus Sash",
+  "ability": "Swift Swim",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Muddy Water",
+   "Shadow Ball",
+   "Ice Beam",
+   "Protect"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC540"
+  ],
+  "n": 5,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Basculegion-F",
+    "item": "Focus Sash",
+    "ability": "Swift Swim",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Muddy Water",
+     "Shadow Ball",
+     "Ice Beam",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC540"
+    ]
+   },
+   {
+    "species": "Basculegion-F",
+    "item": "Life Orb",
+    "ability": "Swift Swim",
+    "nature": "Modest",
+    "evs": {
+     "hp": 4,
+     "atk": 0,
+     "def": 13,
+     "spa": 30,
+     "spd": 0,
+     "spe": 19
+    },
+    "moves": [
+     "Shadow Ball",
+     "Muddy Water",
+     "Protect",
+     "Ice Beam"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC524"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Muddy Water": 5,
+   "Shadow Ball": 5,
+   "Ice Beam": 5,
+   "Protect": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "gengar": {
+  "species": "Gengar",
+  "item": "Gengarite",
+  "ability": "Cursed Body",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Shadow Ball",
+   "Sludge Bomb",
+   "Perish Song",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC536",
+   "MC459"
+  ],
+  "n": 34,
+  "teamCount": 12,
+  "variants": [
+   {
+    "species": "Gengar",
+    "item": "Gengarite",
+    "ability": "Cursed Body",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Shadow Ball",
+     "Sludge Bomb",
+     "Perish Song",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC536",
+     "MC459"
+    ]
+   },
+   {
+    "species": "Gengar",
+    "item": "Gengarite",
+    "ability": "Cursed Body",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 6,
+     "spa": 0,
+     "spd": 8,
+     "spe": 20
+    },
+    "moves": [
+     "Shadow Ball",
+     "Perish Song",
+     "Sludge Bomb",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC343",
+     "MC250"
+    ]
+   },
+   {
+    "species": "Gengar",
+    "item": "Gengarite",
+    "ability": "Cursed Body",
+    "nature": "Modest",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 14,
+     "spe": 20
+    },
+    "moves": [
+     "Shadow Ball",
+     "Sludge Bomb",
+     "Perish Song",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC407"
+    ]
+   },
+   {
+    "species": "Gengar",
+    "item": "Gengarite",
+    "ability": "Shadow Tag",
+    "nature": "Modest",
+    "evs": {
+     "hp": 30,
+     "atk": 0,
+     "def": 8,
+     "spa": 5,
+     "spd": 16,
+     "spe": 7
+    },
+    "moves": [
+     "Shadow Ball",
+     "Sludge Bomb",
+     "Perish Song",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC279"
+    ]
+   },
+   {
+    "species": "Gengar",
+    "item": "Gengarite",
+    "ability": "Cursed Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Sludge Bomb",
+     "Substitute",
+     "Shadow Ball"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC441"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Shadow Ball": 34,
+   "Protect": 34,
+   "Sludge Bomb": 32,
+   "Perish Song": 24,
+   "Substitute": 5,
+   "Icy Wind": 3,
+   "Disable": 2,
+   "Focus Blast": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "ninetalesalola": {
+  "species": "Ninetales-Alola",
+  "item": "Choice Scarf",
+  "ability": "Snow Warning",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Blizzard",
+   "Encore",
+   "Freeze-Dry",
+   "Hypnosis"
+  ],
+  "weight": 2,
+  "count": 1,
+  "teamIds": [
+   "MC536"
+  ],
+  "n": 4,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Ninetales-Alola",
+    "item": "Choice Scarf",
+    "ability": "Snow Warning",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Blizzard",
+     "Encore",
+     "Freeze-Dry",
+     "Hypnosis"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC536"
+    ]
+   },
+   {
+    "species": "Ninetales-Alola",
+    "item": "Choice Scarf",
+    "ability": "Snow Warning",
+    "nature": "Modest",
+    "evs": {
+     "hp": 1,
+     "atk": 0,
+     "def": 1,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Blizzard",
+     "Encore",
+     "Icy Wind",
+     "Freeze-Dry"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC343"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Blizzard": 4,
+   "Encore": 4,
+   "Freeze-Dry": 4,
+   "Hypnosis": 2,
+   "Icy Wind": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "toxapex": {
+  "species": "Toxapex",
+  "item": "Leftovers",
+  "ability": "Regenerator",
+  "nature": "Relaxed",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Baneful Bunker",
+   "Wide Guard",
+   "Toxic",
+   "Infestation"
+  ],
+  "weight": 5,
+  "count": 2,
+  "teamIds": [
+   "MC535",
+   "MC458"
+  ],
+  "n": 7,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Toxapex",
+    "item": "Leftovers",
+    "ability": "Regenerator",
+    "nature": "Relaxed",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Baneful Bunker",
+     "Wide Guard",
+     "Toxic",
+     "Infestation"
+    ],
+    "weight": 5,
+    "count": 2,
+    "teamIds": [
+     "MC535",
+     "MC458"
+    ]
+   },
+   {
+    "species": "Toxapex",
+    "item": "Leftovers",
+    "ability": "Regenerator",
+    "nature": "Bold",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 18,
+     "spa": 0,
+     "spd": 16,
+     "spe": 0
+    },
+    "moves": [
+     "Baneful Bunker",
+     "Toxic",
+     "Infestation",
+     "Wide Guard"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC67"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Baneful Bunker": 7,
+   "Wide Guard": 7,
+   "Toxic": 7,
+   "Infestation": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "pawmot": {
+  "species": "Pawmot",
+  "item": "Focus Sash",
+  "ability": "Iron Fist",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Fake Out",
+   "Double Shock",
+   "Close Combat",
+   "Revival Blessing"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC195"
+  ],
+  "n": 10,
+  "teamCount": 4,
+  "variants": [
+   {
+    "species": "Pawmot",
+    "item": "Focus Sash",
+    "ability": "Iron Fist",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Fake Out",
+     "Double Shock",
+     "Close Combat",
+     "Revival Blessing"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC195"
+    ]
+   },
+   {
+    "species": "Pawmot",
+    "item": "Focus Sash",
+    "ability": "Iron Fist",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Double Shock",
+     "Close Combat",
+     "Revival Blessing",
+     "Fake Out"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC68"
+    ]
+   },
+   {
+    "species": "Pawmot",
+    "item": "Focus Sash",
+    "ability": "Iron Fist",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Double Shock",
+     "Close Combat",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC534"
+    ]
+   },
+   {
+    "species": "Pawmot",
+    "item": "Shuca Berry",
+    "ability": "Volt Absorb",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Fake Out",
+     "Close Combat",
+     "Revival Blessing",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC525"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Close Combat": 10,
+   "Double Shock": 8,
+   "Fake Out": 8,
+   "Revival Blessing": 8,
+   "Protect": 4,
+   "Encore": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "annihilape": {
+  "species": "Annihilape",
+  "item": "Choice Scarf",
+  "ability": "Defiant",
+  "nature": "",
+  "evs": {
+   "hp": 0,
+   "atk": 32,
+   "def": 2,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Shadow Claw",
+   "Close Combat",
+   "Ice Punch",
+   "Phantom Force"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC527"
+  ],
+  "n": 17,
+  "teamCount": 5,
+  "variants": [
+   {
+    "species": "Annihilape",
+    "item": "Choice Scarf",
+    "ability": "Defiant",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 32,
+     "def": 2,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Shadow Claw",
+     "Close Combat",
+     "Ice Punch",
+     "Phantom Force"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC527"
+    ]
+   },
+   {
+    "species": "Annihilape",
+    "item": "Choice Scarf",
+    "ability": "Defiant",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Shadow Claw",
+     "Close Combat",
+     "Seed Bomb",
+     "Ice Punch"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC305"
+    ]
+   },
+   {
+    "species": "Annihilape",
+    "item": "Choice Scarf",
+    "ability": "Defiant",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Ice Punch",
+     "Phantom Force",
+     "Shadow Claw"
+    ],
+    "weight": 4,
+    "count": 2,
+    "teamIds": [
+     "MC344",
+     "MC243"
+    ]
+   },
+   {
+    "species": "Annihilape",
+    "item": "Choice Scarf",
+    "ability": "Defiant",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Close Combat",
+     "Shadow Claw",
+     "Rock Tomb",
+     "U-turn"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC349"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Shadow Claw": 17,
+   "Close Combat": 17,
+   "Ice Punch": 14,
+   "Phantom Force": 9,
+   "Seed Bomb": 5,
+   "Rock Tomb": 3,
+   "U-turn": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "lucario": {
+  "species": "Lucario",
+  "item": "Lucarionite Z",
+  "ability": "Inner Focus",
+  "nature": "Timid",
+  "evs": {
+   "hp": 18,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 16
+  },
+  "moves": [
+   "Aura Sphere",
+   "Flash Cannon",
+   "Dark Pulse",
+   "Detect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC188"
+  ],
+  "n": 10,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Lucario",
+    "item": "Lucarionite Z",
+    "ability": "Inner Focus",
+    "nature": "Timid",
+    "evs": {
+     "hp": 18,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 16
+    },
+    "moves": [
+     "Aura Sphere",
+     "Flash Cannon",
+     "Dark Pulse",
+     "Detect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC188"
+    ]
+   },
+   {
+    "species": "Lucario",
+    "item": "Lucarionite Z",
+    "ability": "Inner Focus",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 7,
+     "spa": 27,
+     "spd": 0,
+     "spe": 30
+    },
+    "moves": [
+     "Focus Blast",
+     "Flash Cannon",
+     "Terrain Pulse",
+     "Detect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC526"
+    ]
+   },
+   {
+    "species": "Lucario",
+    "item": "Lucarionite Z",
+    "ability": "Inner Focus",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Flash Cannon",
+     "Aura Sphere",
+     "Dark Pulse",
+     "Detect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC344"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Flash Cannon": 10,
+   "Detect": 10,
+   "Aura Sphere": 7,
+   "Dark Pulse": 7,
+   "Focus Blast": 3,
+   "Terrain Pulse": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "ceruledge": {
+  "species": "Ceruledge",
+  "item": "Psychic Seed",
+  "ability": "Flash Fire",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 31,
+   "atk": 5,
+   "def": 15,
+   "spa": 0,
+   "spd": 14,
+   "spe": 1
+  },
+  "moves": [
+   "Bulk Up",
+   "Bitter Blade",
+   "Shadow Claw",
+   "Protect"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC526"
+  ],
+  "n": 10,
+  "teamCount": 4,
+  "variants": [
+   {
+    "species": "Ceruledge",
+    "item": "Psychic Seed",
+    "ability": "Flash Fire",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 31,
+     "atk": 5,
+     "def": 15,
+     "spa": 0,
+     "spd": 14,
+     "spe": 1
+    },
+    "moves": [
+     "Bulk Up",
+     "Bitter Blade",
+     "Shadow Claw",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC526"
+    ]
+   },
+   {
+    "species": "Ceruledge",
+    "item": "Grassy Seed",
+    "ability": "Flash Fire",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 31,
+     "atk": 7,
+     "def": 24,
+     "spa": 0,
+     "spd": 3,
+     "spe": 1
+    },
+    "moves": [
+     "Bitter Blade",
+     "Shadow Sneak",
+     "Swords Dance",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC405"
+    ]
+   },
+   {
+    "species": "Ceruledge",
+    "item": "Focus Sash",
+    "ability": "Flash Fire",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 2,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Poltergeist",
+     "Bitter Blade",
+     "Close Combat",
+     "Swords Dance"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC397"
+    ]
+   },
+   {
+    "species": "Ceruledge",
+    "item": "Colbur Berry",
+    "ability": "Flash Fire",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 32,
+     "atk": 5,
+     "def": 22,
+     "spa": 0,
+     "spd": 0,
+     "spe": 7
+    },
+    "moves": [
+     "Bitter Blade",
+     "Shadow Sneak",
+     "Bulk Up",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC246"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Bitter Blade": 10,
+   "Protect": 8,
+   "Bulk Up": 5,
+   "Shadow Sneak": 5,
+   "Swords Dance": 5,
+   "Shadow Claw": 3,
+   "Poltergeist": 2,
+   "Close Combat": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "vivillon": {
+  "species": "Vivillon",
+  "item": "Focus Sash",
+  "ability": "Compound Eyes",
+  "nature": "Timid",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Hurricane",
+   "Sleep Powder",
+   "Rage Powder",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC407"
+  ],
+  "n": 10,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Vivillon",
+    "item": "Focus Sash",
+    "ability": "Compound Eyes",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 2,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Hurricane",
+     "Sleep Powder",
+     "Rage Powder",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC407"
+    ]
+   },
+   {
+    "species": "Vivillon",
+    "item": "Focus Sash",
+    "ability": "Compound Eyes",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Sleep Powder",
+     "Rage Powder",
+     "Hurricane",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC459"
+    ]
+   },
+   {
+    "species": "Vivillon",
+    "item": "Focus Sash",
+    "ability": "Compound Eyes",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Sleep Powder",
+     "Rage Powder",
+     "Pollen Puff",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC525"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Sleep Powder": 10,
+   "Rage Powder": 10,
+   "Protect": 10,
+   "Hurricane": 8,
+   "Pollen Puff": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "meowsticf": {
+  "species": "Meowstic-F",
+  "item": "Meowsticite",
+  "ability": "Competitive",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 1,
+   "spa": 29,
+   "spd": 2,
+   "spe": 32
+  },
+  "moves": [
+   "Expanding Force",
+   "Thunderbolt",
+   "Fake Out",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 1,
+  "teamIds": [
+   "MC360"
+  ],
+  "n": 18,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Meowstic-F",
+    "item": "Meowsticite",
+    "ability": "Competitive",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 1,
+     "spa": 29,
+     "spd": 2,
+     "spe": 32
+    },
+    "moves": [
+     "Expanding Force",
+     "Thunderbolt",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 1,
+    "teamIds": [
+     "MC360"
+    ]
+   },
+   {
+    "species": "Meowstic-F",
+    "item": "Meowsticite",
+    "ability": "Competitive",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Expanding Force",
+     "Thunderbolt",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   },
+   {
+    "species": "Meowstic-F",
+    "item": "Meowsticite",
+    "ability": "Competitive",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Thunderbolt",
+     "Fake Out",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC352"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Expanding Force": 18,
+   "Thunderbolt": 18,
+   "Fake Out": 18,
+   "Protect": 18
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "indeedee": {
+  "species": "Indeedee",
+  "item": "Focus Sash",
+  "ability": "Psychic Surge",
+  "nature": "Timid",
+  "evs": {
+   "hp": 2,
+   "atk": 0,
+   "def": 0,
+   "spa": 32,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Expanding Force",
+   "Energy Ball",
+   "Trick Room",
+   "Imprison"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC461"
+  ],
+  "n": 22,
+  "teamCount": 6,
+  "variants": [
+   {
+    "species": "Indeedee",
+    "item": "Focus Sash",
+    "ability": "Psychic Surge",
+    "nature": "Timid",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Expanding Force",
+     "Energy Ball",
+     "Trick Room",
+     "Imprison"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC461"
+    ]
+   },
+   {
+    "species": "Indeedee",
+    "item": "Choice Scarf",
+    "ability": "Psychic Surge",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Trick",
+     "Trick Room",
+     "Imprison"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC406"
+    ]
+   },
+   {
+    "species": "Indeedee",
+    "item": "Focus Sash",
+    "ability": "Psychic Surge",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Energy Ball",
+     "Trick Room",
+     "Imprison"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC352"
+    ]
+   },
+   {
+    "species": "Indeedee",
+    "item": "Choice Scarf",
+    "ability": "Psychic Surge",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Trick",
+     "Mystical Fire",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC249"
+    ]
+   },
+   {
+    "species": "Indeedee",
+    "item": "Choice Scarf",
+    "ability": "Psychic Surge",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Mystical Fire",
+     "Trick",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC452"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Expanding Force": 22,
+   "Trick Room": 15,
+   "Imprison": 15,
+   "Trick": 12,
+   "Energy Ball": 10,
+   "Mystical Fire": 7,
+   "Protect": 5,
+   "Terrain Pulse": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "politoed": {
+  "species": "Politoed",
+  "item": "Sitrus Berry",
+  "ability": "Drizzle",
+  "nature": "Calm",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 22,
+   "spa": 0,
+   "spd": 10,
+   "spe": 2
+  },
+  "moves": [
+   "Weather Ball",
+   "Encore",
+   "Perish Song",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC407"
+  ],
+  "n": 16,
+  "teamCount": 5,
+  "variants": [
+   {
+    "species": "Politoed",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 22,
+     "spa": 0,
+     "spd": 10,
+     "spe": 2
+    },
+    "moves": [
+     "Weather Ball",
+     "Encore",
+     "Perish Song",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC407"
+    ]
+   },
+   {
+    "species": "Politoed",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Calm",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Weather Ball",
+     "Perish Song",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC459"
+    ]
+   },
+   {
+    "species": "Politoed",
+    "item": "Choice Scarf",
+    "ability": "Drizzle",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Weather Ball",
+     "Muddy Water",
+     "Ice Beam",
+     "Icy Wind"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC440"
+    ]
+   },
+   {
+    "species": "Politoed",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Calm",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 24,
+     "spa": 0,
+     "spd": 7,
+     "spe": 3
+    },
+    "moves": [
+     "Weather Ball",
+     "Perish Song",
+     "Encore",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC250"
+    ]
+   },
+   {
+    "species": "Politoed",
+    "item": "Sitrus Berry",
+    "ability": "Drizzle",
+    "nature": "Calm",
+    "evs": {
+     "hp": 31,
+     "atk": 0,
+     "def": 23,
+     "spa": 0,
+     "spd": 12,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Weather Ball",
+     "Perish Song",
+     "Encore"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC400"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Weather Ball": 16,
+   "Perish Song": 13,
+   "Encore": 13,
+   "Protect": 13,
+   "Muddy Water": 3,
+   "Ice Beam": 3,
+   "Icy Wind": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "glimmora": {
+  "species": "Glimmora",
+  "item": "Glimmoranite",
+  "ability": "Toxic Debris",
+  "nature": "",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Spiky Shield",
+   "Sludge Bomb",
+   "Power Gem",
+   "Earth Power"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC457"
+  ],
+  "n": 9,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Glimmora",
+    "item": "Glimmoranite",
+    "ability": "Toxic Debris",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Spiky Shield",
+     "Sludge Bomb",
+     "Power Gem",
+     "Earth Power"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC457"
+    ]
+   },
+   {
+    "species": "Glimmora",
+    "item": "Glimmoranite",
+    "ability": "Toxic Debris",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Power Gem",
+     "Sludge Bomb",
+     "Earth Power",
+     "Spiky Shield"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC238"
+    ]
+   },
+   {
+    "species": "Glimmora",
+    "item": "Glimmoranite",
+    "ability": "Toxic Debris",
+    "nature": "Timid",
+    "evs": {
+     "hp": 9,
+     "atk": 0,
+     "def": 0,
+     "spa": 25,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Spiky Shield",
+     "Power Gem",
+     "Sludge Bomb",
+     "Earth Power"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC68"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Spiky Shield": 9,
+   "Sludge Bomb": 9,
+   "Power Gem": 9,
+   "Earth Power": 9
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "froslass": {
+  "species": "Froslass",
+  "item": "Froslassite",
+  "ability": "Cursed Body",
+  "nature": "Timid",
+  "evs": {
+   "hp": 22,
+   "atk": 0,
+   "def": 10,
+   "spa": 8,
+   "spd": 0,
+   "spe": 26
+  },
+  "moves": [
+   "Blizzard",
+   "Shadow Ball",
+   "Aurora Veil",
+   "Protect"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC329"
+  ],
+  "n": 17,
+  "teamCount": 5,
+  "variants": [
+   {
+    "species": "Froslass",
+    "item": "Froslassite",
+    "ability": "Cursed Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 22,
+     "atk": 0,
+     "def": 10,
+     "spa": 8,
+     "spd": 0,
+     "spe": 26
+    },
+    "moves": [
+     "Blizzard",
+     "Shadow Ball",
+     "Aurora Veil",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC329"
+    ]
+   },
+   {
+    "species": "Froslass",
+    "item": "Froslassite",
+    "ability": "Cursed Body",
+    "nature": "",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Blizzard",
+     "Shadow Ball",
+     "Aurora Veil"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC457"
+    ]
+   },
+   {
+    "species": "Froslass",
+    "item": "Froslassite",
+    "ability": "Cursed Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Blizzard",
+     "Shadow Ball",
+     "Aurora Veil",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC404"
+    ]
+   },
+   {
+    "species": "Froslass",
+    "item": "Froslassite",
+    "ability": "Cursed Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 19,
+     "spa": 0,
+     "spd": 0,
+     "spe": 15
+    },
+    "moves": [
+     "Blizzard",
+     "Aurora Veil",
+     "Rain Dance",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC250"
+    ]
+   },
+   {
+    "species": "Froslass",
+    "item": "Froslassite",
+    "ability": "Cursed Body",
+    "nature": "Timid",
+    "evs": {
+     "hp": 14,
+     "atk": 0,
+     "def": 0,
+     "spa": 20,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Blizzard",
+     "Aurora Veil",
+     "Shadow Ball",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC68"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 17,
+   "Blizzard": 17,
+   "Aurora Veil": 17,
+   "Shadow Ball": 14,
+   "Rain Dance": 3
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "tyranitar": {
+  "species": "Tyranitar",
+  "item": "Tyranitarite",
+  "ability": "Sand Stream",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Rock Slide",
+   "Knock Off",
+   "Low Kick",
+   "Protect"
+  ],
+  "weight": 4,
+  "count": 2,
+  "teamIds": [
+   "MC452",
+   "MC435"
+  ],
+  "n": 7,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Tyranitar",
+    "item": "Tyranitarite",
+    "ability": "Sand Stream",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Rock Slide",
+     "Knock Off",
+     "Low Kick",
+     "Protect"
+    ],
+    "weight": 4,
+    "count": 2,
+    "teamIds": [
+     "MC452",
+     "MC435"
+    ]
+   },
+   {
+    "species": "Tyranitar",
+    "item": "Tyranitarite",
+    "ability": "Sand Stream",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 17,
+     "atk": 17,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Knock Off",
+     "Rock Slide",
+     "Low Kick",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC207"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Rock Slide": 7,
+   "Knock Off": 7,
+   "Low Kick": 7,
+   "Protect": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "excadrill": {
+  "species": "Excadrill",
+  "item": "Focus Sash",
+  "ability": "Sand Rush",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 0,
+   "atk": 32,
+   "def": 2,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "High Horsepower",
+   "Iron Head",
+   "Rock Slide",
+   "Protect"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC207"
+  ],
+  "n": 7,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Excadrill",
+    "item": "Focus Sash",
+    "ability": "Sand Rush",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 32,
+     "def": 2,
+     "spa": 0,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "High Horsepower",
+     "Iron Head",
+     "Rock Slide",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC207"
+    ]
+   },
+   {
+    "species": "Excadrill",
+    "item": "Focus Sash",
+    "ability": "Sand Rush",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Iron Head",
+     "High Horsepower",
+     "Rock Slide",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC452"
+    ]
+   },
+   {
+    "species": "Excadrill",
+    "item": "Focus Sash",
+    "ability": "Sand Rush",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Iron Head",
+     "High Horsepower",
+     "Rock Slide",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC435"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Iron Head": 7,
+   "High Horsepower": 7,
+   "Rock Slide": 7,
+   "Protect": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "corviknight": {
+  "species": "Corviknight",
+  "item": "Occa Berry",
+  "ability": "Mirror Armor",
+  "nature": "Impish",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Brave Bird",
+   "Taunt",
+   "Tailwind",
+   "Roost"
+  ],
+  "weight": 2,
+  "count": 1,
+  "teamIds": [
+   "MC452"
+  ],
+  "n": 4,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Corviknight",
+    "item": "Occa Berry",
+    "ability": "Mirror Armor",
+    "nature": "Impish",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Brave Bird",
+     "Taunt",
+     "Tailwind",
+     "Roost"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC452"
+    ]
+   },
+   {
+    "species": "Corviknight",
+    "item": "Psychic Seed",
+    "ability": "Mirror Armor",
+    "nature": "Careful",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Brave Bird",
+     "Power Trip",
+     "Bulk Up",
+     "Roost"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC435"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Brave Bird": 4,
+   "Roost": 4,
+   "Taunt": 2,
+   "Tailwind": 2,
+   "Power Trip": 2,
+   "Bulk Up": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "metagross": {
+  "species": "Metagross",
+  "item": "Metagrossite",
+  "ability": "Clear Body",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Steel Roller",
+   "Psychic Fangs",
+   "Body Press",
+   "Protect"
+  ],
+  "weight": 8,
+  "count": 2,
+  "teamIds": [
+   "MC406",
+   "MC249"
+  ],
+  "n": 12,
+  "teamCount": 4,
+  "variants": [
+   {
+    "species": "Metagross",
+    "item": "Metagrossite",
+    "ability": "Clear Body",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Steel Roller",
+     "Psychic Fangs",
+     "Body Press",
+     "Protect"
+    ],
+    "weight": 8,
+    "count": 2,
+    "teamIds": [
+     "MC406",
+     "MC249"
+    ]
+   },
+   {
+    "species": "Metagross",
+    "item": "Metagrossite",
+    "ability": "Clear Body",
+    "nature": "Jolly",
+    "evs": {
+     "hp": 12,
+     "atk": 15,
+     "def": 11,
+     "spa": 0,
+     "spd": 0,
+     "spe": 28
+    },
+    "moves": [
+     "Psychic Fangs",
+     "Body Press",
+     "Psych Up",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC396"
+    ]
+   },
+   {
+    "species": "Metagross",
+    "item": "Metagrossite",
+    "ability": "Clear Body",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 24,
+     "atk": 15,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 27
+    },
+    "moves": [
+     "Iron Head",
+     "Psychic Fangs",
+     "Stomping Tantrum",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC245"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Psychic Fangs": 12,
+   "Protect": 12,
+   "Body Press": 10,
+   "Steel Roller": 8,
+   "Psych Up": 2,
+   "Iron Head": 2,
+   "Stomping Tantrum": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "dragapult": {
+  "species": "Dragapult",
+  "item": "Life Orb",
+  "ability": "Infiltrator",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Draco Meteor",
+   "Shadow Ball",
+   "Will-O-Wisp",
+   "Protect"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC248"
+  ],
+  "n": 7,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Dragapult",
+    "item": "Life Orb",
+    "ability": "Infiltrator",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Draco Meteor",
+     "Shadow Ball",
+     "Will-O-Wisp",
+     "Protect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC248"
+    ]
+   },
+   {
+    "species": "Dragapult",
+    "item": "Life Orb",
+    "ability": "Infiltrator",
+    "nature": "Timid",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Draco Meteor",
+     "Shadow Ball",
+     "Will-O-Wisp",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC401"
+    ]
+   },
+   {
+    "species": "Dragapult",
+    "item": "Life Orb",
+    "ability": "Infiltrator",
+    "nature": "Modest",
+    "evs": {
+     "hp": 2,
+     "atk": 0,
+     "def": 0,
+     "spa": 32,
+     "spd": 0,
+     "spe": 32
+    },
+    "moves": [
+     "Draco Meteor",
+     "Shadow Ball",
+     "Will-O-Wisp",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC396"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Draco Meteor": 7,
+   "Shadow Ball": 7,
+   "Will-O-Wisp": 7,
+   "Protect": 7
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "blastoise": {
+  "species": "Blastoise",
+  "item": "Blastoisinite",
+  "ability": "Rain Dish",
+  "nature": "Modest",
+  "evs": {
+   "hp": 0,
+   "atk": 0,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Protect",
+   "Water Spout",
+   "Dark Pulse",
+   "Shell Smash"
+  ],
+  "weight": 5,
+  "count": 1,
+  "teamIds": [
+   "MC351"
+  ],
+  "n": 15,
+  "teamCount": 3,
+  "variants": [
+   {
+    "species": "Blastoise",
+    "item": "Blastoisinite",
+    "ability": "Rain Dish",
+    "nature": "Modest",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Water Spout",
+     "Dark Pulse",
+     "Shell Smash"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC351"
+    ]
+   },
+   {
+    "species": "Blastoise",
+    "item": "Blastoisinite",
+    "ability": "Mega Launcher",
+    "nature": "Modest",
+    "evs": {
+     "hp": 22,
+     "atk": 0,
+     "def": 0,
+     "spa": 25,
+     "spd": 0,
+     "spe": 19
+    },
+    "moves": [
+     "Protect",
+     "Water Spout",
+     "Terrain Pulse",
+     "Shell Smash"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC210"
+    ]
+   },
+   {
+    "species": "Blastoise",
+    "item": "Blastoisinite",
+    "ability": "Torrent",
+    "nature": "Modest",
+    "evs": {
+     "hp": 22,
+     "atk": 0,
+     "def": 0,
+     "spa": 25,
+     "spd": 0,
+     "spe": 19
+    },
+    "moves": [
+     "Water Spout",
+     "Terrain Pulse",
+     "Shell Smash",
+     "Protect"
+    ],
+    "weight": 5,
+    "count": 1,
+    "teamIds": [
+     "MC54"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 15,
+   "Water Spout": 15,
+   "Shell Smash": 15,
+   "Terrain Pulse": 10,
+   "Dark Pulse": 5
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "sirfetchd": {
+  "species": "Sirfetch’d",
+  "item": "Leek",
+  "ability": "Scrappy",
+  "nature": "Adamant",
+  "evs": {
+   "hp": 22,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 12
+  },
+  "moves": [
+   "Meteor Assault",
+   "Close Combat",
+   "Feint",
+   "Detect"
+  ],
+  "weight": 3,
+  "count": 1,
+  "teamIds": [
+   "MC238"
+  ],
+  "n": 5,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Sirfetch’d",
+    "item": "Leek",
+    "ability": "Scrappy",
+    "nature": "Adamant",
+    "evs": {
+     "hp": 22,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 12
+    },
+    "moves": [
+     "Meteor Assault",
+     "Close Combat",
+     "Feint",
+     "Detect"
+    ],
+    "weight": 3,
+    "count": 1,
+    "teamIds": [
+     "MC238"
+    ]
+   },
+   {
+    "species": "Sirfetch’d",
+    "item": "Expert Belt",
+    "ability": "Scrappy",
+    "nature": "Brave",
+    "evs": {
+     "hp": 32,
+     "atk": 32,
+     "def": 0,
+     "spa": 0,
+     "spd": 2,
+     "spe": 0
+    },
+    "moves": [
+     "Leaf Blade",
+     "Detect",
+     "Meteor Assault",
+     "Close Combat"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC325"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Detect": 5,
+   "Meteor Assault": 5,
+   "Close Combat": 5,
+   "Feint": 3,
+   "Leaf Blade": 2
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "hatterene": {
+  "species": "Hatterene",
+  "item": "Life Orb",
+  "ability": "Magic Bounce",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Protect",
+   "Expanding Force",
+   "Trick Room",
+   "Dazzling Gleam"
+  ],
+  "weight": 2,
+  "count": 1,
+  "teamIds": [
+   "MC325"
+  ],
+  "n": 4,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Hatterene",
+    "item": "Life Orb",
+    "ability": "Magic Bounce",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 2,
+     "spa": 32,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Expanding Force",
+     "Trick Room",
+     "Dazzling Gleam"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC325"
+    ]
+   },
+   {
+    "species": "Hatterene",
+    "item": "Life Orb",
+    "ability": "Magic Bounce",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Expanding Force",
+     "Dazzling Gleam",
+     "Trick Room",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC244"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 4,
+   "Expanding Force": 4,
+   "Trick Room": 4,
+   "Dazzling Gleam": 4
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "camerupt": {
+  "species": "Camerupt",
+  "item": "Cameruptite",
+  "ability": "Solid Rock",
+  "nature": "Quiet",
+  "evs": {
+   "hp": 32,
+   "atk": 0,
+   "def": 2,
+   "spa": 32,
+   "spd": 0,
+   "spe": 0
+  },
+  "moves": [
+   "Protect",
+   "Heat Wave",
+   "Ancient Power",
+   "Earth Power"
+  ],
+  "weight": 2,
+  "count": 1,
+  "teamIds": [
+   "MC325"
+  ],
+  "n": 4,
+  "teamCount": 2,
+  "variants": [
+   {
+    "species": "Camerupt",
+    "item": "Cameruptite",
+    "ability": "Solid Rock",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 32,
+     "atk": 0,
+     "def": 2,
+     "spa": 32,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Protect",
+     "Heat Wave",
+     "Ancient Power",
+     "Earth Power"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC325"
+    ]
+   },
+   {
+    "species": "Camerupt",
+    "item": "Cameruptite",
+    "ability": "Anger Point",
+    "nature": "Quiet",
+    "evs": {
+     "hp": 0,
+     "atk": 0,
+     "def": 0,
+     "spa": 0,
+     "spd": 0,
+     "spe": 0
+    },
+    "moves": [
+     "Ancient Power",
+     "Earth Power",
+     "Heat Wave",
+     "Protect"
+    ],
+    "weight": 2,
+    "count": 1,
+    "teamIds": [
+     "MC244"
+    ]
+   }
+  ],
+  "moveFreq": {
+   "Protect": 4,
+   "Heat Wave": 4,
+   "Ancient Power": 4,
+   "Earth Power": 4
+  },
+  "source": "VGCPastes ranked (Champions M-C; top 16, last 90 days)"
+ },
+ "lopunny": {
+  "species": "Lopunny",
+  "item": "Lopunnite",
+  "ability": "Limber",
+  "nature": "Jolly",
+  "evs": {
+   "hp": 2,
+   "atk": 32,
+   "def": 0,
+   "spa": 0,
+   "spd": 0,
+   "spe": 32
+  },
+  "moves": [
+   "Close Combat",
+   "Triple Axel",
+   "Thunder Punch",
+   "Fake Out"
+  ],
+  "n": 1,
+  "moveFreq": {},
+  "nEV": 0,
+  "source": "Limitless/VGCPastes top-40"
+ }
+}

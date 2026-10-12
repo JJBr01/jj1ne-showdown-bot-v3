@@ -1,0 +1,30 @@
+{
+  "activeTeamId": "core_grassy_balance",
+  "windowGames": 2,
+  "windowWins": 1,
+  "windowLosses": 1,
+  "totalGames": 152,
+  "totalWins": 71,
+  "history": [
+    {
+      "teamId": "core_standard",
+      "date": "2026-10-03T00:49:03.605Z",
+      "record": "23-27",
+      "result": "PIVOTED_BELOW_500",
+      "swappedTo": "core_scarf_offense"
+    },
+    {
+      "teamId": "core_scarf_offense",
+      "date": "2026-10-03T03:35:43.104Z",
+      "record": "21-29",
+      "result": "PIVOTED_BELOW_500",
+      "swappedTo": "core_grassy_balance"
+    },
+    {
+      "teamId": "core_grassy_balance",
+      "date": "2026-10-09T01:18:48.778Z",
+      "record": "26-24",
+      "result": "PASSED"
+    }
+  ]
+}

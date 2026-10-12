@@ -1,0 +1,10 @@
+node_modules/
+ps/
+battlelogs/
+reports/
+scratch/
+*.zip
+*.log
+*.backup
+.DS_Store
+scratch_*.txt

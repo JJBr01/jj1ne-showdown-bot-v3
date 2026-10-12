@@ -1,0 +1,46 @@
+{
+  "username": "JJ1NE",
+  "mode": "ladder",
+  "games": 10,
+  "pilot": "claude",
+  "claude": {
+    "endpoint": "https://draft-genius-resource.services.ai.azure.com/openai/v1/responses",
+    "deployment": "gpt-6.1-sol",
+    "deployments": {
+      "turn": "gpt-6.1-sol",
+      "preview": "gpt-6.1-sol",
+      "coach": "gpt-6.1-sol",
+      "chat": "gpt-6.1-sol"
+    },
+    "turnTimeoutMs": 15000,
+    "previewTimeoutMs": 40000,
+    "maxTokens": 400,
+    "coachMaxTokens": 4000,
+    "thinking": {
+      "turn": 0,
+      "preview": 2000,
+      "coach": 3500,
+      "note": "0 = off, a number = thinking on with that token budget, \"adaptive\" = model decides"
+    }
+  },
+  "coachEvery": 5,
+  "challengeUser": "",
+  "acceptFrom": [],
+  "delaySeconds": 10,
+  "saveReplays": true,
+  "calc": "ncp",
+  "proposalLifetimeGames": 15,
+  "pricing": {
+    "inputPerMillion": 3,
+    "outputPerMillion": 15,
+    "note": "USD per million tokens for gpt-6.1-sol on Azure Foundry (UPDATE: these are still the old Sonnet rates)"
+  },
+  "meta": {
+    "autoUpdate": true,
+    "refreshHours": 24,
+    "sheet": "Champions M-C",
+    "maxPlacement": 16,
+    "recentDays": 90,
+    "minTeams": 5
+  }
+}
